@@ -3,5 +3,5 @@ Ce répertoire rassemble différentes _propositions de traductions_ pour une loc
 
 # Statut
 - [ ] `admin`
-- [x] `catalog`: 7925adb061ba464a97a43fd8c3a3314be41bd0d4
+- [x] `catalog`
 - [ ] `install`
