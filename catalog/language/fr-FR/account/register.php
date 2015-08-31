@@ -42,6 +42,6 @@ $_['error_postcode']       = 'Attention: le code postal doit contenir entre 2 à
 $_['error_country']        = 'Veuillez sélectionner un pays !';
 $_['error_zone']           = 'Veuillez sélectionner une subdivision administrative !';
 $_['error_custom_field']   = '%s est requis !';
-$_['error_password']       = 'Le mot de passe doit comporter entre 4 et 20 caractères !';
+$_['error_password']       = 'Le mot de passe doit contenir entre 4 et 20 caractères !';
 $_['error_confirm']        = 'La confirmation de mot de passe ne correspond pas au mot de passe saisi!';
 $_['error_agree']          = 'Attention: vous devez accepter les %s';
