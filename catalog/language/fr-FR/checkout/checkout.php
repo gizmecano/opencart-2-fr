@@ -87,7 +87,7 @@ $_['error_zone']                     = 'Veuillez sélectionner une subdivision a
 $_['error_agree']                    = 'Attention: vous devez accepter les %s';
 $_['error_address']                  = 'Avertissement : vous devez sélectionner l\'adresse !';
 $_['error_shipping']                 = 'Attention: un mode de livraison est requis!';
-$_['error_no_shipping']              = 'Avertissement : aucune Option d\'Expédition n\'est disponible. Veuillez <a href="%s">  contacter l\'assistance</a>  !';
+$_['error_no_shipping']              = 'Avertissement : aucune Option d\'Expédition n\'est disponible. Veuillez <a href="%s">  contacter l\'assistance</a> !';
 $_['error_payment']                  = 'Attention: un moyen de paiement est requis!';
 $_['error_no_payment']               = 'Avertissement : aucune Option de Paiement n\'est disponible. Veuillez <a href="%s">  contacter l\'assistance</a>!';
 $_['error_custom_field']             = '%s est requis !';
