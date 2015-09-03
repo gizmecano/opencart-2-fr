@@ -43,7 +43,7 @@ $_['entry_captcha']                           = 'Entrez le code dans la case ci-
 // Tabs
 $_['tab_description']                         = 'Libellé';
 $_['tab_attribute']                           = 'Spécification';
-$_['tab_review']                              = 'évaluations (%s)';
+$_['tab_review']                              = 'Évaluations (%s)';
 
 // Error
 $_['error_name']                              = 'Attention: le nom de l\'évaluation doit être entre 3 et 25 caractères !';

@@ -15,7 +15,7 @@ $_['text_rating']       = 'Note';
 $_['text_reviews']      = 'Basé sur %s évaluation(s).';
 $_['text_summary']      = 'Résumé';
 $_['text_weight']       = 'Poids';
-$_['text_dimension']    = 'Taille (L x l x H)';
+$_['text_dimension']    = 'Taille (L × l × H)';
 $_['text_compare']      = 'Produits comparés (%s)';
 $_['text_success']      = 'Succès : vous avez ajouté <a href="%s"> %s</a> à votre <a href="%s">comparaison de produits</a> !';
 $_['text_remove']       = 'Succès : vous avez modifié votre comparaison de produit !';
