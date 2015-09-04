@@ -31,11 +31,11 @@ $_['entry_password']       = 'Mot de passe';
 $_['entry_confirm']        = 'Confirmer le mot de passe';
 
 // Error
-$_['error_exists']         = 'Attention: cette adresse électronique est déjà inscrite !';
+$_['error_exists']         = 'Attention: cette adresse électronique est déjà enregistrée !';
 $_['error_firstname']      = 'Le prénom doit contenir entre 1 à 32 caractères !';
 $_['error_lastname']       = 'Le nom de famille doit contenir entre 1 à 32 caractères !';
 $_['error_email']          = 'L\'adresse électronique ne semble pas être valide !';
-$_['error_telephone']      = 'Le téléphone doit contenir entre 3 et 32 caractères !';
+$_['error_telephone']      = 'Le numéro de téléphone doit contenir entre 3 et 32 caractères !';
 $_['error_address_1']      = 'L\'adresse doit contenir entre 3 et 128 caractères !';
 $_['error_city']           = 'Le nom de la ville doit contenir entre 2 à 128 caractères !';
 $_['error_postcode']       = 'Attention: le code postal doit contenir entre 2 à 10 caractères!';
