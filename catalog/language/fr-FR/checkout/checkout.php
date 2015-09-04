@@ -5,7 +5,7 @@ $_['heading_title']                  = 'Validation de commande';
 // Text
 $_['text_cart']                      = 'Panier d\'achat';
 $_['text_checkout_option']           = 'Étape 1: Options de la commande';
-$_['text_checkout_account']          = 'Étape 2: Compte et détails de facturation';
+$_['text_checkout_account']          = 'Étape 2: compte et détails de facturation';
 $_['text_checkout_payment_address']  = 'Étape 2: détails de facturation';
 $_['text_checkout_shipping_address'] = 'Étape 3: détails de livraison';
 $_['text_checkout_shipping_method']  = 'Étape 4: mode de livraison';
@@ -72,11 +72,11 @@ $_['entry_shipping'] 	             = 'Mon adresse de livraison et de facturation
 $_['error_warning']                  = 'Une erreur s\'est produite lors du traitement de votre Commande ! Si le problème persiste, veuillez essayez de sélectionner un autre Mode de Paiement ou  bien contactez le Responsable du Magasin en <a href="%s"> cliquant ici</a>.';
 $_['error_login']                    = 'Attention: aucune correspondance trouvée entre ce nom d\'utilisateur et/ou ce mot de passe.';
 $_['error_approved']                 = 'Attention: votre compte nécessite d\'avoir été approuvé avant que vous puissiez vous connecter.';
-$_['error_exists']                   = 'Attention: cette adresse électronique est déjà inscrite !';
+$_['error_exists']                   = 'Attention: cette adresse électronique est déjà enregistrée !';
 $_['error_firstname']                = 'Le prénom doit contenir entre 1 à 32 caractères !';
 $_['error_lastname']                 = 'Le nom de famille doit contenir entre 1 à 32 caractères !';
 $_['error_email']                    = 'Adresse de Courriel ne semble pas valide !';
-$_['error_telephone']                = 'Le téléphone doit contenir entre 3 et 32 caractères !';
+$_['error_telephone']                = 'Le numéro de téléphone doit contenir entre 3 et 32 caractères !';
 $_['error_password']                 = 'Le mot de passe doit contenir entre 4 et 20 caractères !';
 $_['error_confirm']                  = 'La confirmation de mot de passe ne correspond pas au mot de passe saisi!';
 $_['error_address_1']                = 'L\'adresse doit contenir entre 3 et 128 caractères !';
