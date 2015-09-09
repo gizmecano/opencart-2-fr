@@ -9,12 +9,12 @@ $_['text_shipping_method'] = 'Veuillez sélectionner le mode de livraison pour c
 
 // Entry
 $_['entry_country']        = 'Pays';
-$_['entry_zone']           = 'Subdivision';
+$_['entry_zone']           = 'Subdivision administrative';
 $_['entry_postcode']       = 'Code postal';
 
 // Error
 $_['error_postcode']       = 'Attention: le code postal doit contenir entre 2 à 10 caractères!';
 $_['error_country']        = 'Attention: veuillez sélectionner un pays !';
-$_['error_zone']           = 'Attention: veuillez sélectionner une subdivision !';
+$_['error_zone']           = 'Attention: veuillez sélectionner une subdivision administrative !';
 $_['error_shipping']       = 'Attention: un mode de livraison est requis!';
 $_['error_no_shipping']    = 'Attention: aucune option d\'expédition n\'est disponible. Veuillez <a href="%s">nous contacter</a> !';

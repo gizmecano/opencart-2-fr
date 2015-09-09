@@ -9,7 +9,7 @@ $_['text_checkout_account']          = 'Étape 2: compte et détails de facturat
 $_['text_checkout_payment_address']  = 'Étape 2: détails de facturation';
 $_['text_checkout_shipping_address'] = 'Étape 3: détails de livraison';
 $_['text_checkout_shipping_method']  = 'Étape 4: mode de livraison';
-$_['text_checkout_payment_method']   = 'Étape 5: mode de paiement';
+$_['text_checkout_payment_method']   = 'Étape 5: moyen de paiement';
 $_['text_checkout_confirm']          = 'Étape 6: confirmer la commande';
 $_['text_modify']                    = 'Modifier →';
 $_['text_new_customer']              = 'Nouveau client';
@@ -18,7 +18,7 @@ $_['text_checkout']                  = 'Options de validation de commande :';
 $_['text_i_am_returning_customer']   = 'Je suis déjà client';
 $_['text_register']                  = 'Inscription';
 $_['text_guest']                     = 'Commander sans enregistrement';
-$_['text_register_account']          = 'En créant un compte que vous pouvez faire vos achats plus rapidement, être à jour sur l\'état de la commande et garder trace de que vos précédents achats.';
+$_['text_register_account']          = 'En créant un compte que vous pouvez faire vos achats plus rapidement, être à jour sur le statut de la commande et garder trace de que vos précédents achats.';
 $_['text_forgotten']                 = 'Mot de passe oublié';
 $_['text_your_details']              = 'Vos informations personnelles';
 $_['text_your_address']              = 'Votre adresse';
@@ -64,7 +64,7 @@ $_['entry_address_2']                = 'Adresse 2';
 $_['entry_postcode']                 = 'Code postal';
 $_['entry_city']                     = 'Ville';
 $_['entry_country']                  = 'Pays';
-$_['entry_zone']                     = 'Subdivision';
+$_['entry_zone']                     = 'Subdivision administrative';
 $_['entry_newsletter']               = 'Je souhaite m\'abonner à la lettre d\'informations de %s.';
 $_['entry_shipping'] 	             = 'Mon adresse de livraison et de facturation sont identiques.';
 
@@ -87,7 +87,7 @@ $_['error_zone']                     = 'Veuillez sélectionner une subdivision a
 $_['error_agree']                    = 'Attention: vous devez accepter les %s';
 $_['error_address']                  = 'Avertissement : vous devez sélectionner l\'adresse !';
 $_['error_shipping']                 = 'Attention: un mode de livraison est requis!';
-$_['error_no_shipping']              = 'Avertissement : aucune Option d\'Expédition n\'est disponible. Veuillez <a href="%s">  contacter l\'assistance</a> !';
+$_['error_no_shipping']              = 'Avertissement : aucune option d\'Expédition n\'est disponible. Veuillez <a href="%s">  contacter l\'assistance</a> !';
 $_['error_payment']                  = 'Attention: un moyen de paiement est requis!';
-$_['error_no_payment']               = 'Avertissement : aucune Option de Paiement n\'est disponible. Veuillez <a href="%s">  contacter l\'assistance</a>!';
+$_['error_no_payment']               = 'Avertissement : aucune option de Paiement n\'est disponible. Veuillez <a href="%s">  contacter l\'assistance</a>!';
 $_['error_custom_field']             = '%s est requis !';
