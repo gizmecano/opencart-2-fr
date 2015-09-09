@@ -22,7 +22,7 @@ $_['entry_address_2']   = 'Adresse 2';
 $_['entry_postcode']    = 'Code postal';
 $_['entry_city']        = 'Ville';
 $_['entry_country']     = 'Pays';
-$_['entry_zone']        = 'Subdivision';
+$_['entry_zone']        = 'Subdivision administrative';
 
 // Error
 $_['error_exists']      = 'Attention: cette adresse électronique est déjà enregistrée!';

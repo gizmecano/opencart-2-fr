@@ -1,9 +1,9 @@
 <?php
 // Heading
-$_['heading_title'] = 'Votre compte d\affilié a été correctement créé!';
+$_['heading_title'] = 'Votre compte d\'affilié a été correctement créé!';
 
 // Text
-$_['text_message']  = '<p>Congratulations! Your new account has been successfully created!</p> <p>You can now take advantage of member privileges to enhance your online shopping experience with us.</p> <p>If you have ANY questions about the operation of this online shop, please e-mail the store owner.</p> <p>A confirmation has been sent to the provided e-mail address. If you have not received it within the hour, please <a href="%s">nous contacter</a>.</p>';
-$_['text_approval'] = '<p>Thank you for registering for an affiliate account with %s!</p><p>You will be notified by e-mail once your account has been activated by the store owner.</p><p>If you have ANY questions about the operation of this affiliate system, please <a href="%s">contact the store owner</a>.</p>';
+$_['text_message']  = '<p>Félicitations ! Votre compte d\'affilié a été créé avec succès !</p> <p>Vous pouvez maintenant bénéficier de tous les privilèges offerts aux membres pour améliorer votre utilisation de notre boutique en ligne.</p> <p>Si vous avez une question sur les différentes opérations possibles sur la boutique, veuillez contacter le pripriétaire par courrier électronique.</p> <p>Un message de confirmation a été envoyé à l\'adresse électronique qui a été fournie. Si vous ne l\'avez pas reçu dans l\'heure suivante, veuillez <a href="%s">nous contacter</a>.</p>';
+$_['text_approval'] = '<p>Merci d\'avoir enregistré un compte d\'affilié sur la boutique de %s</p><p>Vous recevrez une notification par courrier électronique dès que votre compte aura été activé par le propriétaire de la boutique.</p><p>Si vous avez une question sur les opérations de ce système d\'affiliation, veuillez  <a href="%s">nous contacter</a>.</p>';
 $_['text_account']  = 'Compte';
 $_['text_success']  = 'Opération réussie';
