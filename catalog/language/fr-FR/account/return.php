@@ -1,6 +1,6 @@
 <?php
 // Heading
-$_['heading_title']      = 'Retour de produit';
+$_['heading_title']      = 'Retours de produits';
 
 // Text
 $_['text_account']       = 'Compte';
@@ -23,7 +23,7 @@ $_['text_agree']         = 'J\'ai lu et accepté les <a href="%s" class="agree">
 // Column
 $_['column_return_id']   = 'Identifiant du retour';
 $_['column_order_id']    = 'Commande n°';
-$_['column_status']      = 'État';
+$_['column_status']      = 'Statut';
 $_['column_date_added']  = 'Date d\'ajout';
 $_['column_customer']    = 'Client';
 $_['column_product']     = 'Nom du produit';
