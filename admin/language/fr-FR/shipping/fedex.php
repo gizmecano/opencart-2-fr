@@ -63,7 +63,7 @@ $_['entry_display_weight']                     = 'Afficher le poids du colis';
 $_['entry_weight_class']                       = 'Échelle de poids';
 $_['entry_tax_class']                          = 'Catégorie de taxe';
 $_['entry_geo_zone']                           = 'Zone géographique';
-$_['entry_status']                             = 'État';
+$_['entry_status']                             = 'Statut';
 $_['entry_sort_order']                         = 'Classement';
 
 // Help

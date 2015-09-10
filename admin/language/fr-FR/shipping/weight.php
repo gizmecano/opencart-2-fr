@@ -5,13 +5,13 @@ $_['heading_title']    = 'Livraison basée sur le poids';
 // Text
 $_['text_shipping']    = 'Livraison';
 $_['text_success']     = 'Succès: vous avez modifié la livraison basée sur le poids!';
-$_['text_edit']        = 'Éditer la livraison basée sur le poids';
+$_['text_edit']        = 'Modifier la livraison basée sur le poids';
 
 // Entry
 $_['entry_rate']       = 'Tarifs';
 $_['entry_tax_class']  = 'Catégorie de taxe';
 $_['entry_geo_zone']   = 'Zone géographique';
-$_['entry_status']     = 'État';
+$_['entry_status']     = 'Statut';
 $_['entry_sort_order'] = 'Classement';
 
 // Help

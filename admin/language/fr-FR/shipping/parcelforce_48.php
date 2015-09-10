@@ -5,7 +5,7 @@ $_['heading_title']           = 'Parcelforce 48';
 // Text
 $_['text_shipping']           = 'Livraison';
 $_['text_success']            = 'Succès: vous avez modifié la livraison Parcelforce 48!';
-$_['text_edit']               = 'Éditer Pla livraison Parcelforce 48';
+$_['text_edit']               = 'Modifier Pla livraison Parcelforce 48';
 
 // Entry
 $_['entry_rate']              = 'Tarifs Parcelforce 48';
@@ -15,7 +15,7 @@ $_['entry_display_insurance'] = 'Afficher l\'assurance';
 $_['entry_display_time']      = 'Afficher le délai de livraison';
 $_['entry_tax_class']         = 'Catégorie de taxe';
 $_['entry_geo_zone']          = 'Zone géographique';
-$_['entry_status']            = 'État';
+$_['entry_status']            = 'Statut';
 $_['entry_sort_order']        = 'Classement';
 
 // Help

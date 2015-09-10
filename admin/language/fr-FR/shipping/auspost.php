@@ -5,7 +5,7 @@ $_['heading_title']      = 'Australia Post';
 // Text
 $_['text_shipping']      = 'Livraison';
 $_['text_success']       = 'Succès: vous avez modifié la livraison par Australia Post!';
-$_['text_edit']          = 'Éditer la livraison par Australia Post';
+$_['text_edit']          = 'Modifier la livraison par Australia Post';
 
 // Entry
 $_['entry_postcode']     = 'Code postal';
@@ -15,7 +15,7 @@ $_['entry_display_time'] = 'Afficher le délai de livraison';
 $_['entry_weight_class'] = 'Échelle de poids';
 $_['entry_tax_class']    = 'Catégorie de taxe';
 $_['entry_geo_zone']     = 'Zone géographique';
-$_['entry_status']       = 'État';
+$_['entry_status']       = 'Statut';
 $_['entry_sort_order']   = 'Classement';
 
 // Help

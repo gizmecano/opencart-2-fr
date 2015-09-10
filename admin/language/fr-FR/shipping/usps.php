@@ -5,7 +5,7 @@ $_['heading_title']         = 'Service US Postal';
 // Text
 $_['text_shipping']         = 'Livraison';
 $_['text_success']          = 'Succès: vous avez modifié Service US Postal!';
-$_['text_edit']             = 'Éditer Livraison Service US Postal';
+$_['text_edit']             = 'Modifier Livraison Service US Postal';
 $_['text_domestic_00']      = 'First-Class Mail Parcel';
 $_['text_domestic_01']      = 'First-Class Mail Large Envelope';
 $_['text_domestic_02']      = 'First-Class Mail Letter';
@@ -67,7 +67,7 @@ $_['entry_display_weight']  = 'Afficher le poids du colis';
 $_['entry_weight_class']    = 'Échelle de poids';
 $_['entry_tax']             = 'Catégorie de taxe';
 $_['entry_geo_zone']        = 'Zone géographique';
-$_['entry_status']          = 'État';
+$_['entry_status']          = 'Statut';
 $_['entry_sort_order']      = 'Classement';
 $_['entry_debug']      		= 'Mode de débuguage';
 

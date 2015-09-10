@@ -5,13 +5,13 @@ $_['heading_title']    = 'Citylink';
 // Text
 $_['text_shipping']    = 'Livraison';
 $_['text_success']     = 'Succès: vous avez modifié la livraison Citylink!';
-$_['text_edit']        = 'Éditer la livraison Citylink';
+$_['text_edit']        = 'Modifier la livraison Citylink';
 
 // Entry
 $_['entry_rate']       = 'Tarifs Citylink';
 $_['entry_tax_class']  = 'Catégorie de taxe';
 $_['entry_geo_zone']   = 'Zone géographique';
-$_['entry_status']     = 'État';
+$_['entry_status']     = 'Statut';
 $_['entry_sort_order'] = 'Classement';
 
 // Help
