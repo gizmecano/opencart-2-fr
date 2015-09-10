@@ -8,7 +8,7 @@ $_['text_success']     = 'Succès: vous avez modifié le total des bons de rédu
 $_['text_edit']        = 'Modifier un bon de réduction';
 
 // Entry
-$_['entry_status']     = 'État';
+$_['entry_status']     = 'Statut';
 $_['entry_sort_order'] = 'Classement';
 
 // Error

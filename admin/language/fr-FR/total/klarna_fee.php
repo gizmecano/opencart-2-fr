@@ -5,7 +5,7 @@ $_['heading_title']    = 'Frais Klarna';
 // Text
 $_['text_total']       = 'Totaux de commande';
 $_['text_success']     = 'Succès: vous avez modifié le total des frais Klarna!';
-$_['text_edit']        = 'Éditer le total des frais Klarna';
+$_['text_edit']        = 'Modifier le total des frais Klarna';
 $_['text_sweden']      = 'Suède';
 $_['text_norway']      = 'Norvège';
 $_['text_finland']     = 'Finlande';
@@ -17,7 +17,7 @@ $_['text_netherlands'] = 'Pays-bas';
 $_['entry_total']      = 'Total de commande';
 $_['entry_fee']        = 'Frais de facturation';
 $_['entry_tax_class']  = 'Catégorie de taxe';
-$_['entry_status']     = 'État';
+$_['entry_status']     = 'Statut';
 $_['entry_sort_order'] = 'Classement';
 
 // Error
