@@ -8,7 +8,7 @@ $_['text_list']         = 'Liste des commissions des affiliés';
 // Column
 $_['column_affiliate']  = 'Nom de l\'affilié';
 $_['column_email']      = 'Adresse électronique';
-$_['column_status']     = 'État';
+$_['column_status']     = 'Statut';
 $_['column_commission'] = 'Commission';
 $_['column_orders']     = 'Commandes n°';
 $_['column_total']      = 'Total';
