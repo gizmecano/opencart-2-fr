@@ -27,7 +27,7 @@ $_['entry_trial_duration']	= 'Durée de cotisation';
 $_['entry_trial_status']	= 'État de la cotisation';
 $_['entry_trial_cycle']	    = 'Cycle de cotisation';
 $_['entry_trial_frequency']	= 'Fréquence de cotisation';
-$_['entry_status']			= 'État';
+$_['entry_status']			= 'Statut';
 $_['entry_sort_order']		= 'Classement';
 
 // Column

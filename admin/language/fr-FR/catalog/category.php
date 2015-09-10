@@ -28,7 +28,7 @@ $_['entry_image']            = 'Image';
 $_['entry_top']              = 'Haut';
 $_['entry_column']           = 'Colonnes';
 $_['entry_sort_order']       = 'Classement';
-$_['entry_status']           = 'État';
+$_['entry_status']           = 'Statut';
 $_['entry_layout']           = 'Outrepasser la mise en page';
 
 // Help
@@ -40,6 +40,6 @@ $_['help_column']            = 'Nombre de colonnes à utiliser pour les trois cl
 // Error
 $_['error_warning']          = 'Avertissement: veuillez vérifier le formulaire';
 $_['error_permission']       = 'Avertissement: vous n\'êtes pas autorisé à modifier les classes!';
-$_['error_name']             = 'Le nom de la classe doit compter entre 2 et 32 caractères!';
+$_['error_name']             = 'Le nom de la classe doit contenir entre 2 et 32 caractères!';
 $_['error_meta_title']       = 'Le titre profond doit contenir plus de 3 et moins de 255 caractères!';
-$_['error_keyword']          = 'Mot-clef SEO déjà en cours d\'utilisation!';
+$_['error_keyword']          = 'Mot-clef de référencement (SEO) déjà en cours d\'utilisation!';

@@ -12,7 +12,7 @@ $_['text_edit']         = 'Modifier une évaluation';
 $_['column_product']    = 'Produit';
 $_['column_author']     = 'Auteur';
 $_['column_rating']     = 'Note';
-$_['column_status']     = 'État';
+$_['column_status']     = 'Statut';
 $_['column_date_added'] = 'Date d\'ajout';
 $_['column_action']     = 'Action';
 
@@ -20,7 +20,7 @@ $_['column_action']     = 'Action';
 $_['entry_product']     = 'Produit';
 $_['entry_author']      = 'Auteur';
 $_['entry_rating']      = 'Note';
-$_['entry_status']      = 'État';
+$_['entry_status']      = 'Statut';
 $_['entry_text']        = 'Texte';
 $_['entry_date_added']  = 'Date d\'ajout';
 

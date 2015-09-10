@@ -25,10 +25,10 @@ $_['help_mask']         = 'Il est recommandée de différencier le nom de fichie
 
 // Error
 $_['error_permission']  = 'Avertissement: vous n\'êtes pas autorisé à modifier les téléchargements!';
-$_['error_name']        = 'Le nom du téléchargement doit compter entre 3 et 64 caractères!';
+$_['error_name']        = 'Le nom du téléchargement doit contenir entre 3 et 64 caractères!';
 $_['error_upload']      = 'Transfert nécessaire!';
-$_['error_filename']    = 'Le nom de fichier doit compter entre 3 et 128 caractères!';
+$_['error_filename']    = 'Le nom de fichier doit contenir entre 3 et 128 caractères!';
 $_['error_exists']      = 'Fichier non existant!';
-$_['error_mask']        = 'La masque doit compter entre 3 et 128 caractères!';
+$_['error_mask']        = 'La masque doit contenir entre 3 et 128 caractères!';
 $_['error_filetype']    = 'Type de fichier non valide!';
 $_['error_product']     = 'Avertissement: il est impossible d\'effacer ce téléchargement car il est actuellement alloué à %s produits!';

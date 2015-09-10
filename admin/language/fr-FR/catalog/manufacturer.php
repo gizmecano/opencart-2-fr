@@ -30,5 +30,5 @@ $_['help_keyword']       = 'N\'utilisez pas d\'espace mais des tirets à leur pl
 // Error
 $_['error_permission']   = 'Avertissement : vous n\'êtes pas autorisé à modifier les marques !';
 $_['error_name']         = 'La composition du nom du fabricant doit être comprise entre de 2 à 64 caractères !';
-$_['error_keyword']      = 'Mot-clef SEO déjà en cours d\'utilisation !';
+$_['error_keyword']      = 'Mot-clef de référencement (SEO) déjà en cours d\'utilisation !';
 $_['error_product']      = 'Attention: ce fabricant ne peut être supprimé car il est actuellement affecté aux produits %s !';
