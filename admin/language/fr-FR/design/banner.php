@@ -11,7 +11,7 @@ $_['text_default']       = 'Par défaut';
 
 // Column
 $_['column_name']        = 'Nom de la bannière';
-$_['column_status']      = 'État';
+$_['column_status']      = 'Statut';
 $_['column_action']      = 'Action';
 
 // Entry
@@ -19,7 +19,7 @@ $_['entry_name']         = 'Nom de la bannière';
 $_['entry_title']        = 'Titre';
 $_['entry_link']         = 'Lien';
 $_['entry_image']        = 'Image';
-$_['entry_status']       = 'État';
+$_['entry_status']       = 'Statut';
 $_['entry_sort_order']   = 'Classement';
 
 // Error
