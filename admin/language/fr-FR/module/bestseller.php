@@ -19,4 +19,4 @@ $_['entry_status']     = 'Statut';
 $_['error_permission'] = 'Attention ! Vous n\'êtes pas autorisé à modifier le module « Meilleures ventes » !';
 $_['error_name']       = 'Le nom du module doit contenir entre 3 et 64 caractères !';
 $_['error_width']      = 'La largeur est requise !';
-$_['error_height']     = 'La hauteur est requise !'';
+$_['error_height']     = 'La hauteur est requise !';
