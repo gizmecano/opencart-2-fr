@@ -13,18 +13,18 @@ Ensuite, il convient d'afficher le panneau de configuration d'OpenCart et de sui
 1. Aller dans la rubrique `System -> Localisation -> Languages`
 2. Cliquer sur le bouton `Edit`
 3. Renseigner les valeurs suivantes :
-   3.1 Langue : *French*
-   3.2 Code : *fr*
-   3.3 Locale : *fr,fr-FR,fr_FR.UTF-8,french*
-   3.4 Image : *fr.png*
-   3.5 Dossier : *fr-FR*
-   3.6 Status : *Enabled*
-   3.7 Sort Order: *1*
-   Enregistrer les changements
-4. Allez à la rubrique `Système -> Paramètres`
-5. Cliquer sur l'onglet `Paramètres régionaux` et définissez vos langues standards pour la boutique et le panneau d'administration (la langue du panneau     d'administration ne changera pas avant cette étape)
-6. Enregistrer les changements
-7. Installation terminée
+   1. Langue : `French`
+   2. Code : `fr`
+   3. Locale : `fr,fr-FR,fr_FR.UTF-8,french`
+   4. Image : `fr.png`
+   5. Dossier : `fr-FR`
+   6. Status : `Enabled`
+   7. Sort Order: `1`
+4. Enregistrer les changements
+5. Allez à la rubrique `Système -> Paramètres`
+6. Cliquer sur l'onglet `Paramètres régionaux` et définissez vos langues standards pour la boutique et le panneau d'administration (la langue du panneau     d'administration ne changera pas avant cette étape)
+7. Enregistrer les changements
+8. Installation terminée
 
 ## Contribution
 
