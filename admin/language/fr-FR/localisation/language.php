@@ -17,7 +17,7 @@ $_['column_action']     = 'Action';
 // Entry
 $_['entry_name']        = 'Nom de la langue';
 $_['entry_code']        = 'Code';
-$_['entry_locale']      = 'Région';
+$_['entry_locale']      = 'Localisation';
 $_['entry_image']       = 'Image';
 $_['entry_directory']   = 'Dossier';
 $_['entry_status']      = 'Statut';
