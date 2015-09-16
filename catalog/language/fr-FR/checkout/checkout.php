@@ -4,7 +4,7 @@ $_['heading_title']                  = 'Validation de commande';
 
 // Text
 $_['text_cart']                      = 'Panier d\'achat';
-$_['text_checkout_option']           = 'Étape 1: Options de la commande';
+$_['text_checkout_option']           = 'Étape 1: options de la commande';
 $_['text_checkout_account']          = 'Étape 2: compte et détails de facturation';
 $_['text_checkout_payment_address']  = 'Étape 2: détails de facturation';
 $_['text_checkout_shipping_address'] = 'Étape 3: détails de livraison';
@@ -26,9 +26,9 @@ $_['text_your_password']             = 'Votre mot de passe';
 $_['text_agree']                     = 'J\'ai lu et accepté les <a href="%s" class="agree"><b>%s</b></a>';
 $_['text_address_new']               = 'Utiliser une nouvelle adresse';
 $_['text_address_existing']          = 'Utiliser une adresse existante';
-$_['text_shipping_method']           = 'Veuillez sélectionner le Mode de Livraison pour cette Commande.';
-$_['text_payment_method']            = 'Veuillez sélectionner le Mode de Paiement  pour cette Commande.';
-$_['text_comments']                  = 'Ajouter un Commentaire à propos de votre Commande';
+$_['text_shipping_method']           = 'Veuillez sélectionner le mode de livraison pour cette commande.';
+$_['text_payment_method']            = 'Veuillez sélectionner le moyen de paiement pour cette commande.';
+$_['text_comments']                  = 'Ajouter un commentaire à propos de votre commande';
 $_['text_recurring']                 = 'Élément récurrent';
 $_['text_payment_recurring']         = 'Profil de paiement';
 $_['text_trial_description']         = '%s chaque %d %s(s) pour %d paiement(s) soit';
@@ -69,7 +69,7 @@ $_['entry_newsletter']               = 'Je souhaite m\'abonner à la lettre d\'i
 $_['entry_shipping'] 	             = 'Mon adresse de livraison et de facturation sont identiques.';
 
 // Error
-$_['error_warning']                  = 'Une erreur s\'est produite lors du traitement de votre Commande ! Si le problème persiste, veuillez essayez de sélectionner un autre Mode de Paiement ou  bien contactez le Responsable du Magasin en <a href="%s"> cliquant ici</a>.';
+$_['error_warning']                  = 'Une erreur s\'est produite lors du traitement de votre commande ! Si le problème persiste, veuillez essayez de sélectionner un autre moyen de paiement ou  bien contactez le Responsable du Magasin en <a href="%s"> cliquant ici</a>.';
 $_['error_login']                    = 'Attention: aucune correspondance trouvée entre ce nom d\'utilisateur et/ou ce mot de passe.';
 $_['error_approved']                 = 'Attention: votre compte nécessite d\'avoir été approuvé avant que vous puissiez vous connecter.';
 $_['error_exists']                   = 'Attention: cette adresse électronique est déjà enregistrée !';
@@ -89,5 +89,5 @@ $_['error_address']                  = 'Avertissement : vous devez sélectionner
 $_['error_shipping']                 = 'Attention: un mode de livraison est requis!';
 $_['error_no_shipping']              = 'Avertissement : aucune option d\'Expédition n\'est disponible. Veuillez <a href="%s">  contacter l\'assistance</a> !';
 $_['error_payment']                  = 'Attention: un moyen de paiement est requis!';
-$_['error_no_payment']               = 'Avertissement : aucune option de Paiement n\'est disponible. Veuillez <a href="%s">  contacter l\'assistance</a>!';
+$_['error_no_payment']               = 'Avertissement : aucune option de paiement n\'est disponible. Veuillez <a href="%s">  contacter l\'assistance</a>!';
 $_['error_custom_field']             = '%s est requis !';
