@@ -38,13 +38,13 @@ $_['entry_meta_title']                 = 'Titre de métaélément';
 $_['entry_meta_description']           = 'Description de métaélément';
 $_['entry_meta_keyword']               = 'Mots-clef de métaélément';
 $_['entry_layout']                     = 'Disposition par défaut';
-$_['entry_template']                   = 'Référence';
+$_['entry_template']                   = 'Modèle';
 $_['entry_country']                    = 'Pays';
 $_['entry_zone']                       = 'Subdivision administrative';
 $_['entry_language']                   = 'Langue';
 $_['entry_currency']                   = 'Devise';
 $_['entry_product_limit'] 	           = 'Nombre d\'éléments par page par défaut (catalogue)';
-$_['entry_product_description_length'] = 'Longueur de description de produit (catalogue)';
+$_['entry_product_description_length'] = 'Longueur de la description d\'un produit (catalogue)';
 $_['entry_tax']                        = 'Afficher les prix avec les taxes';
 $_['entry_tax_default']                = 'Utiliser les taxes en fonction de l\'adresse de la boutique';
 $_['entry_tax_customer']               = 'Utiliser les taxes en fonction de l\'adresse du client';
@@ -99,7 +99,7 @@ $_['help_icon']                        = 'L\'icône doit être un fichier PNG ay
 $_['help_secure']                      = 'Pour utiliser le SSL, vérifier auprès de votre hébergeur si un certificat SSL est installé.';
 
 // Error
-$_['error_warning']                    = 'Avertissement: veuillez vérifier le formulaire';
+$_['error_warning']                    = 'Attention: veuillez vérifier le formulaire';
 $_['error_permission']                 = 'Attention: vous n\'avez pas la permission de modifier stores!';
 $_['error_name']                       = 'Le nom de la boutique doit contenir entre 3 et 32 caractères!';
 $_['error_owner']                      = 'Le nom du propriétaire de la boutique doit contenir entre 3 et 64 caractères!';
