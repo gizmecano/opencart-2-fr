@@ -32,7 +32,7 @@ $_['help_keyword']           = 'N\'utilisez pas d\'espace mais des tirets à leu
 $_['help_bottom']            = 'Afficher dans le pied de page.';
 
 // Error
-$_['error_warning']          = 'Avertissement: veuillez vérifier le formulaire';
+$_['error_warning']          = 'Attention: veuillez vérifier le formulaire';
 $_['error_permission']       = 'Avertissement : vous n\'êtes pas autorisé à modifier les Informations !';
 $_['error_title']            = 'Le titre de l\'information doit contenir entre 3 et 64 caractères !';
 $_['error_description']      = 'La description doit contenir plus de 3 caractères !';
