@@ -1,6 +1,6 @@
 <?php
 // Heading
-$_['heading_title']     = 'Évaluation';
+$_['heading_title']     = 'Évaluations';
 
 // Text
 $_['text_success']      = 'Modification d\'évaluation réussie!';
