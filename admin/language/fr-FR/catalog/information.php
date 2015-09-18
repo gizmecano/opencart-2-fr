@@ -33,13 +33,13 @@ $_['help_bottom']            = 'Afficher dans le pied de page.';
 
 // Error
 $_['error_warning']          = 'Attention: veuillez vérifier le formulaire';
-$_['error_permission']       = 'Avertissement : vous n\'êtes pas autorisé à modifier les Informations !';
+$_['error_permission']       = 'Attention: vous n\'êtes pas autorisé à modifier les Informations !';
 $_['error_title']            = 'Le titre de l\'information doit contenir entre 3 et 64 caractères !';
 $_['error_description']      = 'La description doit contenir plus de 3 caractères !';
 $_['error_meta_title']       = 'Le titre profond doit contenir plus de 3 et moins de 255 caractères!';
 $_['error_keyword']          = 'Mot-clef de référencement (SEO) déjà en cours d\'utilisation!';
-$_['error_account']          = 'Avertissement : cette page d\'information ne peut être supprimée car elle contient actuellement les modalités de compte du magasin !';
-$_['error_checkout']         = 'Avertissement : cette page d\'information ne peut être supprimée car elle contient actuellement les modalités de passage en caisse du magasin!';
+$_['error_account']          = 'Attention: cette page d\'information ne peut être supprimée car elle contient actuellement les modalités de compte du magasin !';
+$_['error_checkout']         = 'Attention: cette page d\'information ne peut être supprimée car elle contient actuellement les modalités de passage en caisse du magasin!';
 $_['error_affiliate']        = 'Attention: cette page d\'information ne peut être supprimée car il est actuellement assigné comme les conditions d\'affiliation du magasin !';
 $_['error_return']           = 'Attention: cette page d\'information ne peut être supprimée car il est actuellement assigné comme les conditions de retour de magasin !';
 $_['error_store']            = 'Attention: cette page d\'information ne peut être supprimée elle est  actuellement utilisé par %s stock !';
