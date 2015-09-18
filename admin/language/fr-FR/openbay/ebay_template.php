@@ -9,8 +9,8 @@ $_['column_name']            		= 'Nom du modèle';
 $_['column_action']            		= 'Action';
 
 // Entry
-$_['entry_template_name']           = 'Nom';
-$_['entry_template_html']           = 'HTML';
+$_['entry_template_name']           = 'Nom du modèle';
+$_['entry_template_html']           = 'Code du modèle';
 
 // Text
 $_['text_added']                    = 'Le nouveau modèle a été ajouté.';

@@ -6,7 +6,7 @@ $_['text_ebay']                         = 'eBay';
 
 //Tabs
 $_['tab_returns']          				= 'Retours';
-$_['tab_template']         				= 'Référence';
+$_['tab_template']         				= 'Modèle';
 $_['tab_gallery']          				= 'Galerie';
 $_['tab_settings']         				= 'Paramètres';
 
