@@ -51,7 +51,7 @@ $_['entry_date_modified'] = 'Modifié le';
 $_['help_product']        = 'Autocomplétion';
 
 // Error
-$_['error_warning']       = 'Avertissement: veuillez vérifier le formulaire';
+$_['error_warning']       = 'Attention: veuillez vérifier le formulaire';
 $_['error_permission']    = 'Attention: vous n\'avez pas la permission de modifier les retours de produits!';
 $_['error_order_id']      = 'Identifiant de la commande requis!';
 $_['error_firstname']     = 'Le prénom doit contenir entre 1 à 32 caractères !';

@@ -212,7 +212,7 @@ $_['help_proxy_score']                        = 'Probabilité que l\'adresse IP 
 $_['help_is_trans_proxy']                     = 'Si l\'adresse IP figure dans notre base de données des serveurs proxy transparents connus, retourné si l\'IP suivie est transmise en tant qu\'entrée.';
 $_['help_free_mail']                          = 'Si l\'adresse électronique est d\'un fournisseur de messagerie gratuite (risque plus élevé).';
 $_['help_carder_email']                       = 'Si l\'adresse électronique est dans la base de données des adresses électroniques de risque élevé.';
-$_['help_high_risk_username']                 = 'Si une entrée utilisateur crypté est dans la base de données de noms d\'utilisateurs à haut risque. Renvoyé uniquement si l\'utilisateur crypté est inclus dans les entrées.';
+$_['help_high_risk_username']                 = 'Si une entrée utilisateur crypté est dans la base de données de noms des utilisateurs à haut risque. Renvoyé uniquement si l\'utilisateur crypté est inclus dans les entrées.';
 $_['help_high_risk_password']                 = 'Si une entrée mot de passe MD5 est dans la base de données des mots de passe à risque élevé. Renvoyé uniquement si le mot de passe MD5 est inclus dans les entrées.';
 $_['help_bin_match']                          = 'Dans le cas où le pays de la banque émettrice basé sur le numéro d\'identification bancaire (BIN)  correspond au pays de l\'adresse de facturation.';
 $_['help_bin_country']                        = 'Code du pays de la banque qui a délivré la carte de crédit basée sur le numéro d\'identification bancaire (BIN).';
@@ -232,7 +232,7 @@ $_['help_maxmind_id']                         = 'Identifiant unique, utilisé po
 $_['help_error']                              = 'Retourne une chaîne d\'erreur avec un message d\'avertissement ou une raison pour laquelle la requête a échoué.';
 
 // Error
-$_['error_warning']                           = 'Avertissement: veuillez vérifier le formulaire';
+$_['error_warning']                           = 'Attention: veuillez vérifier le formulaire';
 $_['error_permission']                        = 'Attention: vous n\'avez pas la permission de modifier les commandes!';
 $_['error_curl']                              = 'Attention: cURL error %s(%s)!';
 $_['error_action']                            = 'Attention: cette action ne peut être terminée!';

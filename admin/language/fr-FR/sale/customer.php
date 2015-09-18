@@ -60,7 +60,7 @@ $_['help_safe']             = 'Mettre à vrai pour permettre à ce client de pas
 $_['help_points']           = 'Utilisez le signe moins pour enlever des points';
 
 // Error
-$_['error_warning']         = 'Avertissement: veuillez vérifier le formulaire';
+$_['error_warning']         = 'Attention: veuillez vérifier le formulaire';
 $_['error_permission']      = 'Attention: vous n\'avez pas la permission de modifier les clients!';
 $_['error_exists']          = 'Attention: cette adresse électronique est déjà enregistrée !';
 $_['error_firstname']       = 'Le prénom doit contenir entre 1 à 32 caractères !';
