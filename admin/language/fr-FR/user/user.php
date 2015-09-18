@@ -4,7 +4,7 @@ $_['heading_title']     = 'Utilisateurs';
 
 // Text
 $_['text_success']      = 'Succès: vous avez modifié users!';
-$_['text_list']         = 'Liste d\'utilisateurs';
+$_['text_list']         = 'Liste des utilisateurs';
 $_['text_add']          = 'Ajouter un utilisateur';
 $_['text_edit']         = 'Modifier un utilisateur';
 
