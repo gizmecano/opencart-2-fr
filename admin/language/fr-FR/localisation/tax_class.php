@@ -27,4 +27,4 @@ $_['entry_priority']    = 'Priorité';
 $_['error_permission']  = 'Attention ! Vous n\'êtes pas autorisé à modifier les catégories de taxe !';
 $_['error_title']       = 'Le nom de la catégorie doit contenir entre 3 et 32 caractères !';
 $_['error_description'] = 'Le libellé doit contenir entre 3 et 255 caractères !';
-$_['error_product']     = 'Attention ! Cette catégorie de taxe ne peut être supprimée car elle est actuellement assignée à %s produits !';
+$_['error_product']     = 'Attention ! Cette catégorie de taxe ne peut être supprimée car elle est actuellement attribuée à %s produits !';

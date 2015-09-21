@@ -27,4 +27,4 @@ $_['error_permission'] = 'Attention ! Vous n\'êtes pas autorisé à modifier le
 $_['error_title']      = 'Le nom de la longueur doit contenir entre 3 et 32 caractères !';
 $_['error_unit']       = 'L\'unité de longueur doit contenir entre 1 et 4 caractères !';
 $_['error_default']    = 'Attention ! Cette unité de longueur ne peut être supprimée car elle est actuellement assignée comme unité de longueur par défaut !';
-$_['error_product']    = 'Attention ! Cette unité de longueur ne peut être supprimée car elle est actuellement assignée à %s produits !';
+$_['error_product']    = 'Attention ! Cette unité de longueur ne peut être supprimée car elle est actuellement attribuée à %s produits !';

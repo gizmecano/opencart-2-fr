@@ -39,5 +39,5 @@ $_['error_image']       = 'Le nom du fichier image doit contenir de 3 à 64 cara
 $_['error_directory']   = 'Vous devez choisir un dossier langue !';
 $_['error_default']     = 'Attention ! Cette langue ne peut être supprimée car elle est actuellement assignée comme langue par défaut !';
 $_['error_admin']       = 'Attention ! Cette langue ne peut être supprimée car elle est actuellement assignée comme langue du panneau d\'administration !';
-$_['error_store']       = 'Attention ! Cette langue ne peut être supprimée car elle est actuellement affectée à %s boutiques !';
-$_['error_order']       = 'Attention ! Cette langue ne peut être supprimée car elle est actuellement affectée à %s commandes !';
+$_['error_store']       = 'Attention ! Cette langue ne peut être supprimée car elle est actuellement attribuée à %s boutiques !';
+$_['error_order']       = 'Attention ! Cette langue ne peut être supprimée car elle est actuellement attribuée à %s commandes !';

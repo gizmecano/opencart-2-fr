@@ -33,5 +33,5 @@ $_['error_permission']     = 'Attention ! Vous n\'êtes pas autorisé à modifie
 $_['error_title']          = 'Le nom de la devise doit contenir entre 3 et 32 caractères !';
 $_['error_code']           = 'Le code de la devise doit être de 3 caractères !';
 $_['error_default']        = 'Attention ! Cette devise ne peut être supprimée car elle est actuellement définie comme devise par défaut !';
-$_['error_store']          = 'Attention ! Cette devise ne peut être supprimée car elle est actuellement affectée à %s boutiques !';
-$_['error_order']          = 'Attention ! Cette devise ne peut être supprimée car elle est actuellement affectée à %s commandes !';
+$_['error_store']          = 'Attention ! Cette devise ne peut être supprimée car elle est actuellement attribuée à %s boutiques !';
+$_['error_order']          = 'Attention ! Cette devise ne peut être supprimée car elle est actuellement attribuée à %s commandes !';

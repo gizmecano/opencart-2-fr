@@ -18,4 +18,4 @@ $_['entry_name']       = 'Nom de l\'action de retour';
 // Error
 $_['error_permission'] = 'Attention ! Vous n\'êtes pas autorisé à modifier les actions de retour !';
 $_['error_name']       = 'Le nom de l\'action de retour doit contenir entre 3 et 64 caractères !';
-$_['error_return']     = 'Attention ! Cette action de retour ne peut être supprimée car elle est actuellement affectée à %s produits retournés !';
+$_['error_return']     = 'Attention ! Cette action de retour ne peut être supprimée car elle est actuellement attribuée à %s produits retournés !';

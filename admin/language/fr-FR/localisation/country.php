@@ -29,8 +29,8 @@ $_['help_address_format']     = 'Prénom = {firstname} <br/> Nom = {lastname} <b
 $_['error_permission']        = 'Attention ! Vous n\'êtes pas autorisé à modifier les pays !';
 $_['error_name']              = 'Le nom du pays doit contenir entre 3 et 128 caractères !';
 $_['error_default']           = 'Attention ! Ce pays ne peut être supprimé car il est actuellement défini en tant que pays par défaut !';
-$_['error_store']             = 'Attention ! Ce pays ne peut être supprimé car il est actuellement affecté à %s boutiques !';
-$_['error_address']           = 'Attention ! Ce pays ne peut être supprimé car il est actuellement assigné à %s entrées du carnet d\'adresses !';
-$_['error_affiliate']         = 'Attention ! Ce pays ne peut être supprimé car il est actuellement assigné à %s affiliés !';
-$_['error_zone']              = 'Attention ! Ce pays ne peut être supprimé car il est actuellement affecté à %s zones !';
-$_['error_zone_to_geo_zone']  = 'Attention ! Ce pays ne peut être supprimé car il est actuellement affecté à %s zones géographiques !';
+$_['error_store']             = 'Attention ! Ce pays ne peut être supprimé car il est actuellement attribué à %s boutiques !';
+$_['error_address']           = 'Attention ! Ce pays ne peut être supprimé car il est actuellement attribué à %s entrées du carnet d\'adresses !';
+$_['error_affiliate']         = 'Attention ! Ce pays ne peut être supprimé car il est actuellement attribué à %s affiliés !';
+$_['error_zone']              = 'Attention ! Ce pays ne peut être supprimé car il est actuellement attribué à %s zones !';
+$_['error_zone_to_geo_zone']  = 'Attention ! Ce pays ne peut être supprimé car il est actuellement attribué à %s zones géographiques !';

@@ -18,4 +18,4 @@ $_['entry_name']       = 'Nom du statut de stock';
 // Error
 $_['error_permission'] = 'Attention ! Vous n\'êtes pas autorisé à modifier les états de stock !';
 $_['error_name']       = 'Le nom du statut de stock doit contenir entre 3 et 32 caractères !';
-$_['error_product']    = 'Attention ! Cet état de stock ne peut être supprimé car il est actuellement affecté à %s produits !';
+$_['error_product']    = 'Attention ! Cet état de stock ne peut être supprimé car il est actuellement attribué à %s produits !';

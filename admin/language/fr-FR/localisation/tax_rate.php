@@ -28,6 +28,6 @@ $_['entry_geo_zone']       = 'Zone géographique';
 
 // Error
 $_['error_permission']     = 'Attention ! Vous n\'êtes pas autorisé à modifier les taux de TVA !';
-$_['error_tax_rule']       = 'Attention ! Ce taux de TVA ne peut être supprimé car il est actuellement affecté à %s classes de taxe !';
+$_['error_tax_rule']       = 'Attention ! Ce taux de TVA ne peut être supprimé car il est actuellement attribué à %s classes de taxe !';
 $_['error_name']           = 'Le nom du taux doit contenir entre 1 et 32 caractères !';
 $_['error_rate']           = 'Le taux de TVA est requis !';
