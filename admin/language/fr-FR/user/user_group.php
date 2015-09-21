@@ -20,4 +20,4 @@ $_['entry_modify']      = 'Modifier la permission d\'accès';
 // Error
 $_['error_permission']  = 'Attention: vous n\'avez pas la permission de modifier les groupes d\'utilisateurs!';
 $_['error_name']        = 'Le nom du groupe d\'utilisateurs doit contenir entre 3 et 64 caractères!';
-$_['error_user']        = 'Attention: ce groupe d\'utilisateur ne peut pas être supprimé car il est actuellement alloué à %s utilisateurs!';
+$_['error_user']        = 'Attention: ce groupe d\'utilisateur ne peut pas être supprimé car il est actuellement attribué à %s utilisateurs!';
