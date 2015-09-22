@@ -44,7 +44,7 @@ $_['entry_stock_range'] 				= 'Niveau de stock';
 $_['entry_category'] 					= 'Catégorie';
 $_['entry_populated'] 					= 'Complété';
 $_['entry_sku'] 						= 'Référence';
-$_['entry_description'] 				= 'Libellé';
+$_['entry_description'] 				= 'Description';
 
 // Button
 $_['button_error_fix']              	= 'Corriger les erreurs';

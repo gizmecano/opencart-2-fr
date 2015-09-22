@@ -17,14 +17,14 @@ $_['text_allowed']                  	= 'Autorisé';
 $_['text_not_allowed']              	= 'Non autorisé';
 $_['text_price']              			= 'Prix';
 $_['text_name']              			= 'Nom';
-$_['text_description']              	= 'Libellé';
+$_['text_description']              	= 'Description';
 $_['text_order_frequency']          	= 'Fréquence d\'importation de commande';
 $_['text_bulk_listing']             	= 'Mise en vente automatisée';
 $_['text_product_listings']         	= 'Mises en vente par mois';
 
 // Columns
 $_['column_name']                     	= 'Nom';
-$_['column_description']              	= 'Libellé';
+$_['column_description']              	= 'Description';
 $_['column_order_frequency']          	= 'Fréquence d\'importation';
 $_['column_bulk_listing']             	= 'Mise en vente automatisée';
 $_['column_product_listings']         	= 'Mises en vente / mois';

@@ -14,7 +14,7 @@ $_['text_edit']  				= 'Mettre à jour votre liste Etsy';
 
 // Entry
 $_['entry_title']      			= 'Titre du produit';
-$_['entry_description']     	= 'Libellé';
+$_['entry_description']     	= 'Description';
 $_['entry_price']      			= 'Prix';
 $_['entry_state']      			= 'Pays';
 
