@@ -4,7 +4,7 @@ $_['heading_title']    = 'Modules';
 
 // Text
 $_['text_success']     = 'Les modules viennent d\'être modifiés !';
-$_['text_layout']      = 'Après avoir installé et configuré un module vous pouvez l\'ajouter à une structure de mise en page <a href="%s" class="alert-link">ici</a> !';
+$_['text_layout']      = 'Après avoir installé et configuré un module vous pouvez l\'ajouter à un gabarit <a href="%s" class="alert-link">ici</a> !';
 $_['text_add']         = 'Ajouter un module';
 $_['text_list']        = 'Liste des modules';
 
