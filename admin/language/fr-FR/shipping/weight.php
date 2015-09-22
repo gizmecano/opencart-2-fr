@@ -9,7 +9,7 @@ $_['text_edit']        = 'Modifier la livraison basée sur le poids';
 
 // Entry
 $_['entry_rate']       = 'Tarifs';
-$_['entry_tax_class']  = 'Catégorie de taxe';
+$_['entry_tax_class']  = 'Classe de taxes';
 $_['entry_geo_zone']   = 'Zone géographique';
 $_['entry_status']     = 'Statut';
 $_['entry_sort_order'] = 'Classement';
