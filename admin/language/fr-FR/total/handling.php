@@ -10,7 +10,7 @@ $_['text_edit']        = 'Modifier le total des frais de manutention';
 // Entry
 $_['entry_total']      = 'Total de commande';
 $_['entry_fee']        = 'Frais';
-$_['entry_tax_class']  = 'Catégorie de taxe';
+$_['entry_tax_class']  = 'Classe de taxes';
 $_['entry_status']     = 'Statut';
 $_['entry_sort_order'] = 'Classement';
 
