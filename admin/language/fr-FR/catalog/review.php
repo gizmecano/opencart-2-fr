@@ -25,7 +25,7 @@ $_['entry_text']        = 'Texte';
 $_['entry_date_added']  = 'Date d\'ajout';
 
 // Help
-$_['help_product']      = '(Saisie semi-automatique)';
+$_['help_product']      = 'Autocomplétion';
 
 // Error
 $_['error_permission']  = 'Attention : vous n\'êtes pas autorisé à modifier les avis !';
