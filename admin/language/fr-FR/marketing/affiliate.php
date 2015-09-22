@@ -21,7 +21,7 @@ $_['column_balance']            = 'Solde';
 $_['column_status']             = 'Statut';
 $_['column_approved']           = 'Approuvé';
 $_['column_date_added']         = 'Date d\'ajout';
-$_['column_description']        = 'Libellé';
+$_['column_description']        = 'Description';
 $_['column_amount']             = 'Montant';
 $_['column_action']             = 'Action';
 
@@ -54,7 +54,7 @@ $_['entry_bank_swift_code']     = 'Code SWIFT';
 $_['entry_bank_account_name']   = 'Nom du compte';
 $_['entry_bank_account_number'] = 'Numéro du compte';
 $_['entry_amount']              = 'Montant';
-$_['entry_description']         = 'Libellé';
+$_['entry_description']         = 'Description';
 $_['entry_name']                = 'Nom de l\'affilié';
 $_['entry_approved']            = 'Approuvé';
 $_['entry_date_added']          = 'Date d\'ajout';
