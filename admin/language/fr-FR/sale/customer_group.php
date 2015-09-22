@@ -15,7 +15,7 @@ $_['column_action']     = 'Action';
 
 // Entry
 $_['entry_name']        = 'Nom du groupe de clients';
-$_['entry_description'] = 'Libellé';
+$_['entry_description'] = 'Description';
 $_['entry_approval']    = 'Approuver de nouveaux clients';
 $_['entry_sort_order']  = 'Classement';
 
