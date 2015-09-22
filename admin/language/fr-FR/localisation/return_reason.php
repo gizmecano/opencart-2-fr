@@ -4,16 +4,16 @@ $_['heading_title']    = 'Motifs de retour';
 
 // Text
 $_['text_success']     = 'Vous venez de modifier les motifs de retour !';
-$_['text_list']        = 'Liste des mises en page';
+$_['text_list']        = 'Liste des gabarits';
 $_['text_add']         = 'Ajouter un motif de retour';
 $_['text_edit']        = 'Modifier un motif de retour';
 
 // Column
-$_['column_name']      = 'Motif';
+$_['column_name']      = 'Motif de retour';
 $_['column_action']    = 'Action';
 
 // Entry
-$_['entry_name']       = 'Nom du motif';
+$_['entry_name']       = 'Nom du motif de retour';
 
 // Error
 $_['error_permission'] = 'Attention ! Vous n\'êtes pas autorisé à modifier les motifs de retour !';

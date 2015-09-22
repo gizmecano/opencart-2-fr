@@ -10,17 +10,17 @@ $_['text_edit']          = 'Modifier une zone géographique';
 
 // Column
 $_['column_name']        = 'Nom de la zone géographique';
-$_['column_description'] = 'Libellé';
+$_['column_description'] = 'Description';
 $_['column_action']      = 'Action';
 
 // Entry
 $_['entry_name']         = 'Nom de la zone géographique';
-$_['entry_description']  = 'Libellé';
+$_['entry_description']  = 'Description';
 $_['entry_country']      = 'Pays';
 $_['entry_zone']         = 'Zone';
 
 // Error
 $_['error_permission']   = 'Attention ! Vous n\'êtes pas autorisé à modifier les zones géographiques !';
 $_['error_name']         = 'Le nom de la zone géographique doit contenir entre 3 et 32 caractères !';
-$_['error_description']  = 'Le libellé doit contenir entre 3 et 255 caractères !';
+$_['error_description']  = 'La description doit de la zone géographique contenir entre 3 et 255 caractères !';
 $_['error_tax_rate']     = 'Attention ! Cette zone géographique ne peut être supprimée car elle est actuellement attribuée à un ou plusieurs taux de TVA !';

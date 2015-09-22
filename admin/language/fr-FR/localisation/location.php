@@ -5,8 +5,8 @@ $_['heading_title']    = 'Emplacements de boutiques';
 // Text
 $_['text_success']     = 'Succès : vous avez modifié les emplacements de boutiques !';
 $_['text_list']        = 'Liste d\'emplacements de boutiques';
-$_['text_add']         = 'Ajouter l\'emplacement d\'une boutique';
-$_['text_edit']        = 'Modifier l\'emplacement de la boutique';
+$_['text_add']         = 'Ajouter un emplacement de boutique';
+$_['text_edit']        = 'Modifier un emplacement de boutique';
 $_['text_default']     = 'Par défaut';
 $_['text_time']        = 'Horaires d\'ouverture';
 $_['text_geocode']     = 'Géocode n\'a pas réussi pour la raison suivante :';
