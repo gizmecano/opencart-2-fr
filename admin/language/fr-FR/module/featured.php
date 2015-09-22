@@ -16,7 +16,7 @@ $_['entry_height']     = 'Hauteur';
 $_['entry_status']     = 'Statut';
 
 // Help
-$_['help_product']     = '(Saisie semi-automatique)';
+$_['help_product']     = 'Autocomplétion';
 
 // Error
 $_['error_permission'] = 'Attention ! Vous n\'êtes pas autorisé à modifier le module « Produits phares » !';
