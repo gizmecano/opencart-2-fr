@@ -3,4 +3,4 @@
 $_['heading_title'] = 'Total des commandes';
 
 // Text
-$_['text_view']     = 'Voir plus...';
+$_['text_view'] = 'Voir plus...';

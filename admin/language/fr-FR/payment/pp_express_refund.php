@@ -1,20 +1,20 @@
 <?php
 // Heading
-$_['heading_title']					= 'Remboursement de transaction';
+$_['heading_title'] = 'Remboursement de transaction';
 
 // Text
-$_['text_pp_express']				= 'Paiement PayPal Express';
-$_['text_current_refunds']			= 'Les remboursements ont déjà été effectués pour cette transaction. Le remboursement maximal est';
+$_['text_pp_express'] = 'Paiement PayPal Express';
+$_['text_current_refunds'] = 'Les remboursements ont déjà été effectués pour cette transaction. Le remboursement maximal est';
 
 // Entry
-$_['entry_transaction_id']			= 'Numéro de transaction';
-$_['entry_full_refund']				= 'Remboursement intégral';
-$_['entry_amount']					= 'Montant';
-$_['entry_message']					= 'Message';
+$_['entry_transaction_id'] = 'Numéro de transaction';
+$_['entry_full_refund'] = 'Remboursement intégral';
+$_['entry_amount'] = 'Montant';
+$_['entry_message'] = 'Message';
 
 // Button
-$_['button_refund']					= 'Remboursement';
+$_['button_refund'] = 'Remboursement';
 
 // Error
-$_['error_partial_amt']				= 'Vous devez entrer un montant de remboursement partiel';
-$_['error_data']					= 'Certaines données de la demande sont manquantes.';
+$_['error_partial_amt'] = 'Vous devez entrer un montant de remboursement partiel';
+$_['error_data'] = 'Certaines données de la demande sont manquantes.';

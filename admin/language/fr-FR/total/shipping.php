@@ -1,15 +1,15 @@
 <?php
 // Heading
-$_['heading_title']    = 'Livraison';
+$_['heading_title'] = 'Livraison';
 
 // Text
-$_['text_total']       = 'Totaux de commande';
-$_['text_success']     = 'Succès: vous avez modifié le total des livraisons!';
-$_['text_edit']        = 'Modifier le total des livraisons';
+$_['text_total'] = 'Totaux de commande';
+$_['text_success'] = 'Succès: vous avez modifié le total des livraisons!';
+$_['text_edit'] = 'Modifier le total des livraisons';
 
 // Entry
-$_['entry_estimator']  = 'Estimation des frais de livraison';
-$_['entry_status']     = 'Statut';
+$_['entry_estimator'] = 'Estimation des frais de livraison';
+$_['entry_status'] = 'Statut';
 $_['entry_sort_order'] = 'Classement';
 
 // Error

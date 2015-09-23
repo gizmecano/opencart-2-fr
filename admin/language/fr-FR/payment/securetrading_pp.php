@@ -58,7 +58,6 @@ $_['help_total'] = 'Le montant total que la commande doit atteindre avant que ce
 $_['button_reverse_authorisation'] = 'Autorisation inverse';
 $_['button_refund'] = 'Remboursement';
 
-
 // Order page - payment tab
 $_['text_payment_info'] = 'Informations de paiement';
 $_['text_release_status'] = 'Paiement envoyé';
