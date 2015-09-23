@@ -41,7 +41,7 @@ $_['entry_bad']                               = 'Mauvais';
 $_['entry_captcha']                           = 'Entrez le code dans la case ci-dessous';
 
 // Tabs
-$_['tab_description']                         = 'Libellé';
+$_['tab_description']                         = 'Description';
 $_['tab_attribute']                           = 'Spécification';
 $_['tab_review']                              = 'Évaluations (%s)';
 
