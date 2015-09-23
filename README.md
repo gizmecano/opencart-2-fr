@@ -1,18 +1,20 @@
 # OpenCart-2-fr
 
+English | [Français](README-fr.md)
+
 ## Introduction
 
-OpenCart-2-fr est un pack de langue pour la plateforme de commerce en ligne [OpenCart](http://www.opencart.com/) (version 2.x). Initié dans le cadre du projet (non-officiel) libre et gratuit [OpenCart Translation v.2](https://crowdin.com/project/opencart-translation-v2) (cf. [ce fichier](readme.txt) pour plus d'information), il rassemble des propositions de traduction pour une localisation française complète de l'interface d'administration (*backend*) ainsi que de la boutique en ligne (*frontend*).
+OpenCart-2-fr is a language pack for the ecommerce platform [OpenCart](http://www.opencart.com/) (version 2.x). Started within the context of the (unofficial) open and free project [OpenCart Translation v.2](https://crowdin.com/project/opencart-translation-v2) (cf. [this file](readme.txt) for further details), it brings together translation proposals for a complete French localization of the administration interface (*backend*) as well as the online store (*frontend*).
 
 ## Installation
 
-Pour installer ce pack de langue, il suffit d'extraire le fichier ZIP localement puis de transférer les fichiers sur le serveur (en conservant la même structure) sur la base d'une boutique OpenCart précédemment installée.
+To install this language package, extract the zipped package locally and transfer the files on your server (keeping the same structure) to your server on the roots of a previously installed OpenCart.
 
-Ensuite, il convient d'afficher le panneau de configuration d'OpenCart et de suivre les étapes suivantes (à partir de l'installation par défaut en anglais):
+After that, open your OpenCart backend and follow these steps:
 
-1. Aller dans la rubrique `System -> Localisation -> Languages`
-2. Cliquer sur le bouton `Edit`
-3. Renseigner les valeurs suivantes :
+1. Navigate to `System -> Localisation -> Languages`
+2. Click the `Edit` button
+3. Fill in the following values :
    1. *Language Name* : `French`
    2. *Code* : `fr`
    3. *Locale* : `fr,fr-FR,fr_FR.UTF-8,french`
@@ -20,26 +22,32 @@ Ensuite, il convient d'afficher le panneau de configuration d'OpenCart et de sui
    5. *Directory* : `fr-FR`
    6. *Status* : `Enabled`
    7. *Sort Order*: `1`
-4. Enregistrer les changements
-5. Allez à la rubrique `Système -> Paramètres`
-6. Cliquer sur l'onglet `Paramètres régionaux` et définissez vos langues standards pour la boutique et le panneau d'administration (la langue du panneau d'administration ne changera pas **avant** cette étape)
-7. Enregistrer les changements
-8. Installation terminée
+4. Save these changes
+5. Navigate to `System -> Settings`
+6. Click on the tab `Locale` and define your standard languages for frontend and backend (backend language will not change **before** this step)
+7. Save these changes
+8. Installation is complete
+
+## Compatibility
+
+The [latest release](https://github.com/GizMecano/opencart-2-fr/releases/latest) of this pack has been successfully tested with the [version 2.0.1.1](https://github.com/opencart/opencart/releases/tag/2.0.1.1) of OpenCart.
 
 ## Contribution
 
-La réalisation de ce pack doit bien entendu beaucoup aux [travaux des différents contributeurs](https://crowdin.com/project/opencart-translation-v2/fr/activity) du projet OpenCart Translation v.2.
+The achievement of this pack owes much, of course, to [works made by various contributors](https://crowdin.com/project/opencart-translation-v2/fr/activity) from the OpenCart Translation v.2 project.
+
+Any suggestions or submissions (translation, optimisation, etc.) might be considered by opening [an issue](https://github.com/GizMecano/opencart-2-fr/issues) into this repository.
 
 ## Licence
 
-OpenCart-2-fr : pack de langue pour la plateforme de commerce en ligne OpenCart (version 2.x)
+OpenCart-2-fr: a language pack for the ecommerce platform OpenCart (version 2.x)
 
 ---
 
 Copyright © 2015 P. Mergey [*et al.*](#contribution)
 
-Ce programme est un logiciel libre : vous pouvez le redistribuer et/ou le modifier au titre des clauses de la [Licence publique générale GNU](LICENSE), telle que publiée par la Free Software Foundation, soit la version 3 de la licence ou, à votre discrétion, une version ultérieure quelconque.
+This program is free software: you can redistribute it and/or modify it under the terms of the [GNU General Public License](LICENSE) as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
 
-Ce programme est distribué dans l'espoir qu'il sera utile, mais SANS AUCUNE GARANTIE, sans même une garantie implicite de COMMERCIABILITE ou DE CONFORMITE A UNE UTILISATION PARTICULIERE. Voir la [Licence publique générale GNU](LICENSE) pour plus de détails.
+This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the [GNU General Public License](LICENSE) for more details.
 
-Vous devriez avoir reçu un exemplaire de la [Licence publique générale GNU](LICENSE) avec ce programme. Si ce n'est pas le cas, vous pouvez consulter [cette page](http://www.gnu.org/licenses/gpl-3.0.txt).
+You should have received a copy of the [GNU General Public License](LICENSE) along with this program. If not, see [this page](http://www.gnu.org/licenses/gpl-3.0.txt).
