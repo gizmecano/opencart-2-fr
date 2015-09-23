@@ -20,7 +20,7 @@ $_['text_pp_express'] = 'Paiement PayPal Express';
 $_['text_date_search'] = 'Recherche par date';
 $_['text_searching'] = 'Recherche en cours';
 $_['text_name'] = 'Nom';
-$_['text_buyer_info'] = 'Informations sur l\' acheteur';
+$_['text_buyer_info'] = 'Informations sur l\'acheteur';
 $_['text_view'] = 'Voir';
 $_['text_format'] = 'Format';
 
