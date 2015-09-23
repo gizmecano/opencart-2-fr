@@ -6,7 +6,7 @@ $_['text_amazon']						= 'Amazon UE';
 
 // Text
 $_['text_current_plan']             	= 'Forfait actuel';
-$_['text_register_invite']          	= "Vous n\'avez toujours pas les paramètres de votre API ?";
+$_['text_register_invite']          	= 'Vous n\'avez toujours pas les paramètres de votre API ?';
 $_['text_available_plans']          	= 'Forfaits disponibles';
 $_['text_listings_remaining']       	= 'Mises en vente restantes';
 $_['text_listings_reserved']        	= 'Les produits sont en cours de traitement';

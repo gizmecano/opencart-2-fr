@@ -20,10 +20,10 @@ $_['text_transaction_declined'] = 'Votre banque a refusé l\'opération. Veuille
 $_['text_transaction_failed'] = 'Impossible de procéder à votre paiement. Veuillez vérifier les détails que vous avez fournis.';
 $_['text_connection_error'] = 'Veuillez essayer à nouveau plus tard ou utiliser un autre moyen de paiement.';
 
-$_['entry_type'] = "Type de carte";
-$_['entry_number'] = "Numéro de carte";
+$_['entry_type'] = 'Type de carte';
+$_['entry_number'] = 'Numéro de carte';
 $_['entry_expire_date'] = 'Date d\'expiration';
-$_['entry_cvv2'] = "Cryptogramme visuel";
+$_['entry_cvv2'] = 'Cryptogramme visuel';
 
 $_['button_confirm'] = 'Confirmer';
 

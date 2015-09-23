@@ -17,9 +17,9 @@ $_['button_remove_links'] 			= 'Supprimer les liaisons';
 $_['button_create_new_listing'] 	= 'Ajouter une mise en vente';
 
 // Help
-$_['help_sku'] 						= "Identifiant unique du produit attribué par le vendeur";
-$_['help_restock_date'] 			= "Il s\'agit de la date à laquelle vous serez en mesure d\'expédier des articles en rupture de stock. Cette date ne devrait pas être supérieure à 30 jours à compter de la date de mise en vente. Au delà de cette date, les commandes reçues pourront être automatiquement annulées.";
-$_['help_sale_price'] 				= "Le prix de vente doit avoir une date de début et une date de fin";
+$_['help_sku'] 						= 'Identifiant unique du produit attribué par le vendeur';
+$_['help_restock_date'] 			= 'Il s\'agit de la date à laquelle vous serez en mesure d\'expédier des articles en rupture de stock. Cette date ne devrait pas être supérieure à 30 jours à compter de la date de mise en vente. Au delà de cette date, les commandes reçues pourront être automatiquement annulées.';
+$_['help_sale_price'] 				= 'Le prix de vente doit avoir une date de début et une date de fin';
 
 //Text
 $_['text_products_sent'] 			= 'Les produits ont été envoyés pour traitement';
@@ -36,7 +36,7 @@ $_['text_collectible_good'] 		= 'Articles de collection - Bon état';
 $_['text_collectible_acceptable'] 	= 'Articles de collection - Passable';
 $_['text_refurbished'] 				= 'Reconditionné';
 $_['text_product_not_sent'] 		= 'Le produit n\'a pas été envoyé sur Amazon. Motif : %s';
-$_['text_not_in_catalog'] 			= "Ou, si ce n\'est pas dans le catalogue&nbsp;&nbsp;&nbsp;";
+$_['text_not_in_catalog'] 			= 'Ou, si ce n\'est pas dans le catalogue&nbsp;&nbsp;&nbsp;';
 $_['text_placeholder_search'] 		= 'Entrez le nom du produit, UPC, EAN, ISBN ou ASIN';
 $_['text_placeholder_condition'] 	= 'Utilisez cette zone pour décrire l\'état de vos produits.';
 $_['text_characters'] 				= 'Caractères';
@@ -99,7 +99,7 @@ $_['error_connecting'] 				= 'Il y a eu un problème de connexion à l\'API. Veu
 $_['error_text_missing'] 			= 'Vous devez entrer quelques détails à rechercher';
 $_['error_missing_asin'] 			= 'Le numéro ASIN est manquant';
 $_['error_marketplace_missing'] 	= 'Veuillez choisir une place de marché';
-$_['error_condition_missing'] 		= "Veuillez choisir une condition";
+$_['error_condition_missing'] 		= 'Veuillez choisir une condition';
 $_['error_amazon_price'] 			= 'Impossible d\'obtenir le prix depuis Amazon';
 $_['error_stock'] 					= 'Vous ne pouvez pas mettre en vente un objet avec moins d\'une pièce en stock';
 $_['error_sku'] 					= 'Vous devez entrer la référence (SKU) de l\'objet';

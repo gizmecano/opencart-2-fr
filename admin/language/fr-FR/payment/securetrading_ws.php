@@ -64,14 +64,14 @@ $_['entry_hour'] = 'Heure';
 $_['entry_minute'] = 'Minute';
 
 $_['column_order_id'] = 'Commande n°';
-$_['column_transaction_reference'] = "Référence de la transaction";
-$_['column_customer'] = "Client";
-$_['column_total'] = "Total";
+$_['column_transaction_reference'] = 'Référence de la transaction';
+$_['column_customer'] = 'Client';
+$_['column_total'] = 'Total';
 $_['column_currency'] = 'Devise';
 $_['column_settle_status'] = 'Statut de réglement';
-$_['column_status'] = "État";
+$_['column_status'] = 'État';
 $_['column_type'] = 'Type';
-$_['column_payment_type'] = "Type de paiement";
+$_['column_payment_type'] = 'Type de paiement';
 
 $_['error_permission'] = 'Vous n\'êtes pas autorisé à modifier ce module';
 $_['error_site_reference'] = 'La référence du site est requise';

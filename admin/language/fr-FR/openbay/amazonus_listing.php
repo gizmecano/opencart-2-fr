@@ -13,13 +13,13 @@ $_['button_remove_error'] 			= 'Supprimer les messages d\'erreur';
 $_['button_save_upload'] 			= 'Enregistrer et envoyer';
 $_['button_browse'] 				= 'Parcourir';
 $_['button_saved_listings'] 		= 'Voir les mises en vente';
-$_['button_remove_links'] 			= "Supprimer les liaisons";
-$_['button_create_new_listing'] 	= "Ajouter une mise en vente";
+$_['button_remove_links'] 			= 'Supprimer les liaisons';
+$_['button_create_new_listing'] 	= 'Ajouter une mise en vente';
 
 // Help
-$_['help_sku'] 						= "Identifiant unique du produit attribué par le vendeur";
-$_['help_restock_date'] 			= "Il s\'agit de la date à laquelle vous serez en mesure d\'expédier des articles en rupture de stock. Cette date ne devrait pas être supérieure à 30 jours à compter de la date de mise en vente. Au delà de cette date, les commandes reçues pourront être automatiquement annulées.";
-$_['help_sale_price'] 				= "Le prix de vente doit avoir une date de début et une date de fin";
+$_['help_sku'] 						= 'Identifiant unique du produit attribué par le vendeur';
+$_['help_restock_date'] 			= 'Il s\'agit de la date à laquelle vous serez en mesure d\'expédier des articles en rupture de stock. Cette date ne devrait pas être supérieure à 30 jours à compter de la date de mise en vente. Au delà de cette date, les commandes reçues pourront être automatiquement annulées.';
+$_['help_sale_price'] 				= 'Le prix de vente doit avoir une date de début et une date de fin';
 
 //Text
 $_['text_products_sent'] 			= 'Les produits ont été envoyés pour traitement';
@@ -86,7 +86,7 @@ $_['error_text_missing'] 			= 'Vous devez entrer quelques détails à rechercher
 $_['error_data_missing'] 			= 'Les données requises sont manquantes.';
 $_['error_missing_asin'] 			= 'Le numéro ASIN est manquant.';
 $_['error_marketplace_missing'] 	= 'Veuillez choisir une place de marché';
-$_['error_condition_missing'] 		= "Veuillez choisir une condition";
+$_['error_condition_missing'] 		= 'Veuillez choisir une condition';
 $_['error_fetch'] 					= 'Impossible de récupérer les données.';
 $_['error_amazonus_price'] 			= 'Impossible d\'obtenir le prix depuis Amazon USA.';
 $_['error_stock'] 					= 'Vous ne pouvez pas mettre en vente un objet avec moins d\'une pièce en stock';

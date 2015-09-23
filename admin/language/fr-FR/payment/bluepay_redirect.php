@@ -34,7 +34,7 @@ $_['text_confirm_rebate']			= 'Êtes-vous sûr de vouloir effectuer un rembourse
 
 // Entry
 $_['entry_vendor']					= 'Identifiant du compte';
-$_['entry_secret_key']				= "Clef secrète";
+$_['entry_secret_key']				= 'Clef secrète';
 $_['entry_test']					= 'Mode de test';
 $_['entry_transaction']				= 'Méthode de transaction';
 $_['entry_total']					= 'Total';
