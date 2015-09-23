@@ -6,23 +6,23 @@ OpenCart-2-fr est un pack de langue pour la plateforme de commerce en ligne [Ope
 
 ## Installation
 
-Pour installer ce pack de langue, il suffit d'extraire le fichier ZIP localement puis de transférer les fichiers sur le serveur (en conservant la même structure)  sur la base d'une boutique OpenCart précédemment installée.
+Pour installer ce pack de langue, il suffit d'extraire le fichier ZIP localement puis de transférer les fichiers sur le serveur (en conservant la même structure) sur la base d'une boutique OpenCart précédemment installée.
 
 Ensuite, il convient d'afficher le panneau de configuration d'OpenCart et de suivre les étapes suivantes (à partir de l'installation par défaut en anglais):
 
 1. Aller dans la rubrique `System -> Localisation -> Languages`
 2. Cliquer sur le bouton `Edit`
 3. Renseigner les valeurs suivantes :
-   1. Langue : `French`
-   2. Code : `fr`
-   3. Locale : `fr,fr-FR,fr_FR.UTF-8,french`
-   4. Image : `fr.png`
-   5. Dossier : `fr-FR`
-   6. Status : `Enabled`
-   7. Sort Order: `1`
+   1. *Language Name* : `French`
+   2. *Code* : `fr`
+   3. *Locale* : `fr,fr-FR,fr_FR.UTF-8,french`
+   4. *Image* : `fr.png`
+   5. *Directory* : `fr-FR`
+   6. *Status* : `Enabled`
+   7. *Sort Order*: `1`
 4. Enregistrer les changements
 5. Allez à la rubrique `Système -> Paramètres`
-6. Cliquer sur l'onglet `Paramètres régionaux` et définissez vos langues standards pour la boutique et le panneau d'administration (la langue du panneau     d'administration ne changera pas avant cette étape)
+6. Cliquer sur l'onglet `Paramètres régionaux` et définissez vos langues standards pour la boutique et le panneau d'administration (la langue du panneau d'administration ne changera pas **avant** cette étape)
 7. Enregistrer les changements
 8. Installation terminée
 
@@ -32,11 +32,11 @@ La réalisation de ce pack doit bien entendu beaucoup aux [travaux des différen
 
 ## Licence
 
-OpenCart-2-fr, un pack de langue pour la plateforme de commerce en ligne OpenCart (version 2.x)
+OpenCart-2-fr : pack de langue pour la plateforme de commerce en ligne OpenCart (version 2.x)
 
 ---
 
-Copyright © 2015 P. Mergey [*et al.*](#Contribution)
+Copyright © 2015 P. Mergey [*et al.*](#contribution)
 
 Ce programme est un logiciel libre : vous pouvez le redistribuer et/ou le modifier au titre des clauses de la [Licence publique générale GNU](LICENSE), telle que publiée par la Free Software Foundation, soit la version 3 de la licence ou, à votre discrétion, une version ultérieure quelconque.
 
