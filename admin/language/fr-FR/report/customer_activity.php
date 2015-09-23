@@ -14,7 +14,7 @@ $_['text_password'] = '<a href="customer_id=%d">%s</a> ont mis à jour le mot de
 $_['text_register'] = '<a href="customer_id=%d">%s</a> ont enregistré un compte.';
 $_['text_return_account'] = '<a href="customer_id=%d">%s</a> ont retourné un produit.';
 $_['text_return_guest'] = '%s ont retourné un produit.';
-$_['text_order_account'] = '<a href="customer_id=%d">%s</a> ont créé une  <a href="order_id=%d">nouvelle commande</a>.';
+$_['text_order_account'] = '<a href="customer_id=%d">%s</a> ont créé une <a href="order_id=%d">nouvelle commande</a>.';
 $_['text_order_guest'] = '%s ont ajouté une <a href="order_id=%d">nouvelle commande</a>.';
 
 // Column

@@ -46,6 +46,6 @@ $_['entry_recurring'] = 'Profil récurrent';
 $_['entry_payment_method'] = 'Moyen de paiement';
 
 // Error / Success
-$_['error_not_cancelled'] = 'Erreur :  %s';
+$_['error_not_cancelled'] = 'Erreur : %s';
 $_['error_not_found'] = 'Le profil récurrent ne peut être annulé';
 $_['text_cancelled'] = 'Le paiement récurrent a été annulé';

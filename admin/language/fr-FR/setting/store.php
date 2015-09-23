@@ -75,8 +75,8 @@ $_['entry_height'] = 'Hauteur';
 $_['entry_secure'] = 'Utiliser SSL';
 
 // Help
-$_['help_url'] = 'Inclure l\'URL entière de votre boutique. Veillez à bien ajouter  \'/\' à la fin. Par exemple : http://www.yourdomain.com/path/<br /><br />N\'utilisez pas de répertoires pour créer une nouvelle boutique. Vous devriez toujours diriger un autre domaine ou sous-domaine vers votre hébergement.';
-$_['help_ssl'] = 'URL SSL pour votre boutique. Veillez à bien ajouter  \'/\' à la fin. Par exemple : http://www.yourdomain.com/path/<br /><br />N\'utilisez pas de répertoires pour créer une nouvelle boutique. Vous devriez toujours diriger un autre domaine ou sous-domaine vers votre hébergement.';
+$_['help_url'] = 'Inclure l\'URL entière de votre boutique. Veillez à bien ajouter \'/\' à la fin. Par exemple : http://www.yourdomain.com/path/<br /><br />N\'utilisez pas de répertoires pour créer une nouvelle boutique. Vous devriez toujours diriger un autre domaine ou sous-domaine vers votre hébergement.';
+$_['help_ssl'] = 'URL SSL pour votre boutique. Veillez à bien ajouter \'/\' à la fin. Par exemple : http://www.yourdomain.com/path/<br /><br />N\'utilisez pas de répertoires pour créer une nouvelle boutique. Vous devriez toujours diriger un autre domaine ou sous-domaine vers votre hébergement.';
 $_['help_geocode'] = 'Veuillez saisir l\'emplacement géocode de votre boutique manuellement.';
 $_['help_open'] = 'Renseignez les horaires d\'ouverture de votre boutique.';
 $_['help_comment'] = 'Ce champ est dédié aux notes spéciales que vous souhaitez indiquer au client, par exemple si votre boutique n\'accepte pas les chèques.';
@@ -112,8 +112,8 @@ $_['error_limit'] = 'Une limite est requise!';
 $_['error_customer_group_display'] = 'Vous devez inclure le groupe de clients par défaut si vous souhaitez utiliser cette fonctionnalité!';
 $_['error_image_thumb'] = 'Taille des images de vignettes des produits requise!';
 $_['error_image_popup'] = 'Taille des images des produits en fenêtre modale requise!';
-$_['error_image_product'] = 'Dimensions de la liste des produits  requises!';
-$_['error_image_category'] = 'Dimensions de la liste des catégories  requises!';
+$_['error_image_product'] = 'Dimensions de la liste des produits requises!';
+$_['error_image_category'] = 'Dimensions de la liste des catégories requises!';
 $_['error_image_additional'] = 'Taille des images additionnelles des produits requis!';
 $_['error_image_related'] = 'Taille des images des produits liés requiss!';
 $_['error_image_compare'] = 'Taille des images des produits dans le comparatif requise!';
@@ -121,4 +121,4 @@ $_['error_image_wishlist'] = 'Taille des images des produits de la liste de souh
 $_['error_image_cart'] = 'Taille des images des produits dans le panier requise!';
 $_['error_image_location'] = 'Taille des images des produits de la boutique requise!';
 $_['error_default'] = 'Attention : vous ne pouvez pas supprimer votre boutique par défaut!';
-$_['error_store'] = 'Attention : cette boutique ne peut pas être supprimée car elle est actuellement attribuée à   %s commandes!';
+$_['error_store'] = 'Attention : cette boutique ne peut pas être supprimée car elle est actuellement attribuée à  %s commandes!';

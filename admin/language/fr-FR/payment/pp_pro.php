@@ -22,7 +22,7 @@ $_['entry_status'] = 'Statut';
 $_['entry_sort_order'] = 'Classement';
 
 // Help
-$_['help_test'] = 'Utilisez le live ou bien  tester avec (bac à sable) pour traiter les transactions ?';
+$_['help_test'] = 'Utilisez le live ou bien tester avec (bac à sable) pour traiter les transactions ?';
 $_['help_total'] = 'Le montant total que la commande doit atteindre avant que ce module de paiement devienne actif';
 
 // Error

@@ -42,4 +42,4 @@ $_['error_account'] = 'Attention : cette page d\'information ne peut être suppr
 $_['error_checkout'] = 'Attention : cette page d\'information ne peut être supprimée car elle contient actuellement les modalités de passage en caisse du magasin!';
 $_['error_affiliate'] = 'Attention : cette page d\'information ne peut être supprimée car il est actuellement assigné comme les conditions d\'affiliation du magasin !';
 $_['error_return'] = 'Attention : cette page d\'information ne peut être supprimée car il est actuellement assigné comme les conditions de retour de magasin !';
-$_['error_store'] = 'Attention : cette page d\'information ne peut être supprimée elle est  actuellement utilisé par %s stock !';
+$_['error_store'] = 'Attention : cette page d\'information ne peut être supprimée elle est actuellement utilisé par %s stock !';

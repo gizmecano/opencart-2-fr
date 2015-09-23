@@ -77,7 +77,7 @@ $_['error_permission'] = 'Vous n\'êtes pas autorisé à modifier ce module';
 $_['error_site_reference'] = 'La référence du site est requise';
 $_['error_cards_accepted'] = 'Les cartes acceptées sont requises';
 $_['error_username'] = 'Le nom d\'utilisateur est requis';
-$_['error_password'] = 'Le mot de passe est  requis';
+$_['error_password'] = 'Le mot de passe est requis';
 $_['error_connection'] = 'Impossible de se connecter à Secure Trading';
 $_['error_data_missing'] = 'Données manquantes';
 

@@ -69,7 +69,7 @@ $_['entry_newsletter'] = 'Je souhaite m\'abonner à la lettre d\'informations de
 $_['entry_shipping'] = 'Mes adresses de livraison et de facturation sont identiques.';
 
 // Error
-$_['error_warning'] = 'Une erreur s\'est produite lors du traitement de votre commande ! Si le problème persiste, veuillez essayez de sélectionner un autre moyen de paiement ou  bien contactez le propriétaire de la boutique en <a href="%s"> cliquant ici</a>.';
+$_['error_warning'] = 'Une erreur s\'est produite lors du traitement de votre commande ! Si le problème persiste, veuillez essayez de sélectionner un autre moyen de paiement ou bien contactez le propriétaire de la boutique en <a href="%s"> cliquant ici</a>.';
 $_['error_login'] = 'Attention : aucune correspondance trouvée entre ce nom d\'utilisateur et/ou ce mot de passe.';
 $_['error_approved'] = 'Attention : votre compte nécessite d\'avoir été approuvé avant que vous puissiez vous connecter.';
 $_['error_exists'] = 'Attention : cette adresse électronique est déjà enregistrée !';
@@ -87,7 +87,7 @@ $_['error_zone'] = 'Veuillez sélectionner une subdivision administrative !';
 $_['error_agree'] = 'Attention : vous devez accepter les %s';
 $_['error_address'] = 'Attention : vous devez sélectionner l\'adresse !';
 $_['error_shipping'] = 'Attention : un mode de livraison est requis!';
-$_['error_no_shipping'] = 'Attention : aucune option d\'Expédition n\'est disponible. Veuillez <a href="%s">  contacter l\'assistance</a> !';
+$_['error_no_shipping'] = 'Attention : aucune option d\'Expédition n\'est disponible. Veuillez <a href="%s"> contacter l\'assistance</a> !';
 $_['error_payment'] = 'Attention : un moyen de paiement est requis!';
-$_['error_no_payment'] = 'Attention : aucune option de paiement n\'est disponible. Veuillez <a href="%s">  contacter l\'assistance</a>!';
+$_['error_no_payment'] = 'Attention : aucune option de paiement n\'est disponible. Veuillez <a href="%s"> contacter l\'assistance</a>!';
 $_['error_custom_field'] = '%s est requis !';
