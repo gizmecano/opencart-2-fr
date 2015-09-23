@@ -105,8 +105,8 @@ $_['text_sub_amt']					= 'Montant de l\'abonnement';
 $_['text_sub_period']				= 'Période de souscription';
 $_['text_redirect']					= 'Redirection';
 $_['text_iframe']					= 'Iframe';
-$_['help_checkout_method']			= 'Veuillez utiliser la méthode Redirection si n'avez pas de certificat SSL installé ou si vous n\'avez pas désactivé l'option payer avec PayPal dans votre page de paiement hébergée.';
-$_['help_debug']					= 'Journaux d'information supplémentaire.';
+$_['help_checkout_method']			= 'Veuillez utiliser la méthode Redirection si n\'avez pas de certificat SSL installé ou si vous n\'avez pas désactivé l\'option payer avec PayPal dans votre page de paiement hébergée.';
+$_['help_debug']					= 'Journaux d\'information supplémentaire.';
 
 // Column
 $_['column_trans_id']				= 'Numéro de transaction';

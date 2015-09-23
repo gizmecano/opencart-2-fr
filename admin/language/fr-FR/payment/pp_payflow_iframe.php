@@ -22,7 +22,7 @@ $_['text_refund']					= 'Rembourser';
 $_['text_refund_issued']			= 'Le remboursement a correctement été effectué';
 $_['text_redirect']					= 'Redirection';
 $_['text_iframe']					= 'Iframe';
-$_['help_checkout_method']			= 'Veuillez utiliser la méthode Redirection si n'avez pas de certificat SSL installé ou si vous n\'avez pas désactivé l'option payer avec PayPal dans votre page de paiement hébergée.';
+$_['help_checkout_method']			= 'Veuillez utiliser la méthode Redirection si n\'avez pas de certificat SSL installé ou si vous n\'avez pas désactivé l\'option payer avec PayPal dans votre page de paiement hébergée.';
 
 // Column
 $_['column_transaction_id']			= 'Numéro de transaction';
