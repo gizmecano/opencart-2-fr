@@ -15,5 +15,5 @@ $_['entry_align']      = 'Alignement';
 $_['entry_status']     = 'Statut';
 
 // Error
-$_['error_permission'] = 'Attention ! Vous n\'êtes pas autorisé à modifier le module « Bouton de paiements Amazon » !';
+$_['error_permission'] = 'Attention : vous n\'êtes pas autorisé à modifier le module « Bouton de paiements Amazon » !';
 $_['error_name']       = 'Le nom du module doit contenir entre 3 et 64 caractères !';

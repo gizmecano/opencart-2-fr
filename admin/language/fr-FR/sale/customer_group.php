@@ -23,8 +23,8 @@ $_['entry_sort_order']  = 'Classement';
 $_['help_approval']     = 'Les clients doivent avoir été approuvés par un administrateur avant de pouvoir se connecter.';
 
 // Error
-$_['error_permission']   = 'Attention: vous n\'avez pas la permission de modifier les groupes de clients!';
+$_['error_permission']   = 'Attention : vous n\'avez pas la permission de modifier les groupes de clients!';
 $_['error_name']         = 'Un nom de groupe de clients doit contenir entre 3 et 32 caractères!';
-$_['error_default']      = 'Attention: ce groupe de clients ne peut pas être supprimé car il est actuellement assigné en tant que groupe de clients par défaut!';
-$_['error_store']        = 'Attention: ce groupe de clients ne peut pas être supprimé car il est actuellement attribué à %s boutiques!';
-$_['error_customer']     = 'Attention: ce groupe de clients ne peut pas être supprimé car il est actuellement attribué à %s clients!';
+$_['error_default']      = 'Attention : ce groupe de clients ne peut pas être supprimé car il est actuellement assigné en tant que groupe de clients par défaut!';
+$_['error_store']        = 'Attention : ce groupe de clients ne peut pas être supprimé car il est actuellement attribué à %s boutiques!';
+$_['error_customer']     = 'Attention : ce groupe de clients ne peut pas être supprimé car il est actuellement attribué à %s clients!';

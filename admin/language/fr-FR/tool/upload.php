@@ -18,4 +18,4 @@ $_['entry_filename']    = 'Nom du fichier';
 $_['entry_date_added'] 	= 'Date d\'ajout';
 
 // Error
-$_['error_permission']  = 'Attention: vous n\'êtes pas autorisé à modifier les transferts de fichiers!';
+$_['error_permission']  = 'Attention : vous n\'êtes pas autorisé à modifier les transferts de fichiers!';

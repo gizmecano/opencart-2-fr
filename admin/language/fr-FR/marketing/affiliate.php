@@ -64,8 +64,8 @@ $_['help_code']                 = 'Le code de suivi qui sera utilisé pour suivr
 $_['help_commission']           = 'Pourcentage que reçoit l\'affilié sur chaque commande.';
 
 // Error
-$_['error_permission']          = 'Attention: vous n\'êtes pas autorisé à modifier les affiliés !';
-$_['error_exists']              = 'Attention: cette adresse électronique est déjà enregistrée !';
+$_['error_permission']          = 'Attention : vous n\'êtes pas autorisé à modifier les affiliés !';
+$_['error_exists']              = 'Attention : cette adresse électronique est déjà enregistrée !';
 $_['error_firstname']           = 'Le prénom doit contenir entre 1 à 32 caractères !';
 $_['error_lastname']            = 'Le nom de famille doit contenir entre 1 à 32 caractères !';
 $_['error_email']               = 'L\'adresse électronique ne semble pas être valide !';
@@ -78,7 +78,7 @@ $_['error_password']            = 'Le mot de passe doit contenir entre 4 et 20 c
 $_['error_confirm']             = 'Le mot de passe de confirmation ne correspond pas au premier mot de passe !';
 $_['error_address_1']           = 'L\'adresse doit contenir entre 3 et 128 caractères !';
 $_['error_city']                = 'Le nom de la ville doit contenir entre 2 à 128 caractères !';
-$_['error_postcode']            = 'Attention: le code postal doit contenir entre 2 à 10 caractères!';
+$_['error_postcode']            = 'Attention : le code postal doit contenir entre 2 à 10 caractères!';
 $_['error_country']             = 'Veuillez sélectionner un pays !';
 $_['error_zone']                = 'Veuillez sélectionner une subdivision administrative !';
 $_['error_code']                = 'Le code de suivi est requis !';

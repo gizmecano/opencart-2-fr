@@ -38,8 +38,8 @@ $_['help_top']               = 'Afficher dans la barre en tête. Applicable uniq
 $_['help_column']            = 'Nombre de colonnes à utiliser pour les trois catégories au bas. Applicable uniquement aux catégories clefs.';
 
 // Error
-$_['error_warning']          = 'Attention: veuillez vérifier le formulaire';
-$_['error_permission']       = 'Attention: vous n\'êtes pas autorisé à modifier les catégories!';
+$_['error_warning']          = 'Attention : veuillez vérifier le formulaire';
+$_['error_permission']       = 'Attention : vous n\'êtes pas autorisé à modifier les catégories!';
 $_['error_name']             = 'Le nom de la catégorie doit contenir entre 2 et 32 caractères!';
 $_['error_meta_title']       = 'Le titre méta doit contenir plus de 3 et moins de 255 caractères!';
 $_['error_keyword']          = 'Mot-clef de référencement (SEO) déjà en cours d\'utilisation!';

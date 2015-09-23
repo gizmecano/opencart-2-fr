@@ -23,6 +23,6 @@ $_['help_password']					= 'Il suffit d\'utiliser un mot de passe aléatoire. Cel
 $_['help_total']					= 'Le montant total que la commande doit atteindre avant que ce module de paiement devienne actif.';
 
 // Error
-$_['error_permission']				= 'Attention ! Vous n\'êtes pas autorisé à modifier les paramètres du module de paiement Paymate !';
+$_['error_permission']				= 'Attention : vous n\'êtes pas autorisé à modifier les paramètres du module de paiement Paymate !';
 $_['error_username']				= 'Le nom d\'utilisateur Paymate est requis !';
 $_['error_password']				= 'Le mot de passe est requis !';

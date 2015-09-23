@@ -10,4 +10,4 @@ $_['text_edit']        = 'Modifier le module « Compte »';
 $_['entry_status']     = 'Statut';
 
 // Error
-$_['error_permission'] = 'Attention ! Vous n\'êtes pas autorisé à modifier le module « Compte » !';
+$_['error_permission'] = 'Attention : vous n\'êtes pas autorisé à modifier le module « Compte » !';

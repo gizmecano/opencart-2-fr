@@ -13,4 +13,4 @@ $_['column_sort_order'] = 'Classement';
 $_['column_action']     = 'Action';
 
 // Error
-$_['error_permission']  = 'Attention ! Vous n\'êtes pas autorisé à modifier les moyens de paiements !';
+$_['error_permission']  = 'Attention : vous n\'êtes pas autorisé à modifier les moyens de paiements !';

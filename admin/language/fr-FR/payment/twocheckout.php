@@ -24,6 +24,6 @@ $_['help_secret']					= 'Le mot secret qui permet de confirmer les transactions 
 $_['help_total']					= 'Le montant total que la commande doit atteindre avant que ce module de paiement devienne actif.';
 
 // Error
-$_['error_permission']				= 'Attention: vous n\'avez pas la permission de modifier le compte 2Checkout!';
+$_['error_permission']				= 'Attention : vous n\'avez pas la permission de modifier le compte 2Checkout!';
 $_['error_account']					= 'Numéro de compte requis';
 $_['error_secret']					= 'Mot secret requis';

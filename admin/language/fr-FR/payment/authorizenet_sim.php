@@ -26,6 +26,6 @@ $_['help_md5']						= 'La fonction de hachage MD5 permet d\'authentifier et de s
 $_['help_total']					= 'Le montant total que la commande doit atteindre avant que ce module de paiement devienne actif.';
 
 // Error
-$_['error_permission']				= 'Attention ! Vous n\'êtes pas autorisé à modifier le module de paiement Authorize.Net (SIM) !';
+$_['error_permission']				= 'Attention : vous n\'êtes pas autorisé à modifier le module de paiement Authorize.Net (SIM) !';
 $_['error_merchant']				= 'L\'identifiant marchand est requis !';
 $_['error_key']						= 'La clef de transaction est requise !';

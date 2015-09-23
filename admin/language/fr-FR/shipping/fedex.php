@@ -73,7 +73,7 @@ $_['help_display_weight']                      = 'Voulez-vous afficher le poids 
 $_['help_weight_class']                        = 'Configurer en kilogrammes ou en livres.';
 
 // Error
-$_['error_permission']                         = 'Attention: vous n\'êtes pas autorisé à modifier la livraison FedEx !';
+$_['error_permission']                         = 'Attention : vous n\'êtes pas autorisé à modifier la livraison FedEx !';
 $_['error_key']                                = 'Clef requise!';
 $_['error_password']                           = 'Le mot de passe est requis !';
 $_['error_account']                            = 'Compte requis!';

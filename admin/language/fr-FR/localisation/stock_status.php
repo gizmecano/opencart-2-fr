@@ -16,6 +16,6 @@ $_['column_action']    = 'Action';
 $_['entry_name']       = 'Nom de l\'état de stock';
 
 // Error
-$_['error_permission'] = 'Attention ! Vous n\'êtes pas autorisé à modifier les états de stock !';
+$_['error_permission'] = 'Attention : vous n\'êtes pas autorisé à modifier les états de stock !';
 $_['error_name']       = 'Le nom de l\'état de stock doit contenir entre 3 et 32 caractères !';
-$_['error_product']    = 'Attention ! Cet état de stock ne peut être supprimé car il est actuellement attribué à %s produits !';
+$_['error_product']    = 'Attention : cet état de stock ne peut être supprimé car il est actuellement attribué à %s produits !';

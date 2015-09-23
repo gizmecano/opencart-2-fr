@@ -48,5 +48,5 @@ $_['text_transaction_outstanding_failed'] = 'Echec du paiement en suspens';
 $_['text_transaction_expired'] = 'Expiré';
 
 $_['error_not_cancelled'] = 'Erreur: %s';
-$_['error_not_found'] = 'Attention: aucun paiement récurrent à annuler';
+$_['error_not_found'] = 'Attention : aucun paiement récurrent à annuler';
 $_['text_cancelled'] = 'Le paiement récurrent a été annulé';

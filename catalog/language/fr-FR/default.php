@@ -59,11 +59,11 @@ $_['button_map']            = 'Voir la carte Google';
 
 // Error
 $_['error_exception']       = 'Erreur Code(%s) : %s en %s sur la ligne %s';
-$_['error_upload_1']        = 'Attention: le fichier téléchargé excède la directive UPLOAD_MAX_FILESIZE dans le fichier php.ini !';
-$_['error_upload_2']        = 'Attention: le fichier téléchargé excède la directive MAX_FILE_SIZE qui a été spécifiée dans le formulaire HTML !';
-$_['error_upload_3']        = 'Attention: le fichier n\'a été envoyé que partiellement !';
-$_['error_upload_4']        = 'Attention: aucun fichier n\'a été envoyé !';
-$_['error_upload_6']        = 'Attention: aucun dossier temporaire !';
-$_['error_upload_7']        = 'Attention: Impossible d\'écrire le fichier sur le disque !';
-$_['error_upload_8']        = 'Attention: Envoi de fichier bloqué par extension !';
-$_['error_upload_999']      = 'Attention: aucun code d\'erreur disponible !';
+$_['error_upload_1']        = 'Attention : le fichier téléchargé excède la directive UPLOAD_MAX_FILESIZE dans le fichier php.ini !';
+$_['error_upload_2']        = 'Attention : le fichier téléchargé excède la directive MAX_FILE_SIZE qui a été spécifiée dans le formulaire HTML !';
+$_['error_upload_3']        = 'Attention : le fichier n\'a été envoyé que partiellement !';
+$_['error_upload_4']        = 'Attention : aucun fichier n\'a été envoyé !';
+$_['error_upload_6']        = 'Attention : aucun dossier temporaire !';
+$_['error_upload_7']        = 'Attention : Impossible d\'écrire le fichier sur le disque !';
+$_['error_upload_8']        = 'Attention : Envoi de fichier bloqué par extension !';
+$_['error_upload_999']      = 'Attention : aucun code d\'erreur disponible !';

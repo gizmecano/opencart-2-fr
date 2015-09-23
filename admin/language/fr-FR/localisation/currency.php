@@ -29,9 +29,9 @@ $_['help_code']            = 'Ne pas changer s\'il s\'agit de la devise par déf
 $_['help_value']           = 'Ajustez cette valeur à 1.00000 s\'il s\'agit de la devise par défaut.';
 
 // Error
-$_['error_permission']     = 'Attention ! Vous n\'êtes pas autorisé à modifier les devises !';
+$_['error_permission']     = 'Attention : vous n\'êtes pas autorisé à modifier les devises !';
 $_['error_title']          = 'Le nom de la devise doit contenir entre 3 et 32 caractères !';
 $_['error_code']           = 'Le code de la devise doit être de 3 caractères !';
-$_['error_default']        = 'Attention ! Cette devise ne peut être supprimée car elle est actuellement définie comme devise par défaut !';
-$_['error_store']          = 'Attention ! Cette devise ne peut être supprimée car elle est actuellement attribuée à %s boutiques !';
-$_['error_order']          = 'Attention ! Cette devise ne peut être supprimée car elle est actuellement attribuée à %s commandes !';
+$_['error_default']        = 'Attention : cette devise ne peut être supprimée car elle est actuellement définie comme devise par défaut !';
+$_['error_store']          = 'Attention : cette devise ne peut être supprimée car elle est actuellement attribuée à %s boutiques !';
+$_['error_order']          = 'Attention : cette devise ne peut être supprimée car elle est actuellement attribuée à %s commandes !';

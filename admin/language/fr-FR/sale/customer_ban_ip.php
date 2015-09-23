@@ -17,5 +17,5 @@ $_['column_action']    = 'Action';
 $_['entry_ip']         = 'IP';
 
 // Error
-$_['error_permission'] = 'Attention: vous n\'avez pas la permission de modifier les IP bannies!';
+$_['error_permission'] = 'Attention : vous n\'avez pas la permission de modifier les IP bannies!';
 $_['error_ip']         = 'Une IP doit contenir entre 1 et 40 caractères!';

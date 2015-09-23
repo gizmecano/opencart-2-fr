@@ -105,7 +105,7 @@ $_['help_dimension']			   = 'Ceci est supposé être votre moyenne de votre tail
 $_['help_debug']      			   = 'Sauve les données envoyées et reçues dans l\'historique du système';
 
 // Error
-$_['error_permission']             = 'Attention: vous n\'avez pas la permission de modifier la livraison UPS!';
+$_['error_permission']             = 'Attention : vous n\'avez pas la permission de modifier la livraison UPS!';
 $_['error_key']                    = 'Clef d\'accès requise!';
 $_['error_username']               = 'Nom d\'utilisateur requis!';
 $_['error_password']               = 'Mot de passe requis!';

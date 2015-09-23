@@ -12,9 +12,9 @@ $_['text_recurring']			= '%s chaque %s %s';
 $_['text_length']				= ' pour %s paiements';
 $_['text_success']				= 'Votre paiement a été autorisé.';
 $_['text_decline']				= 'Votre paiement a été refusé.';
-$_['text_bank_error']			= 'Attention: une erreur est survenue lors du traitement de votre demande avec la banque.';
-$_['text_transaction_error']	= 'Attention: une erreur s\'est produite pendant le déroulement de l\'opération.';
-$_['text_generic_error']		= 'Attention: une erreur est survenue lors du traitement de votre demande.';
+$_['text_bank_error']			= 'Attention : une erreur est survenue lors du traitement de votre demande avec la banque.';
+$_['text_transaction_error']	= 'Attention : une erreur s\'est produite pendant le déroulement de l\'opération.';
+$_['text_generic_error']		= 'Attention : une erreur est survenue lors du traitement de votre demande.';
 $_['text_hash_failed']			= 'La vérification du hachage a échoué. Ne tentez pas à nouveau d\'effectuer de paiement car son statut est inconnu. Veuillez contacter l\'administrateur de la boutique.';
 $_['text_link']					= 'Veuillez cliquer <a href="%">ici</a> pour continuer';
 

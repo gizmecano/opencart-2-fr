@@ -18,4 +18,4 @@ $_['entry_sort_order']				= 'Classement';
 $_['help_total']					= 'Le montant total que la commande doit atteindre avant que ce module de paiement devienne actif.';
 
 // Error
-$_['error_permission']				= 'Attention ! Vous n\'êtes pas autorisé à modifier les paramètres du module de paiement à la livraison !';
+$_['error_permission']				= 'Attention : vous n\'êtes pas autorisé à modifier les paramètres du module de paiement à la livraison !';

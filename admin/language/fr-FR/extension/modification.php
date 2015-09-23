@@ -16,4 +16,4 @@ $_['column_date_added'] = 'Date d\'ajout';
 $_['column_action']     = 'Action';
 
 // Error
-$_['error_permission']  = 'Attention ! Vous n\'êtes pas autorisé à modifier les correctifs !';
+$_['error_permission']  = 'Attention : vous n\'êtes pas autorisé à modifier les correctifs !';

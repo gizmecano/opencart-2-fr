@@ -18,4 +18,4 @@ $_['entry_sort_order'] = 'Classement';
 $_['help_total']       = 'Le total que la commande doit atteindre avant que ce total de commande devienne actif.';
 
 // Error
-$_['error_permission'] = 'Attention: vous n\'avez pas la permission de modifier le total des frais de manutention!';
+$_['error_permission'] = 'Attention : vous n\'avez pas la permission de modifier le total des frais de manutention!';

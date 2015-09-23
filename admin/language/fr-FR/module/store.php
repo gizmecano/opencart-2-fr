@@ -12,4 +12,4 @@ $_['entry_admin']      = 'Administrateurs seulement';
 $_['entry_status']     = 'Statut';
 
 // Error
-$_['error_permission'] = 'Attention ! Vous n\'êtes pas autorisé à modifier le module « Boutique » !';
+$_['error_permission'] = 'Attention : vous n\'êtes pas autorisé à modifier le module « Boutique » !';

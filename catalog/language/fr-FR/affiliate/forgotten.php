@@ -13,4 +13,4 @@ $_['text_success']    = 'Succès: un nouveau mot de passe a été envoyé à vot
 $_['entry_email']     = 'Adresse électronique';
 
 // Error
-$_['error_email']     = 'Attention: cette adresse électronique n\'a pas été trouvée dans nos fichiers, veuillez essayer à nouveau !';
+$_['error_email']     = 'Attention : cette adresse électronique n\'a pas été trouvée dans nos fichiers, veuillez essayer à nouveau !';

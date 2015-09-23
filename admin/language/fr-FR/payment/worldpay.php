@@ -28,6 +28,6 @@ $_['help_callback']					= 'Ceci a été paramétré sur le tableau de contrôle 
 $_['help_total']					= 'Le montant total que la commande doit atteindre avant que ce module de paiement devienne actif.';
 
 // Error
-$_['error_permission']				= 'Attention: vous n\'avez pas la permission de modifier le paiement WorldPay!';
+$_['error_permission']				= 'Attention : vous n\'avez pas la permission de modifier le paiement WorldPay!';
 $_['error_merchant']				= 'ID marchand requis!';
 $_['error_password']				= 'Mot de passe requis!';

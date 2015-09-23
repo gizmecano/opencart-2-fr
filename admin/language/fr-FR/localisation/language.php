@@ -31,13 +31,13 @@ $_['help_directory']    = 'Nom du dossier de langue (sensible à la casse)';
 $_['help_status']       = 'Masquer/Afficher dans le menu déroulant des langues';
 
 // Error
-$_['error_permission']  = 'Attention ! Vous n\'êtes pas autorisé à modifier les langues !';
+$_['error_permission']  = 'Attention : vous n\'êtes pas autorisé à modifier les langues !';
 $_['error_name']        = 'Le nom de la langue doit contenir entre 3 et 32 caractères !';
 $_['error_code']        = 'Le code de la langue doit être d\'au moins 2 caractères !';
 $_['error_locale']      = 'Le paramètre « région » est requis !';
 $_['error_image']       = 'Le nom du fichier image doit contenir de 3 à 64 caractères !';
 $_['error_directory']   = 'Vous devez choisir un dossier langue !';
-$_['error_default']     = 'Attention ! Cette langue ne peut être supprimée car elle est actuellement assignée comme langue par défaut !';
-$_['error_admin']       = 'Attention ! Cette langue ne peut être supprimée car elle est actuellement assignée comme langue du panneau d\'administration !';
-$_['error_store']       = 'Attention ! Cette langue ne peut être supprimée car elle est actuellement attribuée à %s boutiques !';
-$_['error_order']       = 'Attention ! Cette langue ne peut être supprimée car elle est actuellement attribuée à %s commandes !';
+$_['error_default']     = 'Attention : cette langue ne peut être supprimée car elle est actuellement assignée comme langue par défaut !';
+$_['error_admin']       = 'Attention : cette langue ne peut être supprimée car elle est actuellement assignée comme langue du panneau d\'administration !';
+$_['error_store']       = 'Attention : cette langue ne peut être supprimée car elle est actuellement attribuée à %s boutiques !';
+$_['error_order']       = 'Attention : cette langue ne peut être supprimée car elle est actuellement attribuée à %s commandes !';

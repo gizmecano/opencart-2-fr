@@ -60,5 +60,5 @@ $_['btn_rebate']					= 'Remise et/ou remboursement';
 $_['btn_void']						= 'Annulation';
 
 // Error
-$_['error_permission']				= 'Attention: vous n\'avez pas la permission de modifier payment SagePay!';
+$_['error_permission']				= 'Attention : vous n\'avez pas la permission de modifier payment SagePay!';
 $_['error_vendor']					= 'ID fournisseur requis!';

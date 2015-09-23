@@ -198,8 +198,8 @@ $_['help_compression']                 = 'GZIP pour un meilleur taux de transfer
 $_['help_google_analytics']            = 'Connecter vous à votre compte <a href="http://www.google.com/analytics/" target="_blank"><u>Google Analytics</u></a> et, après avoir la création de votre profil de site, copiez et collez le code de suivi dans ce champ.';
 
 // Error
-$_['error_warning']                    = 'Attention: veuillez vérifier le formulaire';
-$_['error_permission']                 = 'Attention: vous n\'avez pas la permission de modifier les paramètres!';
+$_['error_warning']                    = 'Attention : veuillez vérifier le formulaire';
+$_['error_permission']                 = 'Attention : vous n\'avez pas la permission de modifier les paramètres!';
 $_['error_name']                       = 'Le nom de la boutique doit contenir entre 3 et 32 caractères!';
 $_['error_owner']                      = 'Le nom du propriétaire de la boutique doit contenir entre 3 et 64 caractères!';
 $_['error_address']                    = 'L\'adresse de la boutique doit contenir entre 10 et 256 caractères!';

@@ -93,7 +93,7 @@ $_['button_void']					= 'Annulation';
 $_['button_capture']				= 'Réceptionner';
 
 // Error
-$_['error_permission']				= 'Attention ! Vous n\'êtes pas autorisé à modifier les paramètres du module de paiement PayPal Website Payment Pro iFrame (UK) !';
+$_['error_permission']				= 'Attention : vous n\'êtes pas autorisé à modifier les paramètres du module de paiement PayPal Website Payment Pro iFrame (UK) !';
 $_['error_vendor']					= 'Le nom du fournisseur est requis !';
 $_['error_user']					= 'Le nom d\'utilisateur est requis !';
 $_['error_password']				= 'Le mot de passe est requis !';

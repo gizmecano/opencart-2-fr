@@ -232,7 +232,7 @@ $_['help_maxmind_id']                         = 'Identifiant unique, utilisé po
 $_['help_error']                              = 'Retourne une chaîne d\'erreur avec un message d\'avertissement ou une raison pour laquelle la requête a échoué.';
 
 // Error
-$_['error_warning']                           = 'Attention: veuillez vérifier le formulaire';
-$_['error_permission']                        = 'Attention: vous n\'avez pas la permission de modifier les commandes!';
-$_['error_curl']                              = 'Attention: cURL error %s(%s)!';
-$_['error_action']                            = 'Attention: cette action ne peut être terminée!';
+$_['error_warning']                           = 'Attention : veuillez vérifier le formulaire';
+$_['error_permission']                        = 'Attention : vous n\'avez pas la permission de modifier les commandes!';
+$_['error_curl']                              = 'Attention : cURL error %s(%s)!';
+$_['error_action']                            = 'Attention : cette action ne peut être terminée!';

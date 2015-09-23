@@ -70,9 +70,9 @@ $_['entry_shipping'] 	             = 'Mes adresses de livraison et de facturatio
 
 // Error
 $_['error_warning']                  = 'Une erreur s\'est produite lors du traitement de votre commande ! Si le problème persiste, veuillez essayez de sélectionner un autre moyen de paiement ou  bien contactez le propriétaire de la boutique en <a href="%s"> cliquant ici</a>.';
-$_['error_login']                    = 'Attention: aucune correspondance trouvée entre ce nom d\'utilisateur et/ou ce mot de passe.';
-$_['error_approved']                 = 'Attention: votre compte nécessite d\'avoir été approuvé avant que vous puissiez vous connecter.';
-$_['error_exists']                   = 'Attention: cette adresse électronique est déjà enregistrée !';
+$_['error_login']                    = 'Attention : aucune correspondance trouvée entre ce nom d\'utilisateur et/ou ce mot de passe.';
+$_['error_approved']                 = 'Attention : votre compte nécessite d\'avoir été approuvé avant que vous puissiez vous connecter.';
+$_['error_exists']                   = 'Attention : cette adresse électronique est déjà enregistrée !';
 $_['error_firstname']                = 'Le prénom doit contenir entre 1 à 32 caractères !';
 $_['error_lastname']                 = 'Le nom de famille doit contenir entre 1 à 32 caractères !';
 $_['error_email']                    = 'L\'adresse électronique ne semble pas valide !';
@@ -81,13 +81,13 @@ $_['error_password']                 = 'Le mot de passe doit contenir entre 4 et
 $_['error_confirm']                  = 'La confirmation de mot de passe ne correspond pas au mot de passe saisi!';
 $_['error_address_1']                = 'L\'adresse doit contenir entre 3 et 128 caractères !';
 $_['error_city']                     = 'Le nom de la ville doit contenir entre 2 à 128 caractères !';
-$_['error_postcode']                 = 'Attention: le code postal doit contenir entre 2 à 10 caractères!';
+$_['error_postcode']                 = 'Attention : le code postal doit contenir entre 2 à 10 caractères!';
 $_['error_country']                  = 'Veuillez sélectionner un pays !';
 $_['error_zone']                     = 'Veuillez sélectionner une subdivision administrative !';
-$_['error_agree']                    = 'Attention: vous devez accepter les %s';
-$_['error_address']                  = 'Attention: vous devez sélectionner l\'adresse !';
-$_['error_shipping']                 = 'Attention: un mode de livraison est requis!';
-$_['error_no_shipping']              = 'Attention: aucune option d\'Expédition n\'est disponible. Veuillez <a href="%s">  contacter l\'assistance</a> !';
-$_['error_payment']                  = 'Attention: un moyen de paiement est requis!';
-$_['error_no_payment']               = 'Attention: aucune option de paiement n\'est disponible. Veuillez <a href="%s">  contacter l\'assistance</a>!';
+$_['error_agree']                    = 'Attention : vous devez accepter les %s';
+$_['error_address']                  = 'Attention : vous devez sélectionner l\'adresse !';
+$_['error_shipping']                 = 'Attention : un mode de livraison est requis!';
+$_['error_no_shipping']              = 'Attention : aucune option d\'Expédition n\'est disponible. Veuillez <a href="%s">  contacter l\'assistance</a> !';
+$_['error_payment']                  = 'Attention : un moyen de paiement est requis!';
+$_['error_no_payment']               = 'Attention : aucune option de paiement n\'est disponible. Veuillez <a href="%s">  contacter l\'assistance</a>!';
 $_['error_custom_field']             = '%s est requis !';

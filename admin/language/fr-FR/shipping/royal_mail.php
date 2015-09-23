@@ -49,4 +49,4 @@ $_['tab_airsure']                            = 'Airsure';
 $_['tab_surface']                            = 'Surface';
 
 // Error
-$_['error_permission']                       = 'Attention: vous n\'avez pas la permission de modifier la livraison Royal Mail!';
+$_['error_permission']                       = 'Attention : vous n\'avez pas la permission de modifier la livraison Royal Mail!';

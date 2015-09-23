@@ -19,8 +19,8 @@ $_['text_success_title']		= 'Succès: votre commande a été prise en compte!';
 $_['text_payment_success']		= 'Votre commande a été correctement prise en compte. Les détails de la commande sont listés ci-dessous';
 
 // Error
-$_['error_payment_method']		= 'Attention: veuillez choisir un moyen de paiement';
-$_['error_shipping']			= 'Attention: veuillez sélectionner un mode de livraison';
-$_['error_shipping_address']	= 'Attention: veuillez sélectionner une adresse de livraison';
-$_['error_shipping_methods']	= 'Attention: une erreur est survenue lors de la recherche de votre adresse sur Amazon. Veuillez contacter l\'administrateur de la boutique pour obtenir de l\'aide';
-$_['error_no_shipping_methods'] = 'Attention: il n\'y a pas d\'options de livraison pour l\'adresse sélectionnée. Veuillez sélectionner une autre adresse de livraison';
+$_['error_payment_method']		= 'Attention : veuillez choisir un moyen de paiement';
+$_['error_shipping']			= 'Attention : veuillez sélectionner un mode de livraison';
+$_['error_shipping_address']	= 'Attention : veuillez sélectionner une adresse de livraison';
+$_['error_shipping_methods']	= 'Attention : une erreur est survenue lors de la recherche de votre adresse sur Amazon. Veuillez contacter l\'administrateur de la boutique pour obtenir de l\'aide';
+$_['error_no_shipping_methods'] = 'Attention : il n\'y a pas d\'options de livraison pour l\'adresse sélectionnée. Veuillez sélectionner une autre adresse de livraison';

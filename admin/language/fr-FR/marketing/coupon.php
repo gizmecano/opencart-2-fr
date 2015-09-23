@@ -50,7 +50,7 @@ $_['help_uses_total']     = 'Le nombre maximal de fois que le bon de réduction 
 $_['help_uses_customer']  = 'Le nombre maximal de fois que le bon de réduction pourra être utilisé par un client unique. Laissez le champ vide pour une utilisation illimitée';
 
 // Error
-$_['error_permission']    = 'Attention ! Vous n\'êtes pas autorisé à modifier les bons de réduction !';
-$_['error_exists']        = 'Attention ! Ce bon de réduction est déjà utilisé !';
+$_['error_permission']    = 'Attention : vous n\'êtes pas autorisé à modifier les bons de réduction !';
+$_['error_exists']        = 'Attention : ce bon de réduction est déjà utilisé !';
 $_['error_name']          = 'Le nom du bon doit contenir entre 3 et 128 caractères !';
 $_['error_code']          = 'Le code doit contenir entre 3 et 10 caractères !';

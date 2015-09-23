@@ -13,4 +13,4 @@ $_['entry_status']     = 'Statut';
 $_['entry_data_feed']  = 'URL du flux';
 
 // Error
-$_['error_permission'] = 'Attention ! Vous n\'êtes pas autorisé à modifier l\'URL du flux Google Base !';
+$_['error_permission'] = 'Attention : vous n\'êtes pas autorisé à modifier l\'URL du flux Google Base !';

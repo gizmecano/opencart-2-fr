@@ -17,4 +17,4 @@ $_['entry_sort_order'] = 'Classement';
 $_['help_total']       = 'Montant du sous-total nécessaire avant que le module de livraison gratuite devienne disponible.';
 
 // Error
-$_['error_permission'] = 'Attention: vous n\'avez pas la permission de modifier la livraison gratuite!';
+$_['error_permission'] = 'Attention : vous n\'avez pas la permission de modifier la livraison gratuite!';

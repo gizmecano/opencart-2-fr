@@ -15,5 +15,5 @@ $_['entry_password'] = 'Mot de passe';
 $_['button_login']   = 'Ouvrir une session';
 
 // Error
-$_['error_login']    = 'Attention: aucune correspondance trouvée entre ce <br/><b>nom d\'utilisateur et/ou ce mot de passe</b>.';
-$_['error_token']    = 'Attention: session invalide. Veuillez ouvrir une nouvelle session.';
+$_['error_login']    = 'Attention : aucune correspondance trouvée entre ce <br/><b>nom d\'utilisateur et/ou ce mot de passe</b>.';
+$_['error_token']    = 'Attention : session invalide. Veuillez ouvrir une nouvelle session.';

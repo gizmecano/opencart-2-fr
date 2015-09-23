@@ -9,7 +9,7 @@ $_['text_card_digits']			= 'Derniers numéros: ';
 $_['text_card_expiry']			= 'Date d\'expiration';
 
 // Returned text
-$_['text_transaction_error']	= 'Attention: une erreur s\'est produite pendant le déroulement de l\'opération - ';
+$_['text_transaction_error']	= 'Attention : une erreur s\'est produite pendant le déroulement de l\'opération - ';
 
 // Entry
 $_['entry_card']				= 'Nouvelle carte ou carte existante: ';

@@ -59,7 +59,7 @@ $_['btn_rebate']					= 'Remise et/ou remboursement';
 $_['btn_void']						= 'Annulation';
 
 // Error
-$_['error_permission']				= 'Attention ! Vous n\'êtes pas autorisé à modifier le module de paiement BluePay !';
+$_['error_permission']				= 'Attention : vous n\'êtes pas autorisé à modifier le module de paiement BluePay !';
 $_['error_account_name']			= 'Le nom du compte est requis !';
 $_['error_account_id']				= 'L\'identifiant du compte est requis !';
 $_['error_secret_key']				= 'La clef secrète est requise!';

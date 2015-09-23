@@ -17,6 +17,6 @@ $_['entry_email']                   = 'Adresse électronique de l\'affilié';
 $_['entry_password']                = 'Mot de passe';
 
 // Error
-$_['error_login']                   = 'Attention: aucune correspondance trouvée entre ce nom d\'utilisateur et/ou ce mot de passe.';
-$_['error_attempts']                = 'Attention: Votre compte a dépassé le nombre autorisé de tentatives de connexion. Merci d\'essayer à nouveau dans 1 heure.';
-$_['error_approved']                = 'Attention: votre compte nécessite d\'avoir été approuvé avant que vous puissiez vous connecter.';
+$_['error_login']                   = 'Attention : aucune correspondance trouvée entre ce nom d\'utilisateur et/ou ce mot de passe.';
+$_['error_attempts']                = 'Attention : Votre compte a dépassé le nombre autorisé de tentatives de connexion. Merci d\'essayer à nouveau dans 1 heure.';
+$_['error_approved']                = 'Attention : votre compte nécessite d\'avoir été approuvé avant que vous puissiez vous connecter.';
