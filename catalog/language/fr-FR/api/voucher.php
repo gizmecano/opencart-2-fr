@@ -1,7 +1,7 @@
 <?php
 // Text
-$_['text_success'] = 'Succès: la déduction de votre bon d\'achat a été appliquée!';
-$_['text_cart'] = 'Succès: vous avez correctement modifié votre panier d\'achat!';
+$_['text_success'] = 'Succès : la déduction de votre bon d\'achat a été appliquée!';
+$_['text_cart'] = 'Succès : vous avez correctement modifié votre panier d\'achat!';
 
 $_['text_for'] = '%s bon d\'achat pour %s';
 

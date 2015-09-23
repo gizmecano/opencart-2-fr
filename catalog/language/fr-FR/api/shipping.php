@@ -1,7 +1,7 @@
 <?php
 // Text
-$_['text_address'] = 'Succès: l\'adresse de livraison a été configurée!';
-$_['text_method'] = 'Succès: le mode de livraison a été configuré!';
+$_['text_address'] = 'Succès : l\'adresse de livraison a été configurée!';
+$_['text_method'] = 'Succès : le mode de livraison a été configuré!';
 
 // Error
 $_['error_permission'] = 'Attention : vous n\'êtes pas autorisé à accéder à l\'API!';

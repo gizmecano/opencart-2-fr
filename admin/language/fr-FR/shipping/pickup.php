@@ -4,7 +4,7 @@ $_['heading_title'] = 'Retrait en magasin';
 
 // Text
 $_['text_shipping'] = 'Livraison';
-$_['text_success'] = 'Succès: vous avez modifié le retrait en magasin!';
+$_['text_success'] = 'Succès : vous avez modifié le retrait en magasin!';
 $_['text_edit'] = 'Modifier le retrait en magasin';
 
 // Entry

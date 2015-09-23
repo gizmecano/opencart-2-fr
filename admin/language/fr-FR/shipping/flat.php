@@ -4,7 +4,7 @@ $_['heading_title'] = 'Livraison forfaitaire';
 
 // Text
 $_['text_shipping'] = 'Livraison';
-$_['text_success'] = 'Succès: vous avez modifié la livraison forfaitaire!';
+$_['text_success'] = 'Succès : vous avez modifié la livraison forfaitaire!';
 $_['text_edit'] = 'Modifier la livraison forfaitaire';
 
 // Entry

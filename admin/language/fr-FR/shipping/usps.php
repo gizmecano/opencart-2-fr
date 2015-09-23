@@ -4,7 +4,7 @@ $_['heading_title'] = 'Service US Postal';
 
 // Text
 $_['text_shipping'] = 'Livraison';
-$_['text_success'] = 'Succès: vous avez modifié Service US Postal!';
+$_['text_success'] = 'Succès : vous avez modifié Service US Postal!';
 $_['text_edit'] = 'Modifier Livraison Service US Postal';
 $_['text_domestic_00'] = 'First-Class Mail Parcel';
 $_['text_domestic_01'] = 'First-Class Mail Large Envelope';

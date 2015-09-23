@@ -4,7 +4,7 @@ $_['heading_title'] = 'Royal Mail';
 
 // Text
 $_['text_shipping'] = 'Livraison';
-$_['text_success'] = 'Succès: vous avez modifié la livraison Royal Mail!';
+$_['text_success'] = 'Succès : vous avez modifié la livraison Royal Mail!';
 $_['text_edit'] = 'Modifier la livraison Royal Mail';
 
 // Entry

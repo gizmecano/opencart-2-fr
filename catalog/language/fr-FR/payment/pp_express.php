@@ -13,7 +13,7 @@ $_['text_recurring_item'] = 'Élément récurrent';
 $_['text_length'] = ' pour %s paiements';
 
 // Entry
-$_['express_entry_coupon'] = 'Saisissez le bon de réduction ici:';
+$_['express_entry_coupon'] = 'Saisissez le bon de réduction ici : ';
 
 // Button
 $_['express_button_coupon'] = 'Ajouter';

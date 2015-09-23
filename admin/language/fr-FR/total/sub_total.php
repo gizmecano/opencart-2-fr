@@ -4,7 +4,7 @@ $_['heading_title'] = 'Sous-total';
 
 // Text
 $_['text_total'] = 'Totaux de commande';
-$_['text_success'] = 'Succès: vous avez modifié le total des sous-totaux!';
+$_['text_success'] = 'Succès : vous avez modifié le total des sous-totaux!';
 $_['text_edit'] = 'Modifier le total des sous-totaux';
 
 // Entry

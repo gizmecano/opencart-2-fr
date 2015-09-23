@@ -3,7 +3,7 @@
 $_['heading_title'] = 'Utiliser des points de fidélité (%s disponibles)';
 
 // Text
-$_['text_success'] = 'Succès: la déduction de vos points de fidélité a été appliquée!';
+$_['text_success'] = 'Succès : la déduction de vos points de fidélité a été appliquée!';
 
 // Entry
 $_['entry_reward'] = 'Points à utiliser (%s maximum)';

@@ -9,7 +9,7 @@ $_['text_add'] = 'Ajouter un emplacement de boutique';
 $_['text_edit'] = 'Modifier un emplacement de boutique';
 $_['text_default'] = 'Par défaut';
 $_['text_time'] = 'Horaires d\'ouverture';
-$_['text_geocode'] = 'Géocode n\'a pas réussi pour la raison suivante :';
+$_['text_geocode'] = 'Géocode n\'a pas réussi pour la raison suivante : ';
 
 // Column
 $_['column_name'] = 'Nom de la boutique';

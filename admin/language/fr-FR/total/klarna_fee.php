@@ -4,7 +4,7 @@ $_['heading_title'] = 'Frais Klarna';
 
 // Text
 $_['text_total'] = 'Totaux de commande';
-$_['text_success'] = 'Succès: vous avez modifié le total des frais Klarna!';
+$_['text_success'] = 'Succès : vous avez modifié le total des frais Klarna!';
 $_['text_edit'] = 'Modifier le total des frais Klarna';
 $_['text_sweden'] = 'Suède';
 $_['text_norway'] = 'Norvège';

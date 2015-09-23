@@ -73,10 +73,10 @@ $_['entry_processed_status'] = 'Statut « Traité »';
 $_['entry_refunded_status'] = 'Statut « Remboursé »';
 $_['entry_reversed_status'] = 'Statut « Paiement retourné »';
 $_['entry_voided_status'] = 'Statut « Annulé »';
-$_['entry_cancel_url'] = 'Adresse URL d\'annulation :';
-$_['entry_error_url'] = 'Adresse URL d\'erreurs :';
-$_['entry_return_url'] = 'Adresse URL de retour :';
-$_['entry_post_url'] = 'Adresse URL Silent POST :';
+$_['entry_cancel_url'] = 'Adresse URL d\'annulation : ';
+$_['entry_error_url'] = 'Adresse URL d\'erreurs : ';
+$_['entry_return_url'] = 'Adresse URL de retour : ';
+$_['entry_post_url'] = 'Adresse URL Silent POST : ';
 
 // Help
 $_['help_vendor'] = 'L\'identifiant de connexion que vous avez créé lors de votre inscription à Website Payments Pro';

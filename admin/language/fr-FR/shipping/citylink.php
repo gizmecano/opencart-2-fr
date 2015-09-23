@@ -4,7 +4,7 @@ $_['heading_title'] = 'Citylink';
 
 // Text
 $_['text_shipping'] = 'Livraison';
-$_['text_success'] = 'Succès: vous avez modifié la livraison Citylink!';
+$_['text_success'] = 'Succès : vous avez modifié la livraison Citylink!';
 $_['text_edit'] = 'Modifier la livraison Citylink';
 
 // Entry

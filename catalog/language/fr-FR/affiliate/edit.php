@@ -7,7 +7,7 @@ $_['text_account'] = 'Compte';
 $_['text_edit'] = 'Modifier les informations';
 $_['text_your_details'] = 'Vos données personnelles';
 $_['text_your_address'] = 'Votre adresse';
-$_['text_success'] = 'Succès: votre compte a été correctement mis à jour';
+$_['text_success'] = 'Succès : votre compte a été correctement mis à jour';
 
 // Entry
 $_['entry_firstname'] = 'Prénom';

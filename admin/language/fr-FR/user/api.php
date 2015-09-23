@@ -3,7 +3,7 @@
 $_['heading_title'] = 'Interfaces de programmation (API)';
 
 // Text
-$_['text_success'] = 'Succès: vous avez modifié les API!';
+$_['text_success'] = 'Succès : vous avez modifié les API!';
 $_['text_list'] = 'Liste des API';
 $_['text_add'] = 'Ajouter une API';
 $_['text_edit'] = 'Modifier les API';

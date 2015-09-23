@@ -3,15 +3,15 @@
 $_['text_title'] = 'Carte de crédit ou de débit (SagePay)';
 $_['text_credit_card'] = 'Détails de la carte';
 $_['text_card_type'] = 'Type de carte';
-$_['text_card_name'] = 'Nom de la carte :';
-$_['text_card_digits'] = 'Derniers numéros: ';
+$_['text_card_name'] = 'Nom de la carte : ';
+$_['text_card_digits'] = 'Derniers numéros : ';
 $_['text_card_expiry'] = 'Date d\'expiration';
 $_['text_trial'] = '%s chaque %s %s pour %s paiements soit ';
 $_['text_recurring'] = '%s chaque %s %s';
 $_['text_length'] = ' pour %s paiements';
 
 // Entry
-$_['entry_card'] = 'Nouvelle carte ou carte existante: ';
+$_['entry_card'] = 'Nouvelle carte ou carte existante : ';
 $_['entry_card_existing'] = 'Existant';
 $_['entry_card_new'] = 'Nouveau';
 $_['entry_card_save'] = 'Se souvenir des détails de la carte';

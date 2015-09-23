@@ -4,7 +4,7 @@ $_['heading_title'] = 'Sauvegarde et restauration';
 
 // Text
 $_['text_backup'] = 'Sauvegarder';
-$_['text_success'] = 'Succès: la base de données a été correctement sauvegardée!';
+$_['text_success'] = 'Succès : la base de données a été correctement sauvegardée!';
 $_['text_list'] = 'Liste des transferts';
 
 // Entry

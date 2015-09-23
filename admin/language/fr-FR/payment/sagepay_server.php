@@ -4,7 +4,7 @@ $_['heading_title'] = 'SagePay Server';
 
 // Text
 $_['text_payment'] = 'Paiement';
-$_['text_success'] = 'Succès: vous avez modifié les détails du compte SagePay!';
+$_['text_success'] = 'Succès : vous avez modifié les détails du compte SagePay!';
 $_['text_edit'] = 'Modifier SagePay Server';
 $_['text_sagepay_server'] = '<a href="https://support.sagepay.com/apply/default.aspx?PartnerID=E511AF91-E4A0-42DE-80B0-09C981A3FB61" target="_blank"><img src="view/image/payment/sagepay.png" alt="SagePay" title="SagePay" style="border: 1px solid #EEEEEE;" /></a>';
 $_['text_sim'] = 'Simulateur';
@@ -44,8 +44,8 @@ $_['entry_sort_order'] = 'Classement';
 $_['entry_debug'] = 'Enregistrement de débogage';
 $_['entry_card'] = 'Cartes de magasin';
 $_['entry_cron_job_token'] = 'Jeton secret';
-$_['entry_cron_job_url'] = 'Cron Job\'s URL:';
-$_['entry_last_cron_job_run'] = 'Dernière date du fonctionnement CRON:';
+$_['entry_cron_job_url'] = 'Cron Job\'s URL : ';
+$_['entry_last_cron_job_run'] = 'Dernière date du fonctionnement CRON : ';
 
 // Help
 $_['help_total'] = 'Le montant total que la commande doit atteindre avant que ce module de paiement devienne actif.';

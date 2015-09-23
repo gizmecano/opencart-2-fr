@@ -7,7 +7,7 @@ $_['text_account'] = 'Compte';
 $_['text_forgotten'] = 'Mot de passe oublié';
 $_['text_your_email'] = 'Votre adresse électronique';
 $_['text_email'] = 'Saisissez l\'adresse électronique associée à votre compte. Cliquez sur soumettre pour que votre mot de passe vous soit envoyé par courrier électronique.';
-$_['text_success'] = 'Succès: un nouveau mot de passe a été envoyé à votre adresse électronique.';
+$_['text_success'] = 'Succès : un nouveau mot de passe a été envoyé à votre adresse électronique.';
 
 // Entry
 $_['entry_email'] = 'Adresse électronique';

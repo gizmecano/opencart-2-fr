@@ -3,7 +3,7 @@
 $_['heading_title'] = 'IP bannies';
 
 // Text
-$_['text_success'] = 'Succès: vous avez modifié les IP bannies!';
+$_['text_success'] = 'Succès : vous avez modifié les IP bannies!';
 $_['text_list'] = 'Liste des IP bannies';
 $_['text_add'] = 'Ajouter une IP bannie';
 $_['text_edit'] = 'Modifier une IP bannie';

@@ -3,7 +3,7 @@
 $_['heading_title'] = 'Groupes d\'utilisateurs';
 
 // Text
-$_['text_success'] = 'Succès: vous avez modifié les groupes d\'utilisateurs!';
+$_['text_success'] = 'Succès : vous avez modifié les groupes d\'utilisateurs!';
 $_['text_list'] = 'Groupe d\'utilisateurs';
 $_['text_add'] = 'Ajouter un groupe d\'utilisateurs';
 $_['text_edit'] = 'Modifier un groupe d\'utilisateurs';

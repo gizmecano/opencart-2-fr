@@ -1,6 +1,6 @@
 <?php
 // Text
-$_['text_success'] = 'Succès: la déduction de vos points de fidélité a bien été appliquée!';
+$_['text_success'] = 'Succès : la déduction de vos points de fidélité a bien été appliquée!';
 
 // Error
 $_['error_permission'] = 'Attention : vous n\'êtes pas autorisé à accéder à l\'API!';

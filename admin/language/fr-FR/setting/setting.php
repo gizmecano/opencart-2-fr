@@ -4,7 +4,7 @@ $_['heading_title'] = 'Paramètres';
 
 // Text
 $_['text_stores'] = 'Boutiques';
-$_['text_success'] = 'Succès: vous avez modifié les paramètres!';
+$_['text_success'] = 'Succès : vous avez modifié les paramètres!';
 $_['text_edit'] = 'Modifier les paramètres';
 $_['text_product'] = 'Produits';
 $_['text_review'] = 'Évaluations';

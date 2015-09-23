@@ -18,9 +18,9 @@ $_['text_orders_imported'] = 'Le réception de commandes a été demandée.';
 $_['text_api_status'] = 'Connexion API';
 
 // Entry
-$_['entry_import_def_id'] = 'Importer le statut par défaut (non payé) :';
-$_['entry_import_paid_id'] = 'Statut payé :';
-$_['entry_import_shipped_id'] = 'Statut expédié :';
+$_['entry_import_def_id'] = 'Importer le statut par défaut (non payé) : ';
+$_['entry_import_paid_id'] = 'Statut payé : ';
+$_['entry_import_shipped_id'] = 'Statut expédié : ';
 $_['entry_enc1'] = 'Chiffrement API 1';
 $_['entry_enc2'] = 'Chiffrement API 2';
 $_['entry_token'] = 'Jeton de l\'API';

@@ -3,7 +3,7 @@
 $_['heading_title'] = 'Retours de produits';
 
 // Text
-$_['text_success'] = 'Succès: vous avez modifié les retours de produits!';
+$_['text_success'] = 'Succès : vous avez modifié les retours de produits!';
 $_['text_list'] = 'Liste des retours de produits';
 $_['text_add'] = 'Ajouter un retour de produit';
 $_['text_edit'] = 'Modifier un retour de produit';

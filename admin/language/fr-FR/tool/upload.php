@@ -3,7 +3,7 @@
 $_['heading_title'] = 'Transfert de fichiers';
 
 // Text
-$_['text_success'] = 'Succès: vous avez modifié le fichier transféré!';
+$_['text_success'] = 'Succès : vous avez modifié le fichier transféré!';
 $_['text_list'] = 'Liste des transferts';
 
 // Column

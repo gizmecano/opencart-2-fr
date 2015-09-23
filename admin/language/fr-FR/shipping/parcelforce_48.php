@@ -4,7 +4,7 @@ $_['heading_title'] = 'Parcelforce 48';
 
 // Text
 $_['text_shipping'] = 'Livraison';
-$_['text_success'] = 'Succès: vous avez modifié la livraison Parcelforce 48!';
+$_['text_success'] = 'Succès : vous avez modifié la livraison Parcelforce 48!';
 $_['text_edit'] = 'Modifier Pla livraison Parcelforce 48';
 
 // Entry

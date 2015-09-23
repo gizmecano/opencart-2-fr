@@ -3,11 +3,11 @@
 $_['heading_title'] = 'Bons d\'achat';
 
 // Text
-$_['text_success'] = 'Succès: vous avez modifié les bons d\'achat!';
+$_['text_success'] = 'Succès : vous avez modifié les bons d\'achat!';
 $_['text_list'] = 'Liste des bons d\'achat';
 $_['text_add'] = 'Ajouter un bon d\'achat';
 $_['text_edit'] = 'Modifier un bon d\'achat';
-$_['text_sent'] = 'Succès: le bon d\'achat a été envoyé!';
+$_['text_sent'] = 'Succès : le bon d\'achat a été envoyé!';
 
 // Column
 $_['column_name'] = 'Nom du bon d\'achat';

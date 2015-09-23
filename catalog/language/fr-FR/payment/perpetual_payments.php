@@ -2,11 +2,11 @@
 // Text
 $_['text_title'] = 'Carte de crédit ou de débit (Processed securely by Perpetual Payments)';
 $_['text_credit_card'] = 'Détails de la carte de crédit';
-$_['text_transaction'] = 'Identifiant de transaction :';
-$_['text_avs'] = 'AVS/CVV:';
+$_['text_transaction'] = 'Identifiant de transaction : ';
+$_['text_avs'] = 'AVS/CVV : ';
 $_['text_avs_full_match'] = 'Correspondance complète';
 $_['text_avs_not_match'] = 'Aucune correspondance';
-$_['text_authorisation'] = 'Code d\'autorisation:';
+$_['text_authorisation'] = 'Code d\'autorisation : ';
 
 // Entry
 $_['entry_cc_number'] = 'Numéro de la carte';

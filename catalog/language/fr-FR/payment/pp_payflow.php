@@ -7,13 +7,13 @@ $_['text_issue'] = '(pour les cartes Maestro et Solo seulement)';
 $_['text_wait'] = 'Veuillez patientez';
 
 // Entry
-$_['entry_cc_owner'] = 'Propriétaire de la carte:';
-$_['entry_cc_type'] = 'Type de la carte:';
-$_['entry_cc_number'] = 'Numéro de la carte:';
-$_['entry_cc_start_date'] = 'Date de début de validité de la carte:';
-$_['entry_cc_expire_date'] = 'Date d\'expiration de la carte:';
+$_['entry_cc_owner'] = 'Propriétaire de la carte : ';
+$_['entry_cc_type'] = 'Type de la carte : ';
+$_['entry_cc_number'] = 'Numéro de la carte : ';
+$_['entry_cc_start_date'] = 'Date de début de validité de la carte : ';
+$_['entry_cc_expire_date'] = 'Date d\'expiration de la carte : ';
 $_['entry_cc_cvv2'] = 'Cryptogramme visuel';
-$_['entry_cc_issue'] = 'Numéro d\'émission de la carte:';
+$_['entry_cc_issue'] = 'Numéro d\'émission de la carte : ';
 
 // Error
 $_['error_required'] = 'Attention : tous les champs d\'information de paiement sont requis.';

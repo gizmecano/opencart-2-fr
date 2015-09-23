@@ -1,6 +1,6 @@
 <?php
 // Text
-$_['text_success'] = 'Succès: vous avez correctement modifié votre panier d\'achat!';
+$_['text_success'] = 'Succès : vous avez correctement modifié votre panier d\'achat!';
 
 // Error
 $_['error_permission'] = 'Attention : vous n\'êtes pas autorisé à accéder à l\'API!';

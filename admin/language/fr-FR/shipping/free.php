@@ -4,7 +4,7 @@ $_['heading_title'] = 'Livraison gratuite';
 
 // Text
 $_['text_shipping'] = 'Livraison';
-$_['text_success'] = 'Succès: vous avez modifié la livraison gratuite!';
+$_['text_success'] = 'Succès : vous avez modifié la livraison gratuite!';
 $_['text_edit'] = 'Modifier la livraison gratuite';
 
 // Entry

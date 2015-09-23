@@ -3,7 +3,7 @@
 $_['heading_title'] = 'Boutiques';
 
 // Text
-$_['text_success'] = 'Succès: vous avez modifié les boutiques!';
+$_['text_success'] = 'Succès : vous avez modifié les boutiques!';
 $_['text_list'] = 'Liste des boutiques';
 $_['text_add'] = 'Ajouter une boutique';
 $_['text_edit'] = 'Modifier les boutiques';
@@ -121,4 +121,4 @@ $_['error_image_wishlist'] = 'Taille des images des produits de la liste de souh
 $_['error_image_cart'] = 'Taille des images des produits dans le panier requise!';
 $_['error_image_location'] = 'Taille des images des produits de la boutique requise!';
 $_['error_default'] = 'Attention : vous ne pouvez pas supprimer votre boutique par défaut!';
-$_['error_store'] = 'Attention : cette boutique ne peut pas être supprimée car elle est actuellement attribuée à  %s commandes!';
+$_['error_store'] = 'Attention : cette boutique ne peut pas être supprimée car elle est actuellement attribuée à %s commandes!';

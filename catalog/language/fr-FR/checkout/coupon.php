@@ -3,7 +3,7 @@
 $_['heading_title'] = 'Utiliser un code de réduction';
 
 // Text
-$_['text_success'] = 'Succès: la réduction de votre bon a été appliquée';
+$_['text_success'] = 'Succès : la réduction de votre bon a été appliquée';
 
 // Entry
 $_['entry_coupon'] = 'Saisissez le bon de réduction ici';

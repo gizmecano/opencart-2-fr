@@ -1,8 +1,8 @@
 <?php
 // Text
 $_['text_title'] = 'Royal Mail';
-$_['text_weight'] = 'Poids :';
-$_['text_insurance'] = 'Assuré jusqu\'à:';
+$_['text_weight'] = 'Poids : ';
+$_['text_insurance'] = 'Assuré jusqu\'à : ';
 $_['text_1st_class_standard'] = 'First Class Standard Post';
 $_['text_1st_class_recorded'] = 'First Class Recorded Post';
 $_['text_2nd_class_standard'] = 'Second Class Standard Post';

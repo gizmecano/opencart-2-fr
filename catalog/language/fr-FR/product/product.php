@@ -2,13 +2,13 @@
 // Text
 $_['text_search'] = 'Rechercher';
 $_['text_brand'] = 'Marque';
-$_['text_manufacturer'] = 'Fabricant :';
-$_['text_model'] = 'Référence :';
-$_['text_reward'] = 'Points de fidélité :';
-$_['text_points'] = 'Prix en points de fidélité :';
-$_['text_stock'] = 'Disponibilité :';
+$_['text_manufacturer'] = 'Fabricant : ';
+$_['text_model'] = 'Référence : ';
+$_['text_reward'] = 'Points de fidélité : ';
+$_['text_points'] = 'Prix en points de fidélité : ';
+$_['text_stock'] = 'Disponibilité : ';
 $_['text_instock'] = 'Disponible';
-$_['text_tax'] = 'Prix hors taxes :';
+$_['text_tax'] = 'Prix hors taxes : ';
 $_['text_discount'] = ' ou plus ';
 $_['text_option'] = 'Options disponibles';
 $_['text_minimum'] = 'Ce produit a une quantité minimale de %s';
@@ -19,7 +19,7 @@ $_['text_no_reviews'] = 'Il n\'y a aucune évaluation sur ce produit.';
 $_['text_note'] = '<span class="text-danger"> Attention :</span> le HTML n\'est pas transcrit !';
 $_['text_success'] = 'Merci pour votre évaluation. Elle a été soumise au webmestre pour approbation.';
 $_['text_related'] = 'Produits liés';
-$_['text_tags'] = 'Mots-clefs :';
+$_['text_tags'] = 'Mots-clefs : ';
 $_['text_error'] = 'Produit non trouvé !';
 $_['text_payment_recurring'] = 'Profils de paiement';
 $_['text_trial_description'] = '%s chaque %s(s) %d pour %d paiements alors';

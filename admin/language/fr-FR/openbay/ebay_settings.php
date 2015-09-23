@@ -75,13 +75,13 @@ $_['entry_password_prompt'] = 'Veuillez entrer votre mot de passe administrateur
 $_['entry_notify_order_update'] = 'Mises à jour de commande';
 $_['entry_notify_buyer'] = 'Nouvelle commande - acheteur';
 $_['entry_notify_admin'] = 'Nouvelle commande - administrateur';
-$_['entry_import_pending'] = 'Importer les commandes impayées :';
-$_['entry_import_def_id'] = 'Statut par défaut d\'importation :';
-$_['entry_import_paid_id'] = 'Statut payé :';
+$_['entry_import_pending'] = 'Importer les commandes impayées : ';
+$_['entry_import_def_id'] = 'Statut par défaut d\'importation : ';
+$_['entry_import_paid_id'] = 'Statut payé : ';
 $_['entry_import_shipped_id'] = 'Statut de la livraison : ';
-$_['entry_import_cancelled_id'] = 'Statut annulé :';
-$_['entry_import_refund_id'] = 'Statut remboursé :';
-$_['entry_import_part_refund_id'] = 'Statut partiellement remboursé :';
+$_['entry_import_cancelled_id'] = 'Statut annulé : ';
+$_['entry_import_refund_id'] = 'Statut remboursé : ';
+$_['entry_import_part_refund_id'] = 'Statut partiellement remboursé : ';
 
 // Tabs
 $_['tab_api_info'] = 'Paramètres de l\'API';

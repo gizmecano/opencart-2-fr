@@ -4,7 +4,7 @@ $_['heading_title'] = 'Livraison basée sur le poids';
 
 // Text
 $_['text_shipping'] = 'Livraison';
-$_['text_success'] = 'Succès: vous avez modifié la livraison basée sur le poids!';
+$_['text_success'] = 'Succès : vous avez modifié la livraison basée sur le poids!';
 $_['text_edit'] = 'Modifier la livraison basée sur le poids';
 
 // Entry

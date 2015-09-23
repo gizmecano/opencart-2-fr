@@ -10,7 +10,7 @@ $_['text_your_password'] = 'Votre mot de passe';
 $_['text_cheque'] = 'Chèque';
 $_['text_paypal'] = 'PayPal';
 $_['text_bank'] = 'Virement bancaire';
-$_['text_success'] = 'Succès: votre compte a été correctement mis à jour';
+$_['text_success'] = 'Succès : votre compte a été correctement mis à jour';
 
 // Entry
 $_['entry_tax'] = 'Identification fiscale';

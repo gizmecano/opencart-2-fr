@@ -3,7 +3,7 @@
 $_['heading_title'] = 'Clients';
 
 // Text
-$_['text_success'] = 'Succès: vous avez modifié les clients!';
+$_['text_success'] = 'Succès : vous avez modifié les clients!';
 $_['text_list'] = 'Listes de clients';
 $_['text_add'] = 'Ajouter un client';
 $_['text_edit'] = 'Modifier un client';

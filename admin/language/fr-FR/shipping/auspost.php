@@ -4,7 +4,7 @@ $_['heading_title'] = 'Australia Post';
 
 // Text
 $_['text_shipping'] = 'Livraison';
-$_['text_success'] = 'Succès: vous avez modifié la livraison par Australia Post!';
+$_['text_success'] = 'Succès : vous avez modifié la livraison par Australia Post!';
 $_['text_edit'] = 'Modifier la livraison par Australia Post';
 
 // Entry

@@ -4,7 +4,7 @@ $_['heading_title'] = 'Livraison par articles';
 
 // Text
 $_['text_shipping'] = 'Livraison';
-$_['text_success'] = 'Succès: vous avez modifié la livraison par articles!';
+$_['text_success'] = 'Succès : vous avez modifié la livraison par articles!';
 $_['text_edit'] = 'Modifier la livraison par articles';
 
 // Entry

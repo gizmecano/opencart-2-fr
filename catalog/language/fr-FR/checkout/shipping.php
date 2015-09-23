@@ -3,7 +3,7 @@
 $_['heading_title'] = 'Estimation des frais de livraison et des taxes';
 
 // Text
-$_['text_success'] = 'Succès: votre estimation des frais de livraison a été appliquée!';
+$_['text_success'] = 'Succès : votre estimation des frais de livraison a été appliquée!';
 $_['text_shipping'] = 'Saisissez la destination pour obtenir une estimation des frais de livraison.';
 $_['text_shipping_method'] = 'Veuillez sélectionner le mode de livraison pour cette commande.';
 

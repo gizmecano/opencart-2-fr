@@ -3,7 +3,7 @@
 $_['heading_title'] = 'Thèmes des bons d\'achat';
 
 // Text
-$_['text_success'] = 'Succès: vous avez modifié les thèmes de bons d\'achat!';
+$_['text_success'] = 'Succès : vous avez modifié les thèmes de bons d\'achat!';
 $_['text_list'] = 'Liste des thème de bons d\'achat';
 $_['text_add'] = 'Ajouter un thème de bons d\'achat';
 $_['text_edit'] = 'Modifier un thème de bons d\'achat';

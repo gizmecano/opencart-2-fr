@@ -1,8 +1,8 @@
 <?php
 // Text
 $_['text_title'] = 'FedEx';
-$_['text_weight'] = 'Poids :';
-$_['text_eta'] = 'Temps estimé :';
+$_['text_weight'] = 'Poids : ';
+$_['text_eta'] = 'Temps estimé : ';
 $_['text_europe_first_international_priority'] = 'FedEx Europe First®';
 $_['text_fedex_1_day_freight'] = 'FedEx 1Day Freight';
 $_['text_fedex_2_day'] = 'FedEx 2Day®';

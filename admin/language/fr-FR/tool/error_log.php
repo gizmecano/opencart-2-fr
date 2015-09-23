@@ -3,7 +3,7 @@
 $_['heading_title'] = 'Journal des erreurs';
 
 // Text
-$_['text_success'] = 'Succès: vous avez nettoyé votre journal des erreurs';
+$_['text_success'] = 'Succès : vous avez nettoyé votre journal des erreurs';
 $_['text_list'] = 'Liste des erreurs';
 
 // Error

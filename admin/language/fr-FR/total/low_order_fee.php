@@ -4,7 +4,7 @@ $_['heading_title'] = 'Frais de faible commande';
 
 // Text
 $_['text_total'] = 'Totaux de commande';
-$_['text_success'] = 'Succès: vous avez modifié le total de frais de faible commande!';
+$_['text_success'] = 'Succès : vous avez modifié le total de frais de faible commande!';
 $_['text_edit'] = 'Modifier le total de frais de faible commande';
 
 // Entry

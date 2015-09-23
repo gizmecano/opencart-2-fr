@@ -6,7 +6,7 @@ $_['heading_title'] = 'Programme d\'affiliation';
 $_['text_account'] = 'Compte';
 $_['text_register'] = 'Inscription d\'un affilié';
 $_['text_account_already'] = 'Si vous avez déjà un compte, merci de <a href="%s">vous connecter</a>.';
-$_['text_signup'] = 'Pour créer un compte d\'affilié, remplissez le formulaire ci-dessous et assurez-vous d\'avoir bien complété tous les champs requis:';
+$_['text_signup'] = 'Pour créer un compte d\'affilié, remplissez le formulaire ci-dessous et assurez-vous d\'avoir bien complété tous les champs requis : ';
 $_['text_your_details'] = 'Vos données personnelles';
 $_['text_your_address'] = 'Détails de votre adresse';
 $_['text_payment'] = 'Information de paiement';

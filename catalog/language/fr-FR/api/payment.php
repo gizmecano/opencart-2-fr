@@ -1,7 +1,7 @@
 <?php
 // Text
-$_['text_address'] = 'Succès: l\'adresse de paiement a été configurée!';
-$_['text_method'] = 'Succès: le moyen de paiement a été configuré!';
+$_['text_address'] = 'Succès : l\'adresse de paiement a été configurée!';
+$_['text_method'] = 'Succès : le moyen de paiement a été configuré!';
 
 // Error
 $_['error_permission'] = 'Attention : vous n\'êtes pas autorisé à accéder à l\'API!';
