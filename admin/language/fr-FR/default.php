@@ -105,7 +105,7 @@ $_['tab_admin']                     = 'Administrateur';
 $_['tab_attribute']                 = 'Allouer';
 $_['tab_customer']                  = 'Détails du client';
 $_['tab_data']                      = 'Données';
-$_['tab_design']                    = 'Conception graphique';
+$_['tab_design']                    = 'Mise en page';
 $_['tab_discount']                  = 'Réduction';
 $_['tab_general']                   = 'Général';
 $_['tab_history']                   = 'Historique';
@@ -138,7 +138,7 @@ $_['tab_recurring']                 = 'Récurrent';
 $_['tab_action']                    = 'Action';
 
 // Error
-$_['error_exception']               = 'Code d\'erreur (%s): %s dans %s on line %s';
+$_['error_exception']               = 'Code d\'erreur (%s): %s dans %s à la ligne %s';
 $_['error_upload_1']                = 'Attention: le fichier transféré dépasse la directive upload_max_filesize dans <php.ini>!';
 $_['error_upload_2']                = 'Attention: le fichier transféré dépasse la directive MAX_FILE_SIZE qui est spécifiée dans le formulaire HTML!';
 $_['error_upload_3']                = 'Attention: le fichier n\'a été transféré que partiellement!';

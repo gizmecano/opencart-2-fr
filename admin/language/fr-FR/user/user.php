@@ -3,7 +3,7 @@
 $_['heading_title']     = 'Utilisateurs';
 
 // Text
-$_['text_success']      = 'Succès: vous avez modifié users!';
+$_['text_success']      = 'Succès: vous avez modifié les utilisateurs!';
 $_['text_list']         = 'Liste des utilisateurs';
 $_['text_add']          = 'Ajouter un utilisateur';
 $_['text_edit']         = 'Modifier un utilisateur';
@@ -27,7 +27,7 @@ $_['entry_status']     	= 'Statut';
 
 // Error
 $_['error_permission'] 	= 'Attention: vous n\'avez pas la permission de modifier les utilisateurs!';
-$_['error_account']    	= 'Attention: vous ne pouvez pas supprimé votre propre compte!';
+$_['error_account']    	= 'Attention: vous ne pouvez pas supprimer votre propre compte!';
 $_['error_exists']     	= 'Attention: ce nom d\'utilisateur est déjà utilisé!';
 $_['error_username']   	= 'Le nom d\'utilisateur doit contenir entre 3 et 20 caractères!';
 $_['error_password']   	= 'Le mot de passe doit contenir entre 4 et 20 caractères !';

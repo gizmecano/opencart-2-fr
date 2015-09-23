@@ -43,7 +43,7 @@ $_['entry_product']                        = 'Produit';
 $_['entry_quantity']                       = 'Quantité';
 $_['entry_amount']                         = 'Montant';
 $_['entry_recurring']                      = 'Profil récurrent';
-$_['entry_payment_method']                 = 'Mode de paiement';
+$_['entry_payment_method']                 = 'Moyen de paiement';
 
 // Error / Success
 $_['error_not_cancelled']                  = 'Erreur :  %s';

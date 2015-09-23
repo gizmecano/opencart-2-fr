@@ -1,6 +1,6 @@
 <?php
 // Heading
-$_['heading_title']     = 'Livraison';
+$_['heading_title']     = 'Modes de livraison';
 
 // Text
 $_['text_success']      = 'Vous venez de modifier les modes de livraison !';
