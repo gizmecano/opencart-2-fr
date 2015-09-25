@@ -29,5 +29,5 @@ $_['error_product_id'] = 'Identifiant du produit requis';
 $_['error_etsy_id'] = 'Identifiant de l\'objet Etsy requis';
 $_['error_link_id'] = 'Identifiant de la liaison requis';
 $_['error_link_exists'] = 'Une liaison active existe déjà pour cet objet';
-$_['error_etsy'] = 'Impossible de lier l\'objet ; Réponse de l\'API Etsy : ';
+$_['error_etsy'] = 'Impossible de lier l\'objet. Réponse de l\'API Etsy : ';
 $_['error_status'] = 'Le filtre du statut est requis';

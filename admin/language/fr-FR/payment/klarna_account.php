@@ -34,6 +34,6 @@ $_['help_total'] = 'Le montant total que la commande doit atteindre avant que ce
 
 // Error
 $_['error_permission'] = 'Attention : vous n\'êtes pas autorisé à modifier les paramètres du module de paiement Klarna !';
-$_['error_pclass'] = 'Impossible de récupérer pClass pour %s. Code d\'erreur : %s ; Message d\'erreur : %s';
-$_['error_curl'] = 'Erreur cURL- Code : %d; Message : %s';
+$_['error_pclass'] = 'Impossible de récupérer pClass pour %s. Code d\'erreur : %s. Message d\'erreur : %s';
+$_['error_curl'] = 'Erreur cURL. Code : %d. Message : %s';
 $_['error_log'] = 'Il y a eu des erreurs de mise à jour du module. Veuillez vérifier le fichier journal.';
