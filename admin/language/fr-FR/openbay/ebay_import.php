@@ -25,7 +25,7 @@ $_['entry_import'] = 'Importer des objets eBay';
 $_['button_import'] = 'Importer';
 
 // Help
-$_['help_import_item_advanced'] = 'Il faut compter jusqu\'à 10 fois plus de temps pour importer des éléments. Importer les poids, tailles, ISBN, etc. si disponible';
+$_['help_import_item_advanced'] = 'Il faut compter jusqu\'à 10 fois plus de temps pour importer des éléments. Importer les poids, tailles, ISBN, etc. Si disponible';
 $_['help_import_categories'] = 'Crée une structure de catégories dans votre boutique à partir des catégories eBay';
 $_['help_import_description'] = 'Ceci importera tout, y compris la partie HTML, les compteurs de visites, etc.';
 
