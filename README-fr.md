@@ -4,7 +4,7 @@
 
 ## Introduction
 
-OpenCart-2-fr est un pack de langue pour la plateforme de commerce en ligne [OpenCart](http://www.opencart.com/) (version 2.x). Initié dans le cadre du projet (non-officiel) libre et gratuit [OpenCart Translation v.2](https://crowdin.com/project/opencart-translation-v2) (cf. [ce fichier](readme.txt) pour plus d'information), il rassemble des propositions de traduction pour une localisation française complète de l'interface d'administration (*backend*) ainsi que de la boutique en ligne (*frontend*).
+OpenCart-2-fr est un pack de langue française pour la plateforme de commerce en ligne [OpenCart](http://www.opencart.com/) (version 2.x). Initié dans le cadre du projet (non-officiel) libre et gratuit [OpenCart Translation v.2](https://crowdin.com/project/opencart-translation-v2) (cf. [ce fichier](readme.txt) pour plus d'information), il rassemble des propositions de traduction pour une localisation française complète de l'interface d'administration (*backend*) ainsi que de la boutique en ligne (*frontend*).
 
 ## Installation
 
@@ -40,7 +40,7 @@ Toutes suggestions ou propositions (traduction, optimisation, etc.) peuvent êtr
 
 ## Licence
 
-OpenCart-2-fr : pack de langue pour la plateforme de commerce en ligne OpenCart (version 2.x)
+OpenCart-2-fr : pack de langue française pour la plateforme de commerce en ligne OpenCart (version 2.x)
 
 ---
 

@@ -4,7 +4,7 @@ English | [Français](README-fr.md)
 
 ## Introduction
 
-OpenCart-2-fr is a language pack for the ecommerce platform [OpenCart](http://www.opencart.com/) (version 2.x). Started within the context of the (unofficial) open and free project [OpenCart Translation v.2](https://crowdin.com/project/opencart-translation-v2) (cf. [this file](readme.txt) for further details), it brings together translation proposals for a complete French localization of the administration interface (*backend*) as well as the online store (*frontend*).
+OpenCart-2-fr is a French language pack for the ecommerce platform [OpenCart](http://www.opencart.com/) (version 2.x). Started within the context of the (unofficial) open and free project [OpenCart Translation v.2](https://crowdin.com/project/opencart-translation-v2) (cf. [this file](readme.txt) for further details), it brings together translation proposals for a complete French localization of the administration interface (*backend*) as well as the online store (*frontend*).
 
 ## Installation
 
@@ -40,7 +40,7 @@ Any suggestions or submissions (translation, optimisation, etc.) might be consid
 
 ## Licence
 
-OpenCart-2-fr: a language pack for the ecommerce platform OpenCart (version 2.x)
+OpenCart-2-fr: a French language pack for the ecommerce platform OpenCart (version 2.x)
 
 ---
 
