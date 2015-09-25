@@ -8,7 +8,7 @@ $_['text_remove'] = 'Succès : vous avez correctement modifié votre panier d\'a
 $_['text_login'] = 'Attention : vous devez <a href="%s">vous connecter</a> ou <a href="%s">créer un compte</a> pour consulter les prix !';
 $_['text_items'] = '%s articles(s) - %s';
 $_['text_points'] = 'Points de fidélité: %s';
-$_['text_next'] = 'Que souhaitez-vous faire ensuite?';
+$_['text_next'] = 'Que souhaitez-vous faire ensuite ?';
 $_['text_next_choice'] = 'Choisissez si vous souhaitez utiliser un code de réduction ou un bon d\'achat pour estimer les frais d\'expédition.';
 $_['text_empty'] = 'Votre panier d\'achat est vide !';
 $_['text_day'] = 'jour';

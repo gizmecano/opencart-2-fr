@@ -109,9 +109,9 @@ $_['text_rebate_ok'] = 'Remboursement effectué';
 $_['text_rebate_ok_order'] = 'Remboursement effectué : le statut de la commande a été mis à jour';
 $_['text_void_ok'] = 'L\'annulation a réussie : le statut de la commande a été mis à jour';
 
-$_['text_confirm_void'] = 'Êtes vous certain de vouloir inverser l\'autorisation?';
-$_['text_confirm_release'] = 'Êtes-vous certain de vouloir envoyer ce paiement?';
-$_['text_confirm_rebate'] = 'Êtes-vous certain de vouloir remboursement le paiement?';
+$_['text_confirm_void'] = 'Êtes vous certain de vouloir inverser l\'autorisation ?';
+$_['text_confirm_release'] = 'Êtes-vous certain de vouloir envoyer ce paiement ?';
+$_['text_confirm_rebate'] = 'Êtes-vous certain de vouloir remboursement le paiement ?';
 
 $_['btn_release'] = 'Envoi';
 $_['btn_rebate'] = 'Remise et/ou remboursement';

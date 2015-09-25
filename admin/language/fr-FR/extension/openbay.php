@@ -76,7 +76,7 @@ $_['entry_ftp_beta'] = 'Utiliser la version bêta';
 $_['entry_courier'] = 'Service de messagerie';
 $_['entry_courier_other'] = 'Autre service de messageries';
 $_['entry_tracking'] = 'Suivi de #';
-$_['entry_empty_data'] = 'Empty store data?';
+$_['entry_empty_data'] = 'Empty store data ?';
 $_['entry_password_prompt'] = 'Please enter the data wipe password';
 $_['entry_update'] = 'Easy 1 click update';
 

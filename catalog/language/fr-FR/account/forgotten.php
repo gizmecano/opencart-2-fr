@@ -1,6 +1,6 @@
 <?php
 // Heading
-$_['heading_title'] = 'Avez-vous oublié votre mot de passe ?';
+$_['heading_title'] = 'Avez-vous oublié votre mot de passe ?';
 
 // Text
 $_['text_account'] = 'Compte';

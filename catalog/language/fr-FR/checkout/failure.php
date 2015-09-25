@@ -10,8 +10,8 @@ $_['text_message'] = '<p>Un problème a été rencontré lors du traitement de v
 
 <p>Les raisons possibles sont:</p>
 <ul>
-  <li>Fonds insuffisants</li>
-  <li>Echec de la vérification</li>
+ <li>Fonds insuffisants</li>
+ <li>Echec de la vérification</li>
 </ul>
 
 <p>Veuillez essayer de commander à nouveau en utilisant un autre moyen de paiement.</p>
