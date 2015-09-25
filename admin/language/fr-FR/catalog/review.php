@@ -3,7 +3,7 @@
 $_['heading_title'] = 'Évaluations';
 
 // Text
-$_['text_success'] = 'Modification d\'évaluation réussie!';
+$_['text_success'] = 'Modification d\'évaluation réussie !';
 $_['text_list'] = 'Liste des évaluations';
 $_['text_add'] = 'Ajouter une évaluation';
 $_['text_edit'] = 'Modifier une évaluation';

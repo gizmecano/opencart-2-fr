@@ -25,5 +25,5 @@ $_['entry_sort_order'] = 'Classement';
 $_['help_total'] = 'Le montant total que la commande doit atteindre avant que ce module de paiement devienne actif.';
 
 // Error
-$_['error_permission'] = 'Attention : vous n\'avez pas la permission de modifier Skrill!';
+$_['error_permission'] = 'Attention : vous n\'avez pas la permission de modifier Skrill !';
 $_['error_email'] = 'L\'adresse adresse électronique est requise !';

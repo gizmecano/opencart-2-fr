@@ -3,7 +3,7 @@
 $_['heading_title'] = 'Boutiques';
 
 // Text
-$_['text_success'] = 'Succès : vous avez modifié les boutiques!';
+$_['text_success'] = 'Succès : vous avez modifié les boutiques !';
 $_['text_list'] = 'Liste des boutiques';
 $_['text_add'] = 'Ajouter une boutique';
 $_['text_edit'] = 'Modifier les boutiques';
@@ -100,25 +100,25 @@ $_['help_secure'] = 'Pour utiliser le SSL, vérifier auprès de votre hébergeur
 
 // Error
 $_['error_warning'] = 'Attention : veuillez vérifier le formulaire';
-$_['error_permission'] = 'Attention : vous n\'avez pas la permission de modifier stores!';
-$_['error_name'] = 'Le nom de la boutique doit contenir entre 3 et 32 caractères!';
-$_['error_owner'] = 'Le nom du propriétaire de la boutique doit contenir entre 3 et 64 caractères!';
-$_['error_address'] = 'L\'adresse de la boutique doit contenir entre 10 et 256 caractères!';
+$_['error_permission'] = 'Attention : vous n\'avez pas la permission de modifier stores !';
+$_['error_name'] = 'Le nom de la boutique doit contenir entre 3 et 32 caractères !';
+$_['error_owner'] = 'Le nom du propriétaire de la boutique doit contenir entre 3 et 64 caractères !';
+$_['error_address'] = 'L\'adresse de la boutique doit contenir entre 10 et 256 caractères !';
 $_['error_email'] = 'L\'adresse électronique ne semble pas être valide !';
 $_['error_telephone'] = 'Le numéro de téléphone doit contenir entre 3 et 32 caractères !';
-$_['error_url'] = 'URL de la boutique requis!';
-$_['error_meta_title'] = 'Le titre doit contenir entre 3 et 32 caractères!';
-$_['error_limit'] = 'Une limite est requise!';
-$_['error_customer_group_display'] = 'Vous devez inclure le groupe de clients par défaut si vous souhaitez utiliser cette fonctionnalité!';
-$_['error_image_thumb'] = 'Taille des images de vignettes des produits requise!';
-$_['error_image_popup'] = 'Taille des images des produits en fenêtre modale requise!';
-$_['error_image_product'] = 'Dimensions de la liste des produits requises!';
-$_['error_image_category'] = 'Dimensions de la liste des catégories requises!';
-$_['error_image_additional'] = 'Taille des images additionnelles des produits requis!';
-$_['error_image_related'] = 'Taille des images des produits liés requiss!';
-$_['error_image_compare'] = 'Taille des images des produits dans le comparatif requise!';
-$_['error_image_wishlist'] = 'Taille des images des produits de la liste de souhait requise!';
-$_['error_image_cart'] = 'Taille des images des produits dans le panier requise!';
-$_['error_image_location'] = 'Taille des images des produits de la boutique requise!';
-$_['error_default'] = 'Attention : vous ne pouvez pas supprimer votre boutique par défaut!';
-$_['error_store'] = 'Attention : cette boutique ne peut pas être supprimée car elle est actuellement attribuée à %s commandes!';
+$_['error_url'] = 'URL de la boutique requis !';
+$_['error_meta_title'] = 'Le titre doit contenir entre 3 et 32 caractères !';
+$_['error_limit'] = 'Une limite est requise !';
+$_['error_customer_group_display'] = 'Vous devez inclure le groupe de clients par défaut si vous souhaitez utiliser cette fonctionnalité !';
+$_['error_image_thumb'] = 'Taille des images de vignettes des produits requise !';
+$_['error_image_popup'] = 'Taille des images des produits en fenêtre modale requise !';
+$_['error_image_product'] = 'Dimensions de la liste des produits requises !';
+$_['error_image_category'] = 'Dimensions de la liste des catégories requises !';
+$_['error_image_additional'] = 'Taille des images additionnelles des produits requis !';
+$_['error_image_related'] = 'Taille des images des produits liés requiss !';
+$_['error_image_compare'] = 'Taille des images des produits dans le comparatif requise !';
+$_['error_image_wishlist'] = 'Taille des images des produits de la liste de souhait requise !';
+$_['error_image_cart'] = 'Taille des images des produits dans le panier requise !';
+$_['error_image_location'] = 'Taille des images des produits de la boutique requise !';
+$_['error_default'] = 'Attention : vous ne pouvez pas supprimer votre boutique par défaut !';
+$_['error_store'] = 'Attention : cette boutique ne peut pas être supprimée car elle est actuellement attribuée à %s commandes !';

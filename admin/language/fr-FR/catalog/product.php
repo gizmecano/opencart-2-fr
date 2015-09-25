@@ -104,4 +104,4 @@ $_['error_permission'] = 'Attention : vous n\'êtes pas autorisé à modifier le
 $_['error_name'] = 'Le nom du produit doit contenir entre 3 et 255 caractères !';
 $_['error_meta_title'] = 'La balise Titre doit contenir entre 3 et 255 caractères !';
 $_['error_model'] = 'Le numéro de référence doit contenir entre 3 et 255 caractères !';
-$_['error_keyword'] = 'Mot-clef de référencement (SEO) déjà en cours d\'utilisation!';
+$_['error_keyword'] = 'Mot-clef de référencement (SEO) déjà en cours d\'utilisation !';

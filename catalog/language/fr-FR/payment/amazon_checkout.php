@@ -15,7 +15,7 @@ $_['text_enter_coupon'] = 'Saisissez le code de votre bon de réduction ici. Lai
 $_['text_coupon'] = 'Bon de réduction';
 $_['text_tax_other'] = 'Taxes et frais de traitement';
 $_['text_payment_failed'] = 'Votre paiement a échoué. Veuillez contacter l\'administrateur de la boutique pour plus d\'assistance ou choisir un autre moyen de paiement.';
-$_['text_success_title'] = 'Succès : votre commande a été prise en compte!';
+$_['text_success_title'] = 'Succès : votre commande a été prise en compte !';
 $_['text_payment_success'] = 'Votre commande a été correctement prise en compte. Les détails de la commande sont listés ci-dessous';
 
 // Error

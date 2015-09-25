@@ -3,7 +3,7 @@
 $_['heading_title'] = 'Totaux de commande';
 
 // Text
-$_['text_success'] = 'Vous venez de modifier les totaux de commande!';
+$_['text_success'] = 'Vous venez de modifier les totaux de commande !';
 $_['text_list'] = 'Liste des totaux de commande';
 
 // Column
@@ -13,4 +13,4 @@ $_['column_sort_order'] = 'Classement';
 $_['column_action'] = 'Action';
 
 // Error
-$_['error_permission'] = 'Attention : vous n\'êtes pas autorisé à modifier les totaux de commande!';
+$_['error_permission'] = 'Attention : vous n\'êtes pas autorisé à modifier les totaux de commande !';

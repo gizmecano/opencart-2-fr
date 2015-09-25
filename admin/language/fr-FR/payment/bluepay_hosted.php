@@ -62,4 +62,4 @@ $_['btn_void'] = 'Annulation';
 $_['error_permission'] = 'Attention : vous n\'êtes pas autorisé à modifier le module de paiement BluePay !';
 $_['error_account_name'] = 'Le nom du compte est requis !';
 $_['error_account_id'] = 'L\'identifiant du compte est requis !';
-$_['error_secret_key'] = 'La clef secrète est requise!';
+$_['error_secret_key'] = 'La clef secrète est requise !';

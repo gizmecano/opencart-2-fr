@@ -4,7 +4,7 @@ $_['heading_title'] = 'Service US Postal';
 
 // Text
 $_['text_shipping'] = 'Livraison';
-$_['text_success'] = 'Succès : vous avez modifié Service US Postal!';
+$_['text_success'] = 'Succès : vous avez modifié Service US Postal !';
 $_['text_edit'] = 'Modifier Livraison Service US Postal';
 $_['text_domestic_00'] = 'First-Class Mail Parcel';
 $_['text_domestic_01'] = 'First-Class Mail Large Envelope';
@@ -79,10 +79,10 @@ $_['help_weight_class'] = 'Doit être indiqué en livres.';
 $_['help_debug'] = 'Sauve les données envoyées et reçues dans l\'historique du système';
 
 // Error
-$_['error_permission'] = 'Attention : vous n\'avez pas la permission de modifier le service US Postal!';
-$_['error_user_id'] = 'Identifiant de l\'utilisateur requis!';
-$_['error_postcode'] = 'Code postal requis!';
-$_['error_width'] = 'Largeur requise!';
-$_['error_length'] = 'Longueur requise!';
-$_['error_height'] = 'Hauteur requise!';
-$_['error_girth'] = 'Circonférence requise!';
+$_['error_permission'] = 'Attention : vous n\'avez pas la permission de modifier le service US Postal !';
+$_['error_user_id'] = 'Identifiant de l\'utilisateur requis !';
+$_['error_postcode'] = 'Code postal requis !';
+$_['error_width'] = 'Largeur requise !';
+$_['error_length'] = 'Longueur requise !';
+$_['error_height'] = 'Hauteur requise !';
+$_['error_girth'] = 'Circonférence requise !';

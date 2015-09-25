@@ -4,7 +4,7 @@ $_['heading_title'] = 'Paiements Paypal standard';
 
 // Text
 $_['text_payment'] = 'Paiement';
-$_['text_success'] = 'Vous avez modifié les détails du compte PayPal avec succès!';
+$_['text_success'] = 'Vous avez modifié les détails du compte PayPal avec succès !';
 $_['text_edit'] = 'Modifier le paiement Paypal standard';
 $_['text_pp_standard'] = '<a target="_BLANK" href="https://www.paypal.com/uk/mrb/pal=V4T754QB63XXL"><img src="view/image/payment/paypal.png" alt="PayPal Website Payment Pro" title="PayPal Website Payment Pro iFrame" style="border: 1px solid #EEEEEE;" /></a>';
 $_['text_authorization'] = 'Autorisation';
@@ -40,5 +40,5 @@ $_['help_debug'] = 'Enregistre des informations supplémentaires dans le journal
 $_['help_total'] = 'Le montant total que la commande doit atteindre avant que ce module de paiement devienne actif';
 
 // Error
-$_['error_permission'] = 'Attention : vous n\'avez pas la permission de modifier payment PayPal!';
-$_['error_email'] = 'Adresse électronique requise!';
+$_['error_permission'] = 'Attention : vous n\'avez pas la permission de modifier payment PayPal !';
+$_['error_email'] = 'Adresse électronique requise !';

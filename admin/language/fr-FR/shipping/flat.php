@@ -4,7 +4,7 @@ $_['heading_title'] = 'Livraison forfaitaire';
 
 // Text
 $_['text_shipping'] = 'Livraison';
-$_['text_success'] = 'Succès : vous avez modifié la livraison forfaitaire!';
+$_['text_success'] = 'Succès : vous avez modifié la livraison forfaitaire !';
 $_['text_edit'] = 'Modifier la livraison forfaitaire';
 
 // Entry
@@ -15,4 +15,4 @@ $_['entry_status'] = 'Statut';
 $_['entry_sort_order'] = 'Classement';
 
 // Error
-$_['error_permission'] = 'Attention : vous n\'avez pas la permission de modifier la livraison forfaitaire!';
+$_['error_permission'] = 'Attention : vous n\'avez pas la permission de modifier la livraison forfaitaire !';

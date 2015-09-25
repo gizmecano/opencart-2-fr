@@ -4,7 +4,7 @@ $_['heading_title'] = 'SagePay Direct';
 
 // Text
 $_['text_payment'] = 'Paiement';
-$_['text_success'] = 'Succès : vous avez modifié les détails du compte SagePay!';
+$_['text_success'] = 'Succès : vous avez modifié les détails du compte SagePay !';
 $_['text_edit'] = 'Modifier SagePay Direct';
 $_['text_sagepay_direct'] = '<a href="https://support.sagepay.com/apply/default.aspx?PartnerID=E511AF91-E4A0-42DE-80B0-09C981A3FB61" target="_blank"><img src="view/image/payment/sagepay.png" alt="SagePay" title="SagePay" style="border: 1px solid #EEEEEE;" /></a>';
 $_['text_sim'] = 'Simulateur';
@@ -60,5 +60,5 @@ $_['btn_rebate'] = 'Remise et/ou remboursement';
 $_['btn_void'] = 'Annulation';
 
 // Error
-$_['error_permission'] = 'Attention : vous n\'avez pas la permission de modifier payment SagePay!';
-$_['error_vendor'] = 'ID fournisseur requis!';
+$_['error_permission'] = 'Attention : vous n\'avez pas la permission de modifier payment SagePay !';
+$_['error_vendor'] = 'ID fournisseur requis !';

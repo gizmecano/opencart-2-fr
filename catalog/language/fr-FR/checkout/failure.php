@@ -1,6 +1,6 @@
 <?php
 // Heading
-$_['heading_title'] = 'Echec du paiement!';
+$_['heading_title'] = 'Echec du paiement !';
 
 // Text
 $_['text_basket'] = 'Panier d\'achat';

@@ -106,6 +106,6 @@ $_['help_ftp_admin'] = 'Si vous avez changé le nom de votre répertoire admin, 
 $_['help_ftp_pasv'] = 'Mettre votre connexion FTP en mode passif';
 $_['help_ftp_beta'] = 'Mise en garde ! La version bêta peut ne pas fonctionner correctement';
 $_['help_clear_faq'] = 'Afficher toutes les notifications de l\'aide à nouveau';
-$_['help_empty_data'] = 'Ceci peut causer de sérieux dommages, ne l\'utiliser pas si vous ne savez pas de quels sont les effets!';
+$_['help_empty_data'] = 'Ceci peut causer de sérieux dommages, ne l\'utiliser pas si vous ne savez pas de quels sont les effets !';
 $_['help_easy_update'] = 'Cliquer sur mettre à jour pour installer la dernière version d\'OpenBay Pro automatiquement';
 $_['help_patch'] = 'Cliquer pour lancer les scripts du correctif';

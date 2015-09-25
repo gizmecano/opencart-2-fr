@@ -4,7 +4,7 @@ $_['heading_title'] = 'Royal Mail';
 
 // Text
 $_['text_shipping'] = 'Livraison';
-$_['text_success'] = 'Succès : vous avez modifié la livraison Royal Mail!';
+$_['text_success'] = 'Succès : vous avez modifié la livraison Royal Mail !';
 $_['text_edit'] = 'Modifier la livraison Royal Mail';
 
 // Entry
@@ -49,4 +49,4 @@ $_['tab_airsure'] = 'Airsure';
 $_['tab_surface'] = 'Surface';
 
 // Error
-$_['error_permission'] = 'Attention : vous n\'avez pas la permission de modifier la livraison Royal Mail!';
+$_['error_permission'] = 'Attention : vous n\'avez pas la permission de modifier la livraison Royal Mail !';

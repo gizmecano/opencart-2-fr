@@ -13,4 +13,4 @@ $_['entry_confirm'] = 'Confirmer le mot de passe';
 
 // Error
 $_['error_password'] = 'Le mot de passe doit contenir entre 4 et 20 caractères !';
-$_['error_confirm'] = 'La confirmation de mot de passe ne correspond pas au mot de passe saisi!';
+$_['error_confirm'] = 'La confirmation de mot de passe ne correspond pas au mot de passe saisi !';

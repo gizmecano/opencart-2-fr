@@ -5,7 +5,7 @@ $_['heading_title'] = 'Téléchargements';
 // Text
 $_['text_account'] = 'Compte';
 $_['text_downloads'] = 'Téléchargements';
-$_['text_empty'] = 'Vous n\'avez pas encore fait de commande de produits téléchargeables!';
+$_['text_empty'] = 'Vous n\'avez pas encore fait de commande de produits téléchargeables !';
 
 // Column
 $_['column_order_id'] = 'Commande n°';

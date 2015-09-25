@@ -4,7 +4,7 @@ $_['heading_title'] = 'WorldPay';
 
 // Text
 $_['text_payment'] = 'Paiement';
-$_['text_success'] = 'Succès : vous avez modifié les détails du compte WorldPay!';
+$_['text_success'] = 'Succès : vous avez modifié les détails du compte WorldPay !';
 $_['text_edit'] = 'Modifier WorldPay';
 $_['text_worldpay'] = '<a href="https://business.worldpay.com/partner/opencart" target="_blank"><img src="view/image/payment/worldpay.png" alt="Worldpay" title="Worldpay" style="border: 1px solid #EEEEEE;" /></a>';
 $_['text_successful'] = 'Activié - Toujours réussi';
@@ -28,6 +28,6 @@ $_['help_callback'] = 'Ceci a été paramétré sur le tableau de contrôle Worl
 $_['help_total'] = 'Le montant total que la commande doit atteindre avant que ce module de paiement devienne actif.';
 
 // Error
-$_['error_permission'] = 'Attention : vous n\'avez pas la permission de modifier le paiement WorldPay!';
-$_['error_merchant'] = 'ID marchand requis!';
-$_['error_password'] = 'Mot de passe requis!';
+$_['error_permission'] = 'Attention : vous n\'avez pas la permission de modifier le paiement WorldPay !';
+$_['error_merchant'] = 'ID marchand requis !';
+$_['error_password'] = 'Mot de passe requis !';

@@ -10,7 +10,7 @@ $_['text_items'] = '%s articles(s) - %s';
 $_['text_points'] = 'Points de fidélité: %s';
 $_['text_next'] = 'Que souhaitez-vous faire ensuite?';
 $_['text_next_choice'] = 'Choisissez si vous souhaitez utiliser un code de réduction ou un bon d\'achat pour estimer les frais d\'expédition.';
-$_['text_empty'] = 'Votre panier d\'achat est vide!';
+$_['text_empty'] = 'Votre panier d\'achat est vide !';
 $_['text_day'] = 'jour';
 $_['text_week'] = 'semaine';
 $_['text_semi_month'] = 'demi-mois';
@@ -35,8 +35,8 @@ $_['column_price'] = 'Prix unitaire';
 $_['column_total'] = 'Total';
 
 // Error
-$_['error_stock'] = 'Les produits indiqués avec *** ne sont pas disponibles dans la quantité désirée ou ne sont actuellement pas en stock!';
-$_['error_minimum'] = 'Le montant minimum d\'une commande pour %s est %s!';
+$_['error_stock'] = 'Les produits indiqués avec *** ne sont pas disponibles dans la quantité désirée ou ne sont actuellement pas en stock !';
+$_['error_minimum'] = 'Le montant minimum d\'une commande pour %s est %s !';
 $_['error_required'] = '%s est requis !';
-$_['error_product'] = 'Attention : il n\'y a aucun produit dans votre panier!';
-$_['error_recurring_required'] = 'Merci de sélectionner un paiement récurrent!';
+$_['error_product'] = 'Attention : il n\'y a aucun produit dans votre panier !';
+$_['error_recurring_required'] = 'Merci de sélectionner un paiement récurrent !';

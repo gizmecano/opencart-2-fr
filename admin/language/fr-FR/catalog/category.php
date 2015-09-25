@@ -3,7 +3,7 @@
 $_['heading_title'] = 'Catégories';
 
 // Text
-$_['text_success'] = 'Modification des catégories réussie!';
+$_['text_success'] = 'Modification des catégories réussie !';
 $_['text_list'] = 'Liste des catégories';
 $_['text_add'] = 'Ajouter une catégorie';
 $_['text_edit'] = 'Modifier une catégorie';
@@ -39,7 +39,7 @@ $_['help_column'] = 'Nombre de colonnes à utiliser pour les trois catégories a
 
 // Error
 $_['error_warning'] = 'Attention : veuillez vérifier le formulaire';
-$_['error_permission'] = 'Attention : vous n\'êtes pas autorisé à modifier les catégories!';
-$_['error_name'] = 'Le nom de la catégorie doit contenir entre 2 et 32 caractères!';
-$_['error_meta_title'] = 'Le titre méta doit contenir plus de 3 et moins de 255 caractères!';
-$_['error_keyword'] = 'Mot-clef de référencement (SEO) déjà en cours d\'utilisation!';
+$_['error_permission'] = 'Attention : vous n\'êtes pas autorisé à modifier les catégories !';
+$_['error_name'] = 'Le nom de la catégorie doit contenir entre 2 et 32 caractères !';
+$_['error_meta_title'] = 'Le titre méta doit contenir plus de 3 et moins de 255 caractères !';
+$_['error_keyword'] = 'Mot-clef de référencement (SEO) déjà en cours d\'utilisation !';

@@ -4,7 +4,7 @@ $_['heading_title'] = 'UPS';
 
 // Text
 $_['text_shipping'] = 'Livraison';
-$_['text_success'] = 'Succès : vous aviez modifié la livraison UPS!';
+$_['text_success'] = 'Succès : vous aviez modifié la livraison UPS !';
 $_['text_edit'] = 'Modifiez les paramètres de livraison UPS';
 $_['text_regular_daily_pickup'] = 'Ramassage jour régulier';
 $_['text_daily_pickup'] = 'Ramassage quotidien';
@@ -105,11 +105,11 @@ $_['help_dimension'] = 'Ceci est supposé être votre moyenne de votre taille de
 $_['help_debug'] = 'Sauve les données envoyées et reçues dans l\'historique du système';
 
 // Error
-$_['error_permission'] = 'Attention : vous n\'avez pas la permission de modifier la livraison UPS!';
-$_['error_key'] = 'Clef d\'accès requise!';
-$_['error_username'] = 'Nom d\'utilisateur requis!';
-$_['error_password'] = 'Mot de passe requis!';
-$_['error_city'] = 'Ville d\'origine requise!';
-$_['error_state'] = 'Etat ou province d\'origine requis!';
-$_['error_country'] = 'Pays d\'origine requis!';
-$_['error_dimension'] = 'Moyenne requise!';
+$_['error_permission'] = 'Attention : vous n\'avez pas la permission de modifier la livraison UPS !';
+$_['error_key'] = 'Clef d\'accès requise !';
+$_['error_username'] = 'Nom d\'utilisateur requis !';
+$_['error_password'] = 'Mot de passe requis !';
+$_['error_city'] = 'Ville d\'origine requise !';
+$_['error_state'] = 'Etat ou province d\'origine requis !';
+$_['error_country'] = 'Pays d\'origine requis !';
+$_['error_dimension'] = 'Moyenne requise !';

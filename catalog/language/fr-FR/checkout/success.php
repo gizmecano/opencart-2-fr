@@ -1,6 +1,6 @@
 <?php
 // Heading
-$_['heading_title'] = 'Votre commande a été prise en compte!';
+$_['heading_title'] = 'Votre commande a été prise en compte !';
 
 // Text
 $_['text_basket'] = 'Panier d\'achat';

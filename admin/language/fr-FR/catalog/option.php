@@ -36,5 +36,5 @@ $_['entry_sort_order'] = 'Classement';
 $_['error_permission'] = 'Attention : vous n\'êtes pas autorisé à modifier les options !';
 $_['error_name'] = 'Nom de l\'option doit contenir entre 1 et 128 caractères !';
 $_['error_type'] = 'Attention : valeurs de l\'option requises !';
-$_['error_option_value'] = 'Le nom du champ personnalisé doit contenir entre 1 et 128 caractères!';
-$_['error_product'] = 'Attention : il est impossible d\'effacer ce téléchargement car il est actuellement attribué à %s produits!';
+$_['error_option_value'] = 'Le nom du champ personnalisé doit contenir entre 1 et 128 caractères !';
+$_['error_product'] = 'Attention : il est impossible d\'effacer ce téléchargement car il est actuellement attribué à %s produits !';

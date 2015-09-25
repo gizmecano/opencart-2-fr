@@ -74,9 +74,9 @@ $_['help_weight_class'] = 'Configurer en kilogrammes ou en livres.';
 
 // Error
 $_['error_permission'] = 'Attention : vous n\'êtes pas autorisé à modifier la livraison FedEx !';
-$_['error_key'] = 'Clef requise!';
+$_['error_key'] = 'Clef requise !';
 $_['error_password'] = 'Le mot de passe est requis !';
-$_['error_account'] = 'Compte requis!';
-$_['error_meter'] = 'Mesure requise!';
-$_['error_postcode'] = 'Code postal requis!';
-$_['error_dimension'] = 'Largeur et hauteur requises!';
+$_['error_account'] = 'Compte requis !';
+$_['error_meter'] = 'Mesure requise !';
+$_['error_postcode'] = 'Code postal requis !';
+$_['error_dimension'] = 'Largeur et hauteur requises !';

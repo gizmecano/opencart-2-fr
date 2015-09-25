@@ -4,7 +4,7 @@ $_['heading_title'] = 'Realex Remote';
 
 // Text
 $_['text_payment'] = 'Paiement';
-$_['text_success'] = 'Succès : vous avez modifié les détails du compte Realex Remote!';
+$_['text_success'] = 'Succès : vous avez modifié les détails du compte Realex Remote !';
 $_['text_edit'] = 'Modifier Realex Remote';
 $_['text_card_type'] = 'Type de carte';
 $_['text_enabled'] = 'Activé';
