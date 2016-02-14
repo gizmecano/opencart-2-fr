@@ -22,7 +22,7 @@ $_['entry_customer_group'] = 'Groupe de clients';
 $_['entry_customer'] = 'Client';
 $_['entry_affiliate'] = 'Affilié';
 $_['entry_product'] = 'Produits';
-$_['entry_subject'] = 'Objet';
+$_['entry_subject'] = 'Sujet';
 $_['entry_message'] = 'Message';
 
 // Help
@@ -32,5 +32,5 @@ $_['help_product'] = 'Envoyer uniquement aux clients qui ont commandé des produ
 
 // Error
 $_['error_permission'] = 'Attention : vous n\'êtes pas autorisé à envoyer de lettre d\'informations !';
-$_['error_subject'] = 'L\'objet de la lettre d\'informations est requis !';
+$_['error_subject'] = 'Le sujet de la lettre d\'informations est requis !';
 $_['error_message'] = 'Le corps de la lettre d\'informations est requis !';

@@ -21,7 +21,7 @@ $_['column_product'] = 'Produit';
 $_['column_model'] = 'Référence';
 $_['column_status'] = 'Statut';
 $_['column_date_added'] = 'Date d\'ajout';
-$_['column_date_modified'] = 'Modifié le';
+$_['column_date_modified'] = 'Date de modification';
 $_['column_comment'] = 'Commentaire';
 $_['column_notify'] = 'Client informé';
 $_['column_action'] = 'Action';
@@ -45,7 +45,7 @@ $_['entry_return_status'] = 'Statut des retours';
 $_['entry_notify'] = 'Informer le client';
 $_['entry_return_id'] = 'Identifiant du retour';
 $_['entry_date_added'] = 'Date d\'ajout';
-$_['entry_date_modified'] = 'Modifié le';
+$_['entry_date_modified'] = 'Date de modification';
 
 // Help
 $_['help_product'] = 'Autocomplétion';

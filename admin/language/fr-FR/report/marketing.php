@@ -1,6 +1,6 @@
 <?php
 // Heading
-$_['heading_title'] = 'Rapport de maketing';
+$_['heading_title'] = 'Rapport de marketing';
 
 // Text
 $_['text_list'] = 'Liste';

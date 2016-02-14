@@ -14,7 +14,7 @@ $_['text_norway'] = 'Norvège';
 $_['text_finland'] = 'Finlande';
 $_['text_denmark'] = 'Danemark';
 $_['text_germany'] = 'Allemagne';
-$_['text_netherlands'] = 'Pays-bas';
+$_['text_netherlands'] = 'Pays-Bas';
 
 // Entry
 $_['entry_merchant'] = 'Identifiant marchand Klarna';

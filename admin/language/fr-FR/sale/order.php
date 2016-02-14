@@ -124,7 +124,7 @@ $_['column_order_id'] = 'Commande n°';
 $_['column_customer'] = 'Client';
 $_['column_status'] = 'Statut';
 $_['column_date_added'] = 'Date d\'ajout';
-$_['column_date_modified'] = 'Modifié le';
+$_['column_date_modified'] = 'Date de modification';
 $_['column_total'] = 'Total';
 $_['column_product'] = 'Produit';
 $_['column_model'] = 'Référence';
@@ -177,7 +177,7 @@ $_['entry_reward'] = 'Points de fidélité';
 $_['entry_order_id'] = 'Commande n°';
 $_['entry_total'] = 'Total';
 $_['entry_date_added'] = 'Date d\'ajout';
-$_['entry_date_modified'] = 'Modifié le';
+$_['entry_date_modified'] = 'Date de modification';
 
 // Help
 $_['help_country_match'] = 'Dans le cas où le pays de l\'adresse IP correspond au pays de l\'adresse de facturation (le risque est plus grand en cas de mauvaise correspondance).';

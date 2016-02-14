@@ -12,7 +12,7 @@ $_['text_edit'] = 'Modifier les API';
 $_['column_username'] = 'Nom d\'utilisateur';
 $_['column_status'] = 'Statut';
 $_['column_date_added'] = 'Date d\'ajout';
-$_['column_date_modified'] = 'Modifié le';
+$_['column_date_modified'] = 'Date de modification';
 $_['column_action'] = 'Action';
 
 // Entry
