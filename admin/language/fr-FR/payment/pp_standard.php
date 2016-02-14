@@ -40,5 +40,5 @@ $_['help_debug'] = 'Enregistre des informations supplémentaires dans le journal
 $_['help_total'] = 'Le montant total que la commande doit atteindre avant que ce module de paiement devienne actif';
 
 // Error
-$_['error_permission'] = 'Attention : vous n\'avez pas la permission de modifier payment PayPal !';
+$_['error_permission'] = 'Attention : vous n’avez pas la permission de modifier payment PayPal !';
 $_['error_email'] = 'Adresse électronique requise !';

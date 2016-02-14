@@ -48,9 +48,9 @@ $_['text_ajax_confirm_listing'] = 'Êtes vous sûr de vouloir mettre en vente ce
 $_['text_bulk_plan_error'] = 'Votre forfait actuel ne vous permet pas la mise en vente automatisée, veuillez mettre à niveau votre forfait <a href="%s">ici</a>';
 $_['text_item_limit'] = 'Vous ne pouvez pas mettre en vente ces objets car vous dépasseriez la limite de votre forfait, veuillez mettre à niveau votre forfait <a href="%s">ici</a>';
 $_['text_search_text'] = 'Entrez un texte à rechercher';
-$_['text_catalog_no_products'] = 'Aucun objet n\'a été trouvé dans le catalogue';
+$_['text_catalog_no_products'] = 'Aucun objet n’a été trouvé dans le catalogue';
 $_['text_search_failed'] = 'La recherche a échouée.';
-$_['text_esc_key'] = 'La page de traitement a été masquée mais n\'a peut-être pas terminée le chargement.';
+$_['text_esc_key'] = 'La page de traitement a été masquée mais n’a peut-être pas terminée le chargement.';
 $_['text_loading_categories'] = 'Chargement des catégories';
 $_['text_loading_condition'] = 'Chargement des informations de produit';
 $_['text_loading_duration'] = 'Chargement des durées de mise en vente';
@@ -66,6 +66,6 @@ $_['text_error_theme_profile'] = 'Vous devez avoir un profil de thème configur�
 $_['text_error_variants'] = 'Les objets avec des variantes ne peuvent être mis en vente de façon automatisée, ils ont été désélectionnés';
 $_['text_error_stock'] = 'Certains objets ne sont pas en stock et ont été supprimées';
 $_['text_error_no_product'] = 'Aucun des objets séléctionnés ne sont compatibles avec la fonction de mise en vente automatisée';
-$_['text_error_reverify'] = 'Une erreur s\'est produite, veuillez modifier et revérifier les objets';
-$_['error_missing_settings'] = 'Vous ne pouvez pas faire de mise en vente automatisée avant d\'avoir synchronisé vos paramètres eBay';
+$_['text_error_reverify'] = 'Une erreur s’est produite, veuillez modifier et revérifier les objets';
+$_['error_missing_settings'] = 'Vous ne pouvez pas faire de mise en vente automatisée avant d’avoir synchronisé vos paramètres eBay';
 $_['text_error_no_selection'] = 'Vous devez sélectionner au moins 1 objet à mettre en vente';

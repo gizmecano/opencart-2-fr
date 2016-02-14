@@ -12,7 +12,7 @@ $_['text_week'] = 'Semaine';
 $_['text_semi_month'] = 'Quinzaine';
 $_['text_month'] = 'Mois';
 $_['text_year'] = 'Année';
-$_['text_recurring'] = '<p><i class="fa fa-info-circle"></i>Les montants récurrents sont calculés par fréquence et cycles.</p><p>Par exemple, si vous utilisez une fréquence de « semaine » et un cycle de « 2 », l\'utilisateur sera facturé toutes les 2 semaines.</p><p>La durée est le nombre de fois que l\'utilisateur effectuera un paiement, réglez la durée à 0 si vous voulez recevoir des paiements jusqu\'à annulation.</p>';
+$_['text_recurring'] = '<p><i class="fa fa-info-circle"></i>Les montants récurrents sont calculés par fréquence et cycles.</p><p>Par exemple, si vous utilisez une fréquence de « semaine » et un cycle de « 2 », l’utilisateur sera facturé toutes les 2 semaines.</p><p>La durée est le nombre de fois que l’utilisateur effectuera un paiement, réglez la durée à 0 si vous voulez recevoir des paiements jusqu’à annulation.</p>';
 $_['text_profile'] = 'Profil récurrent';
 $_['text_trial'] = 'Profil abonné';
 
@@ -37,6 +37,6 @@ $_['column_action'] = 'Action';
 
 // Error
 $_['error_warning'] = 'Attention : veuillez vérifier les erreurs de formulaire !';
-$_['error_permission'] = 'Attention : vous n\'êtes pas autorisé à modifier les profils récurrents !';
+$_['error_permission'] = 'Attention : vous n’êtes pas autorisé à modifier les profils récurrents !';
 $_['error_name'] = 'Le nom du produit doit contenir entre 3 et 255 caractères !';
 $_['error_product'] = 'Attention : ce profil récurrent ne peut être supprimé car il est actuellement attribué à %s produits !';

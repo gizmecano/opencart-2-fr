@@ -10,10 +10,10 @@ $_['text_authorization'] = 'Autorisation';
 $_['text_sale'] = 'Vente';
 
 // Entry
-$_['entry_username'] = 'Nom d\'utilisateur API';
+$_['entry_username'] = 'Nom d’utilisateur API';
 $_['entry_password'] = 'Mot de passe API';
-$_['entry_signature'] = 'Signature de l\'API';
-$_['entry_test'] = 'Mode d\'essai';
+$_['entry_signature'] = 'Signature de l’API';
+$_['entry_test'] = 'Mode d’essai';
 $_['entry_transaction'] = 'Méthode de transaction : ';
 $_['entry_total'] = 'Total';
 $_['entry_order_status'] = 'Statut de la commande';
@@ -26,7 +26,7 @@ $_['help_test'] = 'Utilisez le live ou bien tester avec (bac à sable) pour trai
 $_['help_total'] = 'Le montant total que la commande doit atteindre avant que ce module de paiement devienne actif';
 
 // Error
-$_['error_permission'] = 'Attention : vous n\'êtes pas autorisé à modifier le paiement PayPal site paiement Checkout Pro !';
-$_['error_username'] = 'Nom d\'utilisateur API requis !';
+$_['error_permission'] = 'Attention : vous n’êtes pas autorisé à modifier le paiement PayPal site paiement Checkout Pro !';
+$_['error_username'] = 'Nom d’utilisateur API requis !';
 $_['error_password'] = 'Mot de passe API requis !';
-$_['error_signature'] = 'Signature de l\'API requise !';
+$_['error_signature'] = 'Signature de l’API requise !';

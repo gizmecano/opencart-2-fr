@@ -16,7 +16,7 @@ $_['text_capture_ok'] = 'Le paiement a réussi';
 $_['text_capture_ok_order'] = 'Le paiement a réussi : le statut de la commande a été mis à jour';
 $_['text_refund_ok'] = 'Le remboursement a réussi';
 $_['text_refund_ok_order'] = 'Le remboursement a réussi : le statut de la commande a été mis à jour';
-$_['text_void_ok'] = 'L\'annulation a réussie : le statut de la commande a été mis à jour';
+$_['text_void_ok'] = 'L’annulation a réussie : le statut de la commande a été mis à jour';
 $_['text_settle_auto'] = 'Vente';
 $_['text_settle_delayed'] = 'Règlement retardé';
 $_['text_MasterCard'] = 'MasterCard';
@@ -34,14 +34,14 @@ $_['text_total_captured'] = 'Total reçu';
 $_['text_transactions'] = 'Transactions';
 $_['text_column_amount'] = 'Montant';
 $_['text_column_type'] = 'Type';
-$_['text_column_date_added'] = 'Date d\'ajout';
+$_['text_column_date_added'] = 'Date d’ajout';
 $_['text_confirm_void'] = 'Êtes-vous sûr de vouloir annuler le paiement ?';
 $_['text_confirm_capture'] = 'Êtes-vous certain de vouloir réceptionner le paiement ?';
 $_['text_confirm_refund'] = 'Êtes-vous sûr de vouloir effectuer un remboursement du paiement ?';
 
 // Entry
-$_['entry_certificate_path'] = 'Chemin d\'accès du certificat';
-$_['entry_certificate_key_path'] = 'Chemin d\'accès de la clef privée';
+$_['entry_certificate_path'] = 'Chemin d’accès du certificat';
+$_['entry_certificate_key_path'] = 'Chemin d’accès de la clef privée';
 $_['entry_certificate_key_pw'] = 'Clef privée du certificat';
 $_['entry_certificate_ca_path'] = 'Chemin CA';
 $_['entry_merchant_id'] = 'Numéro de boutique';
@@ -63,14 +63,14 @@ $_['entry_cards_accepted'] = 'Types de cartes acceptées';
 
 // Help
 $_['help_total'] = 'Le montant total que la commande doit atteindre avant que ce module de paiement devienne actif';
-$_['help_certificate'] = 'Les certificats et clefs privées doivent être stockés à l\'extérieur de vos dossiers web publiques';
-$_['help_card_select'] = 'Demander à l\'utilisateur de choisir son type de carte avant d\'être redirigé';
+$_['help_certificate'] = 'Les certificats et clefs privées doivent être stockés à l’extérieur de vos dossiers web publiques';
+$_['help_card_select'] = 'Demander à l’utilisateur de choisir son type de carte avant d’être redirigé';
 $_['help_notification'] = 'Vous devez fournir cette URL à First Data pour recevoir des notifications de paiement';
-$_['help_debug'] = 'En autorisant le débogage, vous autorisez l\'écriture des données sensibles dans un fichier journal. Vous devriez toujours désactiver sauf avis contraire .';
+$_['help_debug'] = 'En autorisant le débogage, vous autorisez l’écriture des données sensibles dans un fichier journal. Vous devriez toujours désactiver sauf avis contraire .';
 $_['help_settle'] = 'Si vous utilisez la pré-autorisation, vous devez effectuer une action post-auth dans 3-5 jours sinon votre transaction sera abandonnée';
 
 // Tab
-$_['tab_account'] = 'Informations de l\'API';
+$_['tab_account'] = 'Informations de l’API';
 $_['tab_order_status'] = 'Statut de la commande';
 $_['tab_payment'] = 'Paramètres de paiement';
 
@@ -80,10 +80,10 @@ $_['button_refund'] = 'Rembourser';
 $_['button_void'] = 'Annulation';
 
 // Error
-$_['error_merchant_id'] = 'L\'identifiant du marchand est requis';
-$_['error_user_id'] = 'L\'identifiant utilisateur est requis';
+$_['error_merchant_id'] = 'L’identifiant du marchand est requis';
+$_['error_user_id'] = 'L’identifiant utilisateur est requis';
 $_['error_password'] = 'Le mot de passe est requis';
-$_['error_certificate'] = 'Le chemin d\'accès du certificat est requis';
+$_['error_certificate'] = 'Le chemin d’accès du certificat est requis';
 $_['error_key'] = 'La clef de certificat est requise';
 $_['error_key_pw'] = 'Le mot de passe de clef de certificat est requis';
-$_['error_ca'] = 'L\'autorité de certification (AC) est requise';
+$_['error_ca'] = 'L’autorité de certification (AC) est requise';

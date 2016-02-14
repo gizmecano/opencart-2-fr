@@ -5,7 +5,7 @@ $_['heading_title'] = 'Affiliés';
 // Text
 $_['text_success'] = 'Succès : vous avez modifié des affiliés !';
 $_['text_approved'] = 'Vous avez approuvé les comptes de %s !';
-$_['text_list'] = 'Liste d\'affiliation';
+$_['text_list'] = 'Liste d’affiliation';
 $_['text_add'] = 'Ajouter un affilié';
 $_['text_edit'] = 'Modifier un affilié';
 $_['text_balance'] = 'Solde';
@@ -14,13 +14,13 @@ $_['text_paypal'] = 'PayPal';
 $_['text_bank'] = 'Virement bancaire';
 
 // Column
-$_['column_name'] = 'Nom de l\'affilié';
+$_['column_name'] = 'Nom de l’affilié';
 $_['column_email'] = 'Adresse électronique';
 $_['column_code'] = 'Code de suivi';
 $_['column_balance'] = 'Solde';
 $_['column_status'] = 'Statut';
 $_['column_approved'] = 'Approuvé';
-$_['column_date_added'] = 'Date d\'ajout';
+$_['column_date_added'] = 'Date d’ajout';
 $_['column_description'] = 'Description';
 $_['column_amount'] = 'Montant';
 $_['column_action'] = 'Action';
@@ -55,28 +55,28 @@ $_['entry_bank_account_name'] = 'Nom du compte';
 $_['entry_bank_account_number'] = 'Numéro du compte';
 $_['entry_amount'] = 'Montant';
 $_['entry_description'] = 'Description';
-$_['entry_name'] = 'Nom de l\'affilié';
+$_['entry_name'] = 'Nom de l’affilié';
 $_['entry_approved'] = 'Approuvé';
-$_['entry_date_added'] = 'Date d\'ajout';
+$_['entry_date_added'] = 'Date d’ajout';
 
 // Help
 $_['help_code'] = 'Le code de suivi qui sera utilisé pour suivre les redirections.';
-$_['help_commission'] = 'Pourcentage que reçoit l\'affilié sur chaque commande.';
+$_['help_commission'] = 'Pourcentage que reçoit l’affilié sur chaque commande.';
 
 // Error
-$_['error_permission'] = 'Attention : vous n\'êtes pas autorisé à modifier les affiliés !';
+$_['error_permission'] = 'Attention : vous n’êtes pas autorisé à modifier les affiliés !';
 $_['error_exists'] = 'Attention : cette adresse électronique est déjà enregistrée !';
 $_['error_firstname'] = 'Le prénom doit contenir entre 1 à 32 caractères !';
 $_['error_lastname'] = 'Le nom de famille doit contenir entre 1 à 32 caractères !';
-$_['error_email'] = 'L\'adresse électronique ne semble pas être valide !';
+$_['error_email'] = 'L’adresse électronique ne semble pas être valide !';
 $_['error_cheque'] = 'Le nom du bénéficiaire du chèque est requis !';
-$_['error_paypal'] = 'L\'adresse électronique PayPal ne semble pas être valide !';
+$_['error_paypal'] = 'L’adresse électronique PayPal ne semble pas être valide !';
 $_['error_bank_account_name'] = 'Le nom de compte est requis !';
 $_['error_bank_account_number'] = 'Le numéro de compte est requis !';
 $_['error_telephone'] = 'Le numéro de téléphone doit contenir entre 3 et 32 caractères !';
 $_['error_password'] = 'Le mot de passe doit contenir entre 4 et 20 caractères !';
 $_['error_confirm'] = 'Le mot de passe de confirmation ne correspond pas au premier mot de passe !';
-$_['error_address_1'] = 'L\'adresse doit contenir entre 3 et 128 caractères !';
+$_['error_address_1'] = 'L’adresse doit contenir entre 3 et 128 caractères !';
 $_['error_city'] = 'Le nom de la ville doit contenir entre 2 à 128 caractères !';
 $_['error_postcode'] = 'Attention : le code postal doit contenir entre 2 à 10 caractères !';
 $_['error_country'] = 'Veuillez sélectionner un pays !';

@@ -9,7 +9,7 @@ $_['text_capture_amount'] = 'Montant de réception';
 $_['text_complete_capture'] = 'Réception complète';
 $_['text_transactions'] = 'Transactions';
 $_['text_complete'] = 'Terminé';
-$_['text_confirm_void'] = 'Si vous annulez, vous ne pourrez plus réceptionner d\'autres fonds';
+$_['text_confirm_void'] = 'Si vous annulez, vous ne pourrez plus réceptionner d’autres fonds';
 $_['text_view'] = 'Voir';
 $_['text_refund'] = 'Rembourser';
 $_['text_resend'] = 'Réenvoyer';
@@ -20,7 +20,7 @@ $_['column_trans_id'] = 'Numéro de transaction';
 $_['column_amount'] = 'Montant';
 $_['column_type'] = 'Type de paiement';
 $_['column_status'] = 'Statut';
-$_['column_pend_reason'] = 'Motif d\'attente';
+$_['column_pend_reason'] = 'Motif d’attente';
 $_['column_date_added'] = 'Créé le';
 $_['column_action'] = 'Action';
 

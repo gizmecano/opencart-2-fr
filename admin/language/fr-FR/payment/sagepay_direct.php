@@ -16,7 +16,7 @@ $_['text_release_ok'] = 'Envoi effectué';
 $_['text_release_ok_order'] = 'Envoi effectué : le statut de la commande a été mis à jour';
 $_['text_rebate_ok'] = 'Remboursement effectué';
 $_['text_rebate_ok_order'] = 'Remboursement effectué : le statut de la commande a été mis à jour';
-$_['text_void_ok'] = 'L\'annulation a réussie : le statut de la commande a été mis à jour';
+$_['text_void_ok'] = 'L’annulation a réussie : le statut de la commande a été mis à jour';
 $_['text_payment_info'] = 'Informations de paiement';
 $_['text_release_status'] = 'Paiement envoyé';
 $_['text_void_status'] = 'Paiement annulé';
@@ -49,7 +49,7 @@ $_['entry_last_cron_job_run'] = 'Dernière date du fonctionnement CRON : ';
 
 // Help
 $_['help_total'] = 'Le montant total que la commande doit atteindre avant que ce module de paiement devienne actif.';
-$_['help_debug'] = 'En activant le débogage, vous autorisez l\'écriture de données sensibles dans un fichier journal. Vous devriez toujours désactiver cette fonction sauf avis contraire.';
+$_['help_debug'] = 'En activant le débogage, vous autorisez l’écriture de données sensibles dans un fichier journal. Vous devriez toujours désactiver cette fonction sauf avis contraire.';
 $_['help_transaction'] = 'La méthode de transaction doit être définie sur Paiement pour autoriser les prélèvements';
 $_['help_cron_job_token'] = 'Utilisez une valeur longue et difficile à deviner';
 $_['help_cron_job_url'] = 'Définissez une tâche CRON pour appeler cette URL';
@@ -60,5 +60,5 @@ $_['btn_rebate'] = 'Remise et/ou remboursement';
 $_['btn_void'] = 'Annulation';
 
 // Error
-$_['error_permission'] = 'Attention : vous n\'avez pas la permission de modifier payment SagePay !';
+$_['error_permission'] = 'Attention : vous n’avez pas la permission de modifier payment SagePay !';
 $_['error_vendor'] = 'ID fournisseur requis !';

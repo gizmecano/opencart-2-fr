@@ -6,7 +6,7 @@ $_['heading_title'] = 'Rapport des commissions des affiliés';
 $_['text_list'] = 'Liste des commissions des affiliés';
 
 // Column
-$_['column_affiliate'] = 'Nom de l\'affilié';
+$_['column_affiliate'] = 'Nom de l’affilié';
 $_['column_email'] = 'Adresse électronique';
 $_['column_status'] = 'Statut';
 $_['column_commission'] = 'Commission';

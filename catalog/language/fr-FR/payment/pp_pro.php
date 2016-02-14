@@ -9,9 +9,9 @@ $_['text_loading'] = 'Chargement';
 $_['entry_cc_type'] = 'Type de carte';
 $_['entry_cc_number'] = 'Numéro de la carte';
 $_['entry_cc_start_date'] = 'Carte valable depuis la date';
-$_['entry_cc_expire_date'] = 'Date d\'expiration de la carte';
+$_['entry_cc_expire_date'] = 'Date d’expiration de la carte';
 $_['entry_cc_cvv2'] = 'Cryptogramme visuel';
-$_['entry_cc_issue'] = 'Numéro d\'émission de la carte';
+$_['entry_cc_issue'] = 'Numéro d’émission de la carte';
 
 // Help
 $_['help_start_date'] = '(si valable)';

@@ -47,7 +47,7 @@ $_['entry_card'] = 'Cartes de magasin';
 
 // Help
 $_['help_total'] = 'Le total que la commande doit atteindre avant que cette méthode de paiement devient active.';
-$_['help_debug'] = 'En activant le débogage, vous autorisez l\'écriture de données sensibles dans un fichier journal. Vous devriez toujours désactiver cette fonction sauf avis contraire.';
+$_['help_debug'] = 'En activant le débogage, vous autorisez l’écriture de données sensibles dans un fichier journal. Vous devriez toujours désactiver cette fonction sauf avis contraire.';
 $_['help_transaction'] = 'La méthode de transaction doit être définie sur Paiement pour autoriser les prélèvements';
 $_['help_cron_job_token'] = 'Utilisez une valeur longue et difficile à deviner';
 $_['help_cron_job_url'] = 'Définissez une tâche CRON pour appeler cette URL';
@@ -58,6 +58,6 @@ $_['btn_rebate'] = 'Remise et/ou remboursement';
 $_['btn_void'] = 'Annulation';
 
 // Error
-$_['error_permission'] = 'Attention : vous n\'êtes pas autorisé à modifier le module de paiement BluePay !';
+$_['error_permission'] = 'Attention : vous n’êtes pas autorisé à modifier le module de paiement BluePay !';
 $_['error_account_id'] = 'ID de compte requis !';
 $_['error_secret_key'] = 'La clef secrète est requise !';

@@ -9,7 +9,7 @@ $_['button_plan_change'] = 'Changer de forfait';
 
 // Columns
 $_['column_plan'] = 'Nom du forfait';
-$_['column_call_limit'] = 'Limite d\'appel';
+$_['column_call_limit'] = 'Limite d’appel';
 $_['column_price'] = 'Prix (€ / mois)';
 $_['column_description'] = 'Description';
 $_['column_current'] = 'Forfait actuel';
@@ -25,4 +25,4 @@ $_['text_load_my_plan'] = 'Chargement de votre forfait';
 $_['text_load_plans'] = 'Chargement des forfaits disponibles';
 
 // Errors
-$_['error_ajax_load'] = 'Désolé, impossible d\'obtenir une réponse. Veuillez réessayez plus tard.';
+$_['error_ajax_load'] = 'Désolé, impossible d’obtenir une réponse. Veuillez réessayez plus tard.';

@@ -3,10 +3,10 @@
 $_['heading_title'] = 'Echec du paiement !';
 
 // Text
-$_['text_basket'] = 'Panier d\'achat';
+$_['text_basket'] = 'Panier d’achat';
 $_['text_checkout'] = 'Valider la commande';
 $_['text_failure'] = 'Echec du paiement';
-$_['text_message'] = '<p>Un problème a été rencontré lors du traitement de votre paiement et la commande n\'a pas été terminée.</p>
+$_['text_message'] = '<p>Un problème a été rencontré lors du traitement de votre paiement et la commande n’a pas été terminée.</p>
 
 <p>Les raisons possibles sont:</p>
 <ul>
@@ -16,5 +16,5 @@ $_['text_message'] = '<p>Un problème a été rencontré lors du traitement de v
 
 <p>Veuillez essayer de commander à nouveau en utilisant un autre moyen de paiement.</p>
 
-<p>Si le problème persiste, veuillez <a href="%s">nous contacter</a> avec les détails de la commande que vous essayez d\'envoyer.</p>
+<p>Si le problème persiste, veuillez <a href="%s">nous contacter</a> avec les détails de la commande que vous essayez d’envoyer.</p>
 ';

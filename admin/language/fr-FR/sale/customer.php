@@ -17,7 +17,7 @@ $_['column_name'] = 'Nom du client';
 $_['column_email'] = 'Adresse électronique';
 $_['column_customer_group'] = 'Groupe de clients';
 $_['column_status'] = 'Statut';
-$_['column_date_added'] = 'Date d\'ajout';
+$_['column_date_added'] = 'Date d’ajout';
 $_['column_comment'] = 'Commentaire';
 $_['column_description'] = 'Description';
 $_['column_amount'] = 'Montant';
@@ -33,7 +33,7 @@ $_['entry_lastname'] = 'Nom de famille';
 $_['entry_email'] = 'Adresse électronique';
 $_['entry_telephone'] = 'Téléphone';
 $_['entry_fax'] = 'Télécopie';
-$_['entry_newsletter'] = 'Lettre d\'informations';
+$_['entry_newsletter'] = 'Lettre d’informations';
 $_['entry_status'] = 'Statut';
 $_['entry_approved'] = 'Approuvé';
 $_['entry_safe'] = 'Sûre';
@@ -53,7 +53,7 @@ $_['entry_amount'] = 'Montant';
 $_['entry_points'] = 'Points';
 $_['entry_name'] = 'Nom du client';
 $_['entry_ip'] = 'IP';
-$_['entry_date_added'] = 'Date d\'ajout';
+$_['entry_date_added'] = 'Date d’ajout';
 
 // Help
 $_['help_safe'] = 'Mettre à vrai pour permettre à ce client de passer le système anti-fraude';
@@ -61,15 +61,15 @@ $_['help_points'] = 'Utilisez le signe moins pour enlever des points';
 
 // Error
 $_['error_warning'] = 'Attention : veuillez vérifier le formulaire';
-$_['error_permission'] = 'Attention : vous n\'avez pas la permission de modifier les clients !';
+$_['error_permission'] = 'Attention : vous n’avez pas la permission de modifier les clients !';
 $_['error_exists'] = 'Attention : cette adresse électronique est déjà enregistrée !';
 $_['error_firstname'] = 'Le prénom doit contenir entre 1 à 32 caractères !';
 $_['error_lastname'] = 'Le nom de famille doit contenir entre 1 à 32 caractères !';
-$_['error_email'] = 'L\'adresse électronique ne semble pas être valide !';
+$_['error_email'] = 'L’adresse électronique ne semble pas être valide !';
 $_['error_telephone'] = 'Le numéro de téléphone doit contenir entre 3 et 32 caractères !';
 $_['error_password'] = 'Le mot de passe doit contenir entre 4 et 20 caractères !';
 $_['error_confirm'] = 'Le mot de passe de confirmation ne correspond pas au premier mot de passe !';
-$_['error_address_1'] = 'L\'adresse doit contenir entre 3 et 128 caractères !';
+$_['error_address_1'] = 'L’adresse doit contenir entre 3 et 128 caractères !';
 $_['error_city'] = 'Le nom de la ville doit contenir entre 2 à 128 caractères !';
 $_['error_postcode'] = 'Attention : le code postal doit contenir entre 2 à 10 caractères !';
 $_['error_country'] = 'Veuillez sélectionner un pays !';

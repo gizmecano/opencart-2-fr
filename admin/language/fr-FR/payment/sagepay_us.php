@@ -20,6 +20,6 @@ $_['entry_sort_order'] = 'Classement';
 $_['help_total'] = 'Le montant total que la commande doit atteindre avant que ce module de paiement devienne actif.';
 
 // Error
-$_['error_permission'] = 'Attention : vous n\'avez pas la permission de modifier payment SagePay !';
+$_['error_permission'] = 'Attention : vous n’avez pas la permission de modifier payment SagePay !';
 $_['error_merchant_id'] = 'ID marchand requis !';
 $_['error_merchant_key'] = 'Clef du marchand requise !';

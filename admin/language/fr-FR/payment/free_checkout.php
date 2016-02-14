@@ -13,4 +13,4 @@ $_['entry_status'] = 'Statut';
 $_['entry_sort_order'] = 'Classement';
 
 // Error
-$_['error_permission'] = 'Attention : vous n\'êtes pas autorisé à modifier les paramètres du module de commande gratuite !';
+$_['error_permission'] = 'Attention : vous n’êtes pas autorisé à modifier les paramètres du module de commande gratuite !';

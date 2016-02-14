@@ -8,9 +8,9 @@ $_['text_register'] = 'Inscription';
 $_['text_account_already'] = 'Si vous avez déjà un compte, merci de <a href="%s">vous connecter</a>.';
 $_['text_your_details'] = 'Vos données personnelles';
 $_['text_your_address'] = 'Votre adresse';
-$_['text_newsletter'] = 'Lettre d\'informations';
+$_['text_newsletter'] = 'Lettre d’informations';
 $_['text_your_password'] = 'Votre mot de passe';
-$_['text_agree'] = 'J\'ai lu et accepté les <a href="%s" class="agree"><b>%s</b></a>';
+$_['text_agree'] = 'J’ai lu et accepté les <a href="%s" class="agree"><b>%s</b></a>';
 
 // Entry
 $_['entry_customer_group'] = 'Groupe de clients';
@@ -26,7 +26,7 @@ $_['entry_postcode'] = 'Code postal';
 $_['entry_city'] = 'Ville';
 $_['entry_country'] = 'Pays';
 $_['entry_zone'] = 'Subdivision administrative';
-$_['entry_newsletter'] = 'S\'abonner';
+$_['entry_newsletter'] = 'S’abonner';
 $_['entry_password'] = 'Mot de passe';
 $_['entry_confirm'] = 'Confirmer le mot de passe';
 
@@ -34,9 +34,9 @@ $_['entry_confirm'] = 'Confirmer le mot de passe';
 $_['error_exists'] = 'Attention : cette adresse électronique est déjà enregistrée !';
 $_['error_firstname'] = 'Le prénom doit contenir entre 1 à 32 caractères !';
 $_['error_lastname'] = 'Le nom de famille doit contenir entre 1 à 32 caractères !';
-$_['error_email'] = 'L\'adresse électronique ne semble pas être valide !';
+$_['error_email'] = 'L’adresse électronique ne semble pas être valide !';
 $_['error_telephone'] = 'Le numéro de téléphone doit contenir entre 3 et 32 caractères !';
-$_['error_address_1'] = 'L\'adresse doit contenir entre 3 et 128 caractères !';
+$_['error_address_1'] = 'L’adresse doit contenir entre 3 et 128 caractères !';
 $_['error_city'] = 'Le nom de la ville doit contenir entre 2 à 128 caractères !';
 $_['error_postcode'] = 'Attention : le code postal doit contenir entre 2 à 10 caractères !';
 $_['error_country'] = 'Veuillez sélectionner un pays !';

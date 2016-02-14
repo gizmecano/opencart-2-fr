@@ -5,10 +5,10 @@ $_['text_openbay'] = 'OpenBay Pro';
 $_['text_dashboard'] = 'Tableau de bord eBay';
 
 // Text
-$_['text_success'] = 'Vous venez d\'enregistrer les modifications apportées à l\'extension eBay.';
+$_['text_success'] = 'Vous venez d’enregistrer les modifications apportées à l’extension eBay.';
 $_['text_heading_settings'] = 'Paramètres';
 $_['text_heading_sync'] = 'Synchroniser';
-$_['text_heading_subscription'] = 'Changer d\'offre';
+$_['text_heading_subscription'] = 'Changer d’offre';
 $_['text_heading_usage'] = 'Utilisation';
 $_['text_heading_links'] = 'Liens du produit';
 $_['text_heading_item_import'] = 'Importer des objets';

@@ -13,9 +13,9 @@ $_['column_name'] = 'Action de retour';
 $_['column_action'] = 'Action';
 
 // Entry
-$_['entry_name'] = 'Nom de l\'action de retour';
+$_['entry_name'] = 'Nom de l’action de retour';
 
 // Error
-$_['error_permission'] = 'Attention : vous n\'êtes pas autorisé à modifier les actions de retour !';
-$_['error_name'] = 'Le nom de l\'action de retour doit contenir entre 3 et 64 caractères !';
+$_['error_permission'] = 'Attention : vous n’êtes pas autorisé à modifier les actions de retour !';
+$_['error_name'] = 'Le nom de l’action de retour doit contenir entre 3 et 64 caractères !';
 $_['error_return'] = 'Attention : cette action de retour ne peut être supprimée car elle est actuellement attribuée à %s produits retournés !';

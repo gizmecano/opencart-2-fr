@@ -50,13 +50,13 @@ $_['entry_meter'] = 'Nombre mètre';
 $_['entry_postcode'] = 'Code postal';
 $_['entry_test'] = 'Mode de test';
 $_['entry_service'] = 'Services complémentaires';
-$_['entry_dimension'] = 'Dimensions de l\'emballage (L × l × H)';
+$_['entry_dimension'] = 'Dimensions de l’emballage (L × l × H)';
 $_['entry_length_class'] = 'Unité de longueur';
 $_['entry_length'] = 'Longueur';
 $_['entry_width'] = 'Largeur';
 $_['entry_height'] = 'Hauteur';
 $_['entry_dropoff_type'] = 'Type de dépôt';
-$_['entry_packaging_type'] = 'Type d\'emballage';
+$_['entry_packaging_type'] = 'Type d’emballage';
 $_['entry_rate_type'] = 'Type de taux';
 $_['entry_display_time'] = 'Affichage du délai de livraison';
 $_['entry_display_weight'] = 'Afficher le poids du colis';
@@ -68,12 +68,12 @@ $_['entry_sort_order'] = 'Classement';
 
 // Help
 $_['help_length_class'] = 'Configurer en pouces ou en centimètres.';
-$_['help_display_time'] = 'Voulez-vous afficher l\'heure de livraison ?';
+$_['help_display_time'] = 'Voulez-vous afficher l’heure de livraison ?';
 $_['help_display_weight'] = 'Voulez-vous afficher le poids de livraison ?';
 $_['help_weight_class'] = 'Configurer en kilogrammes ou en livres.';
 
 // Error
-$_['error_permission'] = 'Attention : vous n\'êtes pas autorisé à modifier la livraison FedEx !';
+$_['error_permission'] = 'Attention : vous n’êtes pas autorisé à modifier la livraison FedEx !';
 $_['error_key'] = 'Clef requise !';
 $_['error_password'] = 'Le mot de passe est requis !';
 $_['error_account'] = 'Compte requis !';

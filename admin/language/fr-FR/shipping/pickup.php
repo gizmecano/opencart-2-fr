@@ -13,4 +13,4 @@ $_['entry_status'] = 'Statut';
 $_['entry_sort_order'] = 'Classement';
 
 // Error
-$_['error_permission'] = 'Attention : vous n\'avez pas la permission de modifier le retrait en magasin !';
+$_['error_permission'] = 'Attention : vous n’avez pas la permission de modifier le retrait en magasin !';

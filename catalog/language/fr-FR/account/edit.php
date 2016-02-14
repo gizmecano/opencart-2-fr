@@ -19,6 +19,6 @@ $_['entry_fax'] = 'Télécopie';
 $_['error_exists'] = 'Attention : cette adresse électronique est déjà utilisée !';
 $_['error_firstname'] = 'Le prénom doit contenir entre 1 à 32 caractères !';
 $_['error_lastname'] = 'Le nom de famille doit contenir entre 1 à 32 caractères !';
-$_['error_email'] = 'L\'adresse électronique ne semble pas être valide !';
+$_['error_email'] = 'L’adresse électronique ne semble pas être valide !';
 $_['error_telephone'] = 'Le numéro de téléphone doit contenir entre 3 et 32 caractères !';
 $_['error_custom_field'] = '%s est requis !';

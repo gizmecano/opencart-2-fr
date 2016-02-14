@@ -26,10 +26,10 @@ $_['entry_position'] = 'Position';
 $_['entry_sort_order'] = 'Classement';
 
 // Error
-$_['error_permission'] = 'Attention : vous n\'êtes pas autorisé à modifier les gabarits !';
+$_['error_permission'] = 'Attention : vous n’êtes pas autorisé à modifier les gabarits !';
 $_['error_name'] = 'Le nom du gabarit doit contenir entre 3 et 64 caractères !';
 $_['error_default'] = 'Attention : ce gabarit ne peut être supprimée car il est actuellement défini comme gabarit par défaut pour cette boutique !';
 $_['error_store'] = 'Attention : ce gabarit ne peut être supprimé car il est actuellement attribué à %s boutiques !';
 $_['error_product'] = 'Attention : ce gabarit ne peut être supprimé car il est actuellement attribué à %s produits !';
 $_['error_category'] = 'Attention : ce gabarit ne peut être supprimé car il est actuellement attribué à %s catégories !';
-$_['error_information'] = 'Attention : ce gabarit ne peut être supprimé car il est actuellement attribué à %s pages d\'informations !';
+$_['error_information'] = 'Attention : ce gabarit ne peut être supprimé car il est actuellement attribué à %s pages d’informations !';

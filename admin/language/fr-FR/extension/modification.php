@@ -12,8 +12,8 @@ $_['column_name'] = 'Nom du correctif';
 $_['column_author'] = 'Auteur';
 $_['column_version'] = 'Version';
 $_['column_status'] = 'Statut';
-$_['column_date_added'] = 'Date d\'ajout';
+$_['column_date_added'] = 'Date d’ajout';
 $_['column_action'] = 'Action';
 
 // Error
-$_['error_permission'] = 'Attention : vous n\'êtes pas autorisé à modifier les correctifs !';
+$_['error_permission'] = 'Attention : vous n’êtes pas autorisé à modifier les correctifs !';

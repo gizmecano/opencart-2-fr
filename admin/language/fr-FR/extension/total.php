@@ -13,4 +13,4 @@ $_['column_sort_order'] = 'Classement';
 $_['column_action'] = 'Action';
 
 // Error
-$_['error_permission'] = 'Attention : vous n\'êtes pas autorisé à modifier les totaux de commande !';
+$_['error_permission'] = 'Attention : vous n’êtes pas autorisé à modifier les totaux de commande !';

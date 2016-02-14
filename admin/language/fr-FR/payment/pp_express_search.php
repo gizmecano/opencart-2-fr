@@ -20,7 +20,7 @@ $_['text_pp_express'] = 'Paiement PayPal Express';
 $_['text_date_search'] = 'Recherche par date';
 $_['text_searching'] = 'Recherche en cours';
 $_['text_name'] = 'Nom';
-$_['text_buyer_info'] = 'Informations sur l\'acheteur';
+$_['text_buyer_info'] = 'Informations sur l’acheteur';
 $_['text_view'] = 'Voir';
 $_['text_format'] = 'Format';
 
@@ -29,7 +29,7 @@ $_['entry_trans_all'] = 'Tout';
 $_['entry_trans_sent'] = 'Envoyé';
 $_['entry_trans_received'] = 'Reçu';
 $_['entry_trans_masspay'] = 'Paiement groupé';
-$_['entry_trans_money_req'] = 'Demande d\'argent';
+$_['entry_trans_money_req'] = 'Demande d’argent';
 $_['entry_trans_funds_add'] = 'Fonds ajoutés';
 $_['entry_trans_funds_with'] = 'Fonds retirés';
 $_['entry_trans_referral'] = 'Référant';

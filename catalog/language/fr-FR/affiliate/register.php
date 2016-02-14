@@ -1,12 +1,12 @@
 <?php
 // Heading
-$_['heading_title'] = 'Programme d\'affiliation';
+$_['heading_title'] = 'Programme d’affiliation';
 
 // Text
 $_['text_account'] = 'Compte';
-$_['text_register'] = 'Inscription d\'un affilié';
+$_['text_register'] = 'Inscription d’un affilié';
 $_['text_account_already'] = 'Si vous avez déjà un compte, merci de <a href="%s">vous connecter</a>.';
-$_['text_signup'] = 'Pour créer un compte d\'affilié, remplissez le formulaire ci-dessous et assurez-vous d\'avoir bien complété tous les champs requis : ';
+$_['text_signup'] = 'Pour créer un compte d’affilié, remplissez le formulaire ci-dessous et assurez-vous d’avoir bien complété tous les champs requis : ';
 $_['text_your_details'] = 'Vos données personnelles';
 $_['text_your_address'] = 'Détails de votre adresse';
 $_['text_payment'] = 'Information de paiement';
@@ -14,7 +14,7 @@ $_['text_your_password'] = 'Votre mot de passe';
 $_['text_cheque'] = 'Chèque';
 $_['text_paypal'] = 'PayPal';
 $_['text_bank'] = 'Virement bancaire';
-$_['text_agree'] = 'J\'ai lu et accepté les <a href="%s" class="agree"><b>%s</b></a>';
+$_['text_agree'] = 'J’ai lu et accepté les <a href="%s" class="agree"><b>%s</b></a>';
 
 // Entry
 $_['entry_firstname'] = 'Prénom';
@@ -46,11 +46,11 @@ $_['entry_confirm'] = 'Confirmer le mot de passe';
 $_['error_exists'] = 'Attention : cette adresse électronique est déjà enregistrée !';
 $_['error_firstname'] = 'Le prénom doit contenir entre 1 à 32 caractères !';
 $_['error_lastname'] = 'Le nom de famille doit contenir entre 1 à 32 caractères !';
-$_['error_email'] = 'L\'adresse électronique ne semble pas être valide !';
+$_['error_email'] = 'L’adresse électronique ne semble pas être valide !';
 $_['error_telephone'] = 'Le numéro de téléphone doit contenir entre 3 et 32 caractères !';
 $_['error_password'] = 'Le mot de passe doit contenir entre 4 et 20 caractères !';
 $_['error_confirm'] = 'La confirmation de mot de passe ne correspond pas au mot de passe saisi !';
-$_['error_address_1'] = 'L\'adresse doit contenir entre 3 et 128 caractères !';
+$_['error_address_1'] = 'L’adresse doit contenir entre 3 et 128 caractères !';
 $_['error_city'] = 'Le nom de la ville doit contenir entre 2 à 128 caractères !';
 $_['error_country'] = 'Veuillez sélectionner un pays !';
 $_['error_zone'] = 'Veuillez sélectionner une subdivision administrative !';

@@ -28,7 +28,7 @@ $_['text_refurbished'] = 'Reconditionné';
 
 // Entry
 $_['entry_condition'] = 'État';
-$_['entry_condition_note'] = 'Note sur l\'état';
+$_['entry_condition_note'] = 'Note sur l’état';
 $_['entry_start_selling'] = 'Commencer à vendre';
 
 // Column
@@ -45,5 +45,5 @@ $_['button_list'] = 'Mettre en vente';
 // Error
 $_['error_product_sku'] = 'Le produit doit avoir une référence (SKU)';
 $_['error_searchable_fields'] = 'Le produit doit avoir le champ ISBN, EAN, UPC ou JAN rempli';
-$_['error_bulk_listing_permission'] = 'La mise en vente automatisée n\'est pas autorisé pour votre profil, veuillez mettre à niveau votre compte';
+$_['error_bulk_listing_permission'] = 'La mise en vente automatisée n’est pas autorisé pour votre profil, veuillez mettre à niveau votre compte';
 $_['error_select_items'] = 'Vous devez sélectionner au moins un élément à rechercher';

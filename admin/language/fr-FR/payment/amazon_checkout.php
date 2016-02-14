@@ -24,24 +24,24 @@ $_['text_download'] = '<a href="%s" target="_blank"><u>Télécharger</u></a> le 
 $_['text_amazon_details'] = 'Identifiants Amazon';
 $_['text_amazon_order_id'] = 'Numéro de commande Amazon';
 $_['text_upload'] = 'Télécharger';
-$_['text_upload_template'] = 'Télécharger ce formulaire vers un modèle en cliquant sur le bouton ci-dessous. Assurez-vous qu\'il soit enregistré dans un fichier délimité par des tabulations.';
-$_['text_amazon_checkout'] = '<a onclick="window.open(\'http://go.amazonservices.com/UKCBASPOpenCart.html\');"> <img src="view/image/payment/amazon.png" alt="Paiements Amazon" title="Paiements Amazon" style="border: 1px solid #EEEEEE;" /></a>';
+$_['text_upload_template'] = 'Télécharger ce formulaire vers un modèle en cliquant sur le bouton ci-dessous. Assurez-vous qu’il soit enregistré dans un fichier délimité par des tabulations.';
+$_['text_amazon_checkout'] = '<a onclick="window.open(’http://go.amazonservices.com/UKCBASPOpenCart.html’);"> <img src="view/image/payment/amazon.png" alt="Paiements Amazon" title="Paiements Amazon" style="border: 1px solid #EEEEEE;" /></a>';
 $_['text_amazon_join'] = 'Pour créer votre compte Paiements Amazon<a href="http://go.amazonservices.com/UKCBASPOpenCart.html" target="_blank" title="Cliquez ici pour vous inscrire aux Paiements Amazon" class="alert-link"> cliquez ici.</a>';
 
 // Column
-$_['column_submission_id'] = 'Identifiant de l\'envoi';
+$_['column_submission_id'] = 'Identifiant de l’envoi';
 $_['column_status'] = 'Statut';
 $_['column_text'] = 'Réponse';
 $_['column_amazon_order_item_code'] = 'Code de commande Amazon';
 
 // Entry
 $_['entry_merchant_id'] = 'Identifiant du commerçant';
-$_['entry_access_key'] = 'Clef d\'accès';
+$_['entry_access_key'] = 'Clef d’accès';
 $_['entry_access_secret'] = 'Clef secrète';
-$_['entry_checkout_mode'] = 'Mode d\'encaissement';
+$_['entry_checkout_mode'] = 'Mode d’encaissement';
 $_['entry_marketplace'] = 'Place de marché';
 $_['entry_pending_status'] = 'En attente';
-$_['entry_ready_status'] = 'Statut « Prêt pour l\'envoi »';
+$_['entry_ready_status'] = 'Statut « Prêt pour l’envoi »';
 $_['entry_shipped_status'] = 'Statut « Commande envoyée »';
 $_['entry_canceled_status'] = 'Statut « Commande annulée »';
 $_['entry_cron_job_url'] = 'URL du planificateur CRON';
@@ -68,9 +68,9 @@ $_['help_cron_job_token'] = 'Utilisez une valeur longue et difficile à deviner'
 $_['tab_order_adjustment'] = 'Configuration de la commande';
 
 // Error
-$_['error_permissions'] = 'Vous n\'avez pas les autorisations pour modifier ce module.';
+$_['error_permissions'] = 'Vous n’avez pas les autorisations pour modifier ce module.';
 $_['error_access_secret'] = 'La clef secrète est requise.';
-$_['error_access_key'] = 'La clef d\'accès rapide est requise.';
-$_['error_merchant_id'] = 'L\'identifiant marchand est requis.';
+$_['error_access_key'] = 'La clef d’accès rapide est requise.';
+$_['error_merchant_id'] = 'L’identifiant marchand est requis.';
 $_['error_curreny'] = 'Votre boutique doit avoir la devise %s installée et activée.';
 $_['error_upload'] = 'Le téléchargement a échoué';

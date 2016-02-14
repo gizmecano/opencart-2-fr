@@ -3,7 +3,7 @@
 $_['heading_title'] = 'Promotions';
 
 // Text
-$_['text_empty'] = 'Il n\'y a aucune promotion correspondante.';
+$_['text_empty'] = 'Il n’y a aucune promotion correspondante.';
 $_['text_quantity'] = 'Quantité : ';
 $_['text_manufacturer'] = 'Fabricant : ';
 $_['text_model'] = 'Référence : ';

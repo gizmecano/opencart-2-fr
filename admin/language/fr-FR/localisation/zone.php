@@ -21,10 +21,10 @@ $_['entry_code'] = 'Code du domaine';
 $_['entry_country'] = 'Pays';
 
 // Error
-$_['error_permission'] = 'Attention : vous n\'êtes pas autorisé à modifier les domaines !';
+$_['error_permission'] = 'Attention : vous n’êtes pas autorisé à modifier les domaines !';
 $_['error_name'] = 'Le nom du domaine doit contenir entre 3 et 128 caractères !';
 $_['error_default'] = 'Attention : ce domaine ne peut être supprimé car il est actuellement défini en tant que domaine par défaut !';
 $_['error_store'] = 'Attention : ce domaine ne peut être supprimé car il est actuellement attribué à %s boutiques !';
-$_['error_address'] = 'Attention : ce domaine ne peut être supprimé car il est actuellement attribué à %s entrées du carnet d\'adresses !';
+$_['error_address'] = 'Attention : ce domaine ne peut être supprimé car il est actuellement attribué à %s entrées du carnet d’adresses !';
 $_['error_affiliate'] = 'Attention : ce domaine ne peut être supprimé car il est actuellement attribué à %s affiliés !';
 $_['error_zone_to_geo_zone'] = 'Attention : ce domaine ne peut être supprimé car il est actuellement attribué à %s zones géographiques !';

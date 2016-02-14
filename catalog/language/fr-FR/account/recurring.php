@@ -43,7 +43,7 @@ $_['text_transaction_skipped'] = 'Paiement omis';
 $_['text_transaction_failed'] = 'Echec du paiement';
 $_['text_transaction_cancelled'] = 'Annulé';
 $_['text_transaction_suspended'] = 'Suspendu';
-$_['text_transaction_suspended_failed'] = 'Suspendu en raison d\'un échec du paiement';
+$_['text_transaction_suspended_failed'] = 'Suspendu en raison d’un échec du paiement';
 $_['text_transaction_outstanding_failed'] = 'Echec du paiement en suspens';
 $_['text_transaction_expired'] = 'Expiré';
 

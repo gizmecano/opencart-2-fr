@@ -76,11 +76,11 @@ $_['help_dimension'] = 'Dimensions moyennes du colis pour la livraison. Les dime
 $_['help_display_time'] = 'Souhaitez-vous afficher le délai de livraison? (par exemple, expédié sous 3 à 5 jours)';
 $_['help_display_weight'] = 'Voulez-vous afficher le poids de livraison ? (par exemple, poids de la livraison: 2,7674 kg)';
 $_['help_weight_class'] = 'Doit être indiqué en livres.';
-$_['help_debug'] = 'Sauve les données envoyées et reçues dans l\'historique du système';
+$_['help_debug'] = 'Sauve les données envoyées et reçues dans l’historique du système';
 
 // Error
-$_['error_permission'] = 'Attention : vous n\'avez pas la permission de modifier le service US Postal !';
-$_['error_user_id'] = 'Identifiant de l\'utilisateur requis !';
+$_['error_permission'] = 'Attention : vous n’avez pas la permission de modifier le service US Postal !';
+$_['error_user_id'] = 'Identifiant de l’utilisateur requis !';
 $_['error_postcode'] = 'Code postal requis !';
 $_['error_width'] = 'Largeur requise !';
 $_['error_length'] = 'Longueur requise !';

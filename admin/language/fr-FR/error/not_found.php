@@ -3,4 +3,4 @@
 $_['heading_title'] = 'Page non trouvée !';
 
 // Text
-$_['text_not_found'] = 'La page que vous recherchez n\'a pas pu être trouvée ! Veuillez contacter votre administrateur si le problème persiste.';
+$_['text_not_found'] = 'La page que vous recherchez n’a pas pu être trouvée ! Veuillez contacter votre administrateur si le problème persiste.';

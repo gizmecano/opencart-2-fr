@@ -10,7 +10,7 @@ $_['text_test'] = 'Test';
 $_['text_live'] = 'Direct';
 $_['text_authorization'] = 'Autorisation';
 $_['text_capture'] = 'Capture';
-$_['text_authorizenet_aim'] = '<a onclick="window.open(\'http://reseller.authorize.net/application/?id=5561103\');"><img src="view/image/payment/authorizenet.png" alt="Authorize.Net" title="Authorize.Net" style="border: 1px solid #EEEEEE;" /></a>';
+$_['text_authorizenet_aim'] = '<a onclick="window.open(’http://reseller.authorize.net/application/?id=5561103’);"><img src="view/image/payment/authorizenet.png" alt="Authorize.Net" title="Authorize.Net" style="border: 1px solid #EEEEEE;" /></a>';
 
 // Entry
 $_['entry_login'] = 'Identifiant';
@@ -29,6 +29,6 @@ $_['entry_sort_order'] = 'Classement';
 $_['help_total'] = 'Le montant total que la commande doit atteindre avant que ce module de paiement devienne actif.';
 
 // Error
-$_['error_permission'] = 'Attention : vous n\'êtes pas autorisé à modifier le module de paiement Authorize.Net (SIM) !';
-$_['error_login'] = 'L\'identifiant est requis !';
+$_['error_permission'] = 'Attention : vous n’êtes pas autorisé à modifier le module de paiement Authorize.Net (SIM) !';
+$_['error_login'] = 'L’identifiant est requis !';
 $_['error_key'] = 'La clef de transaction est requise !';

@@ -19,7 +19,7 @@ $_['entry_status'] = 'Statut';
 $_['help_product'] = 'Autocomplétion';
 
 // Error
-$_['error_permission'] = 'Attention : vous n\'êtes pas autorisé à modifier le module « Produits phares » !';
+$_['error_permission'] = 'Attention : vous n’êtes pas autorisé à modifier le module « Produits phares » !';
 $_['error_name'] = 'Le nom du module doit contenir entre 3 et 64 caractères !';
 $_['error_width'] = 'La largeur est requise !';
 $_['error_height'] = 'La hauteur est requise !';

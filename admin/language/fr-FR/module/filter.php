@@ -11,4 +11,4 @@ $_['text_edit'] = 'Modifier le module « Filtre »';
 $_['entry_status'] = 'Statut';
 
 // Error
-$_['error_permission'] = 'Attention : vous n\'êtes pas autorisé à modifier le module « Filtre » !';
+$_['error_permission'] = 'Attention : vous n’êtes pas autorisé à modifier le module « Filtre » !';

@@ -12,4 +12,4 @@ $_['entry_status'] = 'Statut';
 $_['entry_sort_order'] = 'Classement';
 
 // Error
-$_['error_permission'] = 'Attention : vous n\'avez pas la permission de modifier le total du crédit de la boutique !';
+$_['error_permission'] = 'Attention : vous n’avez pas la permission de modifier le total du crédit de la boutique !';

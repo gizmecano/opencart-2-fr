@@ -35,7 +35,7 @@ $_['text_collectible_acceptable'] = 'Articles de collection - Passable';
 $_['text_refurbished'] = 'Reconditionné';
 
 // Error
-$_['error_permission'] = 'Vous n\'avez pas accès à ce module';
+$_['error_permission'] = 'Vous n’avez pas accès à ce module';
 
 // Entry
 $_['entry_status'] = 'Statut';
@@ -47,17 +47,17 @@ $_['entry_customer_group'] = 'Groupe de clients';
 $_['entry_tax_percentage'] = 'Modifier le prix';
 $_['entry_default_condition'] = 'État par défaut du produit';
 $_['entry_marketplace_default'] = 'Boutique par défaut';
-$_['entry_notify_admin'] = 'Prévenir l\'administrateur si nouvelle commande';
+$_['entry_notify_admin'] = 'Prévenir l’administrateur si nouvelle commande';
 $_['entry_default_shipping'] = 'Mode de livraison par défaut';
 
 // Tabs
-$_['tab_settings'] = 'Informations sur l\'aplication';
+$_['tab_settings'] = 'Informations sur l’aplication';
 $_['tab_listing'] = 'Mises en vente';
 $_['tab_orders'] = 'Commandes';
 
 // Help
-$_['help_import_tax'] = 'Utilisé dans le cas où Amazon ne retourne pas d\'informations de taxe';
+$_['help_import_tax'] = 'Utilisé dans le cas où Amazon ne retourne pas d’informations de taxe';
 $_['help_customer_group'] = 'Sélectionnez un groupe de clients à assigner aux commandes importées';
-$_['help_default_shipping'] = 'Utilisé en tant qu\'option pré-sélectionnée lors des mises à jour automatisés des commandes';
+$_['help_default_shipping'] = 'Utilisé en tant qu’option pré-sélectionnée lors des mises à jour automatisés des commandes';
 $_['help_entry_marketplace_default'] = 'Place de marché par défaut pour les mises en vente et les recherches';
-$_['help_tax_percentage'] = 'Pourcentage ajouté au prix par défaut de l\'objet';
+$_['help_tax_percentage'] = 'Pourcentage ajouté au prix par défaut de l’objet';

@@ -23,16 +23,16 @@ $_['entry_status'] = 'Statut';
 $_['entry_sort_order'] = 'Classement';
 
 // Help
-$_['help_vendor'] = 'L\'identifiant de connexion que vous avez créé lors de votre inscription à Website Payments Pro';
-$_['help_user'] = 'Si vous configurez un ou plusieurs utilisateurs supplémentaires sur le compte, cette valeur correspond à l\'identifiant utilisateur autorisé à traiter les transactions. Si, toutefois, vous n\'avez pas défini des utilisateurs supplémentaires sur le compte, UTILISATEUR a la même valeur que FOURNISSEUR';
-$_['help_password'] = 'Le mot de passe de 6 à 32 caractères que vous avez défini lors de l\'inscription au compte PayPal';
-$_['help_partner'] = 'L\'identifiant fourni par le revendeur agréé de PayPal qui vous a inscrit au SDK Payflow. Si vous avez acheté votre compte directement chez PayPal, utilisez l\'identifiant PayPal Pro à la place';
+$_['help_vendor'] = 'L’identifiant de connexion que vous avez créé lors de votre inscription à Website Payments Pro';
+$_['help_user'] = 'Si vous configurez un ou plusieurs utilisateurs supplémentaires sur le compte, cette valeur correspond à l’identifiant utilisateur autorisé à traiter les transactions. Si, toutefois, vous n’avez pas défini des utilisateurs supplémentaires sur le compte, UTILISATEUR a la même valeur que FOURNISSEUR';
+$_['help_password'] = 'Le mot de passe de 6 à 32 caractères que vous avez défini lors de l’inscription au compte PayPal';
+$_['help_partner'] = 'L’identifiant fourni par le revendeur agréé de PayPal qui vous a inscrit au SDK Payflow. Si vous avez acheté votre compte directement chez PayPal, utilisez l’identifiant PayPal Pro à la place';
 $_['help_test'] = 'Utiliser le mode direct ou bien le mode de test (bac à sable) pour traiter les transactions ?';
 $_['help_total'] = 'Le montant total que la commande doit atteindre avant que ce module de paiement devienne actif';
 
 // Error
-$_['error_permission'] = 'Attention : vous n\'êtes pas autorisé à modifier les paramètres du module de paiement PayPal Website Payment Pro (UK) !';
+$_['error_permission'] = 'Attention : vous n’êtes pas autorisé à modifier les paramètres du module de paiement PayPal Website Payment Pro (UK) !';
 $_['error_vendor'] = 'Le nom du fournisseur est requis !';
-$_['error_user'] = 'Le nom d\'utilisateur est requis !';
+$_['error_user'] = 'Le nom d’utilisateur est requis !';
 $_['error_password'] = 'Le mot de passe est requis !';
 $_['error_partner'] = 'Le nom du partenaire est requis !';

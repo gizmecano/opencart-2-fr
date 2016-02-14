@@ -26,7 +26,7 @@ $_['text_total_released'] = 'Montant envoyé';
 $_['text_transactions'] = 'Transactions';
 $_['text_column_amount'] = 'Montant';
 $_['text_column_type'] = 'Type';
-$_['text_column_date_added'] = 'Date d\'ajout';
+$_['text_column_date_added'] = 'Date d’ajout';
 $_['text_confirm_void'] = 'Êtes-vous sûr de vouloir annuler le paiement ?';
 $_['text_confirm_release'] = 'Êtes-vous sûr de vouloir envoyer le paiement ?';
 $_['text_confirm_rebate'] = 'Êtes-vous sûr de vouloir effectuer un remboursement du paiement ?';
@@ -48,7 +48,7 @@ $_['entry_debug'] = 'Enregistrement de débogage';
 
 // Help
 $_['help_total'] = 'Le montant total que la commande doit atteindre avant que ce module de paiement devienne actif.';
-$_['help_debug'] = 'En activant le débogage, vous autorisez l\'écriture de données sensibles dans un fichier journal. Vous devriez toujours désactiver cette fonction sauf avis contraire.';
+$_['help_debug'] = 'En activant le débogage, vous autorisez l’écriture de données sensibles dans un fichier journal. Vous devriez toujours désactiver cette fonction sauf avis contraire.';
 $_['help_transaction'] = 'La méthode de transaction doit être définie sur Paiement pour autoriser les prélèvements';
 $_['help_cron_job_token'] = 'Utilisez une valeur longue et difficile à deviner';
 $_['help_cron_job_url'] = 'Définissez une tâche CRON pour appeler cette URL';
@@ -59,7 +59,7 @@ $_['btn_rebate'] = 'Remise et/ou remboursement';
 $_['btn_void'] = 'Annulation';
 
 // Error
-$_['error_permission'] = 'Attention : vous n\'êtes pas autorisé à modifier le module de paiement BluePay !';
+$_['error_permission'] = 'Attention : vous n’êtes pas autorisé à modifier le module de paiement BluePay !';
 $_['error_account_name'] = 'Le nom du compte est requis !';
-$_['error_account_id'] = 'L\'identifiant du compte est requis !';
+$_['error_account_id'] = 'L’identifiant du compte est requis !';
 $_['error_secret_key'] = 'La clef secrète est requise !';

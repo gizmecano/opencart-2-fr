@@ -3,7 +3,7 @@
 $_['text_refine'] = 'Affiner la recherche';
 $_['text_product'] = 'Produits';
 $_['text_error'] = 'La catégorie est introuvable !';
-$_['text_empty'] = 'Il n\'y a aucun produit à lister dans cette catégorie.';
+$_['text_empty'] = 'Il n’y a aucun produit à lister dans cette catégorie.';
 $_['text_quantity'] = 'Quantité : ';
 $_['text_manufacturer'] = 'Fabricant : ';
 $_['text_model'] = 'Référence : ';

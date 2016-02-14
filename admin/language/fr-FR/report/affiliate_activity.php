@@ -15,7 +15,7 @@ $_['text_register'] = '<a href="affiliate_id=%d">%s</a> ont ouvert un nouveau co
 $_['column_affiliate'] = 'Affilié';
 $_['column_comment'] = 'Commentaire';
 $_['column_ip'] = 'IP';
-$_['column_date_added'] = 'Date d\'ajout';
+$_['column_date_added'] = 'Date d’ajout';
 
 // Entry
 $_['entry_affiliate'] = 'Affilié';

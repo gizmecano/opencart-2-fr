@@ -16,7 +16,7 @@ $_['column_action'] = 'Action';
 $_['entry_name'] = 'Nom du statut de commande';
 
 // Error
-$_['error_permission'] = 'Attention : vous n\'êtes pas autorisé à modifier les statuts de commande !';
+$_['error_permission'] = 'Attention : vous n’êtes pas autorisé à modifier les statuts de commande !';
 $_['error_name'] = 'Le nom du statut de commande doit contenir entre 3 et 32 caractères !';
 $_['error_default'] = 'Attention : ce statut de commande ne peut être supprimé car il est actuellement assigné comme le statut de commande par défaut !';
 $_['error_download'] = 'Attention : ce statut de commande ne peut être supprimé car il est actuellement assigné comme le statut de commande par défaut pour les téléchargements !';

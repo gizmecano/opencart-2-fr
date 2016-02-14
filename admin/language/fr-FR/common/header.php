@@ -18,6 +18,6 @@ $_['text_store'] = 'Boutiques';
 $_['text_front'] = 'Magasin';
 $_['text_help'] = 'Aide';
 $_['text_homepage'] = 'Accueil';
-$_['text_support'] = 'Forum d\'aide';
+$_['text_support'] = 'Forum d’aide';
 $_['text_documentation'] = 'Documentation';
 $_['text_logout'] = 'Se déconnecter';

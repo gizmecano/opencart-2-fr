@@ -21,7 +21,7 @@ $_['text_order_guest'] = '%s ont ajouté une <a href="order_id=%d">nouvelle comm
 $_['column_customer'] = 'Client';
 $_['column_comment'] = 'Commentaire';
 $_['column_ip'] = 'IP';
-$_['column_date_added'] = 'Date d\'ajout';
+$_['column_date_added'] = 'Date d’ajout';
 
 // Entry
 $_['entry_customer'] = 'Client';

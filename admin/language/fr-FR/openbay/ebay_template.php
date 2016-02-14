@@ -1,6 +1,6 @@
 <?php
 // Headings
-$_['heading_title'] = 'Modèles d\'annonces';
+$_['heading_title'] = 'Modèles d’annonces';
 $_['text_ebay'] = 'eBay';
 $_['text_openbay'] = 'OpenBay Pro';
 
@@ -20,5 +20,5 @@ $_['text_confirm_delete'] = 'Êtes-vous sûr de vouloir supprimer le modèle ?';
 
 // Error
 $_['error_name'] = 'Vous devez entrer un nom de modèle.';
-$_['error_permission'] = 'Vous n\'êtes pas autorisé à modifier les modèles.';
-$_['error_no_template'] = 'Cet identifiant de modèle n\'existe pas.';
+$_['error_permission'] = 'Vous n’êtes pas autorisé à modifier les modèles.';
+$_['error_no_template'] = 'Cet identifiant de modèle n’existe pas.';

@@ -56,11 +56,11 @@ $_['entry_enable_card_store'] = 'Activer les jetons de stockage de carte';
 // Help
 $_['help_total'] = 'Le total que la commande doit atteindre avant que cette méthode de paiement devient active';
 $_['help_notification'] = 'Vous devez fournir cette URL à First Data pour recevoir des notifications de paiement';
-$_['help_debug'] = 'En autorisant le débogage, vous autorisez l\'écriture des données sensibles dans un fichier journal. Vous devriez toujours désactiver sauf avis contraire';
+$_['help_debug'] = 'En autorisant le débogage, vous autorisez l’écriture des données sensibles dans un fichier journal. Vous devriez toujours désactiver sauf avis contraire';
 $_['help_settle'] = 'Si vous utilisez la pré-autorisation, vous devez effectuer une action post-auth dans 3-5 jours sinon votre transaction sera abandonnée';
 
 // Tab
-$_['tab_account'] = 'Informations de l\'API';
+$_['tab_account'] = 'Informations de l’API';
 $_['tab_order_status'] = 'Statut de la commande';
 $_['tab_payment'] = 'Paramètres de paiement';
 $_['tab_advanced'] = 'Options avancées';
@@ -72,8 +72,8 @@ $_['button_void'] = 'Annuler';
 // Error
 $_['error_merchant_id'] = 'ID de la boutique est requise';
 $_['error_secret'] = 'Le mot secret partagé est requis';
-$_['error_live_url'] = 'l\'URL de production est nécessaire';
-$_['error_demo_url'] = 'L\'URL de démonstration est requise';
+$_['error_live_url'] = 'l’URL de production est nécessaire';
+$_['error_demo_url'] = 'L’URL de démonstration est requise';
 $_['error_data_missing'] = 'Données manquantes';
 $_['error_void_error'] = 'Annulation de la transaction impossible';
 $_['error_capture_error'] = 'Impossible de réceptionner la transaction';
