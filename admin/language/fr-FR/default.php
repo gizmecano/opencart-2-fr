@@ -102,7 +102,7 @@ $_['button_currency'] = 'Rafraîchir les valeurs des devises';
 // Tab
 $_['tab_address'] = 'Adresse';
 $_['tab_admin'] = 'Administrateur';
-$_['tab_attribute'] = 'Allouer';
+$_['tab_attribute'] = 'Attributs';
 $_['tab_customer'] = 'Détails du client';
 $_['tab_data'] = 'Données';
 $_['tab_design'] = 'Mise en page';
@@ -114,7 +114,7 @@ $_['tab_ftp'] = 'FTP';
 $_['tab_ip'] = 'Adresse IP';
 $_['tab_links'] = 'Liens';
 $_['tab_log'] = 'Log';
-$_['tab_image'] = 'Image';
+$_['tab_image'] = 'Images';
 $_['tab_option'] = 'Options';
 $_['tab_server'] = 'Serveur';
 $_['tab_store'] = 'Boutique';
@@ -134,7 +134,7 @@ $_['tab_sale'] = 'Ventes';
 $_['tab_marketing'] = 'Marketing';
 $_['tab_online'] = 'Personnes en ligne';
 $_['tab_activity'] = 'Activité récente';
-$_['tab_recurring'] = 'Récurrent';
+$_['tab_recurring'] = 'Profils récurrents';
 $_['tab_action'] = 'Action';
 
 // Error
