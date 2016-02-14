@@ -44,7 +44,7 @@ OpenCart-2-fr : pack de langue française pour la plateforme de commerce en lign
 
 ---
 
-Copyright © 2015 P. Mergey [*et al.*](#contribution)
+Copyright © 2015-2016 P. Mergey [*et al.*](#contribution)
 
 Ce programme est un logiciel libre : vous pouvez le redistribuer et/ou le modifier au titre des clauses de la [Licence publique générale GNU](LICENSE), telle que publiée par la Free Software Foundation, soit la version 3 de la licence ou, à votre discrétion, une version ultérieure quelconque.
 
