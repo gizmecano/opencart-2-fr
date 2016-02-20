@@ -30,7 +30,7 @@ Ensuite, il convient d'afficher le panneau de configuration d'OpenCart et de sui
 
 ## Compatibilité
 
-La [dernière version](https://github.com/GizMecano/opencart-2-fr/releases/latest) de ce pack a été testé avec succès avec la [version 2.0.1.1](https://github.com/opencart/opencart/releases/tag/2.0.1.1) de OpenCart.
+La [dernière version](https://github.com/GizMecano/opencart-2-fr/releases/latest) de ce pack a été testé avec succès avec [OpenCart 2.0.1.1](https://github.com/opencart/opencart/releases/tag/2.0.1.1).
 
 ## Contribution
 

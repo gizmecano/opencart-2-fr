@@ -30,7 +30,7 @@ After that, open your OpenCart backend and follow these steps:
 
 ## Compatibility
 
-The [latest release](https://github.com/GizMecano/opencart-2-fr/releases/latest) of this pack has been successfully tested with the [version 2.0.1.1](https://github.com/opencart/opencart/releases/tag/2.0.1.1) of OpenCart.
+The [latest release](https://github.com/GizMecano/opencart-2-fr/releases/latest) of this pack has been successfully tested with [OpenCart 2.0.1.1](https://github.com/opencart/opencart/releases/tag/2.0.1.1).
 
 ## Contribution
 
