@@ -1,20 +1,6 @@
-#-------------------------------------------------------------------------------
-# Copyright (C) 2015-2016 P. Mergey
-# This program is free software: you can redistribute it and/or modify
-# it under the terms of the GNU General Public License as published by
-# the Free Software Foundation, either version 3 of the License, or
-# (at your option) any later version.
-# This program is distributed in the hope that it will be useful,
-# but WITHOUT ANY WARRANTY; without even the implied warranty of
-# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-# GNU General Public License for more details.
-# You should have received a copy of the GNU General Public License
-# along with this program.  If not, see <http://www.gnu.org/licenses/>.
-#-------------------------------------------------------------------------------
 <?php
 // Heading
 $_['heading_title'] = 'Paramètres';
-
 // Text
 $_['text_stores'] = 'Boutiques';
 $_['text_success'] = 'Succès : vous avez modifié les paramètres !';
@@ -32,7 +18,6 @@ $_['text_shipping'] = 'Adresse de livraison';
 $_['text_payment'] = 'Adresse de facturation';
 $_['text_mail'] = 'Mail';
 $_['text_smtp'] = 'SMTP';
-
 // Entry
 $_['entry_name'] = 'Nom de la boutique';
 $_['entry_owner'] = 'Propriétaire de la boutique';
@@ -143,7 +128,6 @@ $_['entry_error_display'] = 'Afficher les erreurs';
 $_['entry_error_log'] = 'Créer un journal des erreurs';
 $_['entry_error_filename'] = 'Nom du fichier de journal des erreurs';
 $_['entry_google_analytics'] = 'Code Google Analytics';
-
 // Help
 $_['help_geocode'] = 'Veuillez saisir l’emplacement géocode de votre boutique manuellement.';
 $_['help_open'] = 'Saisir les horaires d’ouverture de votre boutique.';
@@ -209,7 +193,6 @@ $_['help_password'] = 'Autorise les mots de passe oublié à être utiliser pour
 $_['help_encryption'] = 'Veuillez fournir une clef secrète qui sera utilisée pour chffirer les informations privées lors de la saisie de commande.';
 $_['help_compression'] = 'GZIP pour un meilleur taux de transfert lors des requêtes des clients. Le niveau de compression doit être compris entre 0 et 9.';
 $_['help_google_analytics'] = 'Connecter vous à votre compte <a href="http://www.google.com/analytics/" target="_blank"><u>Google Analytics</u></a> et, après avoir la création de votre profil de site, copiez et collez le code de suivi dans ce champ.';
-
 // Error
 $_['error_warning'] = 'Attention : veuillez vérifier le formulaire';
 $_['error_permission'] = 'Attention : vous n’avez pas la permission de modifier les paramètres !';

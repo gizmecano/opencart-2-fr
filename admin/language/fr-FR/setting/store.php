@@ -1,20 +1,6 @@
-#-------------------------------------------------------------------------------
-# Copyright (C) 2015-2016 P. Mergey
-# This program is free software: you can redistribute it and/or modify
-# it under the terms of the GNU General Public License as published by
-# the Free Software Foundation, either version 3 of the License, or
-# (at your option) any later version.
-# This program is distributed in the hope that it will be useful,
-# but WITHOUT ANY WARRANTY; without even the implied warranty of
-# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-# GNU General Public License for more details.
-# You should have received a copy of the GNU General Public License
-# along with this program.  If not, see <http://www.gnu.org/licenses/>.
-#-------------------------------------------------------------------------------
 <?php
 // Heading
 $_['heading_title'] = 'Boutiques';
-
 // Text
 $_['text_success'] = 'Succès : vous avez modifié les boutiques !';
 $_['text_list'] = 'Liste des boutiques';
@@ -27,12 +13,10 @@ $_['text_checkout'] = 'Valider la commande';
 $_['text_stock'] = 'Stock';
 $_['text_shipping'] = 'Adresse de livraison';
 $_['text_payment'] = 'Adresse de facturation';
-
 // Column
 $_['column_name'] = 'Nom de la boutique';
 $_['column_url'] = 'URL de la boutique';
 $_['column_action'] = 'Action';
-
 // Entry
 $_['entry_url'] = 'URL de la boutique';
 $_['entry_ssl'] = 'URL SSL';
@@ -86,7 +70,6 @@ $_['entry_image_location'] = 'Taille des images des produits de la boutique';
 $_['entry_width'] = 'Largeur';
 $_['entry_height'] = 'Hauteur';
 $_['entry_secure'] = 'Utiliser SSL';
-
 // Help
 $_['help_url'] = 'Inclure l’URL entière de votre boutique. Veillez à bien ajouter ’/’ à la fin. Par exemple : http://www.yourdomain.com/path/<br /><br />N’utilisez pas de répertoires pour créer une nouvelle boutique. Vous devriez toujours diriger un autre domaine ou sous-domaine vers votre hébergement.';
 $_['help_ssl'] = 'URL SSL pour votre boutique. Veillez à bien ajouter ’/’ à la fin. Par exemple : http://www.yourdomain.com/path/<br /><br />N’utilisez pas de répertoires pour créer une nouvelle boutique. Vous devriez toujours diriger un autre domaine ou sous-domaine vers votre hébergement.';
@@ -110,7 +93,6 @@ $_['help_stock_display'] = 'Afficher la quantité en stock sur la page des produ
 $_['help_stock_checkout'] = 'Autoriser les clients à passer commande même si les produits qu’ils commandent ne sont pas en stock.';
 $_['help_icon'] = 'L’icône doit être un fichier PNG ayant pour dimension 16px × 16px.';
 $_['help_secure'] = 'Pour utiliser le SSL, vérifier auprès de votre hébergeur si un certificat SSL est installé.';
-
 // Error
 $_['error_warning'] = 'Attention : veuillez vérifier le formulaire';
 $_['error_permission'] = 'Attention : vous n’avez pas la permission de modifier stores !';

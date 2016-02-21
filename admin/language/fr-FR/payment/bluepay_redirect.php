@@ -1,20 +1,6 @@
-#-------------------------------------------------------------------------------
-# Copyright (C) 2015-2016 P. Mergey
-# This program is free software: you can redistribute it and/or modify
-# it under the terms of the GNU General Public License as published by
-# the Free Software Foundation, either version 3 of the License, or
-# (at your option) any later version.
-# This program is distributed in the hope that it will be useful,
-# but WITHOUT ANY WARRANTY; without even the implied warranty of
-# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-# GNU General Public License for more details.
-# You should have received a copy of the GNU General Public License
-# along with this program.  If not, see <http://www.gnu.org/licenses/>.
-#-------------------------------------------------------------------------------
 <?php
 // Heading
 $_['heading_title'] = 'Redirection BluePay (nécessite SSL)';
-
 // Text
 $_['text_payment'] = 'Paiement';
 $_['text_success'] = 'Vous venez de modifier les paramètres du compte de redirection BluePay !';
@@ -44,7 +30,6 @@ $_['text_column_date_added'] = 'Créé le';
 $_['text_confirm_void'] = 'Êtes-vous sûr de vouloir annuler le paiement ?';
 $_['text_confirm_release'] = 'Êtes-vous sûr de vouloir envoyer le paiement ?';
 $_['text_confirm_rebate'] = 'Êtes-vous sûr de vouloir effectuer un remboursement du paiement ?';
-
 // Entry
 $_['entry_vendor'] = 'Identifiant du compte';
 $_['entry_secret_key'] = 'Clef secrète';
@@ -57,19 +42,16 @@ $_['entry_status'] = 'Statut';
 $_['entry_sort_order'] = 'Classement';
 $_['entry_debug'] = 'Enregistrement de débogage';
 $_['entry_card'] = 'Cartes de magasin';
-
 // Help
 $_['help_total'] = 'Le total que la commande doit atteindre avant que cette méthode de paiement devient active.';
 $_['help_debug'] = 'En activant le débogage, vous autorisez l’écriture de données sensibles dans un fichier journal. Vous devriez toujours désactiver cette fonction sauf avis contraire.';
 $_['help_transaction'] = 'La méthode de transaction doit être définie sur Paiement pour autoriser les prélèvements';
 $_['help_cron_job_token'] = 'Utilisez une valeur longue et difficile à deviner';
 $_['help_cron_job_url'] = 'Définissez une tâche CRON pour appeler cette URL';
-
 // Button
 $_['btn_release'] = 'Envoi';
 $_['btn_rebate'] = 'Remise et/ou remboursement';
 $_['btn_void'] = 'Annulation';
-
 // Error
 $_['error_permission'] = 'Attention : vous n’êtes pas autorisé à modifier le module de paiement BluePay !';
 $_['error_account_id'] = 'ID de compte requis !';

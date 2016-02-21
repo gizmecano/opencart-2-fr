@@ -1,20 +1,6 @@
-#-------------------------------------------------------------------------------
-# Copyright (C) 2015-2016 P. Mergey
-# This program is free software: you can redistribute it and/or modify
-# it under the terms of the GNU General Public License as published by
-# the Free Software Foundation, either version 3 of the License, or
-# (at your option) any later version.
-# This program is distributed in the hope that it will be useful,
-# but WITHOUT ANY WARRANTY; without even the implied warranty of
-# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-# GNU General Public License for more details.
-# You should have received a copy of the GNU General Public License
-# along with this program.  If not, see <http://www.gnu.org/licenses/>.
-#-------------------------------------------------------------------------------
 <?php
 // Heading
 $_['heading_title'] = 'Installateur d’extensions';
-
 // Text
 $_['text_success'] = 'L’extension a été installée correctement !';
 $_['text_unzip'] = 'Extraction des fichiers !';
@@ -24,15 +10,12 @@ $_['text_xml'] = 'Application des changements !';
 $_['text_php'] = 'Exécution de PHP !';
 $_['text_remove'] = 'Suppression des fichiers temporaires !';
 $_['text_clear'] = 'Vous venez de supprimer tous les fichiers temporaires !';
-
 // Entry
 $_['entry_upload'] = 'Télécharger le fichier';
 $_['entry_overwrite'] = 'Fichiers qui seront écrasés';
 $_['entry_progress'] = 'Avancement';
-
 // Help
 $_['help_upload'] = 'Nécessite un fichier de modification avec l’extension ". ocmod.zip « ou ». ocmod.xml".';
-
 // Error
 $_['error_permission'] = 'Attention : vous n’êtes pas autorisé à modifier les extensions !';
 $_['error_temporary'] = 'Attention : certains fichiers temporaires doivent être supprimés. Cliquez sur le bouton effacer pour les supprimer !';

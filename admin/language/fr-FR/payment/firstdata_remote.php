@@ -1,20 +1,6 @@
-#-------------------------------------------------------------------------------
-# Copyright (C) 2015-2016 P. Mergey
-# This program is free software: you can redistribute it and/or modify
-# it under the terms of the GNU General Public License as published by
-# the Free Software Foundation, either version 3 of the License, or
-# (at your option) any later version.
-# This program is distributed in the hope that it will be useful,
-# but WITHOUT ANY WARRANTY; without even the implied warranty of
-# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-# GNU General Public License for more details.
-# You should have received a copy of the GNU General Public License
-# along with this program.  If not, see <http://www.gnu.org/licenses/>.
-#-------------------------------------------------------------------------------
 <?php
 // Heading
 $_['heading_title'] = 'First Data EMEA Web Service API';
-
 // Text
 $_['text_firstdata_remote'] = '<img src="view/image/payment/firstdata.png" alt="First Data" title="First Data" style="border: 1px solid #EEEEEE;" />';
 $_['text_payment'] = 'Paiement';
@@ -51,7 +37,6 @@ $_['text_column_date_added'] = 'Date d’ajout';
 $_['text_confirm_void'] = 'Êtes-vous sûr de vouloir annuler le paiement ?';
 $_['text_confirm_capture'] = 'Êtes-vous certain de vouloir réceptionner le paiement ?';
 $_['text_confirm_refund'] = 'Êtes-vous sûr de vouloir effectuer un remboursement du paiement ?';
-
 // Entry
 $_['entry_certificate_path'] = 'Chemin d’accès du certificat';
 $_['entry_certificate_key_path'] = 'Chemin d’accès de la clef privée';
@@ -73,7 +58,6 @@ $_['entry_status_void'] = 'Annulé';
 $_['entry_status_refund'] = 'Remboursé';
 $_['entry_enable_card_store'] = 'Activer les jetons de stockage de carte';
 $_['entry_cards_accepted'] = 'Types de cartes acceptées';
-
 // Help
 $_['help_total'] = 'Le montant total que la commande doit atteindre avant que ce module de paiement devienne actif';
 $_['help_certificate'] = 'Les certificats et clefs privées doivent être stockés à l’extérieur de vos dossiers web publiques';
@@ -81,17 +65,14 @@ $_['help_card_select'] = 'Demander à l’utilisateur de choisir son type de car
 $_['help_notification'] = 'Vous devez fournir cette URL à First Data pour recevoir des notifications de paiement';
 $_['help_debug'] = 'En autorisant le débogage, vous autorisez l’écriture des données sensibles dans un fichier journal. Vous devriez toujours désactiver sauf avis contraire .';
 $_['help_settle'] = 'Si vous utilisez la pré-autorisation, vous devez effectuer une action post-auth dans 3-5 jours sinon votre transaction sera abandonnée';
-
 // Tab
 $_['tab_account'] = 'Informations de l’API';
 $_['tab_order_status'] = 'Statut de la commande';
 $_['tab_payment'] = 'Paramètres de paiement';
-
 // Button
 $_['button_capture'] = 'Réceptionner';
 $_['button_refund'] = 'Rembourser';
 $_['button_void'] = 'Annulation';
-
 // Error
 $_['error_merchant_id'] = 'L’identifiant du marchand est requis';
 $_['error_user_id'] = 'L’identifiant utilisateur est requis';

@@ -1,16 +1,3 @@
-#-------------------------------------------------------------------------------
-# Copyright (C) 2015-2016 P. Mergey
-# This program is free software: you can redistribute it and/or modify
-# it under the terms of the GNU General Public License as published by
-# the Free Software Foundation, either version 3 of the License, or
-# (at your option) any later version.
-# This program is distributed in the hope that it will be useful,
-# but WITHOUT ANY WARRANTY; without even the implied warranty of
-# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-# GNU General Public License for more details.
-# You should have received a copy of the GNU General Public License
-# along with this program.  If not, see <http://www.gnu.org/licenses/>.
-#-------------------------------------------------------------------------------
 <?php
 // Locale
 $_['code'] = 'fr';
@@ -21,7 +8,6 @@ $_['time_format'] = 'h:i:s A';
 $_['datetime_format'] = 'd/m/Y H:i:s';
 $_['decimal_point'] = ',';
 $_['thousand_point'] = ' ';
-
 // Text
 $_['text_yes'] = 'Oui';
 $_['text_no'] = 'Non';
@@ -39,7 +25,6 @@ $_['text_loading'] = 'Chargement en cours';
 $_['text_no_results'] = 'Aucun résultat !';
 $_['text_confirm'] = 'Êtes-vous certain ?';
 $_['text_home'] = 'Accueil';
-
 // Button
 $_['button_add'] = 'Ajouter';
 $_['button_delete'] = 'Supprimer';
@@ -111,7 +96,6 @@ $_['button_coupon'] = 'Appliquer un bon de réduction';
 $_['button_voucher'] = 'Appliquer un bon d’achat';
 $_['button_reward'] = 'Appliquer des points de fidélité';
 $_['button_currency'] = 'Rafraîchir les valeurs des devises';
-
 // Tab
 $_['tab_address'] = 'Adresse';
 $_['tab_admin'] = 'Administrateur';
@@ -149,7 +133,6 @@ $_['tab_online'] = 'Personnes en ligne';
 $_['tab_activity'] = 'Activité récente';
 $_['tab_recurring'] = 'Profils récurrents';
 $_['tab_action'] = 'Action';
-
 // Error
 $_['error_exception'] = 'Code d’erreur (%s): %s dans %s à la ligne %s';
 $_['error_upload_1'] = 'Attention : le fichier transféré dépasse la directive upload_max_filesize dans <php.ini> !';

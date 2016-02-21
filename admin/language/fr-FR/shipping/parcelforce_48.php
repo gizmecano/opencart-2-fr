@@ -1,25 +1,10 @@
-#-------------------------------------------------------------------------------
-# Copyright (C) 2015-2016 P. Mergey
-# This program is free software: you can redistribute it and/or modify
-# it under the terms of the GNU General Public License as published by
-# the Free Software Foundation, either version 3 of the License, or
-# (at your option) any later version.
-# This program is distributed in the hope that it will be useful,
-# but WITHOUT ANY WARRANTY; without even the implied warranty of
-# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-# GNU General Public License for more details.
-# You should have received a copy of the GNU General Public License
-# along with this program.  If not, see <http://www.gnu.org/licenses/>.
-#-------------------------------------------------------------------------------
 <?php
 // Heading
 $_['heading_title'] = 'Parcelforce 48';
-
 // Text
 $_['text_shipping'] = 'Livraison';
 $_['text_success'] = 'Succès : vous avez modifié la livraison Parcelforce 48 !';
 $_['text_edit'] = 'Modifier Pla livraison Parcelforce 48';
-
 // Entry
 $_['entry_rate'] = 'Tarifs Parcelforce 48';
 $_['entry_insurance'] = 'Tarifs de rémunération Parcelforce48';
@@ -30,13 +15,11 @@ $_['entry_tax_class'] = 'Classe de taxes';
 $_['entry_geo_zone'] = 'Zone géographique';
 $_['entry_status'] = 'Statut';
 $_['entry_sort_order'] = 'Classement';
-
 // Help
 $_['help_rate'] = 'Entrer des valeurs jusqu’à 5,2 décimales. (12345.67) Par exemple : .1:1,.25:1.27 - Les poids inférieurs ou égaux à 0,1 kg coûteraient £1.00, les poids inférieurs ou égaux à 0,25 g mais plus grand que 0,1 kg coûteront £1.27. Ne saisissez pas d’unité de mesure (kg) ni de symboles.';
 $_['help_insurance'] = 'Entrer des valeurs jusqu’à 5,2 décimales. (12345.67) Par exemple : 34:0,100:1,250:2.25 - La couverture de l’assurance pour des valeurs de panier jusqu’à 34 coûteraient 0.00 de plus, pour des valeurs plus grandes que 100 et jusqu’à 250 coûteront 2.25 de plus. Ne saisissez aucun symboles de devise';
 $_['help_display_weight'] = 'Voulez-vous afficher le poids de livraison ? (par exemple, poids de la livraison: 2,7674 kg)';
 $_['help_display_insurance'] = 'Voulez-vous afficher l’assurance d’expédition? (par exemple, assuré jusqu’à 500)';
 $_['help_display_time'] = 'Souhaitez-vous afficher le délai de livraison? (par exemple, expédié sous 3 à 5 jours)';
-
 // Error
 $_['error_permission'] = 'Attention : vous n’avez pas la permission de modifier la livraison Parcelforce 48 !';

@@ -1,20 +1,6 @@
-#-------------------------------------------------------------------------------
-# Copyright (C) 2015-2016 P. Mergey
-# This program is free software: you can redistribute it and/or modify
-# it under the terms of the GNU General Public License as published by
-# the Free Software Foundation, either version 3 of the License, or
-# (at your option) any later version.
-# This program is distributed in the hope that it will be useful,
-# but WITHOUT ANY WARRANTY; without even the implied warranty of
-# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-# GNU General Public License for more details.
-# You should have received a copy of the GNU General Public License
-# along with this program.  If not, see <http://www.gnu.org/licenses/>.
-#-------------------------------------------------------------------------------
 <?php
 // Heading
 $_['heading_title'] = 'Validation de commande';
-
 // Text
 $_['text_cart'] = 'Panier d’achat';
 $_['text_checkout_option'] = 'Étape 1: options de la commande';
@@ -52,14 +38,12 @@ $_['text_week'] = 'semaine';
 $_['text_semi_month'] = 'demie-semaine';
 $_['text_month'] = 'mois';
 $_['text_year'] = 'année';
-
 // Column
 $_['column_name'] = 'Nom du produit';
 $_['column_model'] = 'Référence';
 $_['column_quantity'] = 'Quantité';
 $_['column_price'] = 'Prix unitaire';
 $_['column_total'] = 'Total';
-
 // Entry
 $_['entry_email_address'] = 'Adresse électronique';
 $_['entry_email'] = 'Adresse électronique';
@@ -80,7 +64,6 @@ $_['entry_country'] = 'Pays';
 $_['entry_zone'] = 'Subdivision administrative';
 $_['entry_newsletter'] = 'Je souhaite m’abonner à la lettre d’informations de %s.';
 $_['entry_shipping'] = 'Mes adresses de livraison et de facturation sont identiques.';
-
 // Error
 $_['error_warning'] = 'Une erreur s’est produite lors du traitement de votre commande ! Si le problème persiste, veuillez essayez de sélectionner un autre moyen de paiement ou bien contactez le propriétaire de la boutique en <a href="%s"> cliquant ici</a>.';
 $_['error_login'] = 'Attention : aucune correspondance trouvée entre ce nom d’utilisateur et/ou ce mot de passe.';

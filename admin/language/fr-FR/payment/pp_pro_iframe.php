@@ -1,20 +1,6 @@
-#-------------------------------------------------------------------------------
-# Copyright (C) 2015-2016 P. Mergey
-# This program is free software: you can redistribute it and/or modify
-# it under the terms of the GNU General Public License as published by
-# the Free Software Foundation, either version 3 of the License, or
-# (at your option) any later version.
-# This program is distributed in the hope that it will be useful,
-# but WITHOUT ANY WARRANTY; without even the implied warranty of
-# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-# GNU General Public License for more details.
-# You should have received a copy of the GNU General Public License
-# along with this program.  If not, see <http://www.gnu.org/licenses/>.
-#-------------------------------------------------------------------------------
 <?php
 // Heading
 $_['heading_title'] = 'PayPal Pro iFrame';
-
 // Text
 $_['text_success'] = 'Vous venez de modifier les paramètres du module de paiement PayPal Pro iFrame !';
 $_['text_edit'] = 'Modifier les paramètres PayPal Pro iFrame';
@@ -120,7 +106,6 @@ $_['text_redirect'] = 'Redirection';
 $_['text_iframe'] = 'Iframe';
 $_['help_checkout_method'] = 'Veuillez utiliser la méthode Redirection si n’avez pas de certificat SSL installé ou si vous n’avez pas désactivé l’option payer avec PayPal dans votre page de paiement hébergée.';
 $_['help_debug'] = 'Journaux d’information supplémentaire.';
-
 // Column
 $_['column_trans_id'] = 'Numéro de transaction';
 $_['column_amount'] = 'Montant';
@@ -129,12 +114,10 @@ $_['column_status'] = 'Statut';
 $_['column_pend_reason'] = 'Motif d’attente';
 $_['column_date_added'] = 'Créé';
 $_['column_action'] = 'Action';
-
 // Tab
 $_['tab_settings'] = 'Paramètres';
 $_['tab_order_status'] = 'Statut de la commande';
 $_['tab_checkout_customisation'] = 'Personnalisation';
-
 // Entry
 $_['entry_username'] = 'Nom d’utilisateur API';
 $_['entry_password'] = 'Mot de passe API';
@@ -163,17 +146,14 @@ $_['entry_processed_status'] = 'Statut « Traité »';
 $_['entry_refunded_status'] = 'Statut « Remboursé »';
 $_['entry_reversed_status'] = 'Statut « Paiement retourné »';
 $_['entry_voided_status'] = 'Statut « Annulé »';
-
 // Help
 $_['help_test'] = 'Utilisez le live ou pour tester serveur de passerelle (bac à sable) pour traiter les transactions ? Le test peut échouer avec Internet Explorer';
 $_['help_total'] = 'Le total de la commande doit être atteint avant que cette méthode de paiement devienne active';
-
 // Button
 $_['button_refund'] = 'Remboursement';
 $_['button_void'] = 'Annulation';
 $_['button_capture'] = 'Capture';
 $_['button_reauthorise'] = 'Ré-approuver';
-
 // Error
 $_['error_permission'] = 'Attention : vous n’êtes pas autorisé à modifier les paramètres du module de paiement PayPal Website Payment Pro iFrame (UK) !';
 $_['error_sig'] = 'La signature est requise !';

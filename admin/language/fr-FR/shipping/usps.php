@@ -1,20 +1,6 @@
-#-------------------------------------------------------------------------------
-# Copyright (C) 2015-2016 P. Mergey
-# This program is free software: you can redistribute it and/or modify
-# it under the terms of the GNU General Public License as published by
-# the Free Software Foundation, either version 3 of the License, or
-# (at your option) any later version.
-# This program is distributed in the hope that it will be useful,
-# but WITHOUT ANY WARRANTY; without even the implied warranty of
-# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-# GNU General Public License for more details.
-# You should have received a copy of the GNU General Public License
-# along with this program.  If not, see <http://www.gnu.org/licenses/>.
-#-------------------------------------------------------------------------------
 <?php
 // Heading
 $_['heading_title'] = 'Service US Postal';
-
 // Text
 $_['text_shipping'] = 'Livraison';
 $_['text_success'] = 'Succès : vous avez modifié Service US Postal !';
@@ -62,7 +48,6 @@ $_['text_large'] = 'Grand';
 $_['text_rectangular'] = 'Rectangular';
 $_['text_non_rectangular'] = 'Non Rectangular';
 $_['text_variable'] = 'Variable';
-
 // Entry
 $_['entry_user_id'] = 'Identifiant utilisateur';
 $_['entry_postcode'] = 'Code postal';
@@ -83,14 +68,12 @@ $_['entry_geo_zone'] = 'Zone géographique';
 $_['entry_status'] = 'Statut';
 $_['entry_sort_order'] = 'Classement';
 $_['entry_debug'] = 'Mode de débuguage';
-
 // Help
 $_['help_dimension'] = 'Dimensions moyennes du colis pour la livraison. Les dimensions du produits ne sont actuellement pas utilisées pour la livraison.';
 $_['help_display_time'] = 'Souhaitez-vous afficher le délai de livraison? (par exemple, expédié sous 3 à 5 jours)';
 $_['help_display_weight'] = 'Voulez-vous afficher le poids de livraison ? (par exemple, poids de la livraison: 2,7674 kg)';
 $_['help_weight_class'] = 'Doit être indiqué en livres.';
 $_['help_debug'] = 'Sauve les données envoyées et reçues dans l’historique du système';
-
 // Error
 $_['error_permission'] = 'Attention : vous n’avez pas la permission de modifier le service US Postal !';
 $_['error_user_id'] = 'Identifiant de l’utilisateur requis !';

@@ -1,20 +1,6 @@
-#-------------------------------------------------------------------------------
-# Copyright (C) 2015-2016 P. Mergey
-# This program is free software: you can redistribute it and/or modify
-# it under the terms of the GNU General Public License as published by
-# the Free Software Foundation, either version 3 of the License, or
-# (at your option) any later version.
-# This program is distributed in the hope that it will be useful,
-# but WITHOUT ANY WARRANTY; without even the implied warranty of
-# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-# GNU General Public License for more details.
-# You should have received a copy of the GNU General Public License
-# along with this program.  If not, see <http://www.gnu.org/licenses/>.
-#-------------------------------------------------------------------------------
 <?php
 // Heading
 $_['heading_title'] = 'Produits';
-
 // Text
 $_['text_success'] = 'Les produits ont correctement été modifiés !';
 $_['text_list'] = 'Liste des produits';
@@ -27,7 +13,6 @@ $_['text_option'] = 'Option';
 $_['text_option_value'] = 'Valeur de l’option';
 $_['text_percent'] = 'Pourcentage';
 $_['text_amount'] = 'Montant fixe';
-
 // Column
 $_['column_name'] = 'Nom du produit';
 $_['column_model'] = 'Référence';
@@ -36,7 +21,6 @@ $_['column_price'] = 'Prix';
 $_['column_quantity'] = 'Quantité';
 $_['column_status'] = 'Statut';
 $_['column_action'] = 'Action';
-
 // Entry
 $_['entry_name'] = 'Nom du produit';
 $_['entry_description'] = 'Description';
@@ -92,7 +76,6 @@ $_['entry_tag'] = 'Étiquettes de produits';
 $_['entry_reward'] = 'Points de fidélité';
 $_['entry_layout'] = 'Outrepasser le gabarit';
 $_['entry_recurring'] = 'Profil récurrent';
-
 // Help
 $_['help_keyword'] = 'N’utilisez pas d’espace mais des tirets à leur place et faites en sorte que le mot-clef soit le plus spécifique possible.';
 $_['help_sku'] = 'Unité de gestion des stocks';
@@ -110,7 +93,6 @@ $_['help_filter'] = 'Autocomplétion';
 $_['help_download'] = 'Autocomplétion';
 $_['help_related'] = 'Autocomplétion';
 $_['help_tag'] = 'séparé par des virgules';
-
 // Error
 $_['error_warning'] = 'Attention : veuillez vérifier les erreurs de formulaire !';
 $_['error_permission'] = 'Attention : vous n’êtes pas autorisé à modifier les produits !';

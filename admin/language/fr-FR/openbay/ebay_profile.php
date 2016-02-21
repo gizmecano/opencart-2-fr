@@ -1,28 +1,13 @@
-#-------------------------------------------------------------------------------
-# Copyright (C) 2015-2016 P. Mergey
-# This program is free software: you can redistribute it and/or modify
-# it under the terms of the GNU General Public License as published by
-# the Free Software Foundation, either version 3 of the License, or
-# (at your option) any later version.
-# This program is distributed in the hope that it will be useful,
-# but WITHOUT ANY WARRANTY; without even the implied warranty of
-# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-# GNU General Public License for more details.
-# You should have received a copy of the GNU General Public License
-# along with this program.  If not, see <http://www.gnu.org/licenses/>.
-#-------------------------------------------------------------------------------
 <?php
 // Heading
 $_['heading_title'] = 'Profils';
 $_['text_openbay'] = 'OpenBay Pro';
 $_['text_ebay'] = 'eBay';
-
 //Tabs
 $_['tab_returns'] = 'Retours';
 $_['tab_template'] = 'Modèle';
 $_['tab_gallery'] = 'Galerie';
 $_['tab_settings'] = 'Paramètres';
-
 //Shipping Profile
 $_['text_shipping_dispatch_country'] = 'Expédition depuis le pays';
 $_['text_shipping_postcode'] = 'Code postal';
@@ -47,7 +32,6 @@ $_['text_shipping_handling'] = 'Frais de traitement';
 $_['text_shipping_cod'] = 'Frais pour « Paiement à la livraison »';
 $_['text_shipping_handling_nat'] = 'Frais de traitement (nationaux)';
 $_['entry_shipping_handling_int'] = 'Frais de traitement (internationaux)';
-
 //Returns profile
 $_['text_returns_accept'] = 'Retours SAV acceptés';
 $_['text_returns_inst'] = 'Modalités de retour';
@@ -63,7 +47,6 @@ $_['text_returns_costs'] = 'Frais de retour SAV';
 $_['text_returns_costs_b'] = 'L’acheteur paie';
 $_['text_returns_costs_s'] = 'Le vendeur paie';
 $_['text_returns_restock'] = 'Frais de réapprovisionnement';
-
 //Template profile
 $_['text_template_choose'] = 'Modèle par défaut';
 $_['text_template_choose_help'] = 'Un modèle par défaut sera automatiquement chargé lors de la mise en vente pour gagner du temps.';
@@ -81,29 +64,24 @@ $_['text_confirm_delete'] = 'Êtes-vous sûr de que vouloir supprimer le profil 
 $_['text_width'] = 'Largeur';
 $_['text_height'] = 'Hauteur';
 $_['text_px'] = 'px';
-
 //General profile
 $_['text_general_private'] = 'Publier les objets en tant qu’enchère privée';
 $_['text_general_price'] = 'Modification du prix %';
 $_['text_general_price_help'] = '0 est la valeur par défaut, -10 signifie une réduction de 10%, 10 signifie une augmentation de 10% (seulement lors de la mise en vente automatisée)';
-
 //General profile options
 $_['text_profile_name'] = 'Nom';
 $_['text_profile_default'] = 'Par défaut';
 $_['text_profile_type'] = 'Type';
 $_['text_profile_desc'] = 'Description';
 $_['text_profile_action'] = 'Action';
-
 // Profile types
 $_['text_type_shipping'] = 'Livraison';
 $_['text_type_returns'] = 'Retours SAV';
 $_['text_type_template'] = 'Modèle et Galerie';
 $_['text_type_general'] = 'Configuration générale';
-
 //Success messages
 $_['text_added'] = 'Le nouveau profil a été ajouté.';
 $_['text_updated'] = 'Le profil a été mis à jour.';
-
 //Errors
 $_['error_permission'] = 'Vous n’êtes pas autorisé à modifier les profils.';
 $_['error_name'] = 'Vous devez entrer un nom de profil.';

@@ -1,16 +1,3 @@
-#-------------------------------------------------------------------------------
-# Copyright (C) 2015-2016 P. Mergey
-# This program is free software: you can redistribute it and/or modify
-# it under the terms of the GNU General Public License as published by
-# the Free Software Foundation, either version 3 of the License, or
-# (at your option) any later version.
-# This program is distributed in the hope that it will be useful,
-# but WITHOUT ANY WARRANTY; without even the implied warranty of
-# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-# GNU General Public License for more details.
-# You should have received a copy of the GNU General Public License
-# along with this program.  If not, see <http://www.gnu.org/licenses/>.
-#-------------------------------------------------------------------------------
 <?php
 // Text
 $_['text_search'] = 'Rechercher';
@@ -43,7 +30,6 @@ $_['text_week'] = 'Semaine';
 $_['text_semi_month'] = 'Demi-mois';
 $_['text_month'] = 'Mois';
 $_['text_year'] = 'Année';
-
 // Entry
 $_['entry_qty'] = 'Quantité';
 $_['entry_name'] = 'Votre nom';
@@ -52,12 +38,10 @@ $_['entry_rating'] = 'Note';
 $_['entry_good'] = 'Bon';
 $_['entry_bad'] = 'Mauvais';
 $_['entry_captcha'] = 'Entrez le code dans la case ci-dessous';
-
 // Tabs
 $_['tab_description'] = 'Description';
 $_['tab_attribute'] = 'Spécification';
 $_['tab_review'] = 'Évaluations (%s)';
-
 // Error
 $_['error_name'] = 'Attention : le nom de l’évaluation doit être entre 3 et 25 caractères !';
 $_['error_text'] = 'Attention : le texte de l’évaluation doit être entre 25 et 1000 caractères !';

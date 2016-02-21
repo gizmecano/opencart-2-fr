@@ -1,22 +1,8 @@
-#-------------------------------------------------------------------------------
-# Copyright (C) 2015-2016 P. Mergey
-# This program is free software: you can redistribute it and/or modify
-# it under the terms of the GNU General Public License as published by
-# the Free Software Foundation, either version 3 of the License, or
-# (at your option) any later version.
-# This program is distributed in the hope that it will be useful,
-# but WITHOUT ANY WARRANTY; without even the implied warranty of
-# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-# GNU General Public License for more details.
-# You should have received a copy of the GNU General Public License
-# along with this program.  If not, see <http://www.gnu.org/licenses/>.
-#-------------------------------------------------------------------------------
 <?php
 //Heading
 $_['text_page_title'] = 'Mise en vente automatisée';
 $_['text_ebay'] = 'eBay';
 $_['text_openbay'] = 'OpenBay Pro';
-
 // Buttons
 $_['text_none'] = 'Aucun(e)';
 $_['text_preview'] = 'Prévisualiser';
@@ -28,18 +14,15 @@ $_['text_catalog'] = 'Sélectionner le catalogue';
 $_['text_catalog_search'] = 'Recherche catalogue';
 $_['text_search_term'] = 'Termes et conditions recherchés';
 $_['text_close'] = 'Fermer';
-
 //Form options / text
 $_['text_pixels'] = 'Pixels';
 $_['text_other'] = 'Autre';
-
 //Profile names
 $_['text_profile'] = 'Profils';
 $_['text_profile_theme'] = 'Profil de thème';
 $_['text_profile_shipping'] = 'Profil de mode de livraison';
 $_['text_profile_returns'] = 'Profil pour les retours';
 $_['text_profile_generic'] = 'Profil générique';
-
 //Text
 $_['text_title'] = 'Titre';
 $_['text_price'] = 'Prix';
@@ -70,7 +53,6 @@ $_['text_loading_duration'] = 'Chargement des durées de mise en vente';
 $_['text_total_fee'] = 'Taxes totales';
 $_['text_category_choose'] = 'Choisir la catégorie';
 $_['text_suggested'] = 'Catégories suggérées';
-
 //Errors
 $_['text_error_ship_profile'] = 'Vous devez avoir un profil de mode de livraison configuré par défaut.';
 $_['text_error_generic_profile'] = 'Vous devez avoir un profil générique configuré par défaut';

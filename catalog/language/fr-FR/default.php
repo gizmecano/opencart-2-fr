@@ -1,16 +1,3 @@
-#-------------------------------------------------------------------------------
-# Copyright (C) 2015-2016 P. Mergey
-# This program is free software: you can redistribute it and/or modify
-# it under the terms of the GNU General Public License as published by
-# the Free Software Foundation, either version 3 of the License, or
-# (at your option) any later version.
-# This program is distributed in the hope that it will be useful,
-# but WITHOUT ANY WARRANTY; without even the implied warranty of
-# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-# GNU General Public License for more details.
-# You should have received a copy of the GNU General Public License
-# along with this program.  If not, see <http://www.gnu.org/licenses/>.
-#-------------------------------------------------------------------------------
 <?php
 // Locale
 $_['code'] = 'fr';
@@ -21,7 +8,6 @@ $_['time_format'] = 'H:i:s';
 $_['datetime_format'] = 'd/m/Y H:i:s';
 $_['decimal_point'] = ',';
 $_['thousand_point'] = ' ';
-
 // Text
 $_['text_home'] = '<i class="fa fa-home"></i>';
 $_['text_yes'] = 'Oui';
@@ -31,7 +17,6 @@ $_['text_select'] = ' ---sélectionner--- ';
 $_['text_all_zones'] = 'Toutes les zones';
 $_['text_pagination'] = 'Affichage %d à %d sur %d (%d pages)';
 $_['text_loading'] = 'Chargement en cours';
-
 // Buttons
 $_['button_address_add'] = 'Ajouter une adresse';
 $_['button_back'] = 'Précédent';
@@ -69,7 +54,6 @@ $_['button_quote'] = 'Obtenir une offre';
 $_['button_list'] = 'Liste';
 $_['button_grid'] = 'Grille';
 $_['button_map'] = 'Voir la carte Google';
-
 // Error
 $_['error_exception'] = 'Erreur Code(%s) : %s en %s sur la ligne %s';
 $_['error_upload_1'] = 'Attention : le fichier téléchargé excède la directive UPLOAD_MAX_FILESIZE dans le fichier php.ini !';

@@ -1,22 +1,8 @@
-#-------------------------------------------------------------------------------
-# Copyright (C) 2015-2016 P. Mergey
-# This program is free software: you can redistribute it and/or modify
-# it under the terms of the GNU General Public License as published by
-# the Free Software Foundation, either version 3 of the License, or
-# (at your option) any later version.
-# This program is distributed in the hope that it will be useful,
-# but WITHOUT ANY WARRANTY; without even the implied warranty of
-# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-# GNU General Public License for more details.
-# You should have received a copy of the GNU General Public License
-# along with this program.  If not, see <http://www.gnu.org/licenses/>.
-#-------------------------------------------------------------------------------
 <?php
 // Heading
 $_['heading_title'] = 'Paramètres de la place de marché';
 $_['text_openbay'] = 'OpenBay Pro';
 $_['text_ebay'] = 'eBay';
-
 // Text
 $_['text_developer'] = 'Développeur / Support';
 $_['text_app_settings'] = 'Paramètres de l’application';
@@ -56,7 +42,6 @@ $_['text_create_date_0'] = 'Lors de l’ajout à OpenCart';
 $_['text_create_date_1'] = 'Lors de la création sur eBay';
 $_['text_obp_detail_update'] = 'Mettre à jour l’URL de votre boutique et votre adresse courriel';
 $_['text_success'] = 'Vos paramètres ont été enregistrés.';
-
 // Entry
 $_['entry_status'] = 'Statut';
 $_['entry_token'] = 'Jeton';
@@ -95,12 +80,10 @@ $_['entry_import_shipped_id'] = 'Statut de la livraison : ';
 $_['entry_import_cancelled_id'] = 'Statut annulé : ';
 $_['entry_import_refund_id'] = 'Statut remboursé : ';
 $_['entry_import_part_refund_id'] = 'Statut partiellement remboursé : ';
-
 // Tabs
 $_['tab_api_info'] = 'Paramètres de l’API';
 $_['tab_setup'] = 'Paramètres';
 $_['tab_defaults'] = 'Valeurs par défaut';
-
 // Help
 $_['help_disable_soldout'] = 'Lorsque l’objet est en rupture, il sera désactivé sur OpenCart';
 $_['help_relist_items'] = 'Si la liaison d’un objet existait avant, cette fonction le remettra en vente s’il y a retour en stock';
@@ -120,10 +103,8 @@ $_['help_notify_admin'] = 'Prévenir l’administrateur de la boutique via l’a
 $_['help_notify_order_update'] = 'Utilisé lors des mises à jour automatisées. Par exemple, si vous mettez à jour une commande sur eBay, ce nouveau statut sera automatiquement mis à jour dans votre boutique.';
 $_['help_notify_buyer'] = 'Avertir l’utilisateur avec l’adresse électronique par défaut de nouvelle commande';
 $_['help_measurement'] = 'Choisissez quel système de mesure à utiliser pour les annonces';
-
 // Buttons
 $_['button_update'] = 'Mettre à jour';
 $_['button_repair_links'] = 'Réparer les liaisons de l’objet';
-
 // Error
 $_['error_api_connect'] = 'Impossible de se connecter à l’API';

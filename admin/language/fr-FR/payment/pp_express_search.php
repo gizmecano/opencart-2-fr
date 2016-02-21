@@ -1,20 +1,6 @@
-#-------------------------------------------------------------------------------
-# Copyright (C) 2015-2016 P. Mergey
-# This program is free software: you can redistribute it and/or modify
-# it under the terms of the GNU General Public License as published by
-# the Free Software Foundation, either version 3 of the License, or
-# (at your option) any later version.
-# This program is distributed in the hope that it will be useful,
-# but WITHOUT ANY WARRANTY; without even the implied warranty of
-# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-# GNU General Public License for more details.
-# You should have received a copy of the GNU General Public License
-# along with this program.  If not, see <http://www.gnu.org/licenses/>.
-#-------------------------------------------------------------------------------
 <?php
 // Heading
 $_['heading_title'] = 'Recherche de transactions';
-
 // Column
 $_['tbl_column_date'] = 'Date';
 $_['tbl_column_type'] = 'Type';
@@ -27,7 +13,6 @@ $_['tbl_column_amount'] = 'Montant';
 $_['tbl_column_fee'] = 'Frais';
 $_['tbl_column_netamt'] = 'Montant net';
 $_['tbl_column_action'] = 'Action';
-
 // Text
 $_['text_pp_express'] = 'Paiement PayPal Express';
 $_['text_date_search'] = 'Recherche par date';
@@ -36,7 +21,6 @@ $_['text_name'] = 'Nom';
 $_['text_buyer_info'] = 'Informations sur l’acheteur';
 $_['text_view'] = 'Voir';
 $_['text_format'] = 'Format';
-
 // Entry
 $_['entry_trans_all'] = 'Tout';
 $_['entry_trans_sent'] = 'Envoyé';

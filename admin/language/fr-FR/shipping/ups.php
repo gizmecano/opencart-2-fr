@@ -1,20 +1,6 @@
-#-------------------------------------------------------------------------------
-# Copyright (C) 2015-2016 P. Mergey
-# This program is free software: you can redistribute it and/or modify
-# it under the terms of the GNU General Public License as published by
-# the Free Software Foundation, either version 3 of the License, or
-# (at your option) any later version.
-# This program is distributed in the hope that it will be useful,
-# but WITHOUT ANY WARRANTY; without even the implied warranty of
-# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-# GNU General Public License for more details.
-# You should have received a copy of the GNU General Public License
-# along with this program.  If not, see <http://www.gnu.org/licenses/>.
-#-------------------------------------------------------------------------------
 <?php
 // Heading
 $_['heading_title'] = 'UPS';
-
 // Text
 $_['text_shipping'] = 'Livraison';
 $_['text_success'] = 'Succès : vous aviez modifié la livraison UPS !';
@@ -65,7 +51,6 @@ $_['text_today_dedicated_courier'] = 'UPS Today Dedicated Courier';
 $_['text_today_intercity'] = 'UPS Today Intercity';
 $_['text_today_express'] = 'UPS Today Express';
 $_['text_today_express_saver'] = 'UPS Today Express Saver';
-
 // Entry
 $_['entry_key'] = 'Clef d’accès';
 $_['entry_username'] = 'Nom d’utilisateur';
@@ -94,7 +79,6 @@ $_['entry_geo_zone'] = 'Zone géographique';
 $_['entry_status'] = 'Statut';
 $_['entry_sort_order'] = 'Classement';
 $_['entry_debug'] = 'Mode de débugage';
-
 // Help
 $_['help_key'] = 'Saisissez la clef XML d’accès aux tarifs qui vous a été attribuée par UPS.';
 $_['help_username'] = 'Saisissez votre nom d’utilisateur de compte UPS Services.';
@@ -116,7 +100,6 @@ $_['help_weight_class'] = 'Valeur en kilogrammes ou en livres.';
 $_['help_length_class'] = 'Valeur en centimètres ou en pouces.';
 $_['help_dimension'] = 'Ceci est supposé être votre moyenne de votre taille de boîte d’emballage. Les dimensions d’article individuel ne sont pas supportées actuellement, en conséquence, vous devez saisir les dimensions moyennes, telles que 5 × 5 × 5.';
 $_['help_debug'] = 'Sauve les données envoyées et reçues dans l’historique du système';
-
 // Error
 $_['error_permission'] = 'Attention : vous n’avez pas la permission de modifier la livraison UPS !';
 $_['error_key'] = 'Clef d’accès requise !';

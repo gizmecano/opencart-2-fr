@@ -1,20 +1,6 @@
-#-------------------------------------------------------------------------------
-# Copyright (C) 2015-2016 P. Mergey
-# This program is free software: you can redistribute it and/or modify
-# it under the terms of the GNU General Public License as published by
-# the Free Software Foundation, either version 3 of the License, or
-# (at your option) any later version.
-# This program is distributed in the hope that it will be useful,
-# but WITHOUT ANY WARRANTY; without even the implied warranty of
-# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-# GNU General Public License for more details.
-# You should have received a copy of the GNU General Public License
-# along with this program.  If not, see <http://www.gnu.org/licenses/>.
-#-------------------------------------------------------------------------------
 <?php
 // Heading
 $_['heading_title'] = 'Paiement Express via PayPal';
-
 // Text
 $_['text_success'] = 'Succès : vous avez modifié les détails de compte PayPal Express !';
 $_['text_edit'] = 'Modifier Paiement Express via PayPal';
@@ -25,7 +11,6 @@ $_['text_clear'] = 'Effacer';
 $_['text_browse'] = 'Parcourir';
 $_['text_image_manager'] = 'Gestionnaire d’images';
 $_['text_ipn'] = 'URL de l’IPN';
-
 // Entry
 $_['entry_username'] = 'Nom d’utilisateur API';
 $_['entry_password'] = 'Mot de passe API';
@@ -56,20 +41,17 @@ $_['entry_logo'] = 'Logo';
 $_['entry_border_colour'] = 'Couleur de bordure en-tête';
 $_['entry_header_colour'] = 'Couleur de fond d’en-tête';
 $_['entry_page_colour'] = 'Couleur de fond de page';
-
 // Tab
 $_['tab_general'] = 'Général';
 $_['tab_api_details'] = 'Paramètres de l’API';
 $_['tab_order_status'] = 'Statut de commande';
 $_['tab_customise'] = 'Personnaliser la caisse';
-
 // Help
 $_['help_ipn'] = 'Nécessaire pour les abonnements';
 $_['help_total'] = 'Le montant total que la commande doit atteindre avant que ce module de paiement devienne actif';
 $_['help_logo'] = 'Maximum 750px (largeur) × 90px (hauteur) <br/> vous ne devez utiliser un logo que si vous avez SSL.';
 $_['help_colour'] = 'Code de couleur HTML (triplet hexadécimal)';
 $_['help_currency'] = 'Utilisé pour les recherches de transaction';
-
 // Error
 $_['error_permission'] = 'Attention : vous n’êtes pas autorisé à modifier le paiement PayPal Express Checkout !';
 $_['error_username'] = 'Nom d’utilisateur API requis !';

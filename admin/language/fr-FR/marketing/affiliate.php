@@ -1,20 +1,6 @@
-#-------------------------------------------------------------------------------
-# Copyright (C) 2015-2016 P. Mergey
-# This program is free software: you can redistribute it and/or modify
-# it under the terms of the GNU General Public License as published by
-# the Free Software Foundation, either version 3 of the License, or
-# (at your option) any later version.
-# This program is distributed in the hope that it will be useful,
-# but WITHOUT ANY WARRANTY; without even the implied warranty of
-# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-# GNU General Public License for more details.
-# You should have received a copy of the GNU General Public License
-# along with this program.  If not, see <http://www.gnu.org/licenses/>.
-#-------------------------------------------------------------------------------
 <?php
 // Heading
 $_['heading_title'] = 'Affiliés';
-
 // Text
 $_['text_success'] = 'Succès : vous avez modifié des affiliés !';
 $_['text_approved'] = 'Vous avez approuvé les comptes de %s !';
@@ -25,7 +11,6 @@ $_['text_balance'] = 'Solde';
 $_['text_cheque'] = 'Chèque';
 $_['text_paypal'] = 'PayPal';
 $_['text_bank'] = 'Virement bancaire';
-
 // Column
 $_['column_name'] = 'Nom de l’affilié';
 $_['column_email'] = 'Adresse électronique';
@@ -37,7 +22,6 @@ $_['column_date_added'] = 'Date d’ajout';
 $_['column_description'] = 'Description';
 $_['column_amount'] = 'Montant';
 $_['column_action'] = 'Action';
-
 // Entry
 $_['entry_firstname'] = 'Prénom';
 $_['entry_lastname'] = 'Nom de famille';
@@ -71,11 +55,9 @@ $_['entry_description'] = 'Description';
 $_['entry_name'] = 'Nom de l’affilié';
 $_['entry_approved'] = 'Approuvé';
 $_['entry_date_added'] = 'Date d’ajout';
-
 // Help
 $_['help_code'] = 'Le code de suivi qui sera utilisé pour suivre les redirections.';
 $_['help_commission'] = 'Pourcentage que reçoit l’affilié sur chaque commande.';
-
 // Error
 $_['error_permission'] = 'Attention : vous n’êtes pas autorisé à modifier les affiliés !';
 $_['error_exists'] = 'Attention : cette adresse électronique est déjà enregistrée !';

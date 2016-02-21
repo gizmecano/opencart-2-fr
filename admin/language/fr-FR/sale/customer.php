@@ -1,20 +1,6 @@
-#-------------------------------------------------------------------------------
-# Copyright (C) 2015-2016 P. Mergey
-# This program is free software: you can redistribute it and/or modify
-# it under the terms of the GNU General Public License as published by
-# the Free Software Foundation, either version 3 of the License, or
-# (at your option) any later version.
-# This program is distributed in the hope that it will be useful,
-# but WITHOUT ANY WARRANTY; without even the implied warranty of
-# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-# GNU General Public License for more details.
-# You should have received a copy of the GNU General Public License
-# along with this program.  If not, see <http://www.gnu.org/licenses/>.
-#-------------------------------------------------------------------------------
 <?php
 // Heading
 $_['heading_title'] = 'Clients';
-
 // Text
 $_['text_success'] = 'Succès : vous avez modifié les clients !';
 $_['text_list'] = 'Listes de clients';
@@ -24,7 +10,6 @@ $_['text_default'] = 'Par défaut';
 $_['text_balance'] = 'Solde';
 $_['text_add_ban_ip'] = 'Ajouter une IP bannie';
 $_['text_remove_ban_ip'] = 'Supprimer une IP bannie';
-
 // Column
 $_['column_name'] = 'Nom du client';
 $_['column_email'] = 'Adresse électronique';
@@ -38,7 +23,6 @@ $_['column_points'] = 'Points';
 $_['column_ip'] = 'IP';
 $_['column_total'] = 'Comptes totaux';
 $_['column_action'] = 'Action';
-
 // Entry
 $_['entry_customer_group'] = 'Groupe de clients';
 $_['entry_firstname'] = 'Prénom';
@@ -67,11 +51,9 @@ $_['entry_points'] = 'Points';
 $_['entry_name'] = 'Nom du client';
 $_['entry_ip'] = 'IP';
 $_['entry_date_added'] = 'Date d’ajout';
-
 // Help
 $_['help_safe'] = 'Mettre à vrai pour permettre à ce client de passer le système anti-fraude';
 $_['help_points'] = 'Utilisez le signe moins pour enlever des points';
-
 // Error
 $_['error_warning'] = 'Attention : veuillez vérifier le formulaire';
 $_['error_permission'] = 'Attention : vous n’avez pas la permission de modifier les clients !';

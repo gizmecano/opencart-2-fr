@@ -1,20 +1,6 @@
-#-------------------------------------------------------------------------------
-# Copyright (C) 2015-2016 P. Mergey
-# This program is free software: you can redistribute it and/or modify
-# it under the terms of the GNU General Public License as published by
-# the Free Software Foundation, either version 3 of the License, or
-# (at your option) any later version.
-# This program is distributed in the hope that it will be useful,
-# but WITHOUT ANY WARRANTY; without even the implied warranty of
-# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-# GNU General Public License for more details.
-# You should have received a copy of the GNU General Public License
-# along with this program.  If not, see <http://www.gnu.org/licenses/>.
-#-------------------------------------------------------------------------------
 <?php
 // Heading
 $_['heading_title'] = 'Realex Redirect';
-
 // Text
 $_['text_success'] = 'Succès : vous avez modifié les détails du compte Realex Redirect !';
 $_['text_edit'] = 'Modifier Realex Redirect';
@@ -56,7 +42,6 @@ $_['text_confirm_void'] = 'Êtes-vous sûr de vouloir annuler le paiement ?';
 $_['text_confirm_capture'] = 'Êtes-vous certain de vouloir réceptionner le paiement ?';
 $_['text_confirm_rebate'] = 'Êtes-vous certain de vouloir remboursement le paiement ?';
 $_['text_realex'] = '<a target="_BLANK" href="http://www.realexpayments.co.uk/partner-refer?id=opencart"><img src="view/image/payment/realex.png" alt="Realex" title="Realex" style="border: 1px solid #EEEEEE;" /></a>';
-
 // Entry
 $_['entry_merchant_id'] = 'ID marchand';
 $_['entry_secret'] = 'Secret partagé';
@@ -81,26 +66,22 @@ $_['entry_status_decline_bank'] = 'Refuser - erreur de la banque';
 $_['entry_status_void'] = 'Annulée';
 $_['entry_status_rebate'] = 'Remboursé';
 $_['entry_notification_url'] = 'URL de notification';
-
 // Help
 $_['help_total'] = 'Le montant total que la commande doit atteindre avant que ce module de paiement devienne actif';
 $_['help_card_select'] = 'Demander à l’utilisateur de choisir le type de carte bancaire avant qu’ils soient redirigés';
 $_['help_notification'] = 'Vous devez fournir cette URL à Realex pour recevoir des notifications de paiement';
 $_['help_debug'] = 'En activant le débogage, vous autorisez l’écriture de données sensibles dans un fichier journal. Vous devriez toujours désactiver cette fonction sauf avis contraire.';
 $_['help_dcc_settle'] = 'Si votre sous-compte a DCC activé vous devez utiliser le réglement automatique';
-
 // Tab
 $_['tab_account'] = 'Informations de l’API';
 $_['tab_sub_account'] = 'Comptes';
 $_['tab_order_status'] = 'Statut de la commande';
 $_['tab_payment'] = 'Paramètres de paiement';
 $_['tab_advanced'] = 'Options avancées';
-
 // Button
 $_['button_capture'] = 'Capture';
 $_['button_rebate'] = 'Remise et/ou remboursement';
 $_['button_void'] = 'Annulation';
-
 // Error
 $_['error_merchant_id'] = 'L’identifiant marchand est requis.';
 $_['error_secret'] = 'Le mot secret partagé est requis';

@@ -1,20 +1,6 @@
-#-------------------------------------------------------------------------------
-# Copyright (C) 2015-2016 P. Mergey
-# This program is free software: you can redistribute it and/or modify
-# it under the terms of the GNU General Public License as published by
-# the Free Software Foundation, either version 3 of the License, or
-# (at your option) any later version.
-# This program is distributed in the hope that it will be useful,
-# but WITHOUT ANY WARRANTY; without even the implied warranty of
-# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-# GNU General Public License for more details.
-# You should have received a copy of the GNU General Public License
-# along with this program.  If not, see <http://www.gnu.org/licenses/>.
-#-------------------------------------------------------------------------------
 <?php
 // Heading
 $_['heading_title'] = 'First Data EMEA Connect (3DSecure activé)';
-
 // Text
 $_['text_payment'] = 'Paiement';
 $_['text_success'] = 'Succès : vous avez modifié les détails du compte First Data !';
@@ -45,7 +31,6 @@ $_['text_column_type'] = 'Type';
 $_['text_column_date_added'] = 'Créé';
 $_['text_confirm_void'] = 'Êtes-vous certain de que vouloir annuler le paiement ?';
 $_['text_confirm_capture'] = 'Êtes-vous certain de vouloir réceptionner le paiement ?';
-
 // Entry
 $_['entry_merchant_id'] = 'Numéro de boutique';
 $_['entry_secret'] = 'Secret partagé';
@@ -65,23 +50,19 @@ $_['entry_status_success_unsettled'] = 'Succès - non réglé';
 $_['entry_status_decline'] = 'Refuser';
 $_['entry_status_void'] = 'Annulée';
 $_['entry_enable_card_store'] = 'Activer les jetons de stockage de carte';
-
 // Help
 $_['help_total'] = 'Le total que la commande doit atteindre avant que cette méthode de paiement devient active';
 $_['help_notification'] = 'Vous devez fournir cette URL à First Data pour recevoir des notifications de paiement';
 $_['help_debug'] = 'En autorisant le débogage, vous autorisez l’écriture des données sensibles dans un fichier journal. Vous devriez toujours désactiver sauf avis contraire';
 $_['help_settle'] = 'Si vous utilisez la pré-autorisation, vous devez effectuer une action post-auth dans 3-5 jours sinon votre transaction sera abandonnée';
-
 // Tab
 $_['tab_account'] = 'Informations de l’API';
 $_['tab_order_status'] = 'Statut de la commande';
 $_['tab_payment'] = 'Paramètres de paiement';
 $_['tab_advanced'] = 'Options avancées';
-
 // Button
 $_['button_capture'] = 'Réceptionner';
 $_['button_void'] = 'Annuler';
-
 // Error
 $_['error_merchant_id'] = 'ID de la boutique est requise';
 $_['error_secret'] = 'Le mot secret partagé est requis';

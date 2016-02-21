@@ -1,27 +1,12 @@
-#-------------------------------------------------------------------------------
-# Copyright (C) 2015-2016 P. Mergey
-# This program is free software: you can redistribute it and/or modify
-# it under the terms of the GNU General Public License as published by
-# the Free Software Foundation, either version 3 of the License, or
-# (at your option) any later version.
-# This program is distributed in the hope that it will be useful,
-# but WITHOUT ANY WARRANTY; without even the implied warranty of
-# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-# GNU General Public License for more details.
-# You should have received a copy of the GNU General Public License
-# along with this program.  If not, see <http://www.gnu.org/licenses/>.
-#-------------------------------------------------------------------------------
 <?php
 // Heading
 $_['heading_title'] = 'Liaisons de produit';
 $_['text_openbay'] = 'OpenBay Pro';
 $_['text_ebay'] = 'eBay';
-
 // Buttons
 $_['button_resync'] = 'Nouvelle synchronisation';
 $_['button_check_unlinked'] = 'Vérifier les objets non liés';
 $_['button_remove_link'] = 'Supprimer la liaison';
-
 // Errors
 $_['error_ajax_load'] = 'Désolé, impossible d’obtenir une réponse. Veuillez réessayez plus tard.';
 $_['error_validation'] = 'Vous devez vous inscrire afin d’obtenir le jeton de votre API et activer le module.';
@@ -29,7 +14,6 @@ $_['error_no_listings'] = 'Aucun produit lié n’a été trouvé';
 $_['error_link_value'] = 'La valeur de l’identifiant du produit n’est pas valide.';
 $_['error_link_no_stock'] = 'Impossible de créer une liaison pour un objet qui n’est plus en stock. Veuillez terminer la mise en vente manuellement sur eBay.';
 $_['error_subtract_setting'] = 'Ce produit est configuré pour ne pas être soustrait au stock OpenCart.';
-
 // Text
 $_['text_linked_items'] = 'Objets liés';
 $_['text_unlinked_items'] = 'Objets non liés';
@@ -52,7 +36,6 @@ $_['text_filter_range'] = 'Niveau de stock';
 $_['text_filter_range_from'] = 'Minimum';
 $_['text_filter_range_to'] = 'Maximum';
 $_['text_filter_var'] = 'Inclure les variantes';
-
 // Tables
 $_['column_action'] = 'Action';
 $_['column_status'] = 'Statut';

@@ -1,19 +1,5 @@
-#-------------------------------------------------------------------------------
-# Copyright (C) 2015-2016 P. Mergey
-# This program is free software: you can redistribute it and/or modify
-# it under the terms of the GNU General Public License as published by
-# the Free Software Foundation, either version 3 of the License, or
-# (at your option) any later version.
-# This program is distributed in the hope that it will be useful,
-# but WITHOUT ANY WARRANTY; without even the implied warranty of
-# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-# GNU General Public License for more details.
-# You should have received a copy of the GNU General Public License
-# along with this program.  If not, see <http://www.gnu.org/licenses/>.
-#-------------------------------------------------------------------------------
 <?php
 $_['heading_title'] = 'Pages de paiement Secure Trading';
-
 $_['text_securetrading_pp'] = '<a href="http://www.securetradingfs.com/partner/open-cart/" target="_blank"><img src="view/image/payment/secure trading.png" alt="SagePay" title="SagePay" style="border: 1px solid #EEEEEE;" /></a>';
 $_['text_payment'] = 'Paiement';
 $_['text_enabled'] = 'Activé';
@@ -30,7 +16,6 @@ $_['text_refund_issued'] = 'Le remboursement a été envoyé avec succès';
 $_['text_pending_settlement_manually_overriden'] = 'Réglement en attente, remplacé manuellement';
 $_['text_pending_suspended'] = 'Suspendu';
 $_['text_pending_settled'] = 'Réglé';
-
 $_['entry_site_reference'] = 'Référence du site';
 $_['entry_username'] = 'Nom d’utilisateur';
 $_['entry_password'] = 'Mot de passe';
@@ -53,7 +38,6 @@ $_['entry_cards_accepted'] = 'Cartes acceptées';
 $_['entry_reverse_authorisation'] = 'Autorisation inverse : ';
 $_['entry_refunded'] = 'Remboursé : ';
 $_['entry_refund'] = 'Envoi de remboursement(%s) : ';
-
 $_['error_permission'] = 'Vous n’êtes pas autorisé à modifier ce module';
 $_['error_site_reference'] = 'La référence du site est requise';
 $_['error_notification_password'] = 'Mot de passe de notification est requis';
@@ -62,15 +46,12 @@ $_['error_username'] = 'Le nom d’utilisateur est requis';
 $_['error_password'] = 'Le mot de passe est requis';
 $_['error_connection'] = 'Impossible de se connecter à Secure Trading';
 $_['error_data_missing'] = 'Données manquantes';
-
 $_['help_username'] = 'Votre nom d’utilisateur du service';
 $_['help_password'] = 'Votre mot de passe pour le service';
 $_['help_refund'] = 'Veuillez inclure la partie décimale et le séparateur (virgule) du montant';
 $_['help_total'] = 'Le montant total que la commande doit atteindre avant que ce module de paiement devienne actif';
-
 $_['button_reverse_authorisation'] = 'Autorisation inverse';
 $_['button_refund'] = 'Remboursement';
-
 // Order page - payment tab
 $_['text_payment_info'] = 'Informations de paiement';
 $_['text_release_status'] = 'Paiement envoyé';
@@ -88,11 +69,9 @@ $_['text_release_ok_order'] = 'Envoi effectué : le statut de la commande a ét�
 $_['text_rebate_ok'] = 'Remboursement effectué';
 $_['text_rebate_ok_order'] = 'Remboursement effectué : le statut de la commande a été mis à jour';
 $_['text_void_ok'] = 'L’annulation a réussie : le statut de la commande a été mis à jour';
-
 $_['text_confirm_void'] = 'Êtes vous certain de vouloir inverser l’autorisation ?';
 $_['text_confirm_release'] = 'Êtes-vous certain de vouloir envoyer ce paiement ?';
 $_['text_confirm_rebate'] = 'Êtes-vous certain de vouloir remboursement le paiement ?';
-
 $_['btn_release'] = 'Envoi';
 $_['btn_rebate'] = 'Remise et/ou remboursement';
 $_['btn_void'] = 'Autorisation inverse';

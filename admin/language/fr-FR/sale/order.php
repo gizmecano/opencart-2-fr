@@ -1,20 +1,6 @@
-#-------------------------------------------------------------------------------
-# Copyright (C) 2015-2016 P. Mergey
-# This program is free software: you can redistribute it and/or modify
-# it under the terms of the GNU General Public License as published by
-# the Free Software Foundation, either version 3 of the License, or
-# (at your option) any later version.
-# This program is distributed in the hope that it will be useful,
-# but WITHOUT ANY WARRANTY; without even the implied warranty of
-# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-# GNU General Public License for more details.
-# You should have received a copy of the GNU General Public License
-# along with this program.  If not, see <http://www.gnu.org/licenses/>.
-#-------------------------------------------------------------------------------
 <?php
 // Heading
 $_['heading_title'] = 'Commandes';
-
 // Text
 $_['text_list'] = 'Liste des commandes';
 $_['text_add'] = 'Ajouter une commande';
@@ -131,7 +117,6 @@ $_['text_maxmind_id'] = 'ID MaxMind : ';
 $_['text_error'] = 'Erreur : ';
 $_['text_picklist'] = 'Bordereau d’expédition';
 $_['text_history'] = 'Ajouter à l’historique de commande';
-
 // Column
 $_['column_order_id'] = 'Commande n°';
 $_['column_customer'] = 'Client';
@@ -149,7 +134,6 @@ $_['column_location'] = 'Emplacement';
 $_['column_reference'] = 'Référence';
 $_['column_action'] = 'Action';
 $_['column_weight'] = 'Poids du produit';
-
 // Entry
 $_['entry_store'] = 'Boutique';
 $_['entry_customer'] = 'Client';
@@ -191,7 +175,6 @@ $_['entry_order_id'] = 'Commande n°';
 $_['entry_total'] = 'Total';
 $_['entry_date_added'] = 'Date d’ajout';
 $_['entry_date_modified'] = 'Date de modification';
-
 // Help
 $_['help_country_match'] = 'Dans le cas où le pays de l’adresse IP correspond au pays de l’adresse de facturation (le risque est plus grand en cas de mauvaise correspondance).';
 $_['help_country_code'] = 'Code du pays de l’adresse IP.';
@@ -243,7 +226,6 @@ $_['help_risk_score'] = 'Nouveau score représentant la probabilité estimée qu
 $_['help_queries_remaining'] = 'Nombre de requêtes restantes dans votre compte, peut être utilisées pour vous alerter quand vous pouvez avoir besoin d’ajouter plus de requêtes à votre compte.';
 $_['help_maxmind_id'] = 'Identifiant unique, utilisé pour référencer les transactions quand une activité frauduleuse est rapportée à MaxMind. Ce rapport aidera MaxMind à améliorer son service pour vous et rendra possible uen fonctionnalité plannifiée pour personnaliser la formule de calcul du score de fraude sur votre historique de rétrofacturation .';
 $_['help_error'] = 'Retourne une chaîne d’erreur avec un message d’avertissement ou une raison pour laquelle la requête a échoué.';
-
 // Error
 $_['error_warning'] = 'Attention : veuillez vérifier le formulaire';
 $_['error_permission'] = 'Attention : vous n’avez pas la permission de modifier les commandes !';

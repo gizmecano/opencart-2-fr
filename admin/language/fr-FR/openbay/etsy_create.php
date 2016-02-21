@@ -1,25 +1,10 @@
-#-------------------------------------------------------------------------------
-# Copyright (C) 2015-2016 P. Mergey
-# This program is free software: you can redistribute it and/or modify
-# it under the terms of the GNU General Public License as published by
-# the Free Software Foundation, either version 3 of the License, or
-# (at your option) any later version.
-# This program is distributed in the hope that it will be useful,
-# but WITHOUT ANY WARRANTY; without even the implied warranty of
-# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-# GNU General Public License for more details.
-# You should have received a copy of the GNU General Public License
-# along with this program.  If not, see <http://www.gnu.org/licenses/>.
-#-------------------------------------------------------------------------------
 <?php
 // Headings
 $_['heading_title'] = 'Créer une nouvelle annonce Etsy';
 $_['text_title'] = 'Etsy';
 $_['text_openbay'] = 'OpenBay Pro';
-
 // Tabs
 $_['tab_additional'] = 'Informations complémentaires';
-
 // Text
 $_['text_option'] = 'Sélectionnez une option';
 $_['text_category_selected'] = 'Catégorie sélectionnée';
@@ -31,7 +16,6 @@ $_['text_created'] = 'Votre annonce a été créée.';
 $_['text_listing_id'] = 'Identifiant de l’annonce';
 $_['text_img_upload'] = 'Transfert des images en cours';
 $_['text_img_upload_done'] = 'Image transférée';
-
 // Entry
 $_['entry_title'] = 'Titre du produit';
 $_['entry_description'] = 'Description';
@@ -57,7 +41,6 @@ $_['entry_shop'] = 'Section boutique';
 $_['entry_is_custom'] = 'Peut-il être personnalisé ?';
 $_['entry_image'] = 'Image principale';
 $_['entry_image_other'] = 'Autres images';
-
 // Errors
 $_['error_no_shipping'] = 'Vous n’avez pas configuré de profil de mode de livraison !';
 $_['error_no_shop_secton'] = 'Vous n’avez pas configuré de section boutique !';

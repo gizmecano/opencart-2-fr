@@ -1,22 +1,8 @@
-#-------------------------------------------------------------------------------
-# Copyright (C) 2015-2016 P. Mergey
-# This program is free software: you can redistribute it and/or modify
-# it under the terms of the GNU General Public License as published by
-# the Free Software Foundation, either version 3 of the License, or
-# (at your option) any later version.
-# This program is distributed in the hope that it will be useful,
-# but WITHOUT ANY WARRANTY; without even the implied warranty of
-# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-# GNU General Public License for more details.
-# You should have received a copy of the GNU General Public License
-# along with this program.  If not, see <http://www.gnu.org/licenses/>.
-#-------------------------------------------------------------------------------
 <?php
 // Heading
 $_['heading_title'] = 'Paramètres de la place de marché';
 $_['text_openbay'] = 'OpenBay Pro';
 $_['text_amazon'] = 'Amazon UE';
-
 // Text
 $_['text_api_status'] = 'État de la connexion API';
 $_['text_api_ok'] = 'Connexion établie, authentification réussie';
@@ -46,10 +32,8 @@ $_['text_collectible_very_good'] = 'Articles de collection - Très bon état';
 $_['text_collectible_good'] = 'Articles de collection - Bon état';
 $_['text_collectible_acceptable'] = 'Articles de collection - Passable';
 $_['text_refurbished'] = 'Reconditionné';
-
 // Error
 $_['error_permission'] = 'Vous n’avez pas accès à ce module';
-
 // Entry
 $_['entry_status'] = 'Statut';
 $_['entry_token'] = 'Jeton';
@@ -62,12 +46,10 @@ $_['entry_default_condition'] = 'État par défaut du produit';
 $_['entry_marketplace_default'] = 'Boutique par défaut';
 $_['entry_notify_admin'] = 'Prévenir l’administrateur si nouvelle commande';
 $_['entry_default_shipping'] = 'Mode de livraison par défaut';
-
 // Tabs
 $_['tab_settings'] = 'Informations sur l’aplication';
 $_['tab_listing'] = 'Mises en vente';
 $_['tab_orders'] = 'Commandes';
-
 // Help
 $_['help_import_tax'] = 'Utilisé dans le cas où Amazon ne retourne pas d’informations de taxe';
 $_['help_customer_group'] = 'Sélectionnez un groupe de clients à assigner aux commandes importées';

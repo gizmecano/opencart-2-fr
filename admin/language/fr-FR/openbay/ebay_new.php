@@ -1,22 +1,8 @@
-#-------------------------------------------------------------------------------
-# Copyright (C) 2015-2016 P. Mergey
-# This program is free software: you can redistribute it and/or modify
-# it under the terms of the GNU General Public License as published by
-# the Free Software Foundation, either version 3 of the License, or
-# (at your option) any later version.
-# This program is distributed in the hope that it will be useful,
-# but WITHOUT ANY WARRANTY; without even the implied warranty of
-# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-# GNU General Public License for more details.
-# You should have received a copy of the GNU General Public License
-# along with this program.  If not, see <http://www.gnu.org/licenses/>.
-#-------------------------------------------------------------------------------
 <?php
 // Heading
 $_['heading_title'] = 'Nouvelle annonce';
 $_['text_ebay'] = 'eBay';
 $_['text_openbay'] = 'OpenBay Pro';
-
 // Text
 $_['text_listing_1day'] = '1 jour';
 $_['text_listing_3day'] = '3 jours';
@@ -96,7 +82,6 @@ $_['text_shipping_first'] = 'Premier objet';
 $_['text_shipping_add'] = 'Objets supplémentaires';
 $_['text_shipping_service'] = 'Service d’expédition';
 $_['text_stock_reserved'] = ' sera réservé';
-
 // Column
 $_['column_stock_total'] = 'En stock';
 $_['column_stock_col_qty'] = 'À mettre en vente';
@@ -106,7 +91,6 @@ $_['column_price_inc_tax'] = 'Taxes comprises';
 $_['column_stock_col_comb'] = 'Déclinaison';
 $_['column_price'] = 'Prix';
 $_['column_stock_col_enabled'] = 'Activée';
-
 // Entry
 $_['entry_shop_category'] = 'Catégorie dans la boutique';
 $_['entry_category_popular'] = 'Catégories populaires';
@@ -148,7 +132,6 @@ $_['entry_shipping_in_desc'] = 'Infos de transport dans la description';
 $_['entry_shipping_type_int'] = 'Mode de transport international';
 $_['entry_shipping_intnat'] = 'Services de transport internationaux';
 $_['entry_shipping_handling_int'] = 'Frais de traitement (internationaux)';
-
 // Tab
 $_['tab_feature'] = 'Caractéristiques';
 $_['tab_ebay_catalog'] = 'Catalogue eBay';
@@ -156,13 +139,11 @@ $_['tab_description'] = 'Description';
 $_['tab_price'] = 'Prix et autre';
 $_['tab_payment'] = 'Paiement';
 $_['tab_returns'] = 'Retours';
-
 // Help
 $_['help_quantity_reserve'] = 'Entrez un montant faible, si vous voulez maintenir un bas niveau de stock sur eBay';
 $_['help_price_ex_tax'] = 'Le prix standard de votre objet hors taxes. Cette valeur n’est pas envoyée à eBay.';
 $_['help_price_inc_tax'] = 'Cette valeur est envoyée à eBay et ce sera le prix que les utilisateurs paieront.';
 $_['help_private'] = 'Masquer les noms des acheteurs';
-
 // Error
 $_['error_choose_category'] = 'Vous devez choisir une catégorie';
 $_['error_search_text'] = 'Entrez un texte à rechercher';

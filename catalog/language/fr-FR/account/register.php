@@ -1,20 +1,6 @@
-#-------------------------------------------------------------------------------
-# Copyright (C) 2015-2016 P. Mergey
-# This program is free software: you can redistribute it and/or modify
-# it under the terms of the GNU General Public License as published by
-# the Free Software Foundation, either version 3 of the License, or
-# (at your option) any later version.
-# This program is distributed in the hope that it will be useful,
-# but WITHOUT ANY WARRANTY; without even the implied warranty of
-# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-# GNU General Public License for more details.
-# You should have received a copy of the GNU General Public License
-# along with this program.  If not, see <http://www.gnu.org/licenses/>.
-#-------------------------------------------------------------------------------
 <?php
 // Heading
 $_['heading_title'] = 'Inscription';
-
 // Text
 $_['text_account'] = 'Compte';
 $_['text_register'] = 'Inscription';
@@ -24,7 +10,6 @@ $_['text_your_address'] = 'Votre adresse';
 $_['text_newsletter'] = 'Lettre d’informations';
 $_['text_your_password'] = 'Votre mot de passe';
 $_['text_agree'] = 'J’ai lu et accepté les <a href="%s" class="agree"><b>%s</b></a>';
-
 // Entry
 $_['entry_customer_group'] = 'Groupe de clients';
 $_['entry_firstname'] = 'Prénom';
@@ -42,7 +27,6 @@ $_['entry_zone'] = 'Subdivision administrative';
 $_['entry_newsletter'] = 'S’abonner';
 $_['entry_password'] = 'Mot de passe';
 $_['entry_confirm'] = 'Confirmer le mot de passe';
-
 // Error
 $_['error_exists'] = 'Attention : cette adresse électronique est déjà enregistrée !';
 $_['error_firstname'] = 'Le prénom doit contenir entre 1 à 32 caractères !';

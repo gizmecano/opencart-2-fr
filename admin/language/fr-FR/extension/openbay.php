@@ -1,27 +1,12 @@
-#-------------------------------------------------------------------------------
-# Copyright (C) 2015-2016 P. Mergey
-# This program is free software: you can redistribute it and/or modify
-# it under the terms of the GNU General Public License as published by
-# the Free Software Foundation, either version 3 of the License, or
-# (at your option) any later version.
-# This program is distributed in the hope that it will be useful,
-# but WITHOUT ANY WARRANTY; without even the implied warranty of
-# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-# GNU General Public License for more details.
-# You should have received a copy of the GNU General Public License
-# along with this program.  If not, see <http://www.gnu.org/licenses/>.
-#-------------------------------------------------------------------------------
 <?php
 // Heading
 $_['heading_title'] = 'OpenBay Pro';
-
 // Buttons
 $_['button_retry'] = 'Recommencer';
 $_['button_update'] = 'Modifier';
 $_['button_patch'] = 'Correctif';
 $_['button_ftp_test'] = 'Tester la connexion';
 $_['button_faq'] = 'Voir la FAQ';
-
 // Tab
 $_['tab_setting'] = 'Paramètres';
 $_['tab_update'] = 'Mises à jour logicielles';
@@ -29,7 +14,6 @@ $_['tab_update_v1'] = 'Mise à jour facile';
 $_['tab_update_v2'] = 'Mise à jour héritée';
 $_['tab_patch'] = 'Correctif';
 $_['tab_developer'] = 'Développeur';
-
 // Text
 $_['text_dashboard'] = 'Tableau de bord';
 $_['text_success'] = 'Félicitation : les paramètres ont été enregistrés.';
@@ -71,12 +55,10 @@ $_['text_check_server'] = 'Vérification des exigences du serveur';
 $_['text_version_ok'] = 'Le logiciel est déjà à jour: la version installée est ';
 $_['text_remove_files'] = 'Suppression des fichiers désormais obsolètes';
 $_['text_confirm_backup'] = 'Veuillez vérifier que vous avez une sauvegarde complète avant de continuer';
-
 // Column
 $_['column_name'] = 'Nom du plugin';
 $_['column_status'] = 'Statut';
 $_['column_action'] = 'Action';
-
 // Entry
 $_['entry_patch'] = 'Manual update patch';
 $_['entry_ftp_username'] = 'Nom d’utilisateur FTP';
@@ -92,7 +74,6 @@ $_['entry_tracking'] = 'Suivi de #';
 $_['entry_empty_data'] = 'Empty store data ?';
 $_['entry_password_prompt'] = 'Please enter the data wipe password';
 $_['entry_update'] = 'Easy 1 click update';
-
 // Error
 $_['error_username'] = 'Nom d’utilisateur FTP requis';
 $_['error_password'] = 'Mot de passe FTP requis';
@@ -109,7 +90,6 @@ $_['error_tracking_custom'] = 'S’il vous plaît laissez le champ service de me
 $_['error_permission'] = 'Vous n’êtes pas autorisé à modifier l’extension OpenBay Pro';
 $_['error_mkdir'] = 'La fonction PHP mkdir est désactivée, contactez votre hébergeur';
 $_['error_file_delete'] = 'Impossible de supprimer ces fichiers, vous devrez les effacer manuellement';
-
 // Help
 $_['help_ftp_username'] = 'Utilisez le nom d’utilisateur FTP de votre hôte';
 $_['help_ftp_password'] = 'Utilisez le mot de passe FTP de votre hôte';

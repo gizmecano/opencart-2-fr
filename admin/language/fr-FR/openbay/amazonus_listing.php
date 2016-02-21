@@ -1,23 +1,9 @@
-#-------------------------------------------------------------------------------
-# Copyright (C) 2015-2016 P. Mergey
-# This program is free software: you can redistribute it and/or modify
-# it under the terms of the GNU General Public License as published by
-# the Free Software Foundation, either version 3 of the License, or
-# (at your option) any later version.
-# This program is distributed in the hope that it will be useful,
-# but WITHOUT ANY WARRANTY; without even the implied warranty of
-# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-# GNU General Public License for more details.
-# You should have received a copy of the GNU General Public License
-# along with this program.  If not, see <http://www.gnu.org/licenses/>.
-#-------------------------------------------------------------------------------
 <?php
 // Heading
 $_['heading_title'] = 'Nouvelle mise en vente Amazon';
 $_['text_title_advanced'] = 'Mise en vente avancée';
 $_['text_openbay'] = 'OpenBay Pro';
 $_['text_amazon'] = 'Amazon USA';
-
 // Buttons
 $_['button_new'] = 'Créer un nouveau produit';
 $_['button_amazon_price'] = 'Charger le prix Amazon';
@@ -28,12 +14,10 @@ $_['button_browse'] = 'Parcourir';
 $_['button_saved_listings'] = 'Voir les mises en vente';
 $_['button_remove_links'] = 'Supprimer les liaisons';
 $_['button_create_new_listing'] = 'Ajouter une mise en vente';
-
 // Help
 $_['help_sku'] = 'Identifiant unique du produit attribué par le vendeur';
 $_['help_restock_date'] = 'Il s’agit de la date à laquelle vous serez en mesure d’expédier des articles en rupture de stock. Cette date ne devrait pas être supérieure à 30 jours à compter de la date de mise en vente. Au delà de cette date, les commandes reçues pourront être automatiquement annulées.';
 $_['help_sale_price'] = 'Le prix de vente doit avoir une date de début et une date de fin';
-
 //Text
 $_['text_products_sent'] = 'Les produits ont été envoyés pour traitement';
 $_['button_view_on_amazon'] = 'Voir sur Amazon';
@@ -60,7 +44,6 @@ $_['text_links_removed'] = 'Les liaisons Amazon ont été supprimées';
 $_['text_product_links'] = 'Liaisons de produit';
 $_['text_has_saved_listings'] = 'Ce produit a une ou plusieurs annonces sauvegardées qui n’ont pas été envoyées';
 $_['text_edit_heading'] = 'Modifier l’annonce';
-
 // Columns
 $_['column_image'] = 'Image';
 $_['column_asin'] = 'ASIN';
@@ -71,7 +54,6 @@ $_['column_model'] = 'Référence';
 $_['column_combination'] = 'Déclinaison';
 $_['column_sku'] = 'Référence';
 $_['column_amazon_sku'] = 'Référence (SKU) Amazon ';
-
 // Entry
 $_['entry_sku'] = 'Référence';
 $_['entry_condition'] = 'État';
@@ -88,12 +70,10 @@ $_['entry_from'] = 'À partir du';
 $_['entry_to'] = 'Jusqu’au';
 $_['entry_product'] = 'Mise en vente d’un objet';
 $_['entry_category'] = 'Catégorie Amazon';
-
 //Tabs
 $_['tab_main'] = 'Général';
 $_['tab_required'] = 'Informations requises';
 $_['tab_additional'] = 'Autres paramètres';
-
 //Errors
 $_['error_text_missing'] = 'Vous devez entrer quelques détails à rechercher';
 $_['error_data_missing'] = 'Les données requises sont manquantes.';
