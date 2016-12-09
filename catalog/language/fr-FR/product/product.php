@@ -51,7 +51,6 @@ $_['entry_review'] = 'Votre évaluation';
 $_['entry_rating'] = 'Note';
 $_['entry_good'] = 'Bon';
 $_['entry_bad'] = 'Mauvais';
-$_['entry_captcha'] = 'Entrez le code dans la case ci-dessous';
 // Tabs
 $_['tab_description'] = 'Description';
 $_['tab_attribute'] = 'Spécification';
