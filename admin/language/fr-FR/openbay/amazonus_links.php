@@ -16,7 +16,7 @@
 // Heading
 $_['heading_title'] = 'Liaisons du produit';
 $_['text_openbay'] = 'OpenBay Pro';
-$_['text_amazon'] = 'Amazon UE';
+$_['text_amazon'] = 'Amazon US';
 // Text
 $_['text_desc1'] = 'Lier vos objets permettra le contrôle du stock des produits Amazon.';
 $_['text_desc2'] = 'Pour chaque objet mis à jour dans le stock local (le stock de votre boutique Opencart), la valeur du stock sera mise à jour sur Amazon';
@@ -31,6 +31,7 @@ $_['text_name'] = 'Nom';
 $_['text_model'] = 'Référence du produit';
 $_['text_combination'] = 'Déclinaison';
 $_['text_sku'] = 'Référence (SKU)';
+$_['text_sku_variant'] = 'Variante (SKU)';
 $_['text_amazon_sku'] = 'Référence (SKU) Amazon';
 // Button
 $_['button_load'] = 'Charger';

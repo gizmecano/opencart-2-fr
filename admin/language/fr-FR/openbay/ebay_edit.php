@@ -53,3 +53,4 @@ $_['help_stock_reserve'] = 'Il s’agit du niveau maximum de stock sur eBay (0 =
 // Error
 $_['error_ended'] = 'L’annonce liée a expirée, vous ne pouvez pas la modifier. Vous devez supprimer la liaison.';
 $_['error_reserve'] = 'Vous ne pouvez pas définir une quantité plus élevée dans la réserve que dans le stock local.';
+$_['error_no_sku'] = 'Pas de SKU trouvé.';
