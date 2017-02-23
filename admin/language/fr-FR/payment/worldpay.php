@@ -76,5 +76,5 @@ $_['text_transactions'] = 'Transactions';
 $_['text_column_amount'] = 'Montant';
 $_['text_column_type'] = 'Type';
 $_['text_column_date_added'] = 'Date d’ajout';
-$_['text_confirm_refund'] = 'Êtes-vous sûr de vouloir effectuer un remboursement du paiement ?';
+$_['text_confirm_refund'] = 'Êtes-vous certain de vouloir effectuer un remboursement du paiement ?';
 $_['btn_refund'] = 'Rembourser';

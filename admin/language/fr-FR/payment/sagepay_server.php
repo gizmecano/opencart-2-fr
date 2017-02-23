@@ -41,7 +41,7 @@ $_['text_transactions'] = 'Transactions';
 $_['text_column_amount'] = 'Montant';
 $_['text_column_type'] = 'Type';
 $_['text_column_date_added'] = 'Date de création';
-$_['text_confirm_void'] = 'Êtes-vous sûr de vouloir annuler le paiement ?';
+$_['text_confirm_void'] = 'Êtes-vous certain de vouloir annuler le paiement ?';
 $_['text_confirm_release'] = 'Êtes-vous certain de vouloir envoyer ce paiement ?';
 $_['text_confirm_rebate'] = 'Êtes-vous certain de vouloir remboursement le paiement ?';
 // Entry

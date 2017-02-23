@@ -27,7 +27,7 @@ $_['entry_template_html'] = 'Code du modèle';
 $_['text_added'] = 'Le nouveau modèle a été ajouté.';
 $_['text_updated'] = 'Le modèle a été mis à jour.';
 $_['text_deleted'] = 'Le modèle a été supprimé.';
-$_['text_confirm_delete'] = 'Êtes-vous sûr de vouloir supprimer le modèle ?';
+$_['text_confirm_delete'] = 'Êtes-vous certain de vouloir supprimer le modèle ?';
 // Error
 $_['error_name'] = 'Vous devez entrer un nom de modèle.';
 $_['error_permission'] = 'Vous n’êtes pas autorisé à modifier les modèles.';

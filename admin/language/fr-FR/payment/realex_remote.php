@@ -48,7 +48,7 @@ $_['text_order_ref'] = 'Référence de la commande';
 $_['text_order_total'] = 'Total autorisé';
 $_['text_total_captured'] = 'Total capturé';
 $_['text_transactions'] = 'Transactions';
-$_['text_confirm_void'] = 'Êtes-vous sûr de vouloir annuler le paiement ?';
+$_['text_confirm_void'] = 'Êtes-vous certain de vouloir annuler le paiement ?';
 $_['text_confirm_capture'] = 'Êtes-vous certain de vouloir réceptionner le paiement ?';
 $_['text_confirm_rebate'] = 'Êtes-vous certain de vouloir remboursement le paiement ?';
 $_['text_realex_remote'] = '<a target="_BLANK" href="http://www.realexpayments.co.uk/partner-refer?id=opencart"><img src="view/image/payment/realex.png" alt="Realex" title="Realex" style="border: 1px solid #EEEEEE;" /></a>';

@@ -49,9 +49,9 @@ $_['text_order_ref'] = 'Référence de commande';
 $_['text_order_total'] = 'Total autorisé';
 $_['text_total_captured'] = 'Total capturé';
 $_['text_transactions'] = 'Transactions';
-$_['text_confirm_void'] = 'Êtes-vous sûr de vouloir annuler ce paiement ?';
-$_['text_confirm_capture'] = 'Êtes-vous sûr de vouloir capturer le paiement ?';
-$_['text_confirm_rebate'] = 'Êtes-vous sûr de vouloir rembourser le paiement ?';
+$_['text_confirm_void'] = 'Êtes-vous certain de vouloir annuler ce paiement ?';
+$_['text_confirm_capture'] = 'Êtes-vous certain de vouloir capturer le paiement ?';
+$_['text_confirm_rebate'] = 'Êtes-vous certain de vouloir rembourser le paiement ?';
 $_['text_globalpay_remote'] = '<a target="_blank" href="https://resourcecentre.globaliris.com/getting-started.php?id=OpenCart"><img src="view/image/payment/globalpay.png" alt="Globalpay" title="Globalpay" style="border: 1px solid #EEEEEE;" /></a>';
 
 // Column
