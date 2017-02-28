@@ -31,6 +31,7 @@ $_['text_name'] = 'Nom';
 $_['text_model'] = 'Référence du produit';
 $_['text_combination'] = 'Déclinaison';
 $_['text_sku'] = 'Référence (SKU)';
+$_['text_sku_variant'] = 'Variante (SKU)';
 $_['text_amazon_sku'] = 'Référence (SKU) Amazon ';
 // Button
 $_['button_load'] = 'Charger';

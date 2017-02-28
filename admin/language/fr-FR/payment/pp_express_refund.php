@@ -18,6 +18,7 @@ $_['heading_title'] = 'Remboursement de transaction';
 // Text
 $_['text_pp_express'] = 'Paiement PayPal Express';
 $_['text_current_refunds'] = 'Les remboursements ont déjà été effectués pour cette transaction. Le remboursement maximal est';
+$_['text_refund'] = 'Rembourser';
 // Entry
 $_['entry_transaction_id'] = 'Numéro de transaction';
 $_['entry_full_refund'] = 'Remboursement intégral';

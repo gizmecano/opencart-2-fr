@@ -17,12 +17,12 @@
 $_['heading_title'] = 'Rapport des activités des affiliés';
 // Text
 $_['text_list'] = 'Liste des activités des affiliés';
-$_['text_edit'] = '<a href="affiliate_id=%d">%s</a> ont mis à jour les informations de leur compte.';
-$_['text_forgotten'] = '<a href="affiliate_id=%d">%s</a> ont demandé un nouveau mot de passe.';
-$_['text_login'] = '<a href="affiliate_id=%d">%s</a> se sont connectés.';
-$_['text_password'] = '<a href="affiliate_id=%d">%s</a> ont mis à jour le mot de passe de leur compte.';
-$_['text_payment'] = '<a href="affiliate_id=%d">%s</a> ont mis à jour les informations de leur compte.';
-$_['text_register'] = '<a href="affiliate_id=%d">%s</a> ont ouvert un nouveau compte.';
+$_['text_edit'] = '<a href="affiliate_id=%d">%s</a> a mis à jour les informations de son compte.';
+$_['text_forgotten'] = '<a href="affiliate_id=%d">%s</a> a demandé un nouveau mot de passe.';
+$_['text_login'] = '<a href="affiliate_id=%d">%s</a> s’est connecté.';
+$_['text_password'] = '<a href="affiliate_id=%d">%s</a> a mis à jour le mot de passe de son compte.';
+$_['text_payment'] = '<a href="affiliate_id=%d">%s</a> a mis à jour les informations de son compte.';
+$_['text_register'] = '<a href="affiliate_id=%d">%s</a> a ouvert un nouveau compte.';
 // Column
 $_['column_affiliate'] = 'Affilié';
 $_['column_comment'] = 'Commentaire';

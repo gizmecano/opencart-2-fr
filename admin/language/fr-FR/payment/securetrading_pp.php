@@ -16,10 +16,6 @@
 $_['heading_title'] = 'Pages de paiement Secure Trading';
 $_['text_securetrading_pp'] = '<a href="http://www.securetradingfs.com/partner/open-cart/" target="_blank"><img src="view/image/payment/secure trading.png" alt="SagePay" title="SagePay" style="border: 1px solid #EEEEEE;" /></a>';
 $_['text_payment'] = 'Paiement';
-$_['text_enabled'] = 'Activé';
-$_['text_disabled'] = 'Désactivé';
-$_['text_yes'] = 'Oui';
-$_['text_no'] = 'Non';
 $_['text_all_geo_zones'] = 'Toutes les zones géographiques';
 $_['text_process_immediately'] = 'Procéder immédiatement';
 $_['text_wait_x_days'] = 'Attendre %d jours';
@@ -83,7 +79,7 @@ $_['text_release_ok_order'] = 'Envoi effectué : le statut de la commande a ét�
 $_['text_rebate_ok'] = 'Remboursement effectué';
 $_['text_rebate_ok_order'] = 'Remboursement effectué : le statut de la commande a été mis à jour';
 $_['text_void_ok'] = 'L’annulation a réussie : le statut de la commande a été mis à jour';
-$_['text_confirm_void'] = 'Êtes vous certain de vouloir inverser l’autorisation ?';
+$_['text_confirm_void'] = 'Êtes-vous certain de vouloir inverser l’autorisation ?';
 $_['text_confirm_release'] = 'Êtes-vous certain de vouloir envoyer ce paiement ?';
 $_['text_confirm_rebate'] = 'Êtes-vous certain de vouloir remboursement le paiement ?';
 $_['btn_release'] = 'Envoi';

@@ -69,3 +69,6 @@ $_['error_style_1_tag'] = 'Balise style 1 n’est pas valide';
 $_['error_style_2_tag'] = 'Balise style 2 n’est pas valide';
 $_['error_materials'] = 'Vous ne pouvez ajouter que 13 matériaux.';
 $_['error_tags'] = 'Vous ne pouvez ajouter que 13 tags';
+$_['error_stock_max']  			= 'Le nombre maximum du stock que vous pouvez lister sur Etsy est de 999. Vous avez un stock de %s';
+$_['error_image_max'] = 'Le nombre maximum des images que vous pouvez utiliser sur Etsy est de 5. Vous en avez choisies %s';
+$_['error_variant'] = 'Les variantes de produits sur Etsy.com ne sont pas supportées encore par OpenBay Pro';

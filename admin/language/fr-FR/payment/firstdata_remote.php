@@ -48,9 +48,9 @@ $_['text_transactions'] = 'Transactions';
 $_['text_column_amount'] = 'Montant';
 $_['text_column_type'] = 'Type';
 $_['text_column_date_added'] = 'Date d’ajout';
-$_['text_confirm_void'] = 'Êtes-vous sûr de vouloir annuler le paiement ?';
+$_['text_confirm_void'] = 'Êtes-vous certain de vouloir annuler le paiement ?';
 $_['text_confirm_capture'] = 'Êtes-vous certain de vouloir réceptionner le paiement ?';
-$_['text_confirm_refund'] = 'Êtes-vous sûr de vouloir effectuer un remboursement du paiement ?';
+$_['text_confirm_refund'] = 'Êtes-vous certain de vouloir effectuer un remboursement du paiement ?';
 // Entry
 $_['entry_certificate_path'] = 'Chemin d’accès du certificat';
 $_['entry_certificate_key_path'] = 'Chemin d’accès de la clef privée';

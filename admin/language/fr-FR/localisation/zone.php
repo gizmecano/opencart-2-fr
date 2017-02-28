@@ -26,10 +26,10 @@ $_['column_code'] = 'Code';
 $_['column_country'] = 'Pays';
 $_['column_action'] = 'Action';
 // Entry
-$_['entry_status'] = 'État du domaine';
 $_['entry_name'] = 'Nom du domaine';
 $_['entry_code'] = 'Code du domaine';
 $_['entry_country'] = 'Pays';
+$_['entry_status'] = 'État du domaine';
 // Error
 $_['error_permission'] = 'Attention : vous n’êtes pas autorisé à modifier les domaines !';
 $_['error_name'] = 'Le nom du domaine doit contenir entre 3 et 128 caractères !';

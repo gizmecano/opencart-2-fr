@@ -59,7 +59,6 @@ $_['entry_quantity'] = 'Quantité';
 $_['entry_reason'] = 'Motif de retour';
 $_['entry_opened'] = 'Produit ouvert';
 $_['entry_fault_detail'] = 'Défectueux';
-$_['entry_captcha'] = 'Saisissez le code dans le formulaire ci-dessous';
 // Error
 $_['text_error'] = 'Le retour que vous recherchez ne peut être trouvé !';
 $_['error_order_id'] = 'Identifiant de la commande requis !';

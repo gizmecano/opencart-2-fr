@@ -32,6 +32,8 @@ $_['text_shipping'] = 'Adresse de livraison';
 $_['text_payment'] = 'Adresse de facturation';
 $_['text_mail'] = 'Mail';
 $_['text_smtp'] = 'SMTP';
+$_['text_google_analytics'] = 'Google Analytics';
+$_['text_google_captcha'] = 'Google reCAPTCHA';
 // Entry
 $_['entry_name'] = 'Nom de la boutique';
 $_['entry_owner'] = 'Propriétaire de la boutique';
@@ -118,11 +120,11 @@ $_['entry_ftp_root'] = 'Racine FTP';
 $_['entry_ftp_status'] = 'Activer FTP';
 $_['entry_mail_protocol'] = 'Protocole de courrier électronique';
 $_['entry_mail_parameter'] = 'Paramètres de courrier électronique';
-$_['entry_smtp_hostname'] = 'Nom de l’hôte SMTP';
-$_['entry_smtp_username'] = 'Nom d’utilisateur SMTP';
-$_['entry_smtp_password'] = 'Mot de passe SMTP';
-$_['entry_smtp_port'] = 'Port SMTP';
-$_['entry_smtp_timeout'] = 'Pause SMTP';
+$_['entry_mail_smtp_hostname'] = 'Nom de l’hôte SMTP';
+$_['entry_mail_smtp_username'] = 'Nom d’utilisateur SMTP';
+$_['entry_mail_smtp_password'] = 'Mot de passe SMTP';
+$_['entry_mail_smtp_port'] = 'Port SMTP';
+$_['entry_mail_smtp_timeout'] = 'Pause SMTP';
 $_['entry_fraud_detection'] = 'Utiliser le système de détection de fraude MaxMind';
 $_['entry_fraud_key'] = 'Clef de licence MaxMind';
 $_['entry_fraud_score'] = 'Score de risque MaxMind';
@@ -142,6 +144,9 @@ $_['entry_error_display'] = 'Afficher les erreurs';
 $_['entry_error_log'] = 'Créer un journal des erreurs';
 $_['entry_error_filename'] = 'Nom du fichier de journal des erreurs';
 $_['entry_google_analytics'] = 'Code Google Analytics';
+$_['entry_google_captcha_public'] = 'Clef du site';
+$_['entry_google_captcha_secret'] = 'Clef secrète';
+$_['entry_status'] = 'Statut';
 // Help
 $_['help_geocode'] = 'Veuillez saisir l’emplacement géocode de votre boutique manuellement.';
 $_['help_open'] = 'Saisir les horaires d’ouverture de votre boutique.';
@@ -207,6 +212,7 @@ $_['help_password'] = 'Autorise les mots de passe oublié à être utiliser pour
 $_['help_encryption'] = 'Veuillez fournir une clef secrète qui sera utilisée pour chffirer les informations privées lors de la saisie de commande.';
 $_['help_compression'] = 'GZIP pour un meilleur taux de transfert lors des requêtes des clients. Le niveau de compression doit être compris entre 0 et 9.';
 $_['help_google_analytics'] = 'Connecter vous à votre compte <a href="http://www.google.com/analytics/" target="_blank"><u>Google Analytics</u></a> et, après avoir la création de votre profil de site, copiez et collez le code de suivi dans ce champ.';
+$_['help_google_captcha'] = 'Aller sur la page <a href="https://www.google.com/recaptcha/intro/index.html" target="_blank"><u>Google reCAPTCHA page</u></a> et enregistrer le site.';
 // Error
 $_['error_warning'] = 'Attention : veuillez vérifier le formulaire';
 $_['error_permission'] = 'Attention : vous n’avez pas la permission de modifier les paramètres !';

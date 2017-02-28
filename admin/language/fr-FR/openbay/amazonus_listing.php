@@ -66,6 +66,7 @@ $_['column_action'] = 'Action';
 $_['column_name'] = 'Nom du produit';
 $_['column_model'] = 'Référence';
 $_['column_combination'] = 'Déclinaison';
+$_['column_sku_variant'] = 'Variante (SKU)';
 $_['column_sku'] = 'Référence';
 $_['column_amazon_sku'] = 'Référence (SKU) Amazon ';
 // Entry
