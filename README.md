@@ -4,7 +4,7 @@ English | [Français](README-fr.md)
 
 ## Introduction
 
-OpenCart-2-fr is a French language pack for the ecommerce platform [OpenCart](http://www.opencart.com/) (version 2.0.x). Started within the context of the (unofficial) open and free project [OpenCart Translation v.2](https://crowdin.com/project/opencart-translation-v2) (cf. [this file](readme.txt) for further details), it brings together translation proposals for a complete French localization of the administration interface (_backend_) as well as the online store (_frontend_).
+OpenCart-2-fr is a French language pack for the ecommerce platform [OpenCart](http://www.opencart.com/) (version 2.x). Started within the context of the (unofficial) open and free project [OpenCart Translation v.2](https://crowdin.com/project/opencart-translation-v2) (cf. [this file](readme.txt) for further details), it brings together translation proposals for a complete French localization of the administration interface (_backend_) as well as the online store (_frontend_).
 
 ## Installation
 
@@ -32,18 +32,18 @@ After that, open your OpenCart backend and follow these steps:
 
 OpenCart version | Language pack version
 ---------------- | ----------------------------
-2.0.2.0          | [1.1.0](/releases/tag/1.1.0)
-2.0.1.1          | [1.0.1](/releases/tag/1.0.1)
+2.0.2.0          | [1.1.0](https://github.com/gizmecano/opencart-2-fr/releases/tag/1.1.1)
+2.0.1.1          | [1.0.1](https://github.com/gizmecano/opencart-2-fr/releases/tag/1.0.1)
 
 ## Contribution
 
 The achievement of this pack owes much, of course, to [works made by various contributors](https://crowdin.com/project/opencart-translation-v2/fr/activity) from the OpenCart Translation v.2 project.
 
-Any suggestions or submissions (translation, optimisation, etc.) might be considered by opening [an issue](/issues) into this repository.
+Any suggestions or submissions (translation, optimisation, etc.) might be considered by opening [an issue](https://github.com/gizmecano/opencart-2-fr/issues) into this repository.
 
 ## Licence
 
-OpenCart-2-fr: a French language pack for the ecommerce platform OpenCart (version 2.0.x)
+OpenCart-2-fr: a French language pack for the ecommerce platform OpenCart (version 2.x)
 
 --------------------------------------------------------------------------------
 

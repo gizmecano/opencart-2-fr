@@ -4,7 +4,7 @@
 
 ## Introduction
 
-OpenCart-2-fr est un pack de langue française pour la plateforme de commerce en ligne [OpenCart](http://www.opencart.com/) (version 2.0.x). Initié dans le cadre du projet (non-officiel) libre et gratuit [OpenCart Translation v.2](https://crowdin.com/project/opencart-translation-v2) (cf. [ce fichier](readme.txt) pour plus d'information), il rassemble des propositions de traduction pour une localisation française complète de l'interface d'administration (_backend_) ainsi que de la boutique en ligne (_frontend_).
+OpenCart-2-fr est un pack de langue française pour la plateforme de commerce en ligne [OpenCart](http://www.opencart.com/) (version 2.x). Initié dans le cadre du projet (non-officiel) libre et gratuit [OpenCart Translation v.2](https://crowdin.com/project/opencart-translation-v2) (cf. [ce fichier](readme.txt) pour plus d'information), il rassemble des propositions de traduction pour une localisation française complète de l'interface d'administration (_backend_) ainsi que de la boutique en ligne (_frontend_).
 
 ## Installation
 
@@ -32,18 +32,18 @@ Ensuite, il convient d'afficher le panneau de configuration d'OpenCart et de sui
 
 OpenCart version | Language pack version
 ---------------- | ----------------------------
-2.0.2.0          | [1.1.0](/releases/tag/1.1.0)
-2.0.1.1          | [1.0.1](/releases/tag/1.0.1)
+2.0.2.0          | [1.1.0](https://github.com/gizmecano/opencart-2-fr/releases/tag/1.1.1)
+2.0.1.1          | [1.0.1](https://github.com/gizmecano/opencart-2-fr/releases/tag/1.0.1)
 
 ## Contribution
 
 La réalisation de ce pack doit bien entendu beaucoup aux [travaux des différents contributeurs](https://crowdin.com/project/opencart-translation-v2/fr/activity) du projet OpenCart Translation v.2.
 
-Toutes suggestions ou propositions (traduction, optimisation, etc.) peuvent être considérées en ouvrant [un ticket](/issues) dans ce dépôt.
+Toutes suggestions ou propositions (traduction, optimisation, etc.) peuvent être considérées en ouvrant [un ticket](https://github.com/gizmecano/opencart-2-fr/issues) dans ce dépôt.
 
 ## Licence
 
-OpenCart-2-fr : pack de langue française pour la plateforme de commerce en ligne OpenCart (version 2.0.x)
+OpenCart-2-fr : pack de langue française pour la plateforme de commerce en ligne OpenCart (version 2.x)
 
 --------------------------------------------------------------------------------
 
