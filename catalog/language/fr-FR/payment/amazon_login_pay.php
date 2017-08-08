@@ -39,3 +39,4 @@ $_['error_no_shipping_methods'] = 'Attention : il n’y a pas d’options de liv
 $_['error_process_order'] = 'Une erreur s’est produite lors du traitement de votre commande. Veuillez contacter votre administrateur.';
 $_['error_login'] = 'Échec de la connexion';
 $_['error_login_email'] = 'Échec de la connexion: %s cette adresse électronique ne correspond pas à celle du compte Amazon';
+$_['error_minimum'] = 'Le montant minimum d’une commande pour payer avec Amazon est %s !';
