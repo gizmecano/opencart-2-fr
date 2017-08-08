@@ -66,7 +66,7 @@ $_['entry_name'] = 'Nom du client';
 $_['entry_ip'] = 'IP';
 $_['entry_date_added'] = 'Date d’ajout';
 // Help
-$_['help_safe'] = 'Mettre à vrai pour permettre à ce client de passer le système anti-fraude';
+$_['help_safe'] = 'Mettre à vrai pour permettre à ce client de passer le système antifraude';
 $_['help_points'] = 'Utilisez le signe moins pour enlever des points';
 // Error
 $_['error_warning'] = 'Attention : veuillez vérifier le formulaire';
