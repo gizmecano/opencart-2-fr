@@ -36,6 +36,7 @@ $_['text_error_log'] = 'Journaux d’erreurs';
 $_['text_extension'] = 'Extensions';
 $_['text_feed'] = 'Flux des produits';
 $_['text_filter'] = 'Filtres';
+$_['text_fraud'] = 'Antifraude';
 $_['text_geo_zone'] = 'Zones géographiques';
 $_['text_information'] = 'Informations';
 $_['text_installer'] = 'Installateur d’extensions';
