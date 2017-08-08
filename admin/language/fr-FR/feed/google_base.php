@@ -18,7 +18,6 @@ $_['heading_title'] = 'Google Base';
 // Text
 $_['text_feed'] = 'Flux des produits';
 $_['text_success'] = 'Vous venez de modifier le flux Google Base !';
-$_['text_list'] = 'Liste des gabarits';
 $_['text_edit'] = 'Modifier Google Base';
 // Entry
 $_['entry_status'] = 'Statut';
