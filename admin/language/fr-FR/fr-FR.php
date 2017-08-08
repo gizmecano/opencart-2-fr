@@ -120,7 +120,6 @@ $_['tab_design'] = 'Mise en page';
 $_['tab_discount'] = 'Réduction';
 $_['tab_general'] = 'Général';
 $_['tab_history'] = 'Historique';
-$_['tab_fraud'] = 'Fraude';
 $_['tab_ftp'] = 'FTP';
 $_['tab_ip'] = 'Adresse IP';
 $_['tab_links'] = 'Liens';
