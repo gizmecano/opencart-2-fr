@@ -15,7 +15,6 @@
 
 // Heading
 $_['heading_title'] = 'Se connecter et payer avec Amazon';
-
 //Text
 $_['text_success'] = 'Vous venez de modifier avec succès le module « Se connecter et payer avec Amazon » !';
 $_['text_ipn_url'] = 'URL du planificateur CRON';
@@ -41,6 +40,7 @@ $_['text_medium'] = 'Moyen';
 $_['text_large'] = 'Large';
 $_['text_x_large'] = 'Extra large';
 $_['text_background'] = 'Arrière-plan';
+$_['text_edit'] = 'Modifier « Se connecter et payer avec Amazon »';
 $_['text_amazon_login_pay'] = '<a href="http://go.amazonservices.com/opencart.html" target="_blank" title="Se connecter et payer avec Amazon"><img src="view/image/payment/amazon.png" alt="Se connecter et payer avec Amazon" title="Se connecter et payer avec Amazon" style="border: 1px solid #EEEEEE;" /></a>';
 $_['text_amazon_join'] = '<a href="http://go.amazonservices.com/opencart.html" target="_blank" title="Se connecter et payer avec Amazon"><u>Se connecter et payer avec Amazon</u></a>';
 $_['entry_login_pay_test'] = 'Mode de test';
@@ -77,11 +77,9 @@ $_['text_amazon_invalid'] = 'Méthode de paiement invalide';
 $_['text_amazon_rejected'] = 'Méthode de paiement rejetée';
 $_['text_amazon_timeout'] = 'Durée de la transaction';
 $_['text_amazon_no_declined'] = '--- Pas de refus automatique d’autorisation ---';
-
 // Columns
 $_['column_status'] = 'Statut';
-
-//entry
+// Entry
 $_['entry_merchant_id'] = 'Numéro de boutique';
 $_['entry_access_key'] = 'Clef d’accès';
 $_['entry_access_secret'] = 'Clef secrète';
@@ -93,8 +91,6 @@ $_['entry_pending_status'] = 'Statut « en attente »';
 $_['entry_ipn_url'] = 'Adresse URL IPN';
 $_['entry_ipn_token'] = 'Jeton secret';
 $_['entry_debug'] = 'Enregistrements de débogage';
-
-
 // Help
 $_['help_pay_mode'] = 'Paiement uniquement disponible pour les boutiques localisée aux États-Unis';
 $_['help_capture_status'] = 'Choisissez le statut de la commande qui déclenchera la capture automatique d’un paiement autorisé';
@@ -102,10 +98,8 @@ $_['help_ipn_url'] = 'Définissez ceci comme votre URL sur Amazon Seller Central
 $_['help_ipn_token'] = 'Définissez-le assez long et difficle à deviner';
 $_['help_debug'] = 'En activant le débogage, vous autorisez l’écriture de données sensibles dans un fichier journal. Vous devriez toujours désactiver cette fonction sauf avis contraire';
 $_['help_declined_codes'] = 'Ceci à des fins de test uniquement';
-
 // Order Info
 $_['tab_order_adjustment'] = 'Ajustement de la commande';
-
 // Errors
 $_['error_permission'] = 'Attention : vous n’êtes pas autorisé à modifier ce module';
 $_['error_merchant_id'] = 'Un numéro de boutique est requis';
@@ -117,7 +111,6 @@ $_['error_pay_mode'] = 'Paiement uniquement disponible pour les boutiques locali
 $_['error_curreny'] = 'Votre boutique doit avoir la devise %s installée et activée';
 $_['error_upload'] = 'Le téléchargement a échoué';
 $_['error_data_missing'] = 'Données requises manquantes';
-
 // Buttons
 $_['button_capture'] = 'Réceptionner';
 $_['button_refund'] = 'Rembourser';
