@@ -19,7 +19,7 @@ $_['heading_title'] = 'Skrill';
 $_['text_payment'] = 'Paiement';
 $_['text_success'] = 'Succès : vous avez modifiéles détails concernant Skrill.';
 $_['text_edit'] = 'Modifier Skrill';
-$_['text_Skrill'] = '<a href="https://www.moneybookers.com/partners/?p=OpenCart" target="_blank"><img src="view/image/payment/moneybookers.png" alt="Skrill" title="Skrill" style="border: 1px solid #EEEEEE;" /></a>';
+$_['text_skrill'] = '<a href="https://www.moneybookers.com/partners/?p=OpenCart" target="_blank"><img src="view/image/payment/skrill.png" alt="Skrill" title="Skrill" style="border: 1px solid #EEEEEE;" /></a>';
 // Entry
 $_['entry_email'] = 'Adresse électronique';
 $_['entry_secret'] = 'Mot de passe';
@@ -36,4 +36,4 @@ $_['entry_sort_order'] = 'Classement';
 $_['help_total'] = 'Le montant total que la commande doit atteindre avant que ce module de paiement devienne actif.';
 // Error
 $_['error_permission'] = 'Attention : vous n’avez pas la permission de modifier Skrill !';
-$_['error_email'] = 'L’adresse adresse électronique est requise !';
+$_['error_email'] = 'L’adresse électronique est requise !';
