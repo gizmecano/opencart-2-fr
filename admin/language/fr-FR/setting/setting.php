@@ -237,5 +237,5 @@ $_['error_ftp_port'] = 'Port FTP requis !';
 $_['error_ftp_username'] = 'Nom d’utilisateur FTP d’utilisateur requis !';
 $_['error_ftp_password'] = 'Mot de passe FTP requis !';
 $_['error_error_filename'] = 'Nom du fichier de journal des erreurs requis !';
-$_['error_malformed_filename']	        = 'Error Malformed Log Filename!';
+$_['error_malformed_filename'] = 'Nom du fichier de journal erroné ou malformé !';
 $_['error_encryption'] = 'La clef de chiffrement doit contenir entre 3 et 32 caractères !';
