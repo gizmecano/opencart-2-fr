@@ -32,6 +32,7 @@ After that, open your OpenCart backend and follow these steps:
 
 OpenCart version | Language pack version
 ---------------- | ----------------------------
+2.0.3.0          | [1.2.0](https://github.com/gizmecano/opencart-2-fr/releases/tag/1.2.0)
 2.0.2.0          | [1.1.1](https://github.com/gizmecano/opencart-2-fr/releases/tag/1.1.1)
 2.0.1.1          | [1.0.1](https://github.com/gizmecano/opencart-2-fr/releases/tag/1.0.1)
 
