@@ -54,7 +54,7 @@ $_['entry_default_condition'] = 'État par défaut du produit';
 $_['entry_notify_admin'] = 'Prévenir l’administrateur si nouvelle commande';
 $_['entry_default_shipping'] = 'Mode de livraison par défaut';
 // Tabs
-$_['tab_settings'] = 'Informations sur l’aplication';
+$_['tab_settings'] = 'Informations sur l’application';
 $_['tab_listing'] = 'Mises en vente';
 $_['tab_orders'] = 'Commandes';
 // Help
