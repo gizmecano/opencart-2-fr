@@ -104,12 +104,8 @@ $_['button_uninstall'] = 'Désinstaller';
 $_['button_login'] = 'Se connecter à la boutique';
 $_['button_unlock'] = 'Déverrouiller le compte';
 $_['button_link'] = 'Lien';
-$_['button_shipping'] = 'Appliquer un mode de livraison';
-$_['button_payment'] = 'Appliquer un moyen de paiement';
-$_['button_coupon'] = 'Appliquer un bon de réduction';
-$_['button_voucher'] = 'Appliquer un bon d’achat';
-$_['button_reward'] = 'Appliquer des points de fidélité';
 $_['button_currency'] = 'Rafraîchir les valeurs des devises';
+$_['button_apply'] = 'Appliquer';
 // Tab
 $_['tab_address'] = 'Adresse';
 $_['tab_admin'] = 'Administrateur';
