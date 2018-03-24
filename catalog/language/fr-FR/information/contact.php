@@ -29,11 +29,9 @@ $_['text_success'] = '<p>Votre demande de renseignements a été envoyée avec s
 $_['entry_name'] = 'Votre nom';
 $_['entry_email'] = 'Adresse électronique';
 $_['entry_enquiry'] = 'Demande de renseignements';
-$_['entry_captcha'] = 'Entrez le code situé dans la boîte ci-dessous';
 // Email
 $_['email_subject'] = 'Demande de renseignements : %s';
 // Errors
 $_['error_name'] = 'Attention : le nom doit contenir entre 3 et 32 caractères !';
 $_['error_email'] = 'Attention : l’adresse électronique ne semble pas valide !';
 $_['error_enquiry'] = 'Attention : la demande de renseignements doit contenir entre 10 et 3000 caractères !';
-$_['error_captcha'] = 'Attention : le code de vérification ne correspond pas à l’image !';
