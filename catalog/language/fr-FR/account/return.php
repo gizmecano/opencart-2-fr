@@ -69,5 +69,4 @@ $_['error_telephone'] = 'Le numéro de téléphone doit contenir entre 3 et 32 c
 $_['error_product'] = 'Le nom du produit doit contenir entre 3 et 255 caractères !';
 $_['error_model'] = 'La référence du produit doit contenir entre 3 et 64 caractères !';
 $_['error_reason'] = 'Vous devez sélectionner un motif de retour !';
-$_['error_captcha'] = 'Le code de vérification ne correspond pas à l’image !';
 $_['error_agree'] = 'Attention : vous devez accepter les %s';
