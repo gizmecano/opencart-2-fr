@@ -22,8 +22,6 @@ $_['text_add'] = 'Ajouter un client';
 $_['text_edit'] = 'Modifier un client';
 $_['text_default'] = 'Par défaut';
 $_['text_balance'] = 'Solde';
-$_['text_add_ban_ip'] = 'Ajouter une IP bannie';
-$_['text_remove_ban_ip'] = 'Supprimer une IP bannie';
 // Column
 $_['column_name'] = 'Nom du client';
 $_['column_email'] = 'Adresse électronique';
@@ -84,4 +82,3 @@ $_['error_postcode'] = 'Attention : le code postal doit contenir entre 2 à 10 c
 $_['error_country'] = 'Veuillez sélectionner un pays !';
 $_['error_zone'] = 'Veuillez sélectionner une subdivision administrative !';
 $_['error_custom_field'] = '%s est requis !';
-$_['error_comment'] = 'Vous devez saisir un commentaire !';
