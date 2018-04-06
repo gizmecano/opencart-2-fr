@@ -21,6 +21,8 @@ $_['text_approved'] = 'Vous avez approuvé les comptes de %s !';
 $_['text_list'] = 'Liste d’affiliation';
 $_['text_add'] = 'Ajouter un affilié';
 $_['text_edit'] = 'Modifier un affilié';
+$_['text_affiliate_detail'] = 'Détails de l’affilié';
+$_['text_affiliate_address'] = 'Adresse de l’affilié';
 $_['text_balance'] = 'Solde';
 $_['text_cheque'] = 'Chèque';
 $_['text_paypal'] = 'PayPal';
@@ -73,6 +75,7 @@ $_['entry_date_added'] = 'Date d’ajout';
 $_['help_code'] = 'Le code de suivi qui sera utilisé pour suivre les redirections.';
 $_['help_commission'] = 'Pourcentage que reçoit l’affilié sur chaque commande.';
 // Error
+$_['error_warning'] = 'Attention : veuillez vérifier les erreurs de formulaire !';
 $_['error_permission'] = 'Attention : vous n’êtes pas autorisé à modifier les affiliés !';
 $_['error_exists'] = 'Attention : cette adresse électronique est déjà enregistrée !';
 $_['error_firstname'] = 'Le prénom doit contenir entre 1 à 32 caractères !';
