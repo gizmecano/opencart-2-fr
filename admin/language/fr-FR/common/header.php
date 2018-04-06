@@ -17,7 +17,7 @@
 $_['heading_title'] = 'OpenCart';
 // Text
 $_['text_order'] = 'Commandes';
-$_['text_order_status'] = 'En attente';
+$_['text_processing_status'] = 'En cours';
 $_['text_complete_status'] = 'Terminé';
 $_['text_customer'] = 'Clients';
 $_['text_online'] = 'Visiteurs en ligne';
