@@ -49,7 +49,7 @@ OpenCart-2-fr: a French language pack for the ecommerce platform OpenCart (versi
 
 --------------------------------------------------------------------------------
 
-Copyright © 2015-2016 P. Mergey [_et al._](#contribution)
+Copyright © 2015-2018 P. Mergey [_et al._](#contribution)
 
 This program is free software: you can redistribute it and/or modify it under the terms of the [GNU General Public License](LICENSE) as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
 
