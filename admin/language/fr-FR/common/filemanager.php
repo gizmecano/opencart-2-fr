@@ -16,7 +16,7 @@
 // Heading
 $_['heading_title'] = 'Gestionnaire d’images';
 // Text
-$_['text_uploaded'] = 'Félicitations, votre fichier a correctement été transféré !';
+$_['text_uploaded'] = 'Succès : votre fichier a correctement été transféré !';
 $_['text_directory'] = 'Le dossier vient d’être créé !';
 $_['text_delete'] = 'Votre fichier ou dossier a correctement été supprimé !';
 // Entry

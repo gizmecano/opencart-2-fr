@@ -212,7 +212,7 @@ $_['help_password'] = 'Autorise les mots de passe oublié à être utiliser pour
 $_['help_encryption'] = 'Veuillez fournir une clef secrète qui sera utilisée pour chffirer les informations privées lors de la saisie de commande.';
 $_['help_compression'] = 'GZIP pour un meilleur taux de transfert lors des requêtes des clients. Le niveau de compression doit être compris entre 0 et 9.';
 // Error
-$_['error_warning'] = 'Attention : veuillez vérifier le formulaire';
+$_['error_warning'] = 'Attention : veuillez vérifier attentivement les erreurs dans le formulaire !';
 $_['error_permission'] = 'Attention : vous n’avez pas la permission de modifier les paramètres !';
 $_['error_name'] = 'Le nom de la boutique doit contenir entre 3 et 32 caractères !';
 $_['error_owner'] = 'Le nom du propriétaire de la boutique doit contenir entre 3 et 64 caractères !';

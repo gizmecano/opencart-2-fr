@@ -108,7 +108,7 @@ $_['help_download'] = 'Autocomplétion';
 $_['help_related'] = 'Autocomplétion';
 $_['help_tag'] = 'séparé par des virgules';
 // Error
-$_['error_warning'] = 'Attention : veuillez vérifier les erreurs de formulaire !';
+$_['error_warning'] = 'Attention : veuillez vérifier attentivement les erreurs dans le formulaire !';
 $_['error_permission'] = 'Attention : vous n’êtes pas autorisé à modifier les produits !';
 $_['error_name'] = 'Le nom du produit doit contenir entre 3 et 255 caractères !';
 $_['error_meta_title'] = 'La balise Titre doit contenir entre 3 et 255 caractères !';

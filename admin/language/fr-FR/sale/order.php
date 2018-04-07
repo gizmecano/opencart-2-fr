@@ -138,7 +138,7 @@ $_['entry_date_modified'] = 'Date de modification';
 // Help
 $_['help_override'] = 'Si la commande d’un client est bloquée pour une modification du statut de commande en raison d’une extension anti-fraude, vous pouvez activer l’outrepassement.';
 // Error
-$_['error_warning'] = 'Attention : veuillez vérifier le formulaire';
+$_['error_warning'] = 'Attention : veuillez vérifier attentivement les erreurs dans le formulaire !';
 $_['error_permission'] = 'Attention : vous n’avez pas la permission de modifier les commandes !';
 $_['error_action'] = 'Attention : cette action ne peut être terminée !';
 $_['error_filetype'] = 'Attention : type de fichier incorrect !';
