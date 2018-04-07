@@ -17,13 +17,18 @@
 $_['heading_title'] = 'Revoir l’annonce eBay';
 $_['text_openbay'] = 'OpenBay Pro';
 $_['text_ebay'] = 'eBay';
+// Tab
+$_['tab_recommendations'] = 'Recommendations';
 // Text
 $_['text_revise'] = 'Revoir l’annonce';
 $_['text_loading'] = 'Obtention des informations de l’objet depuis eBay';
 $_['text_error_loading'] = 'Une erreur est survenue lors de l’obtention d’informations depuis eBay.';
 $_['text_saved'] = 'L’annonce a été enregistrée.';
-$_['text_alert_removed'] = 'L’annonce a été dissociée.';
+$_['text_alert_removed'] = 'L’annonce a été supprimée.';
 $_['text_alert_ended'] = 'L’annonce a expirée sur eBay.';
+$_['text_listing_info'] = 'Information de mise en vente';
+$_['text_check_recommendations'] = 'Vérification des recommandations eBay';
+$_['text_success_recommendations'] = 'Il n’y a aucune recommandation d’amélioration pour ce produit !';
 // Buttons
 $_['button_view'] = 'Voir l’annonce';
 $_['button_remove'] = 'Supprimer la liaison';
@@ -54,3 +59,5 @@ $_['help_stock_reserve'] = 'Il s’agit du niveau maximum de stock sur eBay (0 =
 $_['error_ended'] = 'L’annonce liée a expirée, vous ne pouvez pas la modifier. Vous devez supprimer la liaison.';
 $_['error_reserve'] = 'Vous ne pouvez pas définir une quantité plus élevée dans la réserve que dans le stock local.';
 $_['error_no_sku'] = 'Pas de SKU trouvé.';
+$_['error_no_item_id']= 'L’identifiant du produit est manquant dans la requête';
+$_['error_recommendations_load'] = 'Impossible de charger les recommandations pour le produit';
