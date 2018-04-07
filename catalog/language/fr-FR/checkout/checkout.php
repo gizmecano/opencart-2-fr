@@ -1,6 +1,6 @@
 <?php
 /* 
-*  Copyright (C) 2015-2016 P. Mergey
+*  Copyright (C) 2015-2018 P. Mergey
 *  This program is free software: you can redistribute it and/or modify
 *  it under the terms of the GNU General Public License as published by
 *  the Free Software Foundation, either version 3 of the License, or
@@ -97,7 +97,7 @@ $_['error_zone'] = 'Veuillez sélectionner une subdivision administrative !';
 $_['error_agree'] = 'Attention : vous devez accepter les %s';
 $_['error_address'] = 'Attention : vous devez sélectionner l’adresse !';
 $_['error_shipping'] = 'Attention : un mode de livraison est requis !';
-$_['error_no_shipping'] = 'Attention : aucune option d’Expédition n’est disponible. Veuillez <a href="%s"> contacter l’assistance</a> !';
+$_['error_no_shipping'] = 'Attention : aucune option d’expédition n’est disponible. Veuillez <a href="%s"> contacter l’assistance</a> !';
 $_['error_payment'] = 'Attention : un moyen de paiement est requis !';
 $_['error_no_payment'] = 'Attention : aucune option de paiement n’est disponible. Veuillez <a href="%s"> contacter l’assistance</a> !';
 $_['error_custom_field'] = '%s est requis !';

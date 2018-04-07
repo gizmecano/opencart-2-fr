@@ -1,6 +1,6 @@
 <?php
 /* 
-*  Copyright (C) 2015-2016 P. Mergey
+*  Copyright (C) 2015-2018 P. Mergey
 *  This program is free software: you can redistribute it and/or modify
 *  it under the terms of the GNU General Public License as published by
 *  the Free Software Foundation, either version 3 of the License, or
@@ -108,7 +108,7 @@ $_['help_stock_checkout'] = 'Autoriser les clients à passer commande même si l
 $_['help_icon'] = 'L’icône doit être un fichier PNG ayant pour dimension 16px × 16px.';
 $_['help_secure'] = 'Pour utiliser le SSL, vérifier auprès de votre hébergeur si un certificat SSL est installé.';
 // Error
-$_['error_warning'] = 'Attention : veuillez vérifier le formulaire';
+$_['error_warning'] = 'Attention : veuillez vérifier attentivement les erreurs dans le formulaire !';
 $_['error_permission'] = 'Attention : vous n’avez pas la permission de modifier stores !';
 $_['error_name'] = 'Le nom de la boutique doit contenir entre 3 et 32 caractères !';
 $_['error_owner'] = 'Le nom du propriétaire de la boutique doit contenir entre 3 et 64 caractères !';

@@ -1,6 +1,6 @@
 <?php
 /* 
-*  Copyright (C) 2015-2016 P. Mergey
+*  Copyright (C) 2015-2018 P. Mergey
 *  This program is free software: you can redistribute it and/or modify
 *  it under the terms of the GNU General Public License as published by
 *  the Free Software Foundation, either version 3 of the License, or
@@ -65,9 +65,9 @@ $_['help_transaction'] = 'La méthode de transaction doit être définie sur Pai
 $_['help_cron_job_token'] = 'Utilisez une valeur longue et difficile à deviner';
 $_['help_cron_job_url'] = 'Définissez une tâche CRON pour appeler cette URL';
 // Button
-$_['btn_release'] = 'Envoi';
-$_['btn_rebate'] = 'Remise et/ou remboursement';
-$_['btn_void'] = 'Annulation';
+$_['button_release'] = 'Envoi';
+$_['button_rebate'] = 'Remise et/ou remboursement';
+$_['button_void'] = 'Annulation';
 // Error
 $_['error_permission'] = 'Attention : vous n’avez pas la permission de modifier payment SagePay !';
 $_['error_vendor'] = 'ID fournisseur requis !';

@@ -1,6 +1,6 @@
 <?php
 /* 
-*  Copyright (C) 2015-2016 P. Mergey
+*  Copyright (C) 2015-2018 P. Mergey
 *  This program is free software: you can redistribute it and/or modify
 *  it under the terms of the GNU General Public License as published by
 *  the Free Software Foundation, either version 3 of the License, or
@@ -41,7 +41,7 @@ $_['entry_description'] = 'Description';
 $_['entry_meta_title'] = 'Titre de métaélément';
 $_['entry_meta_keyword'] = 'Mots-clef de métaélément';
 $_['entry_meta_description'] = 'Description de métaélément';
-$_['entry_keyword'] = 'Mot-clef de référencement';
+$_['entry_keyword'] = 'URL de référencement';
 $_['entry_model'] = 'Référence';
 $_['entry_sku'] = 'SKU';
 $_['entry_upc'] = 'UPC';
@@ -91,7 +91,7 @@ $_['entry_reward'] = 'Points de fidélité';
 $_['entry_layout'] = 'Outrepasser le gabarit';
 $_['entry_recurring'] = 'Profil récurrent';
 // Help
-$_['help_keyword'] = 'N’utilisez pas d’espace mais des tirets à leur place et faites en sorte que le mot-clef soit le plus spécifique possible.';
+$_['help_keyword'] = 'N’utilisez pas d’espace mais des tirets à leur place et faites en sorte que l’URL soit le plus spécifique possible.';
 $_['help_sku'] = 'Unité de gestion des stocks';
 $_['help_upc'] = 'Code universel du produit';
 $_['help_ean'] = 'Numéro européen du produit';
@@ -108,9 +108,9 @@ $_['help_download'] = 'Autocomplétion';
 $_['help_related'] = 'Autocomplétion';
 $_['help_tag'] = 'séparé par des virgules';
 // Error
-$_['error_warning'] = 'Attention : veuillez vérifier les erreurs de formulaire !';
+$_['error_warning'] = 'Attention : veuillez vérifier attentivement les erreurs dans le formulaire !';
 $_['error_permission'] = 'Attention : vous n’êtes pas autorisé à modifier les produits !';
 $_['error_name'] = 'Le nom du produit doit contenir entre 3 et 255 caractères !';
 $_['error_meta_title'] = 'La balise Titre doit contenir entre 3 et 255 caractères !';
 $_['error_model'] = 'Le numéro de référence doit contenir entre 3 et 255 caractères !';
-$_['error_keyword'] = 'Mot-clef de référencement (SEO) déjà en cours d’utilisation !';
+$_['error_keyword'] = 'URL de référencement (SEO) déjà en cours d’utilisation !';

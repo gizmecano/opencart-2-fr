@@ -1,6 +1,6 @@
 <?php
 /* 
-*  Copyright (C) 2015-2016 P. Mergey
+*  Copyright (C) 2015-2018 P. Mergey
 *  This program is free software: you can redistribute it and/or modify
 *  it under the terms of the GNU General Public License as published by
 *  the Free Software Foundation, either version 3 of the License, or
@@ -77,4 +77,4 @@ $_['text_column_amount'] = 'Montant';
 $_['text_column_type'] = 'Type';
 $_['text_column_date_added'] = 'Date d’ajout';
 $_['text_confirm_refund'] = 'Êtes-vous certain de vouloir effectuer un remboursement du paiement ?';
-$_['btn_refund'] = 'Rembourser';
+$_['button_refund'] = 'Rembourser';

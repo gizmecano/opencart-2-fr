@@ -1,6 +1,6 @@
 <?php
 /* 
-*  Copyright (C) 2015-2016 P. Mergey
+*  Copyright (C) 2015-2018 P. Mergey
 *  This program is free software: you can redistribute it and/or modify
 *  it under the terms of the GNU General Public License as published by
 *  the Free Software Foundation, either version 3 of the License, or
@@ -14,12 +14,14 @@
 */ 
 
 // Text
+$_['text_analytics'] = 'Analytique';
 $_['text_affiliate'] = 'Affiliés';
 $_['text_api'] = 'API';
 $_['text_attribute'] = 'Attributs';
 $_['text_attribute_group'] = 'Groupe d’attributs';
 $_['text_backup'] = 'Sauvegarde et restauration';
 $_['text_banner'] = 'Bannières';
+$_['text_captcha'] = 'CAPTCHA';
 $_['text_catalog'] = 'Catalogue';
 $_['text_category'] = 'Catégories';
 $_['text_country'] = 'Pays';

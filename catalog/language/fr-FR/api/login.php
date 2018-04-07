@@ -1,6 +1,6 @@
 <?php
 /* 
-*  Copyright (C) 2015-2016 P. Mergey
+*  Copyright (C) 2015-2018 P. Mergey
 *  This program is free software: you can redistribute it and/or modify
 *  it under the terms of the GNU General Public License as published by
 *  the Free Software Foundation, either version 3 of the License, or
@@ -16,4 +16,5 @@
 // Text
 $_['text_success'] = 'Succès : la session API a correctement démarré !';
 // Error
-$_['error_login'] = 'Attention : aucune correspondance trouvée entre ce nom d’utilisateur et/ou ce mot de passe.';
+$_['error_key'] = 'Attention : la clef de l’API est incorrecte !';
+$_['error_ip'] = 'Attention : votre adresse IP %s n’est pas autorisée à accéder à cette API !';

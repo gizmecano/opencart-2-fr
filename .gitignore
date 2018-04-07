@@ -1,5 +1,8 @@
 # Folder config file
-desktop.ini
+[Dd]esktop.ini
 
 # Windows shortcuts
 *.lnk
+
+# Eclipse file
+.project

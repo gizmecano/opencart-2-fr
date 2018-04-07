@@ -1,6 +1,6 @@
 <?php
 /* 
-*  Copyright (C) 2015-2016 P. Mergey
+*  Copyright (C) 2015-2018 P. Mergey
 *  This program is free software: you can redistribute it and/or modify
 *  it under the terms of the GNU General Public License as published by
 *  the Free Software Foundation, either version 3 of the License, or
@@ -59,4 +59,3 @@ $_['tab_review'] = 'Évaluations (%s)';
 $_['error_name'] = 'Attention : le nom de l’évaluation doit être entre 3 et 25 caractères !';
 $_['error_text'] = 'Attention : le texte de l’évaluation doit être entre 25 et 1000 caractères !';
 $_['error_rating'] = 'Attention : veuillez sélectionner une note !';
-$_['error_captcha'] = 'Attention : le code de vérification ne correspond pas à l’image !';

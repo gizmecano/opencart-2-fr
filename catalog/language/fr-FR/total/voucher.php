@@ -1,6 +1,6 @@
 <?php
 /* 
-*  Copyright (C) 2015-2016 P. Mergey
+*  Copyright (C) 2015-2018 P. Mergey
 *  This program is free software: you can redistribute it and/or modify
 *  it under the terms of the GNU General Public License as published by
 *  the Free Software Foundation, either version 3 of the License, or
@@ -13,5 +13,13 @@
 *  along with this program.  If not, see <http://www.gnu.org/licenses/>.
 */ 
 
+// Heading
+$_['heading_title'] = 'Utiliser un bon d’achat';
 // Text
 $_['text_voucher'] = 'Bon de réduction (%s)';
+$_['text_success'] = 'Succès : la réduction de votre bon d’achat a été appliquée !';
+// Entry
+$_['entry_voucher'] = 'Saisissez votre code de bon d’achat ici';
+// Error
+$_['error_voucher'] = 'Attention : le bon d’achat est soit invalide soit son solde a déjà été compensé !';
+$_['error_empty'] = 'Attention : veuillez saisir un code de bon d’achat !';

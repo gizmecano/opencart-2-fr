@@ -1,6 +1,6 @@
 <?php
 /* 
-*  Copyright (C) 2015-2016 P. Mergey
+*  Copyright (C) 2015-2018 P. Mergey
 *  This program is free software: you can redistribute it and/or modify
 *  it under the terms of the GNU General Public License as published by
 *  the Free Software Foundation, either version 3 of the License, or
@@ -46,6 +46,11 @@ $_['text_shipping_handling'] = 'Frais de traitement';
 $_['text_shipping_cod'] = 'Frais pour « Paiement à la livraison »';
 $_['text_shipping_handling_nat'] = 'Frais de traitement (nationaux)';
 $_['entry_shipping_handling_int'] = 'Frais de traitement (internationaux)';
+$_['entry_shipping_pickupdropoff'] = 'Cliquer et collecter';
+$_['entry_shipping_pickupinstore'] = 'Disponible pour un retrait en magasin';
+$_['entry_shipping_global_shipping'] = 'Utiliser le mode de livraison global';
+$_['entry_shipping_promotion_discount'] = 'Remises combinées pour la livraison (national)';
+$_['entry_shipping_promotion_discount_international'] = 'Remises combinées pour la livraison (international)';
 //Returns profile
 $_['text_returns_accept'] = 'Retours SAV acceptés';
 $_['text_returns_inst'] = 'Modalités de retour';
@@ -101,3 +106,6 @@ $_['error_permission'] = 'Vous n’êtes pas autorisé à modifier les profils.'
 $_['error_name'] = 'Vous devez entrer un nom de profil.';
 $_['error_no_template'] = 'Cet identifiant de modèle n’existe pas.';
 $_['error_missing_settings'] = 'Vous ne pouvez pas ajouter, modifier ou supprimer des profils avant de synchroniser vos paramètres eBay.';
+//Help
+$_['help_shipping_promotion_discount'] = 'Offrir aux clients nationaux un rabais sur l’expédition quand ils achètent plusieurs produits. Les réductions doivent avoir été configurées dans eBay pour prendre effet.';
+$_['help_shipping_promotion_discount_international'] = 'Offrir aux clients internationaux un rabais sur l’expédition quand ils achètent plusieurs produits. Les réductions doivent avoir été configurées dans eBay pour prendre effet.';

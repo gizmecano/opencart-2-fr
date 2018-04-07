@@ -1,6 +1,6 @@
 <?php
 /* 
-*  Copyright (C) 2015-2016 P. Mergey
+*  Copyright (C) 2015-2018 P. Mergey
 *  This program is free software: you can redistribute it and/or modify
 *  it under the terms of the GNU General Public License as published by
 *  the Free Software Foundation, either version 3 of the License, or
@@ -69,7 +69,7 @@ $_['text_today_express_saver'] = 'UPS Today Express Saver';
 $_['entry_key'] = 'Clef d’accès';
 $_['entry_username'] = 'Nom d’utilisateur';
 $_['entry_password'] = 'Mot de passe';
-$_['entry_pickup'] = 'Méthode de ramassage';
+$_['entry_pickup'] = 'Méthode de retrait en magasin';
 $_['entry_packaging'] = 'Type d’emballage';
 $_['entry_classification'] = 'Code de classification du client';
 $_['entry_origin'] = 'Code de livraison d’origine';

@@ -1,6 +1,6 @@
 <?php
 /* 
-*  Copyright (C) 2015-2016 P. Mergey
+*  Copyright (C) 2015-2018 P. Mergey
 *  This program is free software: you can redistribute it and/or modify
 *  it under the terms of the GNU General Public License as published by
 *  the Free Software Foundation, either version 3 of the License, or
@@ -41,7 +41,7 @@ $_['entry_layout'] = 'Outrepasser le gabarit';
 $_['help_keyword'] = 'N’utilisez pas d’espace mais des tirets à leur place et faites en sorte que le mot-clef soit le plus spécifique possible.';
 $_['help_bottom'] = 'Afficher dans le pied de page.';
 // Error
-$_['error_warning'] = 'Attention : veuillez vérifier le formulaire';
+$_['error_warning'] = 'Attention : veuillez vérifier attentivement les erreurs dans le formulaire !';
 $_['error_permission'] = 'Attention : vous n’êtes pas autorisé à modifier les Informations !';
 $_['error_title'] = 'Le titre de l’information doit contenir entre 3 et 64 caractères !';
 $_['error_description'] = 'La description de l’information doit contenir plus de 3 caractères !';

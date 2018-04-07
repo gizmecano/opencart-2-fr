@@ -1,6 +1,6 @@
 <?php
 /*
-*  Copyright (C) 2015-2016 P. Mergey
+*  Copyright (C) 2015-2018 P. Mergey
 *  This program is free software: you can redistribute it and/or modify
 *  it under the terms of the GNU General Public License as published by
 *  the Free Software Foundation, either version 3 of the License, or
@@ -18,4 +18,4 @@ $_['text_success'] = 'Succès : vous avez correctement modifié la devise !';
 
 // Error
 $_['error_permission'] = 'Attention : vous n’avez pas la permission d’accéder à l’API !';
-$_['error_currency']   = 'Attention : le code de la devise n’est pas valide !';
+$_['error_currency'] = 'Attention : le code de la devise n’est pas valide !';

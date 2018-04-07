@@ -1,6 +1,6 @@
 <?php
 /* 
-*  Copyright (C) 2015-2016 P. Mergey
+*  Copyright (C) 2015-2018 P. Mergey
 *  This program is free software: you can redistribute it and/or modify
 *  it under the terms of the GNU General Public License as published by
 *  the Free Software Foundation, either version 3 of the License, or
@@ -16,7 +16,7 @@
 // Heading
 $_['heading_title'] = 'Gestionnaire d’images';
 // Text
-$_['text_uploaded'] = 'Félicitations, votre fichier a correctement été transféré !';
+$_['text_uploaded'] = 'Succès : votre fichier a correctement été transféré !';
 $_['text_directory'] = 'Le dossier vient d’être créé !';
 $_['text_delete'] = 'Votre fichier ou dossier a correctement été supprimé !';
 // Entry

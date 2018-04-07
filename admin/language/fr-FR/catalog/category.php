@@ -1,6 +1,6 @@
 <?php
 /* 
-*  Copyright (C) 2015-2016 P. Mergey
+*  Copyright (C) 2015-2018 P. Mergey
 *  This program is free software: you can redistribute it and/or modify
 *  it under the terms of the GNU General Public License as published by
 *  the Free Software Foundation, either version 3 of the License, or
@@ -47,8 +47,8 @@ $_['help_keyword'] = 'N’utilisez pas d’espace mais des tirets à leur place 
 $_['help_top'] = 'Afficher dans la barre en tête. Applicable uniquement aux catégories clefs.';
 $_['help_column'] = 'Nombre de colonnes à utiliser pour les trois catégories au bas. Applicable uniquement aux catégories clefs.';
 // Error
-$_['error_warning'] = 'Attention : veuillez vérifier le formulaire';
+$_['error_warning'] = 'Attention : veuillez vérifier attentivement les erreurs dans le formulaire !';
 $_['error_permission'] = 'Attention : vous n’êtes pas autorisé à modifier les catégories !';
-$_['error_name'] = 'Le nom de la catégorie doit contenir entre 2 et 32 caractères !';
+$_['error_name'] = 'Le nom de la catégorie doit contenir entre 2 et 255 caractères !';
 $_['error_meta_title'] = 'Le titre méta doit contenir plus de 3 et moins de 255 caractères !';
 $_['error_keyword'] = 'Mot-clef de référencement (SEO) déjà en cours d’utilisation !';

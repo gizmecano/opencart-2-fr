@@ -1,6 +1,6 @@
 <?php
 /* 
-*  Copyright (C) 2015-2016 P. Mergey
+*  Copyright (C) 2015-2018 P. Mergey
 *  This program is free software: you can redistribute it and/or modify
 *  it under the terms of the GNU General Public License as published by
 *  the Free Software Foundation, either version 3 of the License, or
@@ -67,6 +67,11 @@ $_['text_loading_duration'] = 'Chargement des durées de mise en vente';
 $_['text_total_fee'] = 'Taxes totales';
 $_['text_category_choose'] = 'Choisir la catégorie';
 $_['text_suggested'] = 'Catégories suggérées';
+$_['text_product_identifiers'] = 'Identifiants du produit'
+$_['text_ean'] = 'EAN';
+$_['text_upc'] = 'UPC';
+$_['text_isbn'] = 'ISBN';
+$_['text_identifier_not_required'] = 'Non requis';
 //Errors
 $_['text_error_ship_profile'] = 'Vous devez avoir un profil de mode de livraison configuré par défaut.';
 $_['text_error_generic_profile'] = 'Vous devez avoir un profil générique configuré par défaut';

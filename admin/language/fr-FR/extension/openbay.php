@@ -1,6 +1,6 @@
 <?php
 /* 
-*  Copyright (C) 2015-2016 P. Mergey
+*  Copyright (C) 2015-2018 P. Mergey
 *  This program is free software: you can redistribute it and/or modify
 *  it under the terms of the GNU General Public License as published by
 *  the Free Software Foundation, either version 3 of the License, or
@@ -109,6 +109,7 @@ $_['error_mbstring'] = 'Le module PHP mbstrings est désactivé, contactez votre
 $_['error_ftpconnect'] = 'Les fonctions PHP FTP ne sont pas activées, contactez votre hébergeur';
 $_['error_oc_version'] = 'L’utilisation de ce module n’a pas été testé avec votre version d’OpenCart. Vous pourriez rencontrer des problèmes.';
 $_['error_fopen'] = 'La fonction PHP fopen est désactivée par votre hébergeur : vous serez dans l’incapacité d’importer des images lors de l\importation de produits';
+$_['lang_error_vqmod'] = 'Votre dossier vQmod contient des fichiers OpenBay Pro plus anciens : ceux-ci doivent être supprimés !';
 // Help
 $_['help_ftp_username'] = 'Utilisez le nom d’utilisateur FTP de votre hôte';
 $_['help_ftp_password'] = 'Utilisez le mot de passe FTP de votre hôte';

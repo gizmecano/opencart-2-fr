@@ -1,6 +1,6 @@
 <?php
 /* 
-*  Copyright (C) 2015-2016 P. Mergey
+*  Copyright (C) 2015-2018 P. Mergey
 *  This program is free software: you can redistribute it and/or modify
 *  it under the terms of the GNU General Public License as published by
 *  the Free Software Foundation, either version 3 of the License, or
@@ -57,8 +57,8 @@ $_['button_copy'] = 'Copier';
 $_['button_back'] = 'Revenir en arrière';
 $_['button_remove'] = 'Soustraire';
 $_['button_refresh'] = 'Rafraîchir';
-$_['button_backup'] = 'Sauvegarder';
-$_['button_restore'] = 'Restaurer';
+$_['button_export'] = 'Exporter';
+$_['button_import'] = 'Importer';
 $_['button_download'] = 'Télécharger';
 $_['button_rebuild'] = 'Reconstruire';
 $_['button_upload'] = 'Transférer';
@@ -106,8 +106,10 @@ $_['button_unlock'] = 'Déverrouiller le compte';
 $_['button_link'] = 'Lien';
 $_['button_currency'] = 'Rafraîchir les valeurs des devises';
 $_['button_apply'] = 'Appliquer';
+$_['button_category_add'] = 'Ajouter une catégorie';
 // Tab
 $_['tab_address'] = 'Adresse';
+$_['tab_additional'] = 'Additionel';
 $_['tab_admin'] = 'Administrateur';
 $_['tab_attribute'] = 'Attributs';
 $_['tab_customer'] = 'Détails du client';
@@ -125,10 +127,10 @@ $_['tab_option'] = 'Options';
 $_['tab_server'] = 'Serveur';
 $_['tab_store'] = 'Boutique';
 $_['tab_special'] = 'Promotions';
+$_['tab_session'] = 'Session';
 $_['tab_local'] = 'Paramètres régionaux';
 $_['tab_mail'] = 'SMTP';
 $_['tab_module'] = 'Module';
-$_['tab_order'] = 'Détails de la commande';
 $_['tab_payment'] = 'Détails du paiement';
 $_['tab_product'] = 'Produits';
 $_['tab_reward'] = 'Points de fidélité';

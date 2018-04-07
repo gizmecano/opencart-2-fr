@@ -1,6 +1,6 @@
 <?php
 /* 
-*  Copyright (C) 2015-2016 P. Mergey
+*  Copyright (C) 2015-2018 P. Mergey
 *  This program is free software: you can redistribute it and/or modify
 *  it under the terms of the GNU General Public License as published by
 *  the Free Software Foundation, either version 3 of the License, or
@@ -31,5 +31,6 @@ $_['entry_attribute_group'] = 'Groupe d’attributs';
 $_['entry_sort_order'] = 'Classement';
 // Error
 $_['error_permission'] = 'Attention : vous n’êtes pas autorisé à modifier les attributs !';
+$_['error_attribute_group'] = 'Un groupe d’attributs est requis !';
 $_['error_name'] = 'Le nom de l’attribut doit contenir entre 3 et 64 caractères !';
 $_['error_product'] = 'Attention : cet attribut ne peut être supprimé car il est actuellement attribué à %s produits !';

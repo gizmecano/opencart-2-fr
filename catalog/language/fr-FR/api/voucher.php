@@ -1,6 +1,6 @@
 <?php
 /* 
-*  Copyright (C) 2015-2016 P. Mergey
+*  Copyright (C) 2015-2018 P. Mergey
 *  This program is free software: you can redistribute it and/or modify
 *  it under the terms of the GNU General Public License as published by
 *  the Free Software Foundation, either version 3 of the License, or
@@ -19,7 +19,7 @@ $_['text_cart'] = 'Succès : vous avez correctement modifié votre panier d’ac
 $_['text_for'] = '%s bon d’achat pour %s';
 // Error
 $_['error_permission'] = 'Attention : vous n’êtes pas autorisé à accéder à l’API !';
-$_['error_voucher'] = 'Attention : le bon d’achat est soit invalide soit sont solde a déjà été compensé !';
+$_['error_voucher'] = 'Attention : le bon d’achat est soit invalide soit son solde a déjà été compensé !';
 $_['error_to_name'] = 'Le nom du destinataire doit contenir entre 1 et 64 caractères';
 $_['error_from_name'] = 'Votre nom doit contenir entre 1 et 64 caractères';
 $_['error_email'] = 'L’adresse électronique ne semble pas être valide !';

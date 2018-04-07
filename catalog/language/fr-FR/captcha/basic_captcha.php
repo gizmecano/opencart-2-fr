@@ -1,6 +1,6 @@
 <?php
-/* 
-*  Copyright (C) 2015-2016 P. Mergey
+/*
+*  Copyright (C) 2015-2018 P. Mergey
 *  This program is free software: you can redistribute it and/or modify
 *  it under the terms of the GNU General Public License as published by
 *  the Free Software Foundation, either version 3 of the License, or
@@ -14,11 +14,10 @@
 */ 
 
 // Heading
-$_['heading_title'] = 'Utiliser un code de réduction';
-// Text
-$_['text_success'] = 'Succès : la réduction de votre bon a été appliquée';
+$_['heading_title'] = 'CAPTCHA';
+
 // Entry
-$_['entry_coupon'] = 'Saisissez le bon de réduction ici';
+$_['entry_captcha'] = 'Entrez le code situé dans la boîte ci-dessous';
+
 // Error
-$_['error_coupon'] = 'Attention : le bon est invalide, a expiré ou a déjà été utilisé !';
-$_['error_empty'] = 'Attention : Veuillez saisir le code du bon de réduction !';
+$_['error_captcha'] = 'Le code de vérification ne correspond pas à l’image !';

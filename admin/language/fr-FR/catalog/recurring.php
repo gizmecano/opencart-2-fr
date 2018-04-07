@@ -1,6 +1,6 @@
 <?php
 /* 
-*  Copyright (C) 2015-2016 P. Mergey
+*  Copyright (C) 2015-2018 P. Mergey
 *  This program is free software: you can redistribute it and/or modify
 *  it under the terms of the GNU General Public License as published by
 *  the Free Software Foundation, either version 3 of the License, or
@@ -46,7 +46,7 @@ $_['column_name'] = 'Nom';
 $_['column_sort_order'] = 'Classement';
 $_['column_action'] = 'Action';
 // Error
-$_['error_warning'] = 'Attention : veuillez vérifier les erreurs de formulaire !';
+$_['error_warning'] = 'Attention : veuillez vérifier attentivement les erreurs dans le formulaire !';
 $_['error_permission'] = 'Attention : vous n’êtes pas autorisé à modifier les profils récurrents !';
 $_['error_name'] = 'Le nom du produit doit contenir entre 3 et 255 caractères !';
 $_['error_product'] = 'Attention : ce profil récurrent ne peut être supprimé car il est actuellement attribué à %s produits !';

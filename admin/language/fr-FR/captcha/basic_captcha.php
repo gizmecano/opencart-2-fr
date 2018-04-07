@@ -1,6 +1,6 @@
 <?php
-/* 
-*  Copyright (C) 2015-2016 P. Mergey
+/*
+*  Copyright (C) 2015-2018 P. Mergey
 *  This program is free software: you can redistribute it and/or modify
 *  it under the terms of the GNU General Public License as published by
 *  the Free Software Foundation, either version 3 of the License, or
@@ -14,18 +14,12 @@
 */ 
 
 // Heading
-$_['heading_title'] = 'IP bannies';
+$_['heading_title'] = 'Basic CAPTCHA';
 // Text
-$_['text_success'] = 'Succès : vous avez modifié les IP bannies !';
-$_['text_list'] = 'Liste des IP bannies';
-$_['text_add'] = 'Ajouter une IP bannie';
-$_['text_edit'] = 'Modifier une IP bannie';
-// Column
-$_['column_ip'] = 'IP';
-$_['column_customer'] = 'Clients';
-$_['column_action'] = 'Action';
+$_['text_captcha'] = 'CAPTCHA';
+$_['text_success'] = 'Succès : vous avez modifié Basic CAPTCHA !';
+$_['text_edit'] = 'Modifier Basic CAPTCHA';
 // Entry
-$_['entry_ip'] = 'IP';
+$_['entry_status'] = 'Statut';
 // Error
-$_['error_permission'] = 'Attention : vous n’avez pas la permission de modifier les IP bannies !';
-$_['error_ip'] = 'Une IP doit contenir entre 1 et 40 caractères !';
+$_['error_permission'] = 'Attention : vous n’êtes pas autorisé à modifier Basic CAPTCHA !';

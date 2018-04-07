@@ -1,6 +1,6 @@
 <?php
 /* 
-*  Copyright (C) 2015-2016 P. Mergey
+*  Copyright (C) 2015-2018 P. Mergey
 *  This program is free software: you can redistribute it and/or modify
 *  it under the terms of the GNU General Public License as published by
 *  the Free Software Foundation, either version 3 of the License, or
@@ -60,7 +60,7 @@ $_['entry_date_modified'] = 'Date de modification';
 // Help
 $_['help_product'] = 'Autocomplétion';
 // Error
-$_['error_warning'] = 'Attention : veuillez vérifier le formulaire';
+$_['error_warning'] = 'Attention : veuillez vérifier attentivement les erreurs dans le formulaire !';
 $_['error_permission'] = 'Attention : vous n’avez pas la permission de modifier les retours de produits !';
 $_['error_order_id'] = 'Identifiant de la commande requis !';
 $_['error_firstname'] = 'Le prénom doit contenir entre 1 à 32 caractères !';

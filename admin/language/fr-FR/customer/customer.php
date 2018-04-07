@@ -1,6 +1,6 @@
 <?php
 /* 
-*  Copyright (C) 2015-2016 P. Mergey
+*  Copyright (C) 2015-2018 P. Mergey
 *  This program is free software: you can redistribute it and/or modify
 *  it under the terms of the GNU General Public License as published by
 *  the Free Software Foundation, either version 3 of the License, or
@@ -22,8 +22,6 @@ $_['text_add'] = 'Ajouter un client';
 $_['text_edit'] = 'Modifier un client';
 $_['text_default'] = 'Par défaut';
 $_['text_balance'] = 'Solde';
-$_['text_add_ban_ip'] = 'Ajouter une IP bannie';
-$_['text_remove_ban_ip'] = 'Supprimer une IP bannie';
 // Column
 $_['column_name'] = 'Nom du client';
 $_['column_email'] = 'Adresse électronique';
@@ -69,7 +67,7 @@ $_['entry_date_added'] = 'Date d’ajout';
 $_['help_safe'] = 'Mettre à vrai pour permettre à ce client de passer le système antifraude';
 $_['help_points'] = 'Utilisez le signe moins pour enlever des points';
 // Error
-$_['error_warning'] = 'Attention : veuillez vérifier le formulaire';
+$_['error_warning'] = 'Attention : veuillez vérifier attentivement les erreurs dans le formulaire !';
 $_['error_permission'] = 'Attention : vous n’avez pas la permission de modifier les clients !';
 $_['error_exists'] = 'Attention : cette adresse électronique est déjà enregistrée !';
 $_['error_firstname'] = 'Le prénom doit contenir entre 1 à 32 caractères !';
@@ -84,4 +82,3 @@ $_['error_postcode'] = 'Attention : le code postal doit contenir entre 2 à 10 c
 $_['error_country'] = 'Veuillez sélectionner un pays !';
 $_['error_zone'] = 'Veuillez sélectionner une subdivision administrative !';
 $_['error_custom_field'] = '%s est requis !';
-$_['error_comment'] = 'Vous devez saisir un commentaire !';

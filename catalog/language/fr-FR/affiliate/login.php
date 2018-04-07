@@ -1,6 +1,6 @@
 <?php
 /* 
-*  Copyright (C) 2015-2016 P. Mergey
+*  Copyright (C) 2015-2018 P. Mergey
 *  This program is free software: you can redistribute it and/or modify
 *  it under the terms of the GNU General Public License as published by
 *  the Free Software Foundation, either version 3 of the License, or
@@ -29,5 +29,5 @@ $_['entry_email'] = 'Adresse électronique de l’affilié';
 $_['entry_password'] = 'Mot de passe';
 // Error
 $_['error_login'] = 'Attention : aucune correspondance trouvée entre ce nom d’utilisateur et/ou ce mot de passe.';
-$_['error_attempts'] = 'Attention : Votre compte a dépassé le nombre autorisé de tentatives de connexion. Merci d’essayer à nouveau dans 1 heure.';
+$_['error_attempts'] = 'Attention : votre compte a dépassé le nombre autorisé de tentatives de connexion. Merci d’essayer à nouveau dans 1 heure.';
 $_['error_approved'] = 'Attention : votre compte nécessite d’avoir été approuvé avant que vous puissiez vous connecter.';

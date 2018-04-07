@@ -1,6 +1,6 @@
 <?php
 /* 
-*  Copyright (C) 2015-2016 P. Mergey
+*  Copyright (C) 2015-2018 P. Mergey
 *  This program is free software: you can redistribute it and/or modify
 *  it under the terms of the GNU General Public License as published by
 *  the Free Software Foundation, either version 3 of the License, or
@@ -113,6 +113,6 @@ $_['text_void_ok'] = 'L’annulation a réussie : le statut de la commande a ét
 $_['text_confirm_void'] = 'Êtes-vous certain de vouloir inverser l’autorisation ?';
 $_['text_confirm_release'] = 'Êtes-vous certain de vouloir envoyer ce paiement ?';
 $_['text_confirm_rebate'] = 'Êtes-vous certain de vouloir remboursement le paiement ?';
-$_['btn_release'] = 'Envoi';
-$_['btn_rebate'] = 'Remise et/ou remboursement';
-$_['btn_void'] = 'Autorisation inverse';
+$_['button_release'] = 'Envoi';
+$_['button_rebate'] = 'Remise et/ou remboursement';
+$_['button_void'] = 'Autorisation inverse';

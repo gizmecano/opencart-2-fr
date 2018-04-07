@@ -1,6 +1,6 @@
 <?php
 /* 
-*  Copyright (C) 2015-2016 P. Mergey
+*  Copyright (C) 2015-2018 P. Mergey
 *  This program is free software: you can redistribute it and/or modify
 *  it under the terms of the GNU General Public License as published by
 *  the Free Software Foundation, either version 3 of the License, or
@@ -102,6 +102,11 @@ $_['text_price_inc_tax'] = 'Taxes incluses';
 $_['text_ebay_imagesize_ok'] = 'La taille de l’image est correcte. Elle peut être utilisée sur eBay';
 $_['text_compatible'] = 'Options compatibles';
 $_['text_loading_compatibility'] = 'Chargement des options de compatibilité';
+$_['text_product_identifiers'] = 'Identifiants du produit'
+$_['text_ean'] = 'EAN';
+$_['text_upc'] = 'UPC';
+$_['text_isbn'] = 'ISBN';
+$_['text_identifier_not_required'] = 'Non requis';
 // Column
 $_['column_stock_total'] = 'En stock';
 $_['column_stock_col_qty'] = 'À mettre en vente';
@@ -159,6 +164,11 @@ $_['entry_shipping_in_desc'] = 'Infos de transport dans la description';
 $_['entry_shipping_type_int'] = 'Mode de transport international';
 $_['entry_shipping_intnat'] = 'Services de transport internationaux';
 $_['entry_shipping_handling_int'] = 'Frais de traitement (internationaux)';
+$_['entry_shipping_pickupdropoff'] = 'Cliquer et collecter';
+$_['entry_shipping_pickupinstore'] = 'Disponible pour un retrait en magasin';
+$_['entry_shipping_global_shipping'] = 'Utiliser le mode de livraison global';
+$_['entry_shipping_promotion_discount'] = 'Remises combinées pour la livraison (national)';
+$_['entry_shipping_promotion_discount_international'] = 'Remises combinées pour la livraison (international)';
 $_['entry_vrm'] = 'Plaque d’immatriculation du véhicule';
 $_['entry_vin'] = 'Numéro de série du véhicule';
 // Tab
@@ -176,6 +186,8 @@ $_['help_private'] = 'Masquer les noms des acheteurs';
 $_['help_category_suggested'] = 'La liste des catégories eBay suggérée en se basant sur le titre de votre produit';
 $_['help_category_popular'] = 'Une liste des catégories que vous avez récemment utilisées';
 $_['help_shop_category'] = 'La catégorie dans laquelle le produit sera ajouté dans votre boutique eBay';
+$_['help_shipping_promotion_discount'] = 'Offrir aux clients nationaux un rabais sur l’expédition quand ils achètent plusieurs produits. Les réductions doivent avoir été configurées dans eBay pour prendre effet.';
+$_['help_shipping_promotion_discount_international'] = 'Offrir aux clients internationaux un rabais sur l’expédition quand ils achètent plusieurs produits. Les réductions doivent avoir été configurées dans eBay pour prendre effet.';
 // Error
 $_['error_choose_category'] = 'Vous devez choisir une catégorie';
 $_['error_search_text'] = 'Entrez un texte à rechercher';

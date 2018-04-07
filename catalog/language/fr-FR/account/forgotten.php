@@ -1,6 +1,6 @@
 <?php
 /* 
-*  Copyright (C) 2015-2016 P. Mergey
+*  Copyright (C) 2015-2018 P. Mergey
 *  This program is free software: you can redistribute it and/or modify
 *  it under the terms of the GNU General Public License as published by
 *  the Free Software Foundation, either version 3 of the License, or
@@ -25,3 +25,4 @@ $_['text_success'] = 'Succès : un nouveau mot de passe a été envoyé à votre
 $_['entry_email'] = 'Adresse électronique';
 // Error
 $_['error_email'] = 'Attention : cette adresse électronique n’a pas été trouvée dans nos fichiers, veuillez essayer à nouveau !';
+$_['error_approved'] = 'Attention : votre compte nécessite d’avoir été approuvé avant que vous puissiez vous connecter.';
