@@ -17,7 +17,7 @@
 $_['heading_title'] = 'Utiliser un bon d’achat';
 // Text
 $_['text_voucher'] = 'Bon de réduction (%s)';
-$_['text_success']  = 'Succès : la réduction de votre bon d’achat a été appliquée !';
+$_['text_success'] = 'Succès : la réduction de votre bon d’achat a été appliquée !';
 // Entry
 $_['entry_voucher'] = 'Saisissez votre code de bon d’achat ici';
 // Error

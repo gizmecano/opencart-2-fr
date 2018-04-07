@@ -16,5 +16,5 @@
 // Text
 $_['text_success'] = 'Succès : la session API a correctement démarré !';
 // Error
-$_['error_key']  = 'Attention : la clef de l’API est incorrecte !';
-$_['error_ip']   = 'Attention : votre adresse IP %s n’est pas autorisée à accéder à cette API !';
+$_['error_key'] = 'Attention : la clef de l’API est incorrecte !';
+$_['error_ip'] = 'Attention : votre adresse IP %s n’est pas autorisée à accéder à cette API !';
