@@ -33,3 +33,4 @@ $_['error_lastname'] = 'Le nom de famille doit contenir entre 1 à 32 caractère
 $_['error_email'] = 'L’adresse électronique ne semble pas être valide !';
 $_['error_telephone'] = 'Le numéro de téléphone doit contenir entre 3 et 32 caractères !';
 $_['error_custom_field'] = '%s est requis !';
+$_['error_custom_field_validate'] = '%s n’est pas valide !';

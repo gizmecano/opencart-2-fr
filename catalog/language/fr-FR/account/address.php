@@ -46,3 +46,4 @@ $_['error_city'] = 'Attention : le nom de la ville doit contenir entre 2 à 128 
 $_['error_country'] = 'Attention : vous devez sélectionner un pays !';
 $_['error_zone'] = 'Attention : vous devez sélectionner une subdivision administrative !';
 $_['error_custom_field'] = '%s est requis !';
+$_['error_custom_field_validate'] = '%s n’est pas valide !';
