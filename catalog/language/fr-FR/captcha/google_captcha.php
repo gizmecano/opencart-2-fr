@@ -13,11 +13,9 @@
 *  along with this program.  If not, see <http://www.gnu.org/licenses/>.
 */ 
 
-// Heading
-$_['heading_title'] = 'CAPTCHA';
-
+// Text
+$_['text_captcha'] = 'CAPTCHA';
 // Entry
-$_['entry_captcha'] = 'Entrez le code situé dans la boîte ci-dessous';
-
+$_['entry_captcha'] = 'Veuillez compléter la validation CAPTCHA ci-dessous';
 // Error
-$_['error_captcha'] = 'Le code de vérification ne correspond pas à l’image !';
+$_['error_captcha'] = 'La vérification n’est pas correcte !';
