@@ -21,7 +21,8 @@ $_['text_address_add'] = '<a href="customer_id=%d">%s</a> a ajouté une nouvelle
 $_['text_address_edit'] = '<a href="customer_id=%d">%s</a> a mis à jour son adresse.';
 $_['text_address_delete'] = '<a href="customer_id=%d">%s</a> a supprimé une de ses adresses.';
 $_['text_edit'] = '<a href="customer_id=%d">%s</a> a mis à jour les informations de son compte.';
-$_['text_forgotten'] = '<a href="customer_id=%d">%s</a> a demandé un nouveau mot de passe.';
+$_['text_forgotten'] = '<a href="customer_id=%d">%s</a> a demandé à réinitialiser son mot de passe.';
+$_['text_reset'] = '<a href="customer_id=%d">%s</a> a réinitialisé le mot de passe de son compte.';
 $_['text_login'] = '<a href="customer_id=%d">%s</a> s’est connecté.';
 $_['text_password'] = '<a href="customer_id=%d">%s</a> a mis à jour le mot de passe de son compte.';
 $_['text_register'] = '<a href="customer_id=%d">%s</a> a enregistré un compte.';
