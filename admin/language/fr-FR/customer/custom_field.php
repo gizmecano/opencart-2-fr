@@ -33,6 +33,7 @@ $_['text_datetime'] = 'Date et heure';
 $_['text_time'] = 'Heure';
 $_['text_account'] = 'Compte';
 $_['text_address'] = 'Adresse';
+$_['text_regex'] = 'Expression régulière (Regex)';
 // Column
 $_['column_name'] = 'Nom du champ personnalisé';
 $_['column_location'] = 'Emplacement';
@@ -44,12 +45,14 @@ $_['entry_name'] = 'Nom du champ personnalisé';
 $_['entry_location'] = 'Emplacement';
 $_['entry_type'] = 'Type';
 $_['entry_value'] = 'Valeur';
+$_['entry_validation'] = 'Validation';
 $_['entry_custom_value'] = 'Nom de valeur du champ personnalisé';
 $_['entry_customer_group'] = 'Groupe de clients';
 $_['entry_required'] = 'Champ obligatoire';
 $_['entry_status'] = 'Statut';
 $_['entry_sort_order'] = 'Classement';
 // Help
+$_['help_regex'] = 'Utiliser les expressions régulières (Regex), par exemple : /[a-zA-Z0-9_-]/';
 $_['help_sort_order'] = 'Utiliser le signe moins pour revenir au champ précédent.';
 // Error
 $_['error_permission'] = 'Attention : vous n’êtes pas autorisé à modifier les champs personnalisés !';
