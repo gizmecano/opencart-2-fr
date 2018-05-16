@@ -45,7 +45,7 @@ $_['text_transaction_id'] = 'Numéro de transaction';
 $_['text_credits'] = 'Balance';
 $_['text_error'] = 'Erreur:';
 $_['text_flp_upgrade'] = '<a href="http://www.fraudlabspro.com/plan" target="_blank">[Mettre à niveau]</a>';
-$_['text_flp_merchant_area'] = 'Veuillez vous connecter à <a href="http://www.fraudlabspro.com/login" target="_blank">FraudLabs Pro Merchant Area</a> pour plus d’information sur cette commande.';
+$_['text_flp_merchant_area'] = 'Veuillez vous connecter à <a href="http://www.fraudlabspro.com/merchant/login" target="_blank">FraudLabs Pro Merchant Area</a> pour plus d’information sur cette commande.';
 // Entry
 $_['entry_status'] = 'Statut';
 $_['entry_key'] = 'Clef de l’API';
@@ -82,7 +82,7 @@ $_['help_credit_card_blacklist'] = 'Dans le cas où la carte de crédit est dans
 $_['help_score'] = 'Score de risque : 0 (risque faible) - 100 (risque élevé).';
 $_['help_status'] = 'Statut FraudLabs Pro';
 $_['help_message'] = 'Description du message d’erreur FraudLabs Pro.';
-$_['help_transaction_id'] = 'Cliquer sur le lien pour voir les détails de l’analyse de la fraude.';
+$_['help_transaction_id'] = 'Identifiant unique pour une transaction analysée par le système FraudLabs Pro.';
 $_['help_credits'] = 'Balance des crédits disponibles après cette transaction.';
 // Error
 $_['error_permission'] = 'Attention : vous n’êtes pas autorisé à modifier les paramètres FraudLabs !';

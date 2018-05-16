@@ -76,7 +76,6 @@ $_['entry_score'] = 'Score de risque';
 $_['entry_order_status'] = 'Statut de commande';
 $_['entry_status'] = 'Statut';
 // Help
-$_['help_score'] = 'Plus le score est élevé, plus il est probable que la commande soit frauduleuse. Choisissez un score entre 0 et 100.';
 $_['help_order_status'] = 'Les commandes qui ont un score au-delà de votre score de risque défini se verront attribué ce statut de commande et ne seront pas autorisées à atteindre le statut complété automatiquement.';
 $_['help_country_match'] = 'Dans le cas où le pays de l’adresse IP concorde avec l’adresse de facturation (non concordance = risque plus élevé).';
 $_['help_country_code'] = 'Code du pays de l’adresse IP.';
