@@ -20,6 +20,7 @@ $_['text_confirm_title'] = 'Voir le rapport de mise à jour automatique';
 // Button
 $_['button_status'] = 'Changer l’état';
 $_['button_update'] = 'Mettre à jour';
+$_['button_ship'] = 'Livrer la commande';
 // Column
 $_['column_channel'] = 'Canal de commande';
 $_['column_additional'] = 'Plus d’infos';
