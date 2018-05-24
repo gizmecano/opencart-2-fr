@@ -23,6 +23,7 @@ $_['text_my_newsletter'] = 'Lettre d’informations';
 $_['text_edit'] = 'Modifier les informations du compte';
 $_['text_password'] = 'Changer de mot de passe';
 $_['text_address'] = 'Modifier l’entrée du carnet d’adresse';
+$_['text_credit_card'] = 'Gérer les cartes de crédit enregistrées';
 $_['text_wishlist'] = 'Modifier votre liste de souhaits';
 $_['text_order'] = 'Consulter l’historique de vos commandes';
 $_['text_download'] = 'Téléchargements';

@@ -50,7 +50,7 @@ $_['entry_uses_total'] = 'Nombre d’utilisations par bon';
 $_['entry_uses_customer'] = 'Nombre d’utilisations par client';
 $_['entry_status'] = 'Statut';
 // Help
-$_['help_code'] = 'Le code que le client devra entrer pour bénéficier de la réduction.';
+$_['help_code'] = 'Le code que le client devra saisir pour bénéficier de la réduction.';
 $_['help_type'] = 'Pourcentage ou montant fixe.';
 $_['help_logged'] = 'Le client devra être connecté pour pouvoir utiliser le bon de réduction.';
 $_['help_total'] = 'Le montant total à atteindre pour que le bon de réduction soit valide.';

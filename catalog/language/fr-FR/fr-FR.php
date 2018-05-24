@@ -31,6 +31,7 @@ $_['text_select'] = ' ---sélectionner--- ';
 $_['text_all_zones'] = 'Toutes les zones';
 $_['text_pagination'] = 'Affichage %d à %d sur %d (%d pages)';
 $_['text_loading'] = 'Chargement en cours';
+$_['text_no_results'] = 'Aucun résultat !';
 // Buttons
 $_['button_address_add'] = 'Ajouter une adresse';
 $_['button_back'] = 'Précédent';
@@ -78,3 +79,4 @@ $_['error_upload_6'] = 'Attention : aucun dossier temporaire !';
 $_['error_upload_7'] = 'Attention : impossible d’écrire le fichier sur le disque !';
 $_['error_upload_8'] = 'Attention : envoi de fichier bloqué par extension !';
 $_['error_upload_999'] = 'Attention : aucun code d’erreur disponible !';
+$_['error_curl'] = 'cURL: Code d’erreur (%s) : %s';

@@ -125,7 +125,7 @@ $_['column_trans_id'] = 'Numéro de transaction';
 $_['column_amount'] = 'Montant';
 $_['column_type'] = 'Type de paiement';
 $_['column_status'] = 'Statut';
-$_['column_pend_reason'] = 'Motif d’attente';
+$_['column_pending_reason'] = 'Motif d’attente';
 $_['column_date_added'] = 'Créé';
 $_['column_action'] = 'Action';
 // Tab
@@ -177,4 +177,4 @@ $_['error_timeout'] = 'La demande a expirée.';
 $_['error_transaction_missing'] = 'La transaction est introuvable';
 $_['error_missing_data'] = 'Données manquantes';
 $_['error_general'] = 'Une erreur s’est produite';
-$_['error_capture_amt'] = 'Saisissez le montant à réceptionner';
+$_['error_capture'] = 'Saisissez le montant à réceptionner';

@@ -14,32 +14,46 @@
 */ 
 
 // Text
-$_['text_payment_info'] = 'Informations de paiement';
+$_['text_payment'] = 'Informations de paiement';
 $_['text_capture_status'] = 'État de réception';
-$_['text_amount_auth'] = 'Montant autorisé';
+$_['text_amount_authorised'] = 'Montant autorisé';
 $_['text_amount_captured'] = 'Montant réceptionné';
 $_['text_amount_refunded'] = 'Montant remboursé';
-$_['text_capture_amount'] = 'Montant de réception';
-$_['text_complete_capture'] = 'Réception complète';
-$_['text_transactions'] = 'Transactions';
+$_['text_transaction'] = 'Transactions';
 $_['text_complete'] = 'Terminé';
 $_['text_confirm_void'] = 'Si vous annulez, vous ne pourrez plus réceptionner d’autres fonds';
 $_['text_view'] = 'Voir';
 $_['text_refund'] = 'Rembourser';
 $_['text_resend'] = 'Réenvoyer';
-$_['success_transaction_resent'] = 'La transaction a correctement été renvoyée';
+$_['text_success'] = 'Succès : la transaction a correctement été envoyée';
+$_['text_full_refund'] = 'Remboursement intégral';
+$_['text_partial_refund'] = 'Remboursement partiel';
+$_['text_current_refunds'] = 'Des remboursements ont déjà été effectués pour cette transaction. Le remboursement maximum est';
 // Column
-$_['column_trans_id'] = 'Numéro de transaction';
+$_['column_transaction'] = 'Numéro de transaction';
 $_['column_amount'] = 'Montant';
 $_['column_type'] = 'Type de paiement';
 $_['column_status'] = 'Statut';
-$_['column_pend_reason'] = 'Motif d’attente';
-$_['column_date_added'] = 'Créé le';
+$_['column_pending_reason'] = 'Motif d’attente';
+$_['column_date_added'] = 'Ajouté le';
 $_['column_action'] = 'Action';
+// Entry
+$_['entry_capture_amount'] = 'Montant de la capture';
+$_['entry_capture_complete'] = 'Capture complète';
+$_['entry_full_refund'] = 'Remboursement intégral';
+$_['entry_amount'] = 'Montant';
+$_['entry_note'] = 'Note';
+// Help
+$_['help_capture_complete'] = 'Si il s’agit de la dernière capture.';
+// Tab
+$_['tab_capture'] = 'Capture';
+$_['tab_refund'] = 'Remboursement';
 // Button
 $_['button_void'] = 'Annulation';
 $_['button_capture'] = 'Réceptionner';
+$_['button_refund'] = 'Rembourser';
 // Error
-$_['error_capture_amt'] = 'Saisissez le montant à réceptionner';
-$_['error_timeout'] = 'La demande a expirée.';
-$_['error_transaction_missing'] = 'La transaction est introuvable';
+$_['error_capture'] = 'Saisissez le montant à réceptionner';
+$_['error_transaction'] = 'Erreur : la transaction n’a pas pu être effectuée !';
+$_['error_not_found'] = 'Erreur : la transaction n’a pas pu être trouvée !';
+$_['error_partial_amt'] = 'Erreur : vous devez saisir un montant de remboursement partiel';

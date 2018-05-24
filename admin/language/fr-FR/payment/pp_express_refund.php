@@ -27,5 +27,5 @@ $_['entry_message'] = 'Message';
 // Button
 $_['button_refund'] = 'Remboursement';
 // Error
-$_['error_partial_amt'] = 'Vous devez entrer un montant de remboursement partiel';
+$_['error_partial_amt'] = 'Vous devez saisir un montant de remboursement partiel';
 $_['error_data'] = 'Certaines données de la demande sont manquantes.';

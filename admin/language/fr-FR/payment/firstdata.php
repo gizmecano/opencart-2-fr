@@ -43,7 +43,7 @@ $_['text_transactions'] = 'Transactions';
 $_['text_column_amount'] = 'Montant';
 $_['text_column_type'] = 'Type';
 $_['text_column_date_added'] = 'Créé';
-$_['text_confirm_void'] = 'Êtes-vous certain de que vouloir annuler le paiement ?';
+$_['text_confirm_void'] = 'Êtes-vous certain de vouloir annuler le paiement ?';
 $_['text_confirm_capture'] = 'Êtes-vous certain de vouloir réceptionner le paiement ?';
 // Entry
 $_['entry_merchant_id'] = 'Numéro de boutique';
@@ -78,7 +78,7 @@ $_['tab_advanced'] = 'Options avancées';
 $_['button_capture'] = 'Réceptionner';
 $_['button_void'] = 'Annuler';
 // Error
-$_['error_merchant_id'] = 'ID de la boutique est requise';
+$_['error_merchant_id'] = 'Identifiant de la boutique est requise';
 $_['error_secret'] = 'Le mot secret partagé est requis';
 $_['error_live_url'] = 'l’URL de production est nécessaire';
 $_['error_demo_url'] = 'L’URL de démonstration est requise';

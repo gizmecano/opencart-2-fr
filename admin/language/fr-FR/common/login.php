@@ -17,7 +17,7 @@
 $_['heading_title'] = 'Administration';
 // Text
 $_['text_heading'] = 'Administration';
-$_['text_login'] = 'Veuillez entrer vos identifiants.';
+$_['text_login'] = 'Veuillez saisir vos identifiants.';
 $_['text_forgotten'] = 'Mot de passe oublié';
 // Entry
 $_['entry_username'] = 'Nom d’utilisateur';

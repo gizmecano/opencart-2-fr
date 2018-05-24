@@ -107,6 +107,8 @@ $_['button_link'] = 'Lien';
 $_['button_currency'] = 'Rafraîchir les valeurs des devises';
 $_['button_apply'] = 'Appliquer';
 $_['button_category_add'] = 'Ajouter une catégorie';
+$_['button_order'] = 'Voir les commandes';
+$_['button_order_recurring'] = 'Voir les commandes récurrentes';
 // Tab
 $_['tab_address'] = 'Adresse';
 $_['tab_additional'] = 'Additionel';
@@ -155,3 +157,4 @@ $_['error_upload_6'] = 'Attention : le dossier temporaire est manquant !';
 $_['error_upload_7'] = 'Attention : échec de l’écriture du fichier sur le disque !';
 $_['error_upload_8'] = 'Attention : le transfert de fichier a été arrêté en raison de l’extension !';
 $_['error_upload_999'] = 'Attention : aucun code d’erreur disponible !';
+$_['error_curl'] = 'cURL: Code d’erreur (%s) : %s';

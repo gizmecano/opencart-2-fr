@@ -23,7 +23,6 @@ $_['text_desc2'] = 'Pour chaque objet mis à jour dans le stock local (le stock 
 $_['text_desc3'] = 'Vous pouvez lier des objets manuellement en entrant la référence (SKU) d’Amazon et le nom du produit, ou charger tous les produits non liés, puis ajouter les références (SKU) d’Amazon ensuite. (Charger des produits depuis OpenCart vers Amazon créera automatiquement les liaisons)';
 $_['text_new_link'] = 'Nouvelle liaison';
 $_['text_autocomplete_product'] = 'Produit (saisie semi-automatique à partir du nom)';
-$_['text_amazon_sku'] = 'Référence (SKU) Amazon ';
 $_['text_action'] = 'Action';
 $_['text_linked_items'] = 'Objets liés';
 $_['text_unlinked_items'] = 'Objets non liés';

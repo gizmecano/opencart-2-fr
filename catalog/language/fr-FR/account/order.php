@@ -33,8 +33,8 @@ $_['text_empty'] = 'Vous n’avez effectué aucun commande précédemment';
 $_['text_error'] = 'La commande que vous avez demandée n’a pas pu être trouvée !';
 // Column
 $_['column_order_id'] = 'Commande n°';
-$_['column_product'] = 'Nombre de produits';
 $_['column_customer'] = 'Client';
+$_['column_product'] = 'Nombre de produits';
 $_['column_name'] = 'Nom du produit';
 $_['column_model'] = 'Référence';
 $_['column_quantity'] = 'Quantité';
@@ -42,7 +42,7 @@ $_['column_price'] = 'Prix';
 $_['column_total'] = 'Total';
 $_['column_action'] = 'Action';
 $_['column_date_added'] = 'Date d’ajout';
-$_['column_status'] = 'Statut de la commande';
+$_['column_status'] = 'Statut';
 $_['column_comment'] = 'Commentaire';
 // Error
 $_['error_reorder'] = '%s n’est pas actuellement disponible pour être réorganisées.';

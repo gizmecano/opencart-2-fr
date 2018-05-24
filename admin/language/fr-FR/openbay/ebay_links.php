@@ -25,7 +25,7 @@ $_['button_remove_link'] = 'Supprimer la liaison';
 $_['error_ajax_load'] = 'Désolé, impossible d’obtenir une réponse. Veuillez réessayez plus tard.';
 $_['error_validation'] = 'Vous devez vous inscrire afin d’obtenir le jeton de votre API et activer le module.';
 $_['error_no_listings'] = 'Aucun produit lié n’a été trouvé';
-$_['error_link_value'] = 'La valeur de l’identifiant du produit n’est pas valide.';
+$_['error_link_value'] = 'La valeur de l’identifiant du produit est invalide.';
 $_['error_link_no_stock'] = 'Impossible de créer une liaison pour un objet qui n’est plus en stock. Veuillez terminer la mise en vente manuellement sur eBay.';
 $_['error_subtract_setting'] = 'Ce produit est configuré pour ne pas être soustrait au stock OpenCart.';
 // Text

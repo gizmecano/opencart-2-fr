@@ -17,13 +17,13 @@
 $_['heading_title'] = 'Validation de commande';
 // Text
 $_['text_cart'] = 'Panier d’achat';
-$_['text_checkout_option'] = 'Étape 1: options de la commande';
-$_['text_checkout_account'] = 'Étape 2: compte et détails de facturation';
-$_['text_checkout_payment_address'] = 'Étape 2: détails de facturation';
-$_['text_checkout_shipping_address'] = 'Étape 3: détails de livraison';
-$_['text_checkout_shipping_method'] = 'Étape 4: mode de livraison';
-$_['text_checkout_payment_method'] = 'Étape 5: moyen de paiement';
-$_['text_checkout_confirm'] = 'Étape 6: confirmer la commande';
+$_['text_checkout_option'] = 'Étape %s : options de la commande';
+$_['text_checkout_account'] = 'Étape %s : compte et détails de facturation';
+$_['text_checkout_payment_address'] = 'Étape %s : détails de facturation';
+$_['text_checkout_shipping_address'] = 'Étape %s : détails de livraison';
+$_['text_checkout_shipping_method'] = 'Étape %s : mode de livraison';
+$_['text_checkout_payment_method'] = 'Étape %s : moyen de paiement';
+$_['text_checkout_confirm'] = 'Étape %s : confirmer la commande';
 $_['text_modify'] = 'Modifier →';
 $_['text_new_customer'] = 'Nouveau client';
 $_['text_returning_customer'] = 'Déjà client';
@@ -101,3 +101,4 @@ $_['error_no_shipping'] = 'Attention : aucune option d’expédition n’est dis
 $_['error_payment'] = 'Attention : un moyen de paiement est requis !';
 $_['error_no_payment'] = 'Attention : aucune option de paiement n’est disponible. Veuillez <a href="%s"> contacter l’assistance</a> !';
 $_['error_custom_field'] = '%s est requis !';
+$_['error_custom_field_validate']    = '%s est invalide !';

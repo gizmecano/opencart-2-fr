@@ -57,7 +57,7 @@ $_['text_listed'] = 'Objet répertorié ! Identifiant : ';
 $_['text_ajax_confirm_listing'] = 'Êtes vous sûr de vouloir mettre en vente ces objets de façon automatisée ?';
 $_['text_bulk_plan_error'] = 'Votre forfait actuel ne vous permet pas la mise en vente automatisée, veuillez mettre à niveau votre forfait <a href="%s">ici</a>';
 $_['text_item_limit'] = 'Vous ne pouvez pas mettre en vente ces objets car vous dépasseriez la limite de votre forfait, veuillez mettre à niveau votre forfait <a href="%s">ici</a>';
-$_['text_search_text'] = 'Entrez un texte à rechercher';
+$_['text_search_text'] = 'Saisissez un texte à rechercher';
 $_['text_catalog_no_products'] = 'Aucun objet n’a été trouvé dans le catalogue';
 $_['text_search_failed'] = 'La recherche a échouée.';
 $_['text_esc_key'] = 'La page de traitement a été masquée mais n’a peut-être pas terminée le chargement.';

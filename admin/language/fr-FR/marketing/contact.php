@@ -37,8 +37,8 @@ $_['entry_product'] = 'Produits';
 $_['entry_subject'] = 'Sujet';
 $_['entry_message'] = 'Message';
 // Help
-$_['help_customer'] = 'Autocomplétion';
-$_['help_affiliate'] = 'Autocomplétion';
+$_['help_customer'] = '(Autocomplétion)';
+$_['help_affiliate'] = '(Autocomplétion)';
 $_['help_product'] = 'Envoyer uniquement aux clients qui ont commandé des produits dans la liste. Autocomplétion';
 // Error
 $_['error_permission'] = 'Attention : vous n’êtes pas autorisé à envoyer de lettre d’informations !';

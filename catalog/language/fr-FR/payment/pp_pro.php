@@ -17,7 +17,6 @@
 $_['text_title'] = 'Carte de crédit ou de débit (traité par PayPal en toute sécurité)';
 $_['text_wait'] = 'Veuillez patientez';
 $_['text_credit_card'] = 'Détails de la carte de crédit';
-$_['text_loading'] = 'Chargement';
 // Entry
 $_['entry_cc_type'] = 'Type de carte';
 $_['entry_cc_number'] = 'Numéro de la carte';

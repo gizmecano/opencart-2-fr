@@ -20,6 +20,17 @@ $_['text_payment'] = 'Paiements';
 $_['text_success'] = 'Vous venez de modifier les détails du module G2A Pay.';
 $_['text_edit'] = 'Modifier G2A Pay';
 $_['text_g2apay'] = '<a href="https://pay.g2a.com/" target="_blank"><img src="view/image/payment/g2apay.png" alt="G2A Pay" title="G2APay" style="border: 1px solid #EEEEEE;" /></a>';
+$_['text_payment_info'] = 'Information de paiement';
+$_['text_refund_status'] = 'Paiement remboursé';
+$_['text_order_ref'] = 'Référence de commande';
+$_['text_order_total'] = 'Total autorisé';
+$_['text_total_released'] = 'Total envoyé';
+$_['text_transactions'] = 'Transactions';
+$_['text_column_amount'] = 'Montant';
+$_['text_column_type'] = 'Type';
+$_['text_column_date_added'] = 'Date d’ajout';
+$_['text_refund_ok'] = 'Le remboursement a réussi';
+$_['text_refund_ok_order'] = 'Le remboursement a réussi, le montant a été entièrement remboursé';
 // Entry
 $_['entry_username'] = 'Nom d’utilisateur';
 $_['entry_secret'] = 'Mot de passe';
@@ -36,6 +47,7 @@ $_['entry_order_status'] = 'Statut de la commande';
 $_['entry_complete_status'] = 'Statut complet';
 $_['entry_rejected_status'] = 'Statut rejeté';
 $_['entry_cancelled_status'] = 'Statut annulé';
+$_['entry_pending_status'] = 'Statut en attente';
 $_['entry_refunded_status'] = 'Statut remboursé';
 $_['entry_partially_refunded_status'] = 'Statut remboursé partiellement';
 // Help
@@ -51,19 +63,6 @@ $_['error_email'] = 'L’adresse électronique est requise !';
 $_['error_secret'] = 'Le mot secret est requis !';
 $_['error_api_hash'] = 'API de hachage requise!';
 $_['entry_status'] = 'Statut';
-$_['entry_order_status'] = 'Statut de la commande';
-// Order page - payment tab
-$_['text_payment_info'] = 'Information de paiement';
-$_['text_refund_status'] = 'Paiement remboursé';
-$_['text_order_ref'] = 'Référence de commande';
-$_['text_order_total'] = 'Total autorisé';
-$_['text_total_released'] = 'Total envoyé';
-$_['text_transactions'] = 'Transactions';
-$_['text_column_amount'] = 'Montant';
-$_['text_column_type'] = 'Type';
-$_['text_column_date_added'] = 'Créé';
-$_['text_refund_ok'] = 'Le remboursement a été requis avec succès';
-$_['text_refund_ok_order'] = 'Le remboursement a été requis avec succès : le montant a été entièrement remboursé';
 //Button
 $_['btn_refund'] = 'Rembourser';
 $_['g2apay_environment_live'] = 'Environnement de production';

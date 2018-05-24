@@ -32,7 +32,8 @@ Ensuite, il convient d'afficher le panneau de configuration d'OpenCart et de sui
 
 OpenCart version | Language pack version
 ---------------- | ----------------------------
-2.1.0.1          | [1.4.1](https://github.com/gizmecano/opencart-2-fr/releases/tag/1.4.1)
+2.2.0.0          | [1.5.0](https://github.com/gizmecano/opencart-2-fr/releases/tag/1.5.0)
+2.1.0.1 / 2.1.0.2| [1.4.1](https://github.com/gizmecano/opencart-2-fr/releases/tag/1.4.1)
 2.1.0.0          | [1.4.0](https://github.com/gizmecano/opencart-2-fr/releases/tag/1.4.0)
 2.0.3.1          | [1.3.0](https://github.com/gizmecano/opencart-2-fr/releases/tag/1.3.0)
 2.0.3.0          | [1.2.0](https://github.com/gizmecano/opencart-2-fr/releases/tag/1.2.0)
@@ -47,7 +48,7 @@ Toutes suggestions ou propositions (traduction, optimisation, etc.) peuvent êtr
 
 ## Licence
 
-OpenCart-2-fr : pack de langue française pour la plateforme de commerce en ligne OpenCart (version 2.x)
+OpenCart-2-fr : un pack de localisation française libre et ouvert pour la plateforme de commerce en ligne OpenCart (version 2.x)
 
 --------------------------------------------------------------------------------
 

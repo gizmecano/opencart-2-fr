@@ -23,7 +23,7 @@ $_['text_bluepay_hosted'] = '<a href="http://www.bluepay.com/preferred-partner/o
 $_['text_test'] = 'Test';
 $_['text_live'] = 'Direct';
 $_['text_sale'] = 'Vente';
-$_['text_authenticate'] = 'Authentifier';
+$_['text_authenticate'] = 'Autoriser';
 $_['text_release_ok'] = 'Envoi effectué';
 $_['text_release_ok_order'] = 'Envoi effectué';
 $_['text_rebate_ok'] = 'Remboursement effectué';
@@ -47,7 +47,7 @@ $_['text_confirm_rebate'] = 'Êtes-vous certain de vouloir effectuer un rembours
 $_['entry_account_name'] = 'Nom du compte';
 $_['entry_account_id'] = 'Identifiant du compte';
 $_['entry_secret_key'] = 'Clef secrète';
-$_['entry_test'] = 'Mode de test';
+$_['entry_test'] = 'Mode de transaction';
 $_['entry_transaction'] = 'Méthode de transaction';
 $_['entry_card_amex'] = 'AmEx (American Express)';
 $_['entry_card_discover'] = 'Discover';
@@ -60,7 +60,7 @@ $_['entry_debug'] = 'Enregistrement de débogage';
 // Help
 $_['help_total'] = 'Le montant total que la commande doit atteindre avant que ce module de paiement devienne actif.';
 $_['help_debug'] = 'En activant le débogage, vous autorisez l’écriture de données sensibles dans un fichier journal. Vous devriez toujours désactiver cette fonction sauf avis contraire.';
-$_['help_transaction'] = 'La méthode de transaction doit être définie sur Paiement pour autoriser les prélèvements';
+$_['help_transaction'] = 'La vente facturera le client immédiatement. L’autorisation mettra les fonds en attente pour la capture future.';
 $_['help_cron_job_token'] = 'Utilisez une valeur longue et difficile à deviner';
 $_['help_cron_job_url'] = 'Définissez une tâche CRON pour appeler cette URL';
 // Button

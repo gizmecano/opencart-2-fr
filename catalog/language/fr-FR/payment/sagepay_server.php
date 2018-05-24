@@ -31,9 +31,12 @@ $_['text_transaction_error'] = 'Attention : une erreur s’est produite pendant 
 $_['text_generic_error'] = 'Attention : une erreur est survenue lors du traitement de votre demande.';
 $_['text_hash_failed'] = 'La vérification du hachage a échoué. Ne tentez pas à nouveau d’effectuer de paiement car son statut est inconnu. Veuillez contacter l’administrateur de la boutique.';
 $_['text_link'] = 'Veuillez cliquer <a href="%">ici</a> pour continuer';
+$_['text_confirm_delete'] = 'Êtes-vous certain de vouloir supprimer cette carte';
 // Entry
 $_['entry_card'] = 'Nouvelle carte ou carte existante : ';
 $_['entry_card_existing'] = 'Existant';
 $_['entry_card_new'] = 'Nouveau';
 $_['entry_card_save'] = 'Se souvenir des détails de la carte pour une future utilisation';
 $_['entry_cc_choice'] = 'Sélectionner une carte existante';
+// Button
+$_['button_delete_card'] = 'Supprimer la carte sélectionnée';

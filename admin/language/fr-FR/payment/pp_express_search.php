@@ -15,18 +15,6 @@
 
 // Heading
 $_['heading_title'] = 'Recherche de transactions';
-// Column
-$_['tbl_column_date'] = 'Date';
-$_['tbl_column_type'] = 'Type';
-$_['tbl_column_email'] = 'Adresse électronique';
-$_['tbl_column_name'] = 'Nom';
-$_['tbl_column_transid'] = 'Numéro de transaction';
-$_['tbl_column_status'] = 'Statut';
-$_['tbl_column_currency'] = 'Devise';
-$_['tbl_column_amount'] = 'Montant';
-$_['tbl_column_fee'] = 'Frais';
-$_['tbl_column_netamt'] = 'Montant net';
-$_['tbl_column_action'] = 'Action';
 // Text
 $_['text_pp_express'] = 'Paiement PayPal Express';
 $_['text_date_search'] = 'Recherche par date';
@@ -35,6 +23,18 @@ $_['text_name'] = 'Nom';
 $_['text_buyer_info'] = 'Informations sur l’acheteur';
 $_['text_view'] = 'Voir';
 $_['text_format'] = 'Format';
+// Column
+$_['column_date'] = 'Date';
+$_['column_type'] = 'Type';
+$_['column_email'] = 'Adresse électronique';
+$_['column_name'] = 'Nom';
+$_['column_transid'] = 'Identifiant de transaction';
+$_['column_status'] = 'Statut';
+$_['column_currency'] = 'Devise';
+$_['column_amount'] = 'Montant';
+$_['column_fee'] = 'Frais';
+$_['column_netamt'] = 'Montant net';
+$_['column_action'] = 'Action';
 // Entry
 $_['entry_trans_all'] = 'Tout';
 $_['entry_trans_sent'] = 'Envoyé';
