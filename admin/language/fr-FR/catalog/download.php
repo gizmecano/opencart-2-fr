@@ -39,5 +39,5 @@ $_['error_upload'] = 'Transfert nécessaire !';
 $_['error_filename'] = 'Le nom de fichier doit contenir entre 3 et 128 caractères !';
 $_['error_exists'] = 'Fichier non existant !';
 $_['error_mask'] = 'La masque doit contenir entre 3 et 128 caractères !';
-$_['error_filetype'] = 'Type de fichier non valide !';
+$_['error_filetype'] = 'Type de fichier invalide !';
 $_['error_product'] = 'Attention : il est impossible d’effacer ce téléchargement car il est actuellement attribué à %s produits !';

@@ -101,4 +101,4 @@ $_['error_no_shipping'] = 'Attention : aucune option d’expédition n’est dis
 $_['error_payment'] = 'Attention : un moyen de paiement est requis !';
 $_['error_no_payment'] = 'Attention : aucune option de paiement n’est disponible. Veuillez <a href="%s"> contacter l’assistance</a> !';
 $_['error_custom_field'] = '%s est requis !';
-$_['error_custom_field_validate']    = '%s n’est pas valide !';
+$_['error_custom_field_validate']    = '%s est invalide !';

@@ -57,8 +57,8 @@ $_['help_only_fill_complete'] = 'Ceci permettra uniquement aux commandes d’êt
 // Error
 $_['error_api_connect'] = 'Impossible de se connecter à l’API';
 $_['error_account_info'] = 'Impossible de vérifier la connexion à l’API Expédié par Amazon ';
-$_['error_api_key'] = 'La clef de l’API n’est pas valide';
-$_['error_api_account_id'] = 'L’identifiant de compte n’est pas valide';
+$_['error_api_key'] = 'La clef de l’API est invalide';
+$_['error_api_account_id'] = 'L’identifiant de compte est invalide';
 $_['error_validation'] = 'Une erreur s’est produite lors de la validation de vos informations';
 // Tabs
 $_['tab_api_info'] = 'Détails de l’API';

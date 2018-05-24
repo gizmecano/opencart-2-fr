@@ -32,4 +32,4 @@ $_['entry_status'] = 'Statut';
 // Error
 $_['error_permission'] = 'Attention : vous n’êtes pas autorisé à modifier l’URL du flux Google Base !';
 $_['error_upload'] = 'Attention : le fichier n’a pas pu être transféré !';
-$_['error_filetype'] = 'Type de fichier non valide !';
+$_['error_filetype'] = 'Type de fichier invalide !';
