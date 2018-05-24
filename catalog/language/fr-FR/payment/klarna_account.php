@@ -26,7 +26,7 @@ $_['text_day'] = 'Jour';
 $_['text_payment_option'] = 'Options de paiement';
 $_['text_single_payment'] = 'Paiement unique';
 $_['text_monthly_payment'] = '%s - %s par mois';
-$_['text_comment'] = 'Identifiant de facture Klarna: %s' . "\n" . '%s/%s: %.4f';
+$_['text_comment'] = 'Identifiant de facture Klarna: %s' . "\n" . '%s/%s : %.4f';
 // Entry
 $_['entry_gender'] = 'Genre';
 $_['entry_pno'] = 'Numéro personnel';
