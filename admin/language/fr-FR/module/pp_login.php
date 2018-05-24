@@ -34,7 +34,7 @@ $_['entry_return_url'] = 'URL de retour';
 $_['entry_status'] = 'Statut';
 //Help
 $_['help_sandbox'] = 'Utiliser l’environnement de test « bac à sable » ?';
-$_['help_customer_group'] = 'Dans quel groupe de clientsles nouveaux utilisateurs devraient-ils être créés ?';
+$_['help_customer_group'] = 'Dans quel groupe de clients les nouveaux utilisateurs devraient-ils être créés ?';
 $_['help_debug_logging'] = 'Activer cette fonction permettra l’enregistrement de données dans le journal d’erreurs pour un futur débogage.';
 $_['help_seamless'] = 'Permet la connexion automatique lorsque les clients choisissent le moyen de paiement « PayPal Express Checkout ». Pour l’utiliser, cette option doit être activée. Vous devez également utiliser le même compte utilisateur que celui utilisé dans « Express Checkout ».';
 $_['help_locale'] = 'Il s’agit du paramètre de langue PayPal en rapport avec les langues de la boutique.';
