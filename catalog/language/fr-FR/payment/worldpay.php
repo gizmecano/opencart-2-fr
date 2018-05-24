@@ -23,7 +23,7 @@ $_['text_card_expiry'] = 'Date d’expiration : ';
 $_['text_trial'] = '%s chaque %s %s pour %s paiements alors ';
 $_['text_recurring'] = '%s chaque %s %s';
 $_['text_length'] = ' pour %s paiements';
-$_['text_confirm_delete'] = 'Êtes-vous certain de que vouloir supprimer cette carte';
+$_['text_confirm_delete'] = 'Êtes-vous certain de vouloir supprimer cette carte';
 $_['text_card_success'] = 'La carte a été supprimée avec succès.';
 $_['text_card_error'] = 'Une erreur s’est produite lors de la suppression de la carte. Veuillez contacter votre administrateur.';
 // Entry
