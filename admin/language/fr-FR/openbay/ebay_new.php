@@ -46,7 +46,7 @@ $_['text_images_none'] = 'Vous n’avez pas d’images pour ce produit, vous dev
 $_['text_height'] = 'Hauteur';
 $_['text_px'] = 'px';
 $_['text_item_postcode_help'] = 'Un code postal aidera eBay à choisir un emplacement approprié pour votre annonce.';
-$_['text_item_location_help'] = 'Entrer le nom d’une ville est moins pertinent qu’un code postal';
+$_['text_item_location_help'] = 'Saisir le nom d’une ville est moins pertinent qu’un code postal';
 $_['text_despatch_country_help'] = 'Il s’agit du pays depuis lequel l’objet sera envoyé';
 $_['text_shipping_zones'] = 'Expédier vers les zones';
 $_['text_shipping_worldwide'] = 'Dans le monde entier';
@@ -178,7 +178,7 @@ $_['tab_price'] = 'Prix et autre';
 $_['tab_payment'] = 'Paiement';
 $_['tab_returns'] = 'Retours';
 // Help
-$_['help_quantity_reserve'] = 'Entrez un montant faible, si vous voulez maintenir un bas niveau de stock sur eBay';
+$_['help_quantity_reserve'] = 'Saisissez un montant faible, si vous voulez maintenir un bas niveau de stock sur eBay';
 $_['help_price_ex_tax'] = 'Le prix standard de votre objet hors taxes. Cette valeur n’est pas envoyée à eBay.';
 $_['help_price_inc_tax'] = 'Cette valeur est envoyée à eBay et ce sera le prix que les utilisateurs paieront.';
 $_['help_private'] = 'Masquer les noms des acheteurs';
@@ -189,7 +189,7 @@ $_['help_shipping_promotion_discount'] = 'Offrir aux clients nationaux un rabais
 $_['help_shipping_promotion_discount_international'] = 'Offrir aux clients internationaux un rabais sur l’expédition quand ils achètent plusieurs produits. Les réductions doivent avoir été configurées dans eBay pour prendre effet.';
 // Error
 $_['error_choose_category'] = 'Vous devez choisir une catégorie';
-$_['error_search_text'] = 'Entrez un texte à rechercher';
+$_['error_search_text'] = 'Saisissez un texte à rechercher';
 $_['error_no_stock'] = 'Vous ne pouvez pas mettre en vente un objet n’ayant aucun stock.';
 $_['error_catalog_data'] = 'Aucune donnée pour votre produit n’a été trouvée dans le catalogue eBay';
 $_['error_missing_settings'] = 'Vous ne pouvez pas mettre en vente des objets avant de synchroniser les paramètres eBay.';

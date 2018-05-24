@@ -75,7 +75,7 @@ $_['entry_courier'] = 'Service de messagerie';
 $_['entry_courier_other'] = 'Autre service de messageries';
 $_['entry_tracking'] = 'Suivi de #';
 $_['entry_empty_data'] = 'Données de magasin vides ?';
-$_['entry_password_prompt'] = 'Veuillez entrer le mot de passe d’effacement des données';
+$_['entry_password_prompt'] = 'Veuillez saisir le mot de passe d’effacement des données';
 $_['entry_update'] = 'Mise à jour facile en un clic';
 $_['entry_beta'] = 'Utiliser la version bêta';
 // Error

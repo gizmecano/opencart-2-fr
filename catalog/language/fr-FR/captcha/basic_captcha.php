@@ -16,6 +16,6 @@
 // Text
 $_['text_captcha'] = 'CAPTCHA';
 // Entry
-$_['entry_captcha'] = 'Entrez le code situé dans la boîte ci-dessous';
+$_['entry_captcha'] = 'Saisissez le code situé dans la boîte ci-dessous';
 // Error
 $_['error_captcha'] = 'Le code de vérification ne correspond pas à l’image !';

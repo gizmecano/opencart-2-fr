@@ -103,7 +103,7 @@ $_['text_added'] = 'Le nouveau profil a été ajouté.';
 $_['text_updated'] = 'Le profil a été mis à jour.';
 //Errors
 $_['error_permission'] = 'Vous n’êtes pas autorisé à modifier les profils.';
-$_['error_name'] = 'Vous devez entrer un nom de profil.';
+$_['error_name'] = 'Vous devez saisir un nom de profil.';
 $_['error_no_template'] = 'Cet identifiant de modèle n’existe pas.';
 $_['error_missing_settings'] = 'Vous ne pouvez pas ajouter, modifier ou supprimer des profils avant de synchroniser vos paramètres eBay.';
 //Help
