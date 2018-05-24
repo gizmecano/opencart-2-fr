@@ -32,6 +32,7 @@ After that, open your OpenCart backend and follow these steps:
 
 OpenCart version | Language pack version
 ---------------- | ----------------------------
+2.2.0.0          | [1.5.0](https://github.com/gizmecano/opencart-2-fr/releases/tag/1.5.0)
 2.1.0.1 / 2.1.0.2| [1.4.1](https://github.com/gizmecano/opencart-2-fr/releases/tag/1.4.1)
 2.1.0.0          | [1.4.0](https://github.com/gizmecano/opencart-2-fr/releases/tag/1.4.0)
 2.0.3.1          | [1.3.0](https://github.com/gizmecano/opencart-2-fr/releases/tag/1.3.0)
@@ -47,7 +48,7 @@ Any suggestions or submissions (translation, optimisation, etc.) might be consid
 
 ## Licence
 
-OpenCart-2-fr: a French language pack for the ecommerce platform OpenCart (version 2.x)
+OpenCart-2-fr: a French opensource localization pack for ecommerce platform OpenCart (version 2.x)
 
 --------------------------------------------------------------------------------
 
