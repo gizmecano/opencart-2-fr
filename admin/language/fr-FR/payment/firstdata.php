@@ -78,7 +78,7 @@ $_['tab_advanced'] = 'Options avancées';
 $_['button_capture'] = 'Réceptionner';
 $_['button_void'] = 'Annuler';
 // Error
-$_['error_merchant_id'] = 'ID de la boutique est requise';
+$_['error_merchant_id'] = 'Identifiant de la boutique est requise';
 $_['error_secret'] = 'Le mot secret partagé est requis';
 $_['error_live_url'] = 'l’URL de production est nécessaire';
 $_['error_demo_url'] = 'L’URL de démonstration est requise';
