@@ -16,6 +16,7 @@
 // Heading
 $_['heading_title'] = 'Commandes';
 // Text
+$_['text_success'] = 'Vous venez de modifier les commandes !';
 $_['text_list'] = 'Liste des commandes';
 $_['text_add'] = 'Ajouter une commande';
 $_['text_edit'] = 'Modifier une commande';
