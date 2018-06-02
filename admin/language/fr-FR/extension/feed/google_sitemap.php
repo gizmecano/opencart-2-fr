@@ -16,7 +16,7 @@
 // Heading
 $_['heading_title'] = 'Google Sitemap';
 // Text
-$_['text_feed'] = 'Flux des produits';
+$_['text_extension'] = 'Extensions';
 $_['text_success'] = 'Vous venez de modifier le flux Google Sitemap !';
 $_['text_edit'] = 'Modifier Google Sitemap';
 // Entry
