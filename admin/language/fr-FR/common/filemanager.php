@@ -28,6 +28,7 @@ $_['error_filename'] = 'Attention : le nom du fichier doit contenir entre 3 et 2
 $_['error_folder'] = 'Attention : le nom du dossier doit contenir entre 3 et 255 caractères !';
 $_['error_exists'] = 'Attention : un fichier ou dossier portant le même nom existe déjà !';
 $_['error_directory'] = 'Attention : le dossier n’existe pas !';
+$_['error_filesize'] = 'Attention : taille de fichier incorrecte !';
 $_['error_filetype'] = 'Attention : type de fichier incorrect !';
 $_['error_upload'] = 'Attention : le fichier n’a pas pu être transféré pour une raison inconnue !';
 $_['error_delete'] = 'Attention : vous ne pouvez pas supprimer ce dossier !';
