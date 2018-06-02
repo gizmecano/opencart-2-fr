@@ -94,3 +94,5 @@ $_['error_postcode'] = 'Attention : le code postal doit contenir entre 2 à 10 c
 $_['error_country'] = 'Veuillez sélectionner un pays !';
 $_['error_zone'] = 'Veuillez sélectionner une subdivision administrative !';
 $_['error_code'] = 'Le code de suivi est requis !';
+$_['error_code_exists'] = 'Le code de suivi est utilisé par un autre affilié !';
+
