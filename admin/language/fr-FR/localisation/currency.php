@@ -20,6 +20,7 @@ $_['text_success'] = 'Vous venez de modifier les devises !';
 $_['text_list'] = 'Liste des devises';
 $_['text_add'] = 'Ajouter une devise';
 $_['text_edit'] = 'Modifier la devise';
+$_['text_iso'] = 'Vous pouvez trouver une liste complète des codes ISO et des paramètres de devise sur <a href="http://www.xe.com/iso4217.php" target="_blank">cette page</a>.';
 // Column
 $_['column_title'] = 'Nom de la devise';
 $_['column_code'] = 'Code';
@@ -35,7 +36,7 @@ $_['entry_symbol_right'] = 'Symbole de droite';
 $_['entry_decimal_place'] = 'Emplacement des décimales';
 $_['entry_status'] = 'Statut';
 // Help
-$_['help_code'] = 'Ne pas changer s’il s’agit de la devise par défaut. Ce doit être un code <a href="http://fr.wikipedia.org/wiki/ISO_4217" target="_blank">ISO 4217</a> valide.';
+$_['help_code'] = 'Ne changez pas le code s’il s’agit de la devise par défaut.';
 $_['help_value'] = 'Ajustez cette valeur à 1.00000 s’il s’agit de la devise par défaut.';
 // Error
 $_['error_permission'] = 'Attention : vous n’êtes pas autorisé à modifier les devises !';

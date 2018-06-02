@@ -23,6 +23,7 @@ $_['text_edit'] = 'Modifier une langue';
 // Column
 $_['column_name'] = 'Nom de la langue';
 $_['column_code'] = 'Code';
+$_['entry_locale'] = 'Paramètres régionaux';
 $_['column_sort_order'] = 'Classement';
 $_['column_action'] = 'Action';
 // Entry
@@ -31,12 +32,14 @@ $_['entry_code'] = 'Code';
 $_['entry_status'] = 'Statut';
 $_['entry_sort_order'] = 'Classement';
 // Help
+$_['help_locale'] = 'Par exemple : en_US.UTF-8,en_US,en-gb,en_gb,english';
 $_['help_status'] = 'Masquer/Afficher dans le menu déroulant des langues';
 // Error
 $_['error_permission'] = 'Attention : vous n’êtes pas autorisé à modifier les langues !';
 $_['error_exists'] = 'Attention : vous avez déjà ajouté cette langue !';
 $_['error_name'] = 'Le nom de la langue doit contenir entre 3 et 32 caractères !';
 $_['error_code'] = 'Le code de la langue doit être d’au moins 2 caractères !';
+$_['error_locale'] = 'Les paramètres régionaux sont requis !';
 $_['error_default'] = 'Attention : cette langue ne peut être supprimée car elle est actuellement assignée comme langue par défaut !';
 $_['error_admin'] = 'Attention : cette langue ne peut être supprimée car elle est actuellement assignée comme langue du panneau d’administration !';
 $_['error_store'] = 'Attention : cette langue ne peut être supprimée car elle est actuellement attribuée à %s boutiques !';
