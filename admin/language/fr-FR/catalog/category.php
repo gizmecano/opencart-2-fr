@@ -52,3 +52,4 @@ $_['error_permission'] = 'Attention : vous n’êtes pas autorisé à modifier l
 $_['error_name'] = 'Le nom de la catégorie doit contenir entre 2 et 255 caractères !';
 $_['error_meta_title'] = 'Le titre méta doit contenir plus de 3 et moins de 255 caractères !';
 $_['error_keyword'] = 'URL de référencement (SEO) déjà en cours d’utilisation !';
+$_['error_parent'] = 'La catégorie parente que vous avez choisie est une catégorie enfant de la catégorie actuelle !';

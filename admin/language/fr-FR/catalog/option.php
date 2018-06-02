@@ -24,7 +24,6 @@ $_['text_choose'] = 'Selectionnez';
 $_['text_select'] = 'Sélectionner';
 $_['text_radio'] = 'Bouton Radio';
 $_['text_checkbox'] = 'Case à cocher';
-$_['text_image'] = 'Image';
 $_['text_input'] = 'Entrée de données';
 $_['text_text'] = 'Texte';
 $_['text_textarea'] = 'Zone de texte';
