@@ -80,6 +80,4 @@ $_['error_address_1'] = 'L’adresse doit contenir entre 3 et 128 caractères !'
 $_['error_city'] = 'Le nom de la ville doit contenir entre 2 à 128 caractères !';
 $_['error_postcode'] = 'Attention : le code postal doit contenir entre 2 à 10 caractères !';
 $_['error_country'] = 'Veuillez sélectionner un pays !';
-$_['error_zone'] = 'Veuillez sélectionner une subdivision administrative !';
-$_['error_custom_field'] = '%s est requis !';
-$_['error_custom_field_validate'] = '%s est invalide !';
+$_['error_zone'] = '%s est requis !';
