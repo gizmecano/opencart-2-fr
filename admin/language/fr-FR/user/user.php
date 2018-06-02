@@ -38,9 +38,11 @@ $_['entry_status'] = 'Statut';
 // Error
 $_['error_permission'] = 'Attention : vous n’avez pas la permission de modifier les utilisateurs !';
 $_['error_account'] = 'Attention : vous ne pouvez pas supprimer votre propre compte !';
-$_['error_exists'] = 'Attention : ce nom d’utilisateur est déjà utilisé !';
+$_['error_exists_username'] = 'Attention :Username is already in use!';
 $_['error_username'] = 'Le nom d’utilisateur doit contenir entre 3 et 20 caractères !';
 $_['error_password'] = 'Le mot de passe doit contenir entre 4 et 20 caractères !';
 $_['error_confirm'] = 'Le mot de passe de confirmation ne correspond pas au premier mot de passe !';
 $_['error_firstname'] = 'Le prénom doit contenir entre 1 à 32 caractères !';
 $_['error_lastname'] = 'Le nom de famille doit contenir entre 1 à 32 caractères !';
+$_['error_email'] = 'Attention : cette adresse électronique ne semble pas être valide !';
+$_['error_exists_email'] = 'Attention : cette adresse électronique est déjà enregistrée !';
