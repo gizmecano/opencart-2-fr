@@ -15,7 +15,8 @@
 
 // Heading
 $_['heading_title'] = 'Compte';
-$_['text_module'] = 'Modules';
+// Text
+$_['text_extension'] = 'Extensions';
 $_['text_success'] = 'Vous venez de modifier le module « Compte » !';
 $_['text_edit'] = 'Modifier le module « Compte »';
 // Entry

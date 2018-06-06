@@ -15,7 +15,8 @@
 
 // Heading
 $_['heading_title'] = 'Affiliation';
-$_['text_module'] = 'Modules';
+// Text
+$_['text_extension'] = 'Extensions';
 $_['text_success'] = 'Vous venez de modifier le module « Affiliation » !';
 $_['text_edit'] = 'Modifier le module « Affiliation »';
 // Entry

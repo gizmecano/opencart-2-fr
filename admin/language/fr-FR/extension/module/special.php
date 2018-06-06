@@ -16,7 +16,7 @@
 // Heading
 $_['heading_title'] = 'Promotions';
 // Text
-$_['text_module'] = 'Modules';
+$_['text_extension'] = 'Extensions';
 $_['text_success'] = 'Vous venez de modifier le module « Promotions » !';
 $_['text_edit'] = 'Modifier le module « Promotions »';
 // Entry

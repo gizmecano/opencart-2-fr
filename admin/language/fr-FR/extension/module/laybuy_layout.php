@@ -16,7 +16,7 @@
 // Heading
 $_['heading_title'] = 'Module de mise en page Lay-Buy';
 // Text
-$_['text_module'] = 'Modules';
+$_['text_extension'] = 'Extensions';
 $_['text_success'] = 'Vous avez modifié le module de mise en page Lay-Buy!';
 $_['text_edit'] = 'Modifier le module de mise en page Lay-Buy';
 // Entry

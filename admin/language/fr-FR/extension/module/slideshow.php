@@ -16,7 +16,7 @@
 // Heading
 $_['heading_title'] = 'Diaporama';
 // Text
-$_['text_module'] = 'Modules';
+$_['text_extension'] = 'Extensions';
 $_['text_success'] = 'Vous venez de modifier le module « Diaporama » !';
 $_['text_edit'] = 'Modifier le module « Diaporama »';
 // Entry

@@ -15,7 +15,7 @@
 
 // Heading
 $_['heading_title'] = 'Gestion de carte Sagepay Server';
-$_['text_module'] = 'Modules';
+$_['text_extension'] = 'Extensions';
 $_['text_success'] = 'Vous venez de modifier le module « Gestion de carte Sagepay Server » !';
 $_['text_edit'] = 'Modifier le module « Gestion de carte Sagepay Server »';
 // Entry

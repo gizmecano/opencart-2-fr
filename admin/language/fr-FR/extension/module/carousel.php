@@ -16,7 +16,7 @@
 // Heading
 $_['heading_title'] = 'Carrousel';
 // Text
-$_['text_module'] = 'Modules';
+$_['text_extension'] = 'Extensions';
 $_['text_success'] = 'Vous venez de modifier le module « Carrousel » !';
 $_['text_edit'] = 'Modifier le module « Carrousel »';
 // Entry

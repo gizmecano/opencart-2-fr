@@ -16,7 +16,7 @@
 // Heading
 $_['heading_title'] = 'Affichage eBay';
 // Text
-$_['text_module'] = 'Modules';
+$_['text_extension'] = 'Extensions';
 $_['text_success'] = 'Vous venez de modifier le module « Affichage eBay » !';
 $_['text_edit'] = 'Modifier le module « Affichage eBay »';
 $_['text_list'] = 'Liste des gabarits';

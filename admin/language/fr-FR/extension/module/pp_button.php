@@ -16,7 +16,7 @@
 // Heading
 $_['heading_title'] = 'Bouton PayPal Express Checkout';
 // Text
-$_['text_module'] = 'Modules';
+$_['text_extension'] = 'Extensions';
 $_['text_success'] = 'Vous venez de modifier le module « Bouton PayPal Express Checkout » !';
 $_['text_edit'] = 'Modifier le module « Bouton PayPal Express Checkout »';
 // Entry
