@@ -16,7 +16,7 @@
 // Heading
 $_['heading_title'] = 'Basic CAPTCHA';
 // Text
-$_['text_captcha'] = 'CAPTCHA';
+$_['text_extension'] = 'Extensions';
 $_['text_success'] = 'Succès : vous avez modifié Basic CAPTCHA !';
 $_['text_edit'] = 'Modifier Basic CAPTCHA';
 // Entry
