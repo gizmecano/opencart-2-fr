@@ -16,7 +16,7 @@
 // Heading
 $_['heading_title'] = 'Antifraude IP';
 // Text
-$_['text_fraud'] = 'Antifraude';
+$_['text_extension'] = 'Extensions';
 $_['text_success'] = 'Succès : vous avez modifié Antifraude IP!';
 $_['text_edit'] = 'Modifier Antifraude IP';
 $_['text_ip_add'] = 'Ajouter une adresse IP';
