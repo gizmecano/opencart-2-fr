@@ -37,6 +37,7 @@ $_['entry_enc1'] = 'Chiffrement API 1';
 $_['entry_enc2'] = 'Chiffrement API 2';
 $_['entry_token'] = 'Jeton de l’API';
 $_['entry_address_format'] = 'Format par défaut de l’adresse';
+$_['entry_debug'] = 'Activer l’enregistrement de débogage';
 // Buttons
 $_['button_pull'] = 'Recevoir maintenant';
 // Error

@@ -29,3 +29,5 @@ $_['column_date_updated'] = 'Date de mise à jour';
 $_['column_status'] = 'Statut';
 $_['column_sku'] = 'Référence Amazon (SKU)';
 $_['column_stock'] = 'Stock';
+// Error
+$_['error_api_connection'] = 'Impossible de se connecter à l’API';

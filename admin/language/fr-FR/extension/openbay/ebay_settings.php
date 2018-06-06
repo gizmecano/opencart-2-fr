@@ -39,6 +39,7 @@ $_['text_payment_card'] = 'Cartes bancaires acceptées';
 $_['text_payment_desc'] = 'Voir la description (par exemple : virement bancaire)';
 $_['text_tax_use_listing'] = 'Utiliser le taux de TVA de l’annonce eBay';
 $_['text_tax_use_value'] = 'Utiliser une valeur prédéfinie pour tout';
+$_['text_tax_use_product'] = 'Calculer la taxe en fonction du pays du client et de la classe de taxes';
 $_['text_action_warning'] = 'Cette opération est dangereuse, elle est donc protégée par mot de passe.';
 $_['text_notifications'] = 'Contrôle les notifications que les clients recevront. Activer les courriers électroniques d’informations peut améliorer vos évaluations de vendeur car l’utilisateur recevra des informations concernant sa commande.';
 $_['text_listing_1day'] = '1 jour';

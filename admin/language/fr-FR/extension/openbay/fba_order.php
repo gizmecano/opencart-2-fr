@@ -52,6 +52,7 @@ $_['text_type_new'] = 'Créer';
 $_['text_type_ship'] = 'Expédition';
 $_['text_type_cancel'] = 'Annulation';
 $_['text_no_requests'] = 'Aucune requête n’a encore été faite !';
+$_['text_order_list'] = 'Liste de commande Amazon';
 // Columns
 $_['column_order_id'] = 'Commande n°';
 $_['column_created'] = 'Date de création';

@@ -36,3 +36,4 @@ $_['text_heading_register'] = 'Inscrivez-vous ici';
 $_['error_category_nosuggestions'] = 'Impossible de charger une quelconque catégorie suggérée.';
 $_['error_loading_catalog'] = 'La recherche dans le catalogue eBay a échouée.';
 $_['error_generic_fail'] = 'Une erreur inconnue est survenue !';
+$_['error_no_products'] = 'Aucun produit n’a été trouvé';
