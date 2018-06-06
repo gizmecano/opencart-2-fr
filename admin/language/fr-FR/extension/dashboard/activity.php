@@ -16,6 +16,9 @@
 // Heading
 $_['heading_title'] = 'Activité récente';
 // Text
+$_['text_extension'] = 'Extensions';
+$_['text_success'] = 'Vous venez de modifier le tableau de bord de l’activité récente !';
+$_['text_edit'] = 'Modifier le tableau de bord de l’activité récente';
 $_['text_customer_address_add'] = '<a href="customer_id=%d">%s</a> a ajouté une nouvelle adresse.';
 $_['text_customer_address_edit'] = '<a href="customer_id=%d">%s</a> a mis à jour son adresse.';
 $_['text_customer_address_delete'] = '<a href="customer_id=%d">%s</a> a supprimé une de ses adresses.';
@@ -35,3 +38,8 @@ $_['text_affiliate_login'] = '<a href="affiliate_id=%d">%s</a> s’est connecté
 $_['text_affiliate_password'] = '<a href="affiliate_id=%d">%s</a> a mis à jour le mot de passe de son compte.';
 $_['text_affiliate_payment'] = '<a href="affiliate_id=%d">%s</a> a mis à jour les informations de son compte.';
 $_['text_affiliate_register'] = '<a href="affiliate_id=%d">%s</a> a ouvert un nouveau compte.';
+// Entry
+$_['entry_status'] = 'Statut';
+$_['entry_sort_order'] = 'Classement';
+// Error
+$_['error_permission'] = 'Attention : vous n’êtes pas autorisé à modifier le tableau de bord de l’activité récente !';

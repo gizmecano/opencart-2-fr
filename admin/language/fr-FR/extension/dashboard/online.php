@@ -16,4 +16,12 @@
 // Heading
 $_['heading_title'] = 'Nombre de personnes en ligne';
 // Text
+$_['text_extension'] = 'Extensions';
+$_['text_success'] = 'Vous venez de modifier le tableau de bord des personnes en ligne !';
+$_['text_edit'] = 'Modifier le tableau de bord des personnes en ligne';
 $_['text_view'] = 'Voir plus...';
+// Entry
+$_['entry_status'] = 'Statut';
+$_['entry_sort_order'] = 'Classement';
+// Error
+$_['error_permission'] = 'Attention : vous n’êtes pas autorisé à modifier le tableau de bord des personnes en ligne !';

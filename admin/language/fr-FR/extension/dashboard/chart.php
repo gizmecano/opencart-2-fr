@@ -16,9 +16,17 @@
 // Heading
 $_['heading_title'] = 'Statistique des ventes';
 // Text
+$_['text_extension'] = 'Extensions';
+$_['text_success'] = 'Vous venez de modifier le tableau de bord des statistique des ventes !';
+$_['text_edit'] = 'Modifier le tableau de bord des statistique des ventes';
 $_['text_order'] = 'Commandes';
 $_['text_customer'] = 'Clients';
 $_['text_day'] = 'Aujourd’hui';
 $_['text_week'] = 'Semaine';
 $_['text_month'] = 'Mois';
 $_['text_year'] = 'Année';
+// Entry
+$_['entry_status'] = 'Statut';
+$_['entry_sort_order'] = 'Classement';
+// Error
+$_['error_permission'] = 'Attention : vous n’êtes pas autorisé à modifier le tableau de bord des statistique des ventes !';

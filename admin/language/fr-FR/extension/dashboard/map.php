@@ -15,5 +15,14 @@
 
 // Heading
 $_['heading_title'] = 'Carte du monde';
+// Text
+$_['text_extension'] = 'Extensions';
+$_['text_success'] = 'Vous venez de modifier le tableau de bord de la carte mondiale !';
+$_['text_edit'] = 'Modifier le tableau de bord de la carte mondiale';
 $_['text_order'] = 'Commandes';
 $_['text_sale'] = 'Chiffre d’affaire';
+// Entry
+$_['entry_status'] = 'Statut';
+$_['entry_sort_order'] = 'Classement';
+// Error
+$_['error_permission'] = 'Attention : vous n’êtes pas autorisé à modifier le tableau de bord de la carte mondiale !';

@@ -15,6 +15,10 @@
 
 // Heading
 $_['heading_title'] = 'Dernières commandes';
+// Text
+$_['text_extension'] = 'Extensions';
+$_['text_success'] = 'Vous venez de modifier le tableau de bord des dernières commandes !';
+$_['text_edit'] = 'Modifier le tableau de bord des dernières commandes';
 // Column
 $_['column_order_id'] = 'Commande n°';
 $_['column_customer'] = 'Client';
@@ -22,3 +26,8 @@ $_['column_status'] = 'Statut';
 $_['column_total'] = 'Total';
 $_['column_date_added'] = 'Date d’ajout';
 $_['column_action'] = 'Action';
+// Entry
+$_['entry_status']= 'Statut';
+$_['entry_sort_order'] = 'Classement';
+// Error
+$_['error_permission'] = 'Attention : vous n’êtes pas autorisé à modifier le tableau de bord des dernières commandes !';
