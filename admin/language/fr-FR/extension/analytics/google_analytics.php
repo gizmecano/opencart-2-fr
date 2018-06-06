@@ -16,9 +16,8 @@
 // Heading
 $_['heading_title'] = 'Google Analytics';
 // Text
-$_['text_analytics'] = 'Google Analytics';
+$_['text_extension'] = 'Extensions';
 $_['text_success'] = 'Succès : vous avez modifié Google Analytics!';
-$_['text_edit'] = 'Modifier Google Analytics';
 $_['text_signup'] = 'Connectez-vous à votre compte <a href="http://www.google.com/analytics/" target="_blank"><u>Google Analytics</u></a> et, après avoir créé votre profil de site, copiez puis collez le code analytique dans ce champ.';
 $_['text_default'] = 'Par défaut';
 // Entry
