@@ -25,7 +25,7 @@ $_['tab_settings'] = 'Paramètres';
 //Shipping Profile
 $_['text_shipping_dispatch_country'] = 'Expédition depuis le pays';
 $_['text_shipping_postcode'] = 'Code postal';
-$_['text_shipping_location'] = 'Ville ou région';
+$_['text_shipping_location'] = 'Localité ou région';
 $_['text_shipping_despatch'] = 'Temps d’expédition';
 $_['text_shipping_despatch_help'] = 'Il s’agit du nombre maximal de jours dont vous avez besoin pour expédier l’objet.';
 $_['text_shipping_nat'] = 'Services de transport nationaux';

@@ -31,6 +31,6 @@ $_['entry_cc_issue'] = 'Numéro d’émission de la carte : ';
 $_['error_required'] = 'Attention : tous les champs d’information de paiement sont requis.';
 $_['error_general'] = 'Attention : un problème est survenu durant l’opération. Veuillez essayer à nouveau.';
 $_['error_config'] = 'Attention : erreur de configuration du module de paiement. Veuillez vérifier vos données de connexion.';
-$_['error_address'] = 'Attention : les données concernant l’adresse, la ville, le pays ou le code postal ne correspondent pas. Veuillez essayer à nouveau.';
+$_['error_address'] = 'Attention : les données concernant l’adresse, la localité, le pays ou le code postal ne correspondent pas. Veuillez essayer à nouveau.';
 $_['error_declined'] = 'Attention : cette opération a été refusée. Veuillez essayer à nouveau.';
 $_['error_invalid'] = 'Attention : les informations fournies pour cette carte de crédit ne sont pas valides. Veuillez essayer à nouveau.';
