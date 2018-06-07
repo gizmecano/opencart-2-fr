@@ -21,7 +21,7 @@ $_['text_success'] = 'Vous venez de modifier les paramètres du compte de redire
 $_['text_edit'] = 'Modifier Redirection BluePay (nécessite SSL)';
 $_['text_bluepay_redirect'] = '<a href="http://www.bluepay.com/preferred-partner/opencart" target="_blank"><img src="view/image/payment/bluepay.jpg" alt="BluePay en ligne" title="BluePay en ligne" style="border: 1px solid #EEEEEE;" /></a>';
 $_['text_sim'] = 'Simulateur';
-$_['text_test'] = 'Test';
+$_['text_test'] = 'Environnement de test';
 $_['text_live'] = 'En direct';
 $_['text_sale'] = 'Vente';
 $_['text_authenticate'] = 'Autoriser';

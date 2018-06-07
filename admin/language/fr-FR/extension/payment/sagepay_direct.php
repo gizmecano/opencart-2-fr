@@ -21,8 +21,8 @@ $_['text_success'] = 'Succès : vous avez modifié les détails du compte SagePa
 $_['text_edit'] = 'Modifier SagePay Direct';
 $_['text_sagepay_direct'] = '<a href="https://support.sagepay.com/apply/default.aspx?PartnerID=E511AF91-E4A0-42DE-80B0-09C981A3FB61" target="_blank"><img src="view/image/payment/sagepay.png" alt="SagePay" title="SagePay" style="border: 1px solid #EEEEEE;" /></a>';
 $_['text_sim'] = 'Simulateur';
-$_['text_test'] = 'Test';
-$_['text_live'] = 'Production';
+$_['text_test'] = 'Environnement de test';
+$_['text_live'] = 'Environnement de production';
 $_['text_defered'] = 'Différé';
 $_['text_authenticate'] = 'Authentifier';
 $_['text_release_ok'] = 'Envoi effectué';

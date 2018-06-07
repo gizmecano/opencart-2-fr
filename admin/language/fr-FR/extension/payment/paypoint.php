@@ -20,7 +20,7 @@ $_['text_extension'] = 'Extensions';
 $_['text_success'] = 'Vous venez de modifier les paramètres du module de paiement PayPoint !';
 $_['text_edit'] = 'Modifier les paramètres PayPoint';
 $_['text_paypoint'] = '<a href="https://www.paypoint.net/" target="_blank"><img src="view/image/payment/paypoint.png" alt="PayPoint" title="PayPoint" style="border: 1px solid #EEEEEE;" /></a>';
-$_['text_live'] = 'Production';
+$_['text_live'] = 'Environnement de production';
 $_['text_successful'] = 'Toujours réussi';
 $_['text_fail'] = 'Toujours échoué';
 // Entry
