@@ -12,12 +12,14 @@
 *  You should have received a copy of the GNU General Public License
 *  along with this program.  If not, see <http://www.gnu.org/licenses/>.
 */ 
-
+// Heading
 $_['heading_title'] = 'Service web Secure Trading';
+// Tab
 $_['tab_settings'] = 'Paramètres';
 $_['tab_myst'] = 'MyST';
+// Text
 $_['text_securetrading_ws'] = '<a href="http://www.securetradingfs.com/partner/open-cart/" target="_blank"><img src="view/image/payment/secure trading.png" alt="SagePay" title="SagePay" style="border: 1px solid #EEEEEE;" /></a>';
-$_['text_payment'] = 'Paiement';
+$_['text_extension'] = 'Extensions';
 $_['text_all_geo_zones'] = 'Toutes les zones géographiques';
 $_['text_process_immediately'] = 'Procéder immédiatement';
 $_['text_wait_x_days'] = 'Attendre %d jours';
@@ -56,6 +58,7 @@ $_['text_void_ok'] = 'Annulation effectuée : le statut de la commande a été m
 $_['text_confirm_void'] = 'Êtes-vous certain de vouloir inverser l’autorisation';
 $_['text_confirm_release'] = 'Êtes-vous certain de vouloir envoyer le paiement ?';
 $_['text_confirm_rebate'] = 'Êtes-vous certain de vouloir rembourser le paiement ?';
+// Entry
 $_['entry_site_reference'] = 'Référence du site';
 $_['entry_username'] = 'Nom d’utilisateur';
 $_['entry_password'] = 'Mot de passe';
@@ -85,6 +88,7 @@ $_['entry_date_from'] = 'Depuis la date du';
 $_['entry_date_to'] = 'Jusqu’à la date du';
 $_['entry_hour'] = 'Heure';
 $_['entry_minute'] = 'Minute';
+// Column
 $_['column_order_id'] = 'Commande n°';
 $_['column_transaction_reference'] = 'Référence de la transaction';
 $_['column_customer'] = 'Client';
@@ -94,6 +98,7 @@ $_['column_settle_status'] = 'Statut de réglement';
 $_['column_status'] = 'État';
 $_['column_type'] = 'Type';
 $_['column_payment_type'] = 'Type de paiement';
+// Error
 $_['error_permission'] = 'Vous n’êtes pas autorisé à modifier ce module';
 $_['error_site_reference'] = 'La référence du site est requise';
 $_['error_cards_accepted'] = 'Les cartes acceptées sont requises';
@@ -101,10 +106,12 @@ $_['error_username'] = 'Le nom d’utilisateur est requis';
 $_['error_password'] = 'Le mot de passe est requis';
 $_['error_connection'] = 'Impossible de se connecter à Secure Trading';
 $_['error_data_missing'] = 'Données manquantes';
+// Help
 $_['help_refund'] = 'Veuillez inclure la partie décimale et le séparateur (virgule) du montant';
 $_['help_csv_username'] = 'Nom d’utilisateurdu service de téléchargement de transaction';
 $_['help_csv_password'] = 'Mot de passe du service de téléchargement de transaction';
 $_['help_total'] = 'Le montant total que la commande doit atteindre avant que ce module de paiement devienne actif';
+// Button
 $_['button_reverse_authorisation'] = 'Autorisation inverse';
 $_['button_refund'] = 'Remboursement';
 $_['button_show'] = 'Afficher';

@@ -16,6 +16,7 @@
 // Heading
 $_['heading_title'] = 'Realex Redirect';
 // Text
+$_['text_extension'] = 'Extensions';
 $_['text_success'] = 'Succès : vous avez modifié les détails du compte Realex Redirect !';
 $_['text_edit'] = 'Modifier Realex Redirect';
 $_['text_live'] = 'Production';

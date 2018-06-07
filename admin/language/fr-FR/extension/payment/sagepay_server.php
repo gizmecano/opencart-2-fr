@@ -16,7 +16,7 @@
 // Heading
 $_['heading_title'] = 'SagePay Server';
 // Text
-$_['text_payment'] = 'Paiement';
+$_['text_extension'] = 'Extensions';
 $_['text_success'] = 'Succès : vous avez modifié les détails du compte SagePay !';
 $_['text_edit'] = 'Modifier SagePay Server';
 $_['text_sagepay_server'] = '<a href="https://support.sagepay.com/apply/default.aspx?PartnerID=E511AF91-E4A0-42DE-80B0-09C981A3FB61" target="_blank"><img src="view/image/payment/sagepay.png" alt="SagePay" title="SagePay" style="border: 1px solid #EEEEEE;" /></a>';

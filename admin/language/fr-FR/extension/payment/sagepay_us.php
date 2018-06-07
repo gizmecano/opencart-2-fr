@@ -16,7 +16,7 @@
 // Heading
 $_['heading_title'] = 'Sage Payment Solutions (US)';
 // Text
-$_['text_payment'] = 'Paiement';
+$_['text_extension'] = 'Extensions';
 $_['text_success'] = 'Succès : vous avez modifié les détails du compte SagePay !';
 $_['text_edit'] = 'Modifier Sage Payment Solutions (US)';
 // Entry

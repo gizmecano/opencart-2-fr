@@ -16,7 +16,7 @@
 // Heading
 $_['heading_title'] = 'Skrill';
 // Text
-$_['text_payment'] = 'Paiement';
+$_['text_extension'] = 'Extensions';
 $_['text_success'] = 'Succès : vous avez modifiéles détails concernant Skrill.';
 $_['text_edit'] = 'Modifier Skrill';
 $_['text_skrill'] = '<a href="https://content.skrill.com/en/ecommerce-solutions/opencart/" target="_blank"><img src="view/image/payment/skrill.png" alt="Skrill" title="Skrill" style="border: 1px solid #EEEEEE;" /></a>';

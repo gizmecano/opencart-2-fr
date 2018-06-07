@@ -16,7 +16,7 @@
 // Heading
 $_['heading_title'] = 'Paiements Paypal standard';
 // Text
-$_['text_payment'] = 'Paiement';
+$_['text_extension'] = 'Extensions';
 $_['text_success'] = 'Vous avez modifié les détails du compte PayPal avec succès !';
 $_['text_edit'] = 'Modifier le paiement Paypal standard';
 $_['text_pp_standard'] = '<a target="_BLANK" href="https://www.paypal.com/uk/mrb/pal=V4T754QB63XXL"><img src="view/image/payment/paypal.png" alt="PayPal Website Payment Pro" title="PayPal Website Payment Pro iFrame" style="border: 1px solid #EEEEEE;" /></a>';

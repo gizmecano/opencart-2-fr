@@ -16,6 +16,7 @@
 // Heading
 $_['heading_title'] = 'Paiement Express via PayPal';
 // Text
+$_['text_extension'] = 'Extensions';
 $_['text_success'] = 'Succès : vous avez modifié les détails de compte PayPal Express !';
 $_['text_edit'] = 'Modifier Paiement Express via PayPal';
 $_['text_pp_express'] = '<a target="_BLANK" href="https://www.paypal.com/uk/mrb/pal=V4T754QB63XXL"><img src="view/image/payment/paypal.png" alt="PayPal Website Payment Pro" title="PayPal Website Payment Pro iFrame" style="border: 1px solid #EEEEEE;" /></a>';

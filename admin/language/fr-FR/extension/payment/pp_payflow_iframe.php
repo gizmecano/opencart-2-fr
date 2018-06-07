@@ -17,7 +17,7 @@
 $_['heading_title'] = 'PayPal Payflow Pro iFrame';
 $_['heading_refund'] = 'Rembourser';
 // Text
-$_['text_payment'] = 'Paiement';
+$_['text_extension'] = 'Extensions';
 $_['text_success'] = 'Vous venez de modifier les paramètres du module de paiement PayPal Payflow Pro iFrame !';
 $_['text_edit'] = 'Modifier les paramètres PayPal Payflow Pro iFrame';
 $_['text_pp_payflow_iframe'] = '<a target="_BLANK" href="https://www.paypal.com/uk/mrb/pal=V4T754QB63XXL"><img src="view/image/payment/paypal.png" alt="PayPal Website Payment Pro" title="PayPal Website Payment Pro iFrame" style="border: 1px solid #EEEEEE;" /></a>';
