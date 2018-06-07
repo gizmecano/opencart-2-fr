@@ -25,7 +25,7 @@ $_['text_live'] = 'Production';
 $_['text_authorization'] = 'Autorisation';
 $_['text_capture'] = 'Capture';
 // Entry
-$_['entry_login'] = 'ID marchand';
+$_['entry_login'] = 'Identifiant du marchand';
 $_['entry_key'] = 'Clef du marchand';
 $_['entry_mode'] = 'Mode de transaction';
 $_['entry_method'] = 'Méthode de transaction';

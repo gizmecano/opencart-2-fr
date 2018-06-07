@@ -29,7 +29,7 @@ $_['text_denmark'] = 'Danemark';
 $_['text_germany'] = 'Allemagne';
 $_['text_netherlands'] = 'Pays-Bas';
 // Entry
-$_['entry_merchant'] = 'Identifiant marchand Klarna';
+$_['entry_merchant'] = 'Identifiant du marchand Klarna';
 $_['entry_secret'] = 'Mot de passe Klarna';
 $_['entry_server'] = 'Serveur';
 $_['entry_total'] = 'Total';

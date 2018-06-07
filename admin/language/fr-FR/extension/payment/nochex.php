@@ -25,7 +25,7 @@ $_['text_merchant'] = 'Compte marchand';
 // Entry
 $_['entry_email'] = 'Adresse électronique';
 $_['entry_account'] = 'Type de compte';
-$_['entry_merchant'] = 'Identifiant marchand';
+$_['entry_merchant'] = 'Identifiant du marchand';
 $_['entry_template'] = 'Modèle de clef';
 $_['entry_test'] = 'Test';
 $_['entry_total'] = 'Total';

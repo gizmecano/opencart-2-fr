@@ -23,7 +23,7 @@ $_['text_pay'] = 'LIQPAY';
 $_['text_card'] = 'Carte bancaire';
 $_['text_liqpay'] = '<img src="view/image/payment/liqpay.png" alt="LIQPAY" title="LIQPAY" style="border: 1px solid #EEEEEE;" />';
 // Entry
-$_['entry_merchant'] = 'Identifiant marchand';
+$_['entry_merchant'] = 'Identifiant du marchand';
 $_['entry_signature'] = 'Signature';
 $_['entry_type'] = 'Type';
 $_['entry_total'] = 'Total';

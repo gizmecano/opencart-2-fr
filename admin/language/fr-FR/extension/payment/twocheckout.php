@@ -21,7 +21,7 @@ $_['text_success'] = 'Succès : vous avez modifié les détails du compte 2Check
 $_['text_edit'] = 'Modifier 2Checkout';
 $_['text_twocheckout'] = '<a href="https://www.2checkout.com/2co/affiliate?affiliate=1596408" target="_blank"><img src="view/image/payment/2checkout.png" alt="2Checkout" title="2Checkout" style="border: 1px solid #EEEEEE;" /></a>';
 // Entry
-$_['entry_account'] = 'ID du compte 2Checkout';
+$_['entry_account'] = 'Identifiant du compte 2Checkout';
 $_['entry_secret'] = 'Mot secret';
 $_['entry_display'] = 'Direct Checkout';
 $_['entry_test'] = 'Mode de test';

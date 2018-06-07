@@ -65,7 +65,7 @@ $_['tab_order_status'] = 'Statut de la commande';
 $_['error_permission'] = 'Attention : vous n’avez pas la permission de modifier le paiement Worldpay !';
 $_['error_service_key'] = 'Clef de service requise !';
 $_['error_client_key'] = 'Clef de client requise !';
-$_['error_merchant'] = 'ID marchand requis !';
+$_['error_merchant'] = 'Identifiant du marchand requis !';
 // Order page - payment tab
 $_['text_payment_info'] = 'Information de paiement';
 $_['text_refund_status'] = 'Paiement remboursé';

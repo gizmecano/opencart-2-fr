@@ -20,7 +20,7 @@ $_['text_extension'] = 'Extensions';
 $_['text_success'] = 'Vous venez de modifier les paramètres du module de paiement Payza !';
 $_['text_edit'] = 'Modifier les paramètres Payza';
 // Entry
-$_['entry_merchant'] = 'Identifiant marchand';
+$_['entry_merchant'] = 'Identifiant du marchand';
 $_['entry_security'] = 'Code de sécurité';
 $_['entry_callback'] = 'URL de fonction de rappel (callback)';
 $_['entry_total'] = 'Total';

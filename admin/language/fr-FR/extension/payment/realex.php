@@ -24,7 +24,7 @@ $_['text_demo'] = 'Démonstration';
 $_['text_card_type'] = 'Type de carte';
 $_['text_enabled'] = 'Activé';
 $_['text_use_default'] = 'Utilisation par défaut';
-$_['text_merchant_id'] = 'ID marchand';
+$_['text_merchant_id'] = 'Identifiant du marchand';
 $_['text_subaccount'] = 'Sous-compte';
 $_['text_secret'] = 'Secret partagé';
 $_['text_card_visa'] = 'Visa';
@@ -58,7 +58,7 @@ $_['text_confirm_capture'] = 'Êtes-vous certain de vouloir réceptionner le pai
 $_['text_confirm_rebate'] = 'Êtes-vous certain de vouloir remboursement le paiement ?';
 $_['text_realex'] = '<a target="_BLANK" href="http://www.realexpayments.co.uk/partner-refer?id=opencart"><img src="view/image/payment/realex.png" alt="Realex" title="Realex" style="border: 1px solid #EEEEEE;" /></a>';
 // Entry
-$_['entry_merchant_id'] = 'ID marchand';
+$_['entry_merchant_id'] = 'Identifiant du marchand';
 $_['entry_secret'] = 'Secret partagé';
 $_['entry_rebate_password'] = 'Mot de passe de remboursement';
 $_['entry_total'] = 'Total';

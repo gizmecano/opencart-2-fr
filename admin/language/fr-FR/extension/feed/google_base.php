@@ -19,7 +19,7 @@ $_['heading_title'] = 'Flux Google Base';
 $_['text_extension'] = 'Extensions';
 $_['text_success'] = 'Vous venez de modifier le flux Google Base !';
 $_['text_edit'] = 'Modifier le flux Google Base';
-$_['text_import'] = 'Pour télécharger la dernière liste de catégories Google, <a href="https://support.google.com/merchants/answer/160081?hl=fr" target="_blank" class="alert-link">cliquez ici</ a> et choisissez la taxonomie avec les ID numériques dans le fichier texte brut (.txt). Transférez via le bouton d’importation vert.';
+$_['text_import'] = 'Pour télécharger la dernière liste de catégories Google, <a href="https://support.google.com/merchants/answer/160081?hl=fr" target="_blank" class="alert-link">cliquez ici</ a> et choisissez la taxonomie avec les identifiants numériques dans le fichier texte brut (.txt). Transférez via le bouton d’importation vert.';
 // Column
 $_['column_google_category'] = 'Catégorie Google';
 $_['column_category'] = 'Catégorie';

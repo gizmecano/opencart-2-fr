@@ -24,7 +24,7 @@ $_['text_live'] = 'Production';
 $_['text_successful'] = 'Toujours réussi';
 $_['text_fail'] = 'Toujours échoué';
 // Entry
-$_['entry_merchant'] = 'Identifiant marchand';
+$_['entry_merchant'] = 'Identifiant du marchand';
 $_['entry_password'] = 'Mot de passe distant';
 $_['entry_test'] = 'Mode de test';
 $_['entry_total'] = 'Total';
