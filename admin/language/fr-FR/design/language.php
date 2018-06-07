@@ -20,7 +20,7 @@ $_['text_success'] = 'Vous venez de modifier l’éditeur linguistique !';
 $_['text_edit'] = 'Modifier la traduction';
 $_['text_default'] = 'Par défaut';
 $_['text_store'] = 'Boutique';
-$_['text_language'] = 'Language';
+$_['text_language'] = 'Langue';
 $_['text_translation'] = 'Choisir une traduction';
 $_['text_translation'] = 'Traductions';
 // Entry
