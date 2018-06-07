@@ -44,7 +44,7 @@ $_['entry_status'] = 'Statut';
 $_['entry_sort_order'] = 'Classement';
 $_['entry_key'] = 'Clef';
 $_['entry_secret'] = 'Secret';
-$_['entry_debug'] = 'Débogage';
+$_['entry_debug'] = 'Enregistrement de débogage';
 // Help
 $_['help_debug'] = 'En activant le débogage, vous autorisez l’écriture de données sensibles dans un fichier journal. Vous devriez toujours désactiver cette fonction sauf avis contraire.';
 $_['help_total'] = 'Le montant total que la commande doit atteindre avant que ce module de paiement devienne actif.';
