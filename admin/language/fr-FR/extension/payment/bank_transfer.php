@@ -16,7 +16,7 @@
 // Heading
 $_['heading_title'] = 'Virement bancaire';
 // Text
-$_['text_payment'] = 'Paiement';
+$_['text_extension'] = 'Extensions';
 $_['text_success'] = 'Vous venez de modifier les paramètres du module de virement bancaire !';
 $_['text_edit'] = 'Modifier les paramètres de virement bancaire';
 // Entry

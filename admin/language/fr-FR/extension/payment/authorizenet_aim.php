@@ -16,7 +16,7 @@
 // Heading
 $_['heading_title'] = 'Authorize.Net (AIM)';
 // Text
-$_['text_payment'] = 'Paiement';
+$_['text_extension'] = 'Extensions';
 $_['text_success'] = 'Vous venez de modifier les paramètres du compte Authorize.Net (AIM) !';
 $_['text_edit'] = 'Modifier le module Authorize.Net (AIM)';
 $_['text_test'] = 'Test';

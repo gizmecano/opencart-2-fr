@@ -16,7 +16,7 @@
 // Heading
 $_['heading_title'] = 'Authorize.Net (SIM)';
 // Text
-$_['text_payment'] = 'Paiement';
+$_['text_extension'] = 'Extensions';
 $_['text_success'] = 'Vous venez de modifier les paramètres du compte Authorize.Net (SIM) !';
 $_['text_edit'] = 'Modifier le module Authorize.Net (SIM)';
 $_['text_authorizenet_sim'] = '<a onclick="window.open(’http://reseller.authorize.net/application/?id=5561103’);"><img src="view/image/payment/authorizenet.png" alt="Authorize.Net" title="Authorize.Net" style="border: 1px solid #EEEEEE;" /></a>';
