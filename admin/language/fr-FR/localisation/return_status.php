@@ -14,7 +14,7 @@
 */ 
 
 // Heading
-$_['heading_title'] = 'États de retour';
+$_['heading_title'] = 'Statuts des retours';
 // Text
 $_['text_success'] = 'Vous venez de modifier les statuts de retour !';
 $_['text_list'] = 'Liste des statuts de retour';

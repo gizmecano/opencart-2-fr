@@ -14,7 +14,7 @@
 */ 
 
 // Heading
-$_['heading_title'] = 'États de commande';
+$_['heading_title'] = 'Statuts de commande';
 // Text
 $_['text_success'] = 'Vous venez de modifier les statuts de commande !';
 $_['text_list'] = 'Liste des statuts de commande';
