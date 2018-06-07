@@ -16,7 +16,7 @@
 // Heading
 $_['heading_title'] = 'Paiement à la livraison';
 // Text
-$_['text_payment'] = 'Paiement';
+$_['text_extension'] = 'Extensions';
 $_['text_success'] = 'Vous venez de modifier les paramètres du module de paiement à la livraison !';
 $_['text_edit'] = 'Modifier les paramètres';
 // Entry
