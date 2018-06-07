@@ -24,7 +24,7 @@ $_['tab_customer'] = 'Client';
 $_['tab_payment']= 'Plan de paiement';
 $_['tab_modify']= 'Modifier le plan de paiement';
 // Text
-$_['text_payment'] = 'Paiement';
+$_['text_extension'] = 'Extensions';
 $_['text_success'] = 'Vous venez de modifier le module de paiement Lay-Buy !';
 $_['text_edit'] = 'Modifier le module de paiement Lay-Buy';
 $_['text_laybuy'] = '<a href="https://www.lay-buys.com" target="_blank"><img src="view/image/payment/laybuys.png" style="width:94px;height:25px" alt="Lay-Buys" title="Lay-Buys"></a>';

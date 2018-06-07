@@ -16,7 +16,7 @@
 // Heading
 $_['heading_title'] = 'LIQPAY';
 // Text
-$_['text_payment'] = 'Paiement';
+$_['text_extension'] = 'Extensions';
 $_['text_success'] = 'Vous venez de modifier les paramètres du module de paiement LIQPAY !';
 $_['text_edit'] = 'Modifier les paramètres de LIQPAY';
 $_['text_pay'] = 'LIQPAY';

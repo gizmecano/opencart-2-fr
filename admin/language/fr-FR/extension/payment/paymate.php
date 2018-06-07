@@ -16,7 +16,7 @@
 // Heading
 $_['heading_title'] = 'Paymate';
 // Text
-$_['text_payment'] = 'Paiement';
+$_['text_extension'] = 'Extensions';
 $_['text_success'] = 'Vous venez de modifier les paramètres du module de paiement Paymate !';
 $_['text_edit'] = 'Modifier les paramètres Paymate';
 $_['text_paymate'] = '<img src="view/image/payment/paymate.png" alt="Paymate" title="Paymate" style="border: 1px solid #EEEEEE;" />';

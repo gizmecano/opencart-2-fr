@@ -16,13 +16,13 @@
 // Heading
 $_['heading_title'] = 'Payza';
 // Text
-$_['text_payment'] = 'Paiement';
+$_['text_extension'] = 'Extensions';
 $_['text_success'] = 'Vous venez de modifier les paramètres du module de paiement Payza !';
 $_['text_edit'] = 'Modifier les paramètres Payza';
 // Entry
 $_['entry_merchant'] = 'Identifiant marchand';
 $_['entry_security'] = 'Code de sécurité';
-$_['entry_callback'] = 'URL de retour callback';
+$_['entry_callback'] = 'URL de fonction de rappel (callback)';
 $_['entry_total'] = 'Total';
 $_['entry_order_status'] = 'Statut de la commande';
 $_['entry_geo_zone'] = 'Zone géographique';
