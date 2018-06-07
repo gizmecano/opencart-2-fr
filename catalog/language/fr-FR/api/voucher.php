@@ -18,7 +18,7 @@ $_['text_success'] = 'Succès : la déduction de votre bon d’achat a été app
 $_['text_cart'] = 'Succès : vous avez correctement modifié votre panier d’achat !';
 $_['text_for'] = '%s bon d’achat pour %s';
 // Error
-$_['error_permission'] = 'Attention : vous n’êtes pas autorisé à accéder à l’API !';
+$_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de accéder à l’API !';
 $_['error_voucher'] = 'Attention : le bon d’achat est soit invalide soit son solde a déjà été compensé !';
 $_['error_to_name'] = 'Le nom du destinataire doit contenir entre 1 et 64 caractères';
 $_['error_from_name'] = 'Votre nom doit contenir entre 1 et 64 caractères';

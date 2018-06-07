@@ -16,6 +16,7 @@
 // Heading
 $_['heading_title'] = 'Installateur d’extensions';
 // Text
+$_['text_upload'] = 'Transférez vos extensions';
 $_['text_success'] = 'Succès : l’extension a été installée correctement !';
 $_['text_unzip'] = 'Extraction des fichiers !';
 $_['text_ftp'] = 'Copie des fichiers !';
@@ -29,16 +30,16 @@ $_['entry_upload'] = 'Télécharger le fichier';
 $_['entry_overwrite'] = 'Fichiers qui seront écrasés';
 $_['entry_progress'] = 'Avancement';
 // Help
-$_['help_upload'] = 'Nécessite un fichier de modification avec l’extension ". ocmod.zip « ou ». ocmod.xml".';
+$_['help_upload'] = 'Nécessite un fichier de modification avec l’extension «.ocmod.zip » ou «.ocmod.xml.zip ».';
 // Error
-$_['error_permission'] = 'Attention : vous n’êtes pas autorisé à modifier les extensions !';
+$_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier les extensions !';
 $_['error_temporary'] = 'Attention : certains fichiers temporaires doivent être supprimés. Cliquez sur le bouton effacer pour les supprimer !';
 $_['error_upload'] = 'Le fichier n’a pas pu être téléchargé !';
 $_['error_filetype'] = 'Type de fichier incorrect !';
 $_['error_file'] = 'Le fichier est introuvable !';
 $_['error_unzip'] = 'Le fichier ZIP n’a pas pu être ouvert !';
 $_['error_code'] = 'La modification nécessite un code d’identification unique !';
-$_['error_exists'] = 'La modification %s utilise le même code ID que celui que vous essayez de télécharger !';
+$_['error_exists'] = 'La modification %s utilise le même code d’identification que celui que vous essayez de télécharger !';
 $_['error_directory'] = 'Le dossier contenant les fichiers à télécharger est introuvable !';
 $_['error_ftp_status'] = 'Le protocole FTP doit être activée dans les paramètres';
 $_['error_ftp_connection'] = 'Impossible de se connecter en tant que %s : %s';

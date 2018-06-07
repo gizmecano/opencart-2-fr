@@ -55,7 +55,7 @@ $_['entry_sort_order'] = 'Classement';
 $_['help_regex'] = 'Utiliser les expressions régulières (Regex), par exemple : /[a-zA-Z0-9_-]/';
 $_['help_sort_order'] = 'Utiliser le signe moins pour revenir au champ précédent.';
 // Error
-$_['error_permission'] = 'Attention : vous n’êtes pas autorisé à modifier les champs personnalisés !';
+$_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier les champs personnalisés !';
 $_['error_name'] = 'Le nom du champ personnalisé doit contenir entre 1 et 128 caractères !';
 $_['error_type'] = 'Attention : les valeurs du champ personnalisé sont requises !';
 $_['error_custom_value'] = 'Le nom du champ personnalisé doit contenir entre 1 et 128 caractères !';

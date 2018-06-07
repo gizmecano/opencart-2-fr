@@ -24,7 +24,6 @@ $_['text_choose'] = 'Selectionnez';
 $_['text_select'] = 'Sélectionner';
 $_['text_radio'] = 'Bouton Radio';
 $_['text_checkbox'] = 'Case à cocher';
-$_['text_image'] = 'Image';
 $_['text_input'] = 'Entrée de données';
 $_['text_text'] = 'Texte';
 $_['text_textarea'] = 'Zone de texte';
@@ -43,7 +42,7 @@ $_['entry_option_value'] = 'Nom de la valeur d’option';
 $_['entry_image'] = 'Image';
 $_['entry_sort_order'] = 'Classement';
 // Error
-$_['error_permission'] = 'Attention : vous n’êtes pas autorisé à modifier les options !';
+$_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier les options !';
 $_['error_name'] = 'Nom de l’option doit contenir entre 1 et 128 caractères !';
 $_['error_type'] = 'Attention : valeurs de l’option requises !';
 $_['error_option_value'] = 'Le nom du champ personnalisé doit contenir entre 1 et 128 caractères !';

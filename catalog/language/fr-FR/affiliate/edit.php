@@ -32,7 +32,7 @@ $_['entry_website'] = 'Site Internet';
 $_['entry_address_1'] = 'Adresse 1';
 $_['entry_address_2'] = 'Adresse 2';
 $_['entry_postcode'] = 'Code postal';
-$_['entry_city'] = 'Ville';
+$_['entry_city'] = 'Localité';
 $_['entry_country'] = 'Pays';
 $_['entry_zone'] = 'Subdivision administrative';
 // Error
@@ -42,7 +42,7 @@ $_['error_lastname'] = 'Le nom de famille doit contenir entre 1 à 32 caractère
 $_['error_email'] = 'L’adresse électronique ne semble pas être valide !';
 $_['error_telephone'] = 'Le numéro de téléphone doit contenir entre 3 et 32 caractères !';
 $_['error_address_1'] = 'L’adresse doit contenir entre 3 et 128 caractères !';
-$_['error_city'] = 'Le nom de la ville doit contenir entre 2 à 128 caractères !';
+$_['error_city'] = 'Le nom de la localité doit contenir entre 2 à 128 caractères !';
 $_['error_country'] = 'Veuillez sélectionner un pays !';
 $_['error_zone'] = 'Veuillez sélectionner une subdivision administrative !';
 $_['error_postcode'] = 'Attention : le code postal doit contenir entre 2 à 10 caractères !';

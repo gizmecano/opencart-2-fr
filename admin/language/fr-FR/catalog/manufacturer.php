@@ -37,7 +37,7 @@ $_['entry_type'] = 'Type';
 // Help
 $_['help_keyword'] = 'N’utilisez pas d’espace mais des tirets à leur place et faites en sorte que l’URL soit le plus spécifique possible.';
 // Error
-$_['error_permission'] = 'Attention : vous n’êtes pas autorisé à modifier les marques !';
+$_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier les marques !';
 $_['error_name'] = 'La composition du nom du fabricant doit être comprise entre de 2 à 64 caractères !';
 $_['error_keyword'] = 'URL de référencement (SEO) déjà en cours d’utilisation !';
 $_['error_product'] = 'Attention : ce fabricant ne peut être supprimé car il est actuellement affecté aux produits %s !';

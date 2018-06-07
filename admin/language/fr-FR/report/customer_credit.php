@@ -26,3 +26,4 @@ $_['column_action'] = 'Action';
 // Entry
 $_['entry_date_start'] = 'Date de début';
 $_['entry_date_end'] = 'Date de fin';
+$_['entry_customer'] = 'Client';

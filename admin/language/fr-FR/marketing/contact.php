@@ -41,6 +41,6 @@ $_['help_customer'] = '(Autocomplétion)';
 $_['help_affiliate'] = '(Autocomplétion)';
 $_['help_product'] = 'Envoyer uniquement aux clients qui ont commandé des produits dans la liste. Autocomplétion';
 // Error
-$_['error_permission'] = 'Attention : vous n’êtes pas autorisé à envoyer de lettre d’informations !';
+$_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de envoyer de lettre d’informations !';
 $_['error_subject'] = 'Le sujet de la lettre d’informations est requis !';
 $_['error_message'] = 'Le corps de la lettre d’informations est requis !';

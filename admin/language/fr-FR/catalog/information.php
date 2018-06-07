@@ -42,7 +42,7 @@ $_['help_keyword'] = 'N’utilisez pas d’espace mais des tirets à leur place 
 $_['help_bottom'] = 'Afficher dans le pied de page.';
 // Error
 $_['error_warning'] = 'Attention : veuillez vérifier attentivement les erreurs dans le formulaire !';
-$_['error_permission'] = 'Attention : vous n’êtes pas autorisé à modifier les Informations !';
+$_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier les Informations !';
 $_['error_title'] = 'Le titre de l’information doit contenir entre 3 et 64 caractères !';
 $_['error_description'] = 'La description de l’information doit contenir plus de 3 caractères !';
 $_['error_meta_title'] = 'Le titre méta doit contenir plus de 3 et moins de 255 caractères !';

@@ -21,6 +21,6 @@ $_['text_success'] = 'Succès : la base de données a été correctement sauvega
 $_['entry_import'] = 'Importer une sauvegarde';
 $_['entry_export'] = 'Exporter une sauvegarde';
 // Error
-$_['error_permission'] = 'Attention : vous n’êtes pas autorisé à modifier les sauvegardes et restaurations !';
+$_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier les sauvegardes et restaurations !';
 $_['error_export'] = 'Attention : vous devez sélectionner au moins une table à exporter !';
 $_['error_empty'] = 'Attention : le fichier importé est vide !';

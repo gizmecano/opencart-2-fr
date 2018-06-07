@@ -16,6 +16,7 @@
 // Heading
 $_['heading_title'] = 'Commandes';
 // Text
+$_['text_success'] = 'Vous venez de modifier les commandes !';
 $_['text_list'] = 'Liste des commandes';
 $_['text_add'] = 'Ajouter une commande';
 $_['text_edit'] = 'Modifier une commande';
@@ -105,7 +106,7 @@ $_['entry_address'] = 'Choisir l’adresse';
 $_['entry_company'] = 'Société';
 $_['entry_address_1'] = 'Adresse 1';
 $_['entry_address_2'] = 'Adresse 2';
-$_['entry_city'] = 'Ville';
+$_['entry_city'] = 'Localité';
 $_['entry_postcode'] = 'Code postal';
 $_['entry_country'] = 'Pays';
 $_['entry_zone'] = 'Subdivision administrative';
@@ -139,6 +140,6 @@ $_['entry_date_modified'] = 'Date de modification';
 $_['help_override'] = 'Si la commande d’un client est bloquée pour une modification du statut de commande en raison d’une extension anti-fraude, vous pouvez activer l’outrepassement.';
 // Error
 $_['error_warning'] = 'Attention : veuillez vérifier attentivement les erreurs dans le formulaire !';
-$_['error_permission'] = 'Attention : vous n’avez pas la permission de modifier les commandes !';
+$_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier les commandes !';
 $_['error_action'] = 'Attention : cette action ne peut être terminée !';
 $_['error_filetype'] = 'Attention : type de fichier incorrect !';
