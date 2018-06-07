@@ -22,7 +22,7 @@ $_['text_edit'] = 'Modifier le module Authorize.Net (AIM)';
 $_['text_test'] = 'Test';
 $_['text_live'] = 'Direct';
 $_['text_authorization'] = 'Autorisation';
-$_['text_capture'] = 'Capture';
+$_['text_capture'] = 'Réception';
 $_['text_authorizenet_aim'] = '<a onclick="window.open(’http://reseller.authorize.net/application/?id=5561103’);"><img src="view/image/payment/authorizenet.png" alt="Authorize.Net" title="Authorize.Net" style="border: 1px solid #EEEEEE;" /></a>';
 // Entry
 $_['entry_login'] = 'Identifiant';

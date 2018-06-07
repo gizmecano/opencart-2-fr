@@ -38,15 +38,15 @@ $_['column_pending_reason'] = 'Motif d’attente';
 $_['column_date_added'] = 'Ajouté le';
 $_['column_action'] = 'Action';
 // Entry
-$_['entry_capture_amount'] = 'Montant de la capture';
-$_['entry_capture_complete'] = 'Capture complète';
+$_['entry_capture_amount'] = 'Montant de la réception';
+$_['entry_capture_complete'] = 'Réception complète';
 $_['entry_full_refund'] = 'Remboursement intégral';
 $_['entry_amount'] = 'Montant';
 $_['entry_note'] = 'Note';
 // Help
-$_['help_capture_complete'] = 'Si il s’agit de la dernière capture.';
+$_['help_capture_complete'] = 'Si il s’agit de la dernière réception.';
 // Tab
-$_['tab_capture'] = 'Capture';
+$_['tab_capture'] = 'Réception';
 $_['tab_refund'] = 'Remboursement';
 // Button
 $_['button_void'] = 'Annulation';

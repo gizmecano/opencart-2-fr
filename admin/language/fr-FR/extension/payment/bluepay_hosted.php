@@ -60,7 +60,7 @@ $_['entry_debug'] = 'Enregistrement de débogage';
 // Help
 $_['help_total'] = 'Le montant total que la commande doit atteindre avant que ce module de paiement devienne actif.';
 $_['help_debug'] = 'En activant le débogage, vous autorisez l’écriture de données sensibles dans un fichier journal. Vous devriez toujours désactiver cette fonction sauf avis contraire.';
-$_['help_transaction'] = 'La vente facturera le client immédiatement. L’autorisation mettra les fonds en attente pour la capture future.';
+$_['help_transaction'] = 'La vente facturera le client immédiatement. L’autorisation mettra les fonds en attente pour la réception future.';
 $_['help_cron_job_token'] = 'Utilisez une valeur longue et difficile à deviner';
 $_['help_cron_job_url'] = 'Définissez une tâche CRON pour appeler cette URL';
 // Button

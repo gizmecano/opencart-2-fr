@@ -23,7 +23,7 @@ $_['text_web_payment_software'] = '<a href="http://www.web-payment-software.com/
 $_['text_test'] = 'Test';
 $_['text_live'] = 'Production';
 $_['text_authorization'] = 'Autorisation';
-$_['text_capture'] = 'Capture';
+$_['text_capture'] = 'Réception';
 // Entry
 $_['entry_login'] = 'Identifiant du marchand';
 $_['entry_key'] = 'Clef du marchand';

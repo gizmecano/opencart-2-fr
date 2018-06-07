@@ -166,7 +166,7 @@ $_['help_total'] = 'Le total de la commande doit être atteint avant que cette m
 // Button
 $_['button_refund'] = 'Remboursement';
 $_['button_void'] = 'Annulation';
-$_['button_capture'] = 'Capture';
+$_['button_capture'] = 'Réception';
 $_['button_reauthorise'] = 'Ré-approuver';
 // Error
 $_['error_permission'] = 'Attention : vous n’êtes pas autorisé à modifier les paramètres du module de paiement PayPal Website Payment Pro iFrame (UK) !';

@@ -43,12 +43,12 @@ $_['text_settle_delayed'] = 'Retardé';
 $_['text_settle_multi'] = 'Multi';
 $_['text_url_message'] = 'Vous devez fournir l’URL de la boutique au gestionnaire du compte Realex avant de pouvoir mettre en production';
 $_['text_payment_info'] = 'Informations de paiement';
-$_['text_capture_status'] = 'Paiement reçu';
+$_['text_capture_status'] = 'Paiement réceptionné';
 $_['text_void_status'] = 'Paiement annulé';
 $_['text_rebate_status'] = 'Paiement remboursé';
 $_['text_order_ref'] = 'Référence de la commande';
 $_['text_order_total'] = 'Total autorisé';
-$_['text_total_captured'] = 'Total capturé';
+$_['text_total_captured'] = 'Total réceptionné';
 $_['text_transactions'] = 'Transactions';
 $_['text_column_amount'] = 'Montant';
 $_['text_column_type'] = 'Type';
@@ -94,7 +94,7 @@ $_['tab_order_status'] = 'Statut de la commande';
 $_['tab_payment'] = 'Paramètres de paiement';
 $_['tab_advanced'] = 'Options avancées';
 // Button
-$_['button_capture'] = 'Capture';
+$_['button_capture'] = 'Réception';
 $_['button_rebate'] = 'Remise et/ou remboursement';
 $_['button_void'] = 'Annulation';
 // Error
