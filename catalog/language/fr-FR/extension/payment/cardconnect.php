@@ -20,7 +20,7 @@ $_['text_echeck_details'] = 'Détails du eChèque (eCheck)';
 $_['text_card'] = 'Carte';
 $_['text_echeck'] = 'eChèque (eCheck)';
 $_['text_wait'] = 'Veuillez patienter !';
-$_['text_confirm_delete'] = 'Êtes vous certain de vouloir supprimer la carte ?';
+$_['text_confirm_delete'] = 'Êtes-vous certain de vouloir supprimer la carte ?';
 $_['text_no_cards'] = 'Aucune carte enregistrée actuellement';
 $_['text_select_card'] = 'Veuillez sélectionner une carte';
 // Entry
