@@ -15,9 +15,8 @@
 
 // Heading
 $_['heading_title'] = 'Globalpay Redirect';
-
 // Text
-$_['text_payment'] = 'Paiement';
+$_['text_extension'] = 'Extensions';
 $_['text_success'] = 'Vous venez de modifier avec succès les détails du compte « Globalpay Redirect » !';
 $_['text_edit'] = 'Modifier Globalpay Redirect';
 $_['text_live'] = 'Direct';
@@ -58,7 +57,6 @@ $_['text_confirm_void'] = 'Êtes-vous certain de vouloir annuler ce paiement ?';
 $_['text_confirm_capture'] = 'Êtes-vous certain de vouloir capturer le paiement ?';
 $_['text_confirm_rebate'] = 'Êtes-vous certain de vouloir rembourser le paiement ?';
 $_['text_globalpay'] = '<a target="_blank" href="https://resourcecentre.globaliris.com/getting-started.php?id=OpenCart"><img src="view/image/payment/globalpay.png" alt="Globalpay" title="Globalpay" style="border: 1px solid #EEEEEE;" /></a>';
-
 // Entry
 $_['entry_merchant_id'] = 'Numéro de boutique';
 $_['entry_secret'] = 'Secret partagé';
@@ -83,26 +81,22 @@ $_['entry_status_decline_bank'] = 'Refuser - erreur de la banque';
 $_['entry_status_void'] = 'Annulée';
 $_['entry_status_rebate'] = 'Remboursé';
 $_['entry_notification_url'] = 'URL de notification';
-
 // Help
 $_['help_total'] = 'Le montant total que la commande doit atteindre avant que ce module de paiement devienne actif';
 $_['help_card_select'] = 'Demander à l’utilisateur de choisir le type de carte bancaire avant qu’ils soient redirigés';
 $_['help_notification'] = 'Vous devez fournir cette URL à Globalpay pour recevoir des notifications de paiement';
 $_['help_debug'] = 'En activant le débogage, vous autorisez l’écriture de données sensibles dans un fichier journal. Vous devriez toujours désactiver cette fonction sauf avis contraire';
 $_['help_dcc_settle'] = 'Si votre sous-compte a DCC activé vous devez utiliser le réglement automatique';
-
 // Tab
 $_['tab_api'] = 'Détails de l’API';
 $_['tab_account'] = 'Informations de l’API';
 $_['tab_order_status'] = 'Statut de la commande';
 $_['tab_payment'] = 'Paramètres de paiement';
 $_['tab_advanced'] = 'Avancé';
-
 // Button
 $_['button_capture'] = 'Réceptionner';
 $_['button_rebate'] = 'Remise et/ou remboursement';
 $_['button_void'] = 'Annulation';
-
 // Error
 $_['error_merchant_id'] = 'Un numéro de boutique est requis';
 $_['error_secret'] = 'Un secret partagé est requis';

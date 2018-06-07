@@ -16,7 +16,7 @@
 // Heading
 $_['heading_title'] = 'Paiement eWAY';
 // Text
-$_['text_payment'] = 'Paiement';
+$_['text_extension'] = 'Extensions';
 $_['text_success'] = 'Vous venez de modifier les détails du module de paiement eWAY !';
 $_['text_edit'] = 'Modifier eWAY';
 $_['text_eway'] = '<a target="_BLANK" href="http://www.eway.com.au/"><img src="view/image/payment/eway.png" alt="eWAY" title="eWAY" style="border: 1px solid #EEEEEE;" /></a>';

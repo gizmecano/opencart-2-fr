@@ -16,8 +16,8 @@
 // Heading
 $_['heading_title'] = 'G2A Pay';
 // Text
-$_['text_payment'] = 'Paiements';
-$_['text_success'] = 'Vous venez de modifier les détails du module G2A Pay.';
+$_['text_extension'] = 'Extensions';
+$_['text_success'] = 'Vous venez de modifier les détails du module G2A Pay !';
 $_['text_edit'] = 'Modifier G2A Pay';
 $_['text_g2apay'] = '<a href="https://pay.g2a.com/" target="_blank"><img src="view/image/payment/g2apay.png" alt="G2A Pay" title="G2APay" style="border: 1px solid #EEEEEE;" /></a>';
 $_['text_payment_info'] = 'Information de paiement';

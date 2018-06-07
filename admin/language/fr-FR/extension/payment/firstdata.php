@@ -16,7 +16,7 @@
 // Heading
 $_['heading_title'] = 'First Data EMEA Connect (3DSecure activé)';
 // Text
-$_['text_payment'] = 'Paiement';
+$_['text_extension'] = 'Extensions';
 $_['text_success'] = 'Succès : vous avez modifié les détails du compte First Data !';
 $_['text_edit'] = 'Modifier First Data EMEA Connect (3DSecure activé)';
 $_['text_notification_url'] = 'URL de notification';
