@@ -29,4 +29,4 @@ $_['text_year'] = 'Année';
 $_['entry_status'] = 'Statut';
 $_['entry_sort_order'] = 'Classement';
 // Error
-$_['error_permission'] = 'Attention : vous n’êtes pas autorisé à modifier le tableau de bord des statistique des ventes !';
+$_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier le tableau de bord des statistique des ventes !';

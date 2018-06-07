@@ -32,6 +32,6 @@ $_['entry_sort_order'] = 'Classement';
 $_['help_callback'] = 'Ceci doit être défini dans le panneau de configuration Payza. Vous devrez également vérifier que l’« état IPN » soit activé.';
 $_['help_total'] = 'Le montant total que la commande doit atteindre avant que ce module de paiement devienne actif.';
 // Error
-$_['error_permission'] = 'Attention : vous n’êtes pas autorisé à modifier les paramètres du module de paiement Payza !';
+$_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier les paramètres du module de paiement Payza !';
 $_['error_merchant'] = 'L’identifiant marchand est requis !';
 $_['error_security'] = 'Le code de sécurité est requis !';

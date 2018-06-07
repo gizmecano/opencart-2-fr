@@ -23,4 +23,4 @@ $_['column_name'] = 'Nom de CAPTCHA';
 $_['column_status'] = 'Statut';
 $_['column_action'] = 'Action';
 // Error
-$_['error_permission'] = 'Attention : vous n’êtes pas autorisé à modifier CAPTCHA !';
+$_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier CAPTCHA !';

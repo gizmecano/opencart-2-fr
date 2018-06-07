@@ -36,7 +36,7 @@ $_['entry_sort_order'] = 'Classement';
 $_['help_test'] = 'Utilisez le live ou bien tester avec (bac à sable) pour traiter les transactions ?';
 $_['help_total'] = 'Le montant total que la commande doit atteindre avant que ce module de paiement devienne actif';
 // Error
-$_['error_permission'] = 'Attention : vous n’êtes pas autorisé à modifier le paiement PayPal site paiement Checkout Pro !';
+$_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier le paiement PayPal site paiement Checkout Pro !';
 $_['error_username'] = 'Nom d’utilisateur API requis !';
 $_['error_password'] = 'Mot de passe API requis !';
 $_['error_signature'] = 'Signature de l’API requise !';

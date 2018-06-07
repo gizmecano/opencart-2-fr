@@ -22,4 +22,4 @@ $_['text_edit'] = 'Modifier le module « Catégorie »';
 // Entry
 $_['entry_status'] = 'Statut';
 // Error
-$_['error_permission'] = 'Attention : vous n’êtes pas autorisé à modifier le module « Catégorie » !';
+$_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier le module « Catégorie » !';

@@ -41,4 +41,4 @@ $_['entry_position'] = 'Position';
 $_['entry_status'] = 'Statut';
 $_['entry_sort_order'] = 'Classement';
 //Error
-$_['error_permission'] = 'Attention : vous n’êtes pas autorisé à modifier le module « Payer avec Amazon »!';
+$_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier le module « Payer avec Amazon »!';

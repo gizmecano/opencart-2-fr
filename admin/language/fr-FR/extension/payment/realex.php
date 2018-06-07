@@ -53,9 +53,9 @@ $_['text_transactions'] = 'Transactions';
 $_['text_column_amount'] = 'Montant';
 $_['text_column_type'] = 'Type';
 $_['text_column_date_added'] = 'Date de création';
-$_['text_confirm_void'] = 'Êtes-vous certain de vouloir annuler le paiement ?';
-$_['text_confirm_capture'] = 'Êtes-vous certain de vouloir réceptionner le paiement ?';
-$_['text_confirm_rebate'] = 'Êtes-vous certain de vouloir remboursement le paiement ?';
+$_['text_confirm_void'] = 'Confirmez-vous vouloir annuler le paiement ?';
+$_['text_confirm_capture'] = 'Confirmez-vous vouloir réceptionner le paiement ?';
+$_['text_confirm_rebate'] = 'Confirmez-vous vouloir remboursement le paiement ?';
 $_['text_realex'] = '<a target="_BLANK" href="http://www.realexpayments.co.uk/partner-refer?id=opencart"><img src="view/image/payment/realex.png" alt="Realex" title="Realex" style="border: 1px solid #EEEEEE;" /></a>';
 // Entry
 $_['entry_merchant_id'] = 'Identifiant du marchand';

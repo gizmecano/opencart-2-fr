@@ -54,7 +54,7 @@ $_['text_error_count'] = 'Vous avez sélectionné %s éléments, le traitement d
 $_['text_verifying'] = 'Vérification des éléments';
 $_['text_processing'] = 'Traitement de <span id="activeItems"></span> objets';
 $_['text_listed'] = 'Objet répertorié ! Identifiant : ';
-$_['text_ajax_confirm_listing'] = 'Êtes-vous sûr de vouloir mettre en vente ces objets de façon automatisée ?';
+$_['text_ajax_confirm_listing'] = 'Confirmez-vous vouloir mettre en vente ces objets de façon automatisée ?';
 $_['text_bulk_plan_error'] = 'Votre forfait actuel ne vous permet pas la mise en vente automatisée, veuillez mettre à niveau votre forfait <a href="%s">ici</a>';
 $_['text_item_limit'] = 'Vous ne pouvez pas mettre en vente ces objets car vous dépasseriez la limite de votre forfait, veuillez mettre à niveau votre forfait <a href="%s">ici</a>';
 $_['text_search_text'] = 'Saisissez un texte à rechercher';

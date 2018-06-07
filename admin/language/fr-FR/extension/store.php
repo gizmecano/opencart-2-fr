@@ -31,4 +31,4 @@ $_['text_feed'] = 'Flux des produits';
 $_['text_report'] = 'Rapports';
 $_['text_other'] = 'Autre';
 // Error
-$_['error_permission'] = 'Attention : vous n’êtes pas autorisé à modifier les extensions!';
+$_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier les extensions!';

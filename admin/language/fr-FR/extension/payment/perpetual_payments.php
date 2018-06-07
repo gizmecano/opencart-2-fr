@@ -32,6 +32,6 @@ $_['entry_sort_order'] = 'Classement';
 $_['help_test'] = 'Utiliser ce module en mode de test (oui) ou en production (non) ?';
 $_['help_total'] = 'Le montant total que la commande doit atteindre avant que ce module de paiement devienne actif.';
 // Error
-$_['error_permission'] = 'Attention : vous n’êtes pas autorisé à modifier les paramètres du module de paiement paiement Perpetual Payments !';
+$_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier les paramètres du module de paiement paiement Perpetual Payments !';
 $_['error_auth_id'] = 'Le numéro d’autorisation est requis !';
 $_['error_auth_pass'] = 'Le mot de passe d’autorisation est requis !';

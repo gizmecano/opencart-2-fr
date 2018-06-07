@@ -41,7 +41,7 @@ $_['help_partner'] = 'L’identifiant fourni par le revendeur agréé de PayPal 
 $_['help_test'] = 'Utiliser le mode direct ou bien le mode de test (bac à sable) pour traiter les transactions ?';
 $_['help_total'] = 'Le montant total que la commande doit atteindre avant que ce module de paiement devienne actif';
 // Error
-$_['error_permission'] = 'Attention : vous n’êtes pas autorisé à modifier les paramètres du module de paiement PayPal Website Payment Pro (UK) !';
+$_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier les paramètres du module de paiement PayPal Website Payment Pro (UK) !';
 $_['error_vendor'] = 'Le nom du fournisseur est requis !';
 $_['error_user'] = 'Le nom d’utilisateur est requis !';
 $_['error_password'] = 'Le mot de passe est requis !';

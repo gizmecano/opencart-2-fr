@@ -24,5 +24,5 @@ $_['text_default'] = 'Par défaut';
 $_['entry_code'] = 'Code Google Analytics';
 $_['entry_status'] = 'Statut';
 // Error
-$_['error_permission'] = 'Attention : vous n’êtes pas autorisé à modifier Google Analytics!';
+$_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier Google Analytics!';
 $_['error_code'] = 'Le code est requis !';

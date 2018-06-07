@@ -83,7 +83,7 @@ $_['help_display_time'] = 'Voulez-vous afficher l’heure de livraison ?';
 $_['help_display_weight'] = 'Voulez-vous afficher le poids de livraison ?';
 $_['help_weight_class'] = 'Configurer en kilogrammes ou en livres.';
 // Error
-$_['error_permission'] = 'Attention : vous n’êtes pas autorisé à modifier la livraison FedEx !';
+$_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier la livraison FedEx !';
 $_['error_key'] = 'Clef requise !';
 $_['error_password'] = 'Le mot de passe est requis !';
 $_['error_account'] = 'Compte requis !';

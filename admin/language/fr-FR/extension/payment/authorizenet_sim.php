@@ -36,6 +36,6 @@ $_['help_callback'] = 'Veuillez ouvrir une session et configurer ceci sur <a hre
 $_['help_md5'] = 'La fonction de hachage MD5 permet d’authentifier et de sécuriser la réponse retour de la transaction reçue par Authorize.Net. Veuillez vous connecter et configurer cela sur <a href="https://secure.authorize.net" target="_blank" class="txtLink">https://secure.authorize.net</a>. (Facultatif)';
 $_['help_total'] = 'Le montant total que la commande doit atteindre avant que ce module de paiement devienne actif.';
 // Error
-$_['error_permission'] = 'Attention : vous n’êtes pas autorisé à modifier le module de paiement Authorize.Net (SIM) !';
+$_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier le module de paiement Authorize.Net (SIM) !';
 $_['error_merchant'] = 'L’identifiant marchand est requis !';
 $_['error_key'] = 'La clef de transaction est requise !';

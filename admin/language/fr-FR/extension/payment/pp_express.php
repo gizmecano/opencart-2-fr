@@ -65,7 +65,7 @@ $_['help_logo'] = 'Maximum 750px (largeur) × 90px (hauteur) <br/> vous ne devez
 $_['help_colour'] = 'Code de couleur HTML (triplet hexadécimal)';
 $_['help_currency'] = 'Utilisé pour les recherches de transaction';
 // Error
-$_['error_permission'] = 'Attention : vous n’êtes pas autorisé à modifier le paiement PayPal Express Checkout !';
+$_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier le paiement PayPal Express Checkout !';
 $_['error_username'] = 'Nom d’utilisateur API requis !';
 $_['error_password'] = 'Mot de passe API requis !';
 $_['error_signature'] = 'Signature de l’API requise !';

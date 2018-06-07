@@ -37,6 +37,6 @@ $_['entry_sort_order'] = 'Classement';
 // Help
 $_['help_total'] = 'Le montant total que la commande doit atteindre avant que ce module de paiement devienne actif.';
 // Error
-$_['error_permission'] = 'Attention : vous n’avez pas la permission de modifier Web Payment Software !';
+$_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier Web Payment Software !';
 $_['error_login'] = 'Identifiant de connexion requis !';
 $_['error_key'] = 'Clef de transaction requise !';

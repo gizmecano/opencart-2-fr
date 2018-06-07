@@ -37,7 +37,7 @@ $_['entry_date_added'] = 'Date d’ajout';
 $_['help_code'] = 'Le code qui sera utilisé pour le suivi des campagnes marketing.';
 $_['help_example'] = 'Afin que le système puisse pister les références, vous devez ajouter ce code de suivi à la fin de l’URL de votre site.';
 // Error
-$_['error_permission'] = 'Attention : vous n’êtes pas autorisé à modifier les campagnes de suivi marketing !';
+$_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier les campagnes de suivi marketing !';
 $_['error_name'] = 'Le nom de la campagne de suivi doit contenir entre 1 et 32 caractères !';
 $_['error_code'] = 'Le code de suivi est requis !';
 $_['error_exists'] = 'Le code de suivi est utilisé par une autre campagne de suivi !';

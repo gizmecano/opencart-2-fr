@@ -30,6 +30,6 @@ $_['entry_category'] = 'Catégorie';
 $_['entry_data_feed'] = 'URL du flux';
 $_['entry_status'] = 'Statut';
 // Error
-$_['error_permission'] = 'Attention : vous n’êtes pas autorisé à modifier l’URL du flux Google Base !';
+$_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier l’URL du flux Google Base !';
 $_['error_upload'] = 'Attention : le fichier n’a pas pu être transféré !';
 $_['error_filetype'] = 'Type de fichier invalide !';

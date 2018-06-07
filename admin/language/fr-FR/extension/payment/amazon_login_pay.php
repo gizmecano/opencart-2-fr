@@ -71,9 +71,9 @@ $_['text_column_amount'] = 'Montant';
 $_['text_column_type'] = 'Type';
 $_['text_column_status'] = 'Statut';
 $_['text_column_date_added'] = 'Créé le';
-$_['text_confirm_cancel'] = 'Êtes-vous certain de vouloir annuler le paiement ?';
-$_['text_confirm_capture'] = 'Êtes-vous certain de vouloir réceptionner le paiement ?';
-$_['text_confirm_refund'] = 'Êtes-vous certain de vouloir effectuer un remboursement du paiement ?';
+$_['text_confirm_cancel'] = 'Confirmez-vous vouloir annuler le paiement ?';
+$_['text_confirm_capture'] = 'Confirmez-vous vouloir réceptionner le paiement ?';
+$_['text_confirm_refund'] = 'Confirmez-vous vouloir effectuer un remboursement du paiement ?';
 $_['text_minimum_total'] = 'Total minimum de la commande';
 $_['text_geo_zone'] = 'Zones géographiques';
 $_['text_status'] = 'Statut';
@@ -116,7 +116,7 @@ $_['help_declined_codes'] = 'Ceci à des fins de test uniquement';
 // Order Info
 $_['tab_order_adjustment'] = 'Ajustement de la commande';
 // Errors
-$_['error_permission'] = 'Attention : vous n’êtes pas autorisé à modifier ce module';
+$_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier ce module';
 $_['error_merchant_id'] = 'Un numéro de boutique est requis';
 $_['error_access_key'] = 'Une clef d’accès est requise';
 $_['error_access_secret'] = 'Une clef secrète est requise';

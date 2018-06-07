@@ -31,7 +31,7 @@ $_['entry_code'] = 'Code du domaine';
 $_['entry_country'] = 'Pays';
 $_['entry_status'] = 'État du domaine';
 // Error
-$_['error_permission'] = 'Attention : vous n’êtes pas autorisé à modifier les domaines !';
+$_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier les domaines !';
 $_['error_name'] = 'Le nom du domaine doit contenir entre 3 et 128 caractères !';
 $_['error_default'] = 'Attention : ce domaine ne peut être supprimé car il est actuellement défini en tant que domaine par défaut !';
 $_['error_store'] = 'Attention : ce domaine ne peut être supprimé car il est actuellement attribué à %s boutiques !';

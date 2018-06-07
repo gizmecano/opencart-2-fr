@@ -24,4 +24,4 @@ $_['column_status'] = 'Statut';
 $_['column_sort_order'] = 'Classement';
 $_['column_action'] = 'Action';
 // Error
-$_['error_permission'] = 'Attention : vous n’êtes pas autorisé à modifier les modes de livraison !';
+$_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier les modes de livraison !';

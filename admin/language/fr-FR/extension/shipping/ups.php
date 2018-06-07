@@ -115,7 +115,7 @@ $_['help_length_class'] = 'Valeur en centimètres ou en pouces.';
 $_['help_dimension'] = 'Ceci est supposé être votre moyenne de votre taille de boîte d’emballage. Les dimensions d’article individuel ne sont pas supportées actuellement, en conséquence, vous devez saisir les dimensions moyennes, telles que 5 × 5 × 5.';
 $_['help_debug'] = 'Sauve les données envoyées et reçues dans l’historique du système';
 // Error
-$_['error_permission'] = 'Attention : vous n’avez pas la permission de modifier la livraison UPS !';
+$_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier la livraison UPS !';
 $_['error_key'] = 'Clef d’accès requise !';
 $_['error_username'] = 'Nom d’utilisateur requis !';
 $_['error_password'] = 'Mot de passe requis !';

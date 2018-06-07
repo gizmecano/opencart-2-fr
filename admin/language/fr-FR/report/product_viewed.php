@@ -24,4 +24,4 @@ $_['column_model'] = 'Référence';
 $_['column_viewed'] = 'Vu';
 $_['column_percent'] = 'Pourcentage';
 // Error
-$_['error_permission'] = 'Attention : vous n’avez pas la permission de réinitialiser le rapport des produits consultés !';
+$_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de réinitialiser le rapport des produits consultés !';

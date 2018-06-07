@@ -23,4 +23,4 @@ $_['column_name'] = 'Nom antifraude';
 $_['column_status'] = 'Statut';
 $_['column_action'] = 'Action';
 // Error
-$_['error_permission'] = 'Attention : vous n’êtes pas autorisé à modifier antifraude !';
+$_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier antifraude !';

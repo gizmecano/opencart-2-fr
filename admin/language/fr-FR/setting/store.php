@@ -93,7 +93,7 @@ $_['help_icon'] = 'L’icône doit être un fichier PNG ayant pour dimension 16p
 $_['help_secure'] = 'Pour utiliser le SSL, vérifier auprès de votre hébergeur si un certificat SSL est installé.';
 // Error
 $_['error_warning'] = 'Attention : veuillez vérifier attentivement les erreurs dans le formulaire !';
-$_['error_permission'] = 'Attention : vous n’avez pas la permission de modifier stores !';
+$_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier stores !';
 $_['error_url'] = 'URL de la boutique requis !';
 $_['error_meta_title'] = 'Le titre doit contenir entre 3 et 32 caractères !';
 $_['error_name'] = 'Le nom de la boutique doit contenir entre 3 et 32 caractères !';

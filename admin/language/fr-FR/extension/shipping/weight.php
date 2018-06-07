@@ -28,4 +28,4 @@ $_['entry_sort_order'] = 'Classement';
 // Help
 $_['help_rate'] = 'Par exemple : 5:10.00,7:12.00 Poids:Coût,Poids:Coût, etc.';
 // Error
-$_['error_permission'] = 'Attention : vous n’avez pas la permission de modifier la livraison basée sur le poids !';
+$_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier la livraison basée sur le poids !';

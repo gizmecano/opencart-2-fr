@@ -85,5 +85,5 @@ $_['help_message'] = 'Description du message d’erreur FraudLabs Pro.';
 $_['help_transaction_id'] = 'Identifiant unique pour une transaction analysée par le système FraudLabs Pro.';
 $_['help_credits'] = 'Balance des crédits disponibles après cette transaction.';
 // Error
-$_['error_permission'] = 'Attention : vous n’êtes pas autorisé à modifier les paramètres FraudLabs !';
+$_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier les paramètres FraudLabs !';
 $_['error_key'] = 'Une clef d’API est requise !';

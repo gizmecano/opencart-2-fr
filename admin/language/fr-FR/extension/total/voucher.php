@@ -23,4 +23,4 @@ $_['text_edit'] = 'Modifier le total des bons d’achat';
 $_['entry_status'] = 'Statut';
 $_['entry_sort_order'] = 'Classement';
 // Error
-$_['error_permission'] = 'Attention : vous n’avez pas la permission de modifier le total des bons d’achat !';
+$_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier le total des bons d’achat !';

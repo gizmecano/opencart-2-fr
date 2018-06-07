@@ -58,7 +58,7 @@ $_['help_debug'] = 'En activant le débogage, vous autorisez l’écriture de do
 $_['tab_settings'] = 'Paramètres';
 $_['tab_order_status'] = 'Statut de la commande';
 // Error
-$_['error_permission'] = 'Attention : vous n’êtes pas autorisé à modifier les paramètres de G2A Pay!';
+$_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier les paramètres de G2A Pay!';
 $_['error_email'] = 'L’adresse électronique est requise !';
 $_['error_secret'] = 'Le mot secret est requis !';
 $_['error_api_hash'] = 'API de hachage requise!';

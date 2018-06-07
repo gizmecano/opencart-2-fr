@@ -24,7 +24,7 @@ $_['text_trial'] = '%s chaque %s %s pour %s paiements soit ';
 $_['text_recurring'] = '%s chaque %s %s';
 $_['text_length'] = ' pour %s paiements';
 $_['text_fail_card'] = 'Un problème est survenu lors de la suppression de votre carte SagePay. Contactez l’administrateur du magasin pour obtenir de l’aide.';
-$_['text_confirm_delete'] = 'Êtes-vous certain de vouloir supprimer cette carte';
+$_['text_confirm_delete'] = 'Confirmez-vous vouloir supprimer cette carte';
 // Entry
 $_['entry_card'] = 'Nouvelle carte ou carte existante : ';
 $_['entry_card_existing'] = 'Existant';

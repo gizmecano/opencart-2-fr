@@ -37,7 +37,7 @@ $_['entry_date_added'] = 'Date d’ajout';
 // Help
 $_['help_product'] = 'Autocomplétion';
 // Error
-$_['error_permission'] = 'Attention : vous n’êtes pas autorisé à modifier les avis !';
+$_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier les avis !';
 $_['error_product'] = 'Le produit est requis !';
 $_['error_author'] = 'Le nom de l’auteur doit contenir entre 3 et 64 caractères !';
 $_['error_text'] = 'L’avis doit contenir au moins un caractère !';

@@ -23,4 +23,4 @@ $_['column_name'] = 'Nom d’analytique';
 $_['column_status'] = 'Statut';
 $_['column_action'] = 'Action';
 // Error
-$_['error_permission'] = 'Attention : vous n’êtes pas autorisé à modifier l’analytique !';
+$_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier l’analytique !';

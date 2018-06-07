@@ -41,9 +41,9 @@ $_['text_transactions'] = 'Transactions';
 $_['text_column_amount'] = 'Montant';
 $_['text_column_type'] = 'Type';
 $_['text_column_date_added'] = 'Date de création';
-$_['text_confirm_void'] = 'Êtes-vous certain de vouloir annuler le paiement ?';
-$_['text_confirm_release'] = 'Êtes-vous certain de vouloir envoyer ce paiement ?';
-$_['text_confirm_rebate'] = 'Êtes-vous certain de vouloir remboursement le paiement ?';
+$_['text_confirm_void'] = 'Confirmez-vous vouloir annuler le paiement ?';
+$_['text_confirm_release'] = 'Confirmez-vous vouloir envoyer ce paiement ?';
+$_['text_confirm_rebate'] = 'Confirmez-vous vouloir remboursement le paiement ?';
 // Entry
 $_['entry_vendor'] = 'Fournisseur';
 $_['entry_test'] = 'Mode de test';
@@ -69,5 +69,5 @@ $_['button_release'] = 'Envoi';
 $_['button_rebate'] = 'Remise et/ou remboursement';
 $_['button_void'] = 'Annulation';
 // Error
-$_['error_permission'] = 'Attention : vous n’avez pas la permission de modifier payment SagePay !';
+$_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier payment SagePay !';
 $_['error_vendor'] = 'Identifiant du fournisseur requis !';

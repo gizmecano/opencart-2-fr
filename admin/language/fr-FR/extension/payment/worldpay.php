@@ -62,7 +62,7 @@ $_['help_cron_job_url'] = 'Définissez une tâche CRON pour appeler cette URL';
 $_['tab_settings'] = 'Paramètres';
 $_['tab_order_status'] = 'Statut de la commande';
 // Error
-$_['error_permission'] = 'Attention : vous n’avez pas la permission de modifier le paiement Worldpay !';
+$_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier le paiement Worldpay !';
 $_['error_service_key'] = 'Clef de service requise !';
 $_['error_client_key'] = 'Clef de client requise !';
 $_['error_merchant'] = 'Identifiant du marchand requis !';
@@ -76,5 +76,5 @@ $_['text_transactions'] = 'Transactions';
 $_['text_column_amount'] = 'Montant';
 $_['text_column_type'] = 'Type';
 $_['text_column_date_added'] = 'Date d’ajout';
-$_['text_confirm_refund'] = 'Êtes-vous certain de vouloir effectuer un remboursement du paiement ?';
+$_['text_confirm_refund'] = 'Confirmez-vous vouloir effectuer un remboursement du paiement ?';
 $_['button_refund'] = 'Rembourser';

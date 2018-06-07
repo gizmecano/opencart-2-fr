@@ -39,6 +39,6 @@ $_['entry_sort_order'] = 'Classement';
 // Help
 $_['help_total'] = 'Le montant total que la commande doit atteindre avant que ce module de paiement devienne actif.';
 // Error
-$_['error_permission'] = 'Attention : vous n’êtes pas autorisé à modifier le module de paiement Authorize.Net (SIM) !';
+$_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier le module de paiement Authorize.Net (SIM) !';
 $_['error_login'] = 'L’identifiant est requis !';
 $_['error_key'] = 'La clef de transaction est requise !';

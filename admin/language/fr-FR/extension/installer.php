@@ -32,7 +32,7 @@ $_['entry_progress'] = 'Avancement';
 // Help
 $_['help_upload'] = 'Nécessite un fichier de modification avec l’extension «.ocmod.zip » ou «.ocmod.xml.zip ».';
 // Error
-$_['error_permission'] = 'Attention : vous n’êtes pas autorisé à modifier les extensions !';
+$_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier les extensions !';
 $_['error_temporary'] = 'Attention : certains fichiers temporaires doivent être supprimés. Cliquez sur le bouton effacer pour les supprimer !';
 $_['error_upload'] = 'Le fichier n’a pas pu être téléchargé !';
 $_['error_filetype'] = 'Type de fichier incorrect !';

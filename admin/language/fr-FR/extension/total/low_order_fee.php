@@ -28,4 +28,4 @@ $_['entry_sort_order'] = 'Classement';
 // Help
 $_['help_total'] = 'Le total que la commande doit atteindre avant que ce total de commande soit désactivé.';
 // Error
-$_['error_permission'] = 'Attention : vous n’avez pas la permission de modifier le total de frais de faible commande !';
+$_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier le total de frais de faible commande !';

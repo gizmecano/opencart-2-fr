@@ -34,6 +34,6 @@ $_['entry_sort_order'] = 'Classement';
 // Help
 $_['help_total'] = 'Le montant total que la commande doit atteindre avant que ce module de paiement devienne actif.';
 // Error
-$_['error_permission'] = 'Attention : vous n’êtes pas autorisé à modifier les paramètres du module de paiement LIQPAY !';
+$_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier les paramètres du module de paiement LIQPAY !';
 $_['error_merchant'] = 'L’identifiant marchand est requis !';
 $_['error_signature'] = 'La signature est requise !';

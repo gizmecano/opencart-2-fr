@@ -35,7 +35,7 @@ $_['entry_sort_order'] = 'Classement';
 $_['help_locale'] = 'Par exemple : en_US.UTF-8,en_US,en-gb,en_gb,english';
 $_['help_status'] = 'Masquer/Afficher dans le menu déroulant des langues';
 // Error
-$_['error_permission'] = 'Attention : vous n’êtes pas autorisé à modifier les langues !';
+$_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier les langues !';
 $_['error_exists'] = 'Attention : vous avez déjà ajouté cette langue !';
 $_['error_name'] = 'Le nom de la langue doit contenir entre 3 et 32 caractères !';
 $_['error_code'] = 'Le code de la langue doit être d’au moins 2 caractères !';

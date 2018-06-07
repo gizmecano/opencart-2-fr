@@ -27,4 +27,4 @@ $_['column_status'] = 'Statut';
 $_['column_date_added'] = 'Date d’ajout';
 $_['column_action'] = 'Action';
 // Error
-$_['error_permission'] = 'Attention : vous n’êtes pas autorisé à modifier les événements !';
+$_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier les événements !';

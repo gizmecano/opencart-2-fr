@@ -32,4 +32,4 @@ $_['entry_tax_class'] = 'Classe de taxes';
 $_['entry_status'] = 'Statut';
 $_['entry_sort_order'] = 'Classement';
 // Error
-$_['error_permission'] = 'Attention : vous n’avez pas la permission de modifier le total des frais Klarna !';
+$_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier le total des frais Klarna !';

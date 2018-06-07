@@ -33,7 +33,7 @@ $_['text_date_added'] = 'Date d’ajout';
 $_['text_tracking'] = 'Suivi';
 $_['text_barcode'] = 'Code barre';
 $_['text_barcode_info'] = '(imprimez ce code barre unique et collez-le sur la surface du colis)';
-$_['text_confirm'] = 'Êtes-vous certain de vouloir mettre à jour le numéro de suivi ?';
+$_['text_confirm'] = 'Confirmez-vous vouloir mettre à jour le numéro de suivi ?';
 $_['text_register_success'] = 'Vous avez enregistré avec succès. Vous devriez recevoir un courrier électronique sous peu.';
 $_['text_tracking_success'] = 'Le numéro de suivi a été mis à jour avec succès.';
 $_['text_other'] = 'Autre';
@@ -66,7 +66,7 @@ $_['help_total'] = 'Le montant total que la commande doit atteindre avant que ce
 $_['help_logging'] = 'En activant le débogage, vous autorisez l’écriture de données sensibles dans un fichier journal. Vous devriez toujours désactiver cette fonction sauf avis contraire.';
 // Error
 $_['error_warning'] = 'Attention : veuillez vérifier attentivement les erreurs dans le formulaire !';
-$_['error_permission'] = 'Attention : vous n’êtes pas autorisé à modifier le module de paiement Pilibaba !';
+$_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier le module de paiement Pilibaba !';
 $_['error_merchant_number'] = 'Numéro de marchand est requis !';
 $_['error_secret_key'] = 'La clef secrète est requise !';
 $_['error_shipping_fee'] = 'Les frais de livraison doivent être un nombre décimal!';

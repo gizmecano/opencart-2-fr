@@ -16,7 +16,7 @@
 // Text
 $_['text_success'] = 'Votre commande a été modifiée avec succès';
 // Error
-$_['error_permission'] = 'Attention : vous n’êtes pas autorisé à accéder à l’API !';
+$_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de accéder à l’API !';
 $_['error_customer'] = 'Attention : les détails de l’utilisateur doivent avoir été configurés';
 $_['error_payment_address'] = 'Attention : une adresse de paiement est requise';
 $_['error_payment_method'] = 'Attention : un moyen de paiement est requis !';

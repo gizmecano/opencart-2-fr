@@ -79,7 +79,7 @@ $_['text_image_all_ebay'] = 'Ajouter toutes les images à eBay';
 $_['text_image_all_template'] = 'Ajouter toutes les images au modèle';
 $_['text_image_exclude_default'] = 'Exclure l’image par défaut';
 $_['text_image_exclude_default_help'] = 'Utilisé seulement pour la fonction de mise en vente automatisée ! Cette fonction permet de ne pas inclure l’image par défaut du produit dans la liste d’images du thème.';
-$_['text_confirm_delete'] = 'Êtes-vous certain de vouloir supprimer le profil ?';
+$_['text_confirm_delete'] = 'Confirmez-vous vouloir supprimer le profil ?';
 $_['text_width'] = 'Largeur';
 $_['text_height'] = 'Hauteur';
 $_['text_px'] = 'px';
@@ -102,7 +102,7 @@ $_['text_type_general'] = 'Configuration générale';
 $_['text_added'] = 'Le nouveau profil a été ajouté.';
 $_['text_updated'] = 'Le profil a été mis à jour.';
 //Errors
-$_['error_permission'] = 'Vous n’êtes pas autorisé à modifier les profils.';
+$_['error_permission'] = 'Vous n’avez pas l’autorisation de modifier les profils.';
 $_['error_name'] = 'Vous devez saisir un nom de profil.';
 $_['error_no_template'] = 'Cet identifiant de modèle n’existe pas.';
 $_['error_missing_settings'] = 'Vous ne pouvez pas ajouter, modifier ou supprimer des profils avant de synchroniser vos paramètres eBay.';

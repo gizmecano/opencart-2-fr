@@ -22,4 +22,4 @@ $_['text_edit'] = 'Modifier le calculateur de page de produit Divido';
 // Entry
 $_['entry_status'] = 'Statut';
 // Error
-$_['error_permission'] = 'Attention : vous n’êtes pas autorisé à modifier le calculateur de page de produit Divido!';
+$_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier le calculateur de page de produit Divido!';

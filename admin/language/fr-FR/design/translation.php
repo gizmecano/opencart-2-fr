@@ -30,4 +30,4 @@ $_['button_install'] = 'Installer';
 $_['button_uninstall'] = 'Désinstaller';
 $_['button_refresh'] = 'Rafraîchir';
 // Error
-$_['error_permission'] = 'Attention : vous n’êtes pas autorisé à modifier la traduction linguistique !';
+$_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier la traduction linguistique !';

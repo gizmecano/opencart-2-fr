@@ -28,4 +28,4 @@ $_['entry_key'] = 'Clef';
 $_['entry_value'] = 'Valeur';
 $_['entry_default'] = 'Par défaut';
 // Error
-$_['error_permission'] = 'Attention : vous n’êtes pas autorisé à modifier l’éditeur linguistique !';
+$_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier l’éditeur linguistique !';

@@ -27,8 +27,8 @@ $_['entry_template_html'] = 'Code du modèle';
 $_['text_added'] = 'Le nouveau modèle a été ajouté.';
 $_['text_updated'] = 'Le modèle a été mis à jour.';
 $_['text_deleted'] = 'Le modèle a été supprimé.';
-$_['text_confirm_delete'] = 'Êtes-vous certain de vouloir supprimer le modèle ?';
+$_['text_confirm_delete'] = 'Confirmez-vous vouloir supprimer le modèle ?';
 // Error
 $_['error_name'] = 'Vous devez saisir un nom de modèle.';
-$_['error_permission'] = 'Vous n’êtes pas autorisé à modifier les modèles.';
+$_['error_permission'] = 'Vous n’avez pas l’autorisation de modifier les modèles.';
 $_['error_no_template'] = 'Cet identifiant de modèle n’existe pas.';

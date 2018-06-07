@@ -33,4 +33,4 @@ $_['entry_order_status'] = 'Statut de commande';
 // Help
 $_['help_order_status'] = 'Les clients qui ont une adresse IP bannie sur leurs comptes se verront attribuer ce statut de commande et ne seront pas autorisés à atteindre automatiquement le statut terminé.';
 // Error
-$_['error_permission'] = 'Attention : vous n’êtes pas autorisé à modifier Antifraude IP !';
+$_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier Antifraude IP !';

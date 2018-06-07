@@ -26,4 +26,4 @@ $_['entry_geo_zone'] = 'Zone géographique';
 $_['entry_status'] = 'Statut';
 $_['entry_sort_order'] = 'Classement';
 // Error
-$_['error_permission'] = 'Attention : vous n’avez pas la permission de modifier la livraison par articles !';
+$_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier la livraison par articles !';

@@ -23,4 +23,4 @@ $_['text_edit'] = 'Modifier le total des sous-totaux';
 $_['entry_status'] = 'Statut';
 $_['entry_sort_order'] = 'Classement';
 // Error
-$_['error_permission'] = 'Attention : vous n’avez pas la permission de modifier le total des sous-totaux !';
+$_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier le total des sous-totaux !';

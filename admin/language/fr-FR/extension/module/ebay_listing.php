@@ -37,7 +37,7 @@ $_['entry_site'] = 'Site eBay';
 $_['entry_sort'] = 'Classement par';
 $_['entry_status'] = 'Statut';
 // Error
-$_['error_permission'] = 'Attention : vous n’avez pas la permission de modifier le module « Affichage eBay » !';
+$_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier le module « Affichage eBay » !';
 $_['error_name'] = 'Le nom du module doit contenir entre 3 et 64 caractères !';
 $_['error_width'] = 'La largeur est requise !';
 $_['error_height'] = 'La hauteur est requise !';

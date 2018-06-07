@@ -45,7 +45,7 @@ Vous pouvez régler le répertoire de thème à utiliser sur les paramètres de 
 $_['help_product_limit'] = 'Détermine le nombre d’éléments du catalogue qui seront affichés par page (produits, catégories, etc.)';
 $_['help_product_description_length'] = 'Dans la vue de liste, Détermine la limite du nombre de caractères des descriptions courtes dans la vue de liste (catégories, spécial, etc.)';
 // Error
-$_['error_permission'] = 'Attention : vous n’êtes pas autorisé à modifier le thème par défaut de la boutique !';
+$_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier le thème par défaut de la boutique !';
 $_['error_limit'] = 'Une limite du nombre d’éléments est requise !';
 $_['error_image_thumb'] = 'Les dimensions de la taille de vignette d’une image pour les produits sont requises !';
 $_['error_image_popup'] = 'Les dimensions de la taille de popup d’une image pour les produits sont requises !';

@@ -35,6 +35,6 @@ $_['entry_key'] = 'Clef de l’API';
 $_['entry_status'] = 'Statut';
 $_['entry_ip'] = 'IP';
 // Error
-$_['error_permission'] = 'Attention : vous n’avez pas la permission de modifier les API !';
+$_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier les API !';
 $_['error_name'] = 'Le nom de l’API doit contenir entre 3 et 20 caractères !';
 $_['error_key'] = 'La clef de l’API doit contenir entre 64 et 256 caractères !';

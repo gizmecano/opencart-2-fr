@@ -36,4 +36,4 @@ $_['help_display_weight'] = 'Voulez-vous afficher le poids de livraison ? (par e
 $_['help_display_insurance'] = 'Voulez-vous afficher l’assurance d’expédition? (par exemple, assuré jusqu’à 500)';
 $_['help_display_time'] = 'Souhaitez-vous afficher le délai de livraison? (par exemple, expédié sous 3 à 5 jours)';
 // Error
-$_['error_permission'] = 'Attention : vous n’avez pas la permission de modifier la livraison Parcelforce 48 !';
+$_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier la livraison Parcelforce 48 !';

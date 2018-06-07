@@ -36,7 +36,7 @@ $_['entry_email'] = 'Adresse électronique';
 $_['entry_image'] = 'Image';
 $_['entry_status'] = 'Statut';
 // Error
-$_['error_permission'] = 'Attention : vous n’avez pas la permission de modifier les utilisateurs !';
+$_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier les utilisateurs !';
 $_['error_account'] = 'Attention : vous ne pouvez pas supprimer votre propre compte !';
 $_['error_exists_username'] = 'Attention : ce nom d’utilisateur est déjà utilisé !';
 $_['error_username'] = 'Le nom d’utilisateur doit contenir entre 3 et 20 caractères !';

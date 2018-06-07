@@ -32,9 +32,9 @@ $_['text_link_deleted'] = 'Le produit a été dissocié de l’annonce.';
 $_['text_item_ended'] = 'L’objet a été supprimé de Etsy.';
 $_['text_item_deactivated'] = 'L’objet a été désactivé sur Etsy.';
 $_['text_item_activated'] = 'L’objet a été activé sur Etsy.';
-$_['text_confirm_end'] = 'Êtes-vous certain de vouloir supprimer l’annonce ?';
-$_['text_confirm_deactivate'] = 'Êtes-vous certain de vouloir désactiver l’annonce ?';
-$_['text_confirm_activate'] = 'Êtes-vous certain de vouloir activer l’annonce ?';
+$_['text_confirm_end'] = 'Confirmez-vous vouloir supprimer l’annonce ?';
+$_['text_confirm_deactivate'] = 'Confirmez-vous vouloir désactiver l’annonce ?';
+$_['text_confirm_activate'] = 'Confirmez-vous vouloir activer l’annonce ?';
 // Columns
 $_['column_listing_id'] = 'Identifiant Etsy';
 $_['column_title'] = 'Titre';

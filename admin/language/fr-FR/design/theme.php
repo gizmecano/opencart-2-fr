@@ -26,4 +26,4 @@ $_['text_access'] = 'Assurez-vous que seuls les administrateurs sont autorisés 
 $_['text_permission'] = 'Vous pouvez changer les permissions de l’utilisateur <a href="%s" class="alert-link">ici</a>.';
 $_['text_begin'] = 'Sélectionnez un fichier de thème sur le côté gauche pour commencer l’édition.';
 // Error
-$_['error_permission'] = 'Attention : vous n’êtes pas autorisé à modifier l’éditeur de thème !';
+$_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier l’éditeur de thème !';

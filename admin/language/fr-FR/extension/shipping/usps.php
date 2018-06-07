@@ -89,7 +89,7 @@ $_['help_display_weight'] = 'Voulez-vous afficher le poids de livraison ? (par e
 $_['help_weight_class'] = 'Doit être indiqué en livres.';
 $_['help_debug'] = 'Sauve les données envoyées et reçues dans l’historique du système';
 // Error
-$_['error_permission'] = 'Attention : vous n’avez pas la permission de modifier le service US Postal !';
+$_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier le service US Postal !';
 $_['error_user_id'] = 'Identifiant de l’utilisateur requis !';
 $_['error_postcode'] = 'Code postal requis !';
 $_['error_width'] = 'Largeur requise !';

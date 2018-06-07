@@ -40,9 +40,9 @@ $_['text_transactions'] = 'Transactions';
 $_['text_column_amount'] = 'Montant';
 $_['text_column_type'] = 'Type';
 $_['text_column_date_added'] = 'Date d’ajout';
-$_['text_confirm_void'] = 'Êtes-vous certain de vouloir annuler le paiement ?';
-$_['text_confirm_release'] = 'Êtes-vous certain de vouloir envoyer le paiement ?';
-$_['text_confirm_rebate'] = 'Êtes-vous certain de vouloir effectuer un remboursement du paiement ?';
+$_['text_confirm_void'] = 'Confirmez-vous vouloir annuler le paiement ?';
+$_['text_confirm_release'] = 'Confirmez-vous vouloir envoyer le paiement ?';
+$_['text_confirm_rebate'] = 'Confirmez-vous vouloir effectuer un remboursement du paiement ?';
 // Entry
 $_['entry_account_name'] = 'Nom du compte';
 $_['entry_account_id'] = 'Identifiant du compte';
@@ -68,7 +68,7 @@ $_['button_release'] = 'Envoi';
 $_['button_rebate'] = 'Remise et/ou remboursement';
 $_['button_void'] = 'Annulation';
 // Error
-$_['error_permission'] = 'Attention : vous n’êtes pas autorisé à modifier le module de paiement BluePay !';
+$_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier le module de paiement BluePay !';
 $_['error_account_name'] = 'Le nom du compte est requis !';
 $_['error_account_id'] = 'L’identifiant du compte est requis !';
 $_['error_secret_key'] = 'La clef secrète est requise !';

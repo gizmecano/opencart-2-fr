@@ -22,4 +22,4 @@ $_['text_edit'] = 'Modifier le module « Affiliation »';
 // Entry
 $_['entry_status'] = 'Statut';
 // Error
-$_['error_permission'] = 'Attention : vous n’êtes pas autorisé à modifier le module « Affiliation » !';
+$_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier le module « Affiliation » !';

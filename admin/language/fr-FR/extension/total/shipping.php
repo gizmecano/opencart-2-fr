@@ -24,4 +24,4 @@ $_['entry_estimator'] = 'Estimation des frais de livraison';
 $_['entry_status'] = 'Statut';
 $_['entry_sort_order'] = 'Classement';
 // Error
-$_['error_permission'] = 'Attention : vous n’avez pas la permission de modifier le total des livraisons !';
+$_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier le total des livraisons !';

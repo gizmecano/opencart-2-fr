@@ -40,6 +40,6 @@ $_['help_seamless'] = 'Permet la connexion automatique lorsque les clients chois
 $_['help_locale'] = 'Il s’agit du paramètre de langue PayPal en rapport avec les paramètres régionaux de la boutique.';
 $_['help_return_url'] = 'Ceci doit être ajouté à la configuration de l’application PayPal dans la rubrique « URLs de redirections de l’application ».';
 //Error
-$_['error_permission'] = 'Attention : vous n’êtes pas autorisé à modifier le module « Connexion PayPal » !';
+$_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier le module « Connexion PayPal » !';
 $_['error_client_id'] = 'L’identifiant est requis !';
 $_['error_secret'] = 'Le mot de passe est requis !';

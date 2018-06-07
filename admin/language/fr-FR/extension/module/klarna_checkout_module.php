@@ -21,4 +21,4 @@ $_['text_success'] = 'Vous venez de modifier le module Klarna Checkout!';
 //Entry
 $_['entry_status'] = 'Statut';
 //Error
-$_['error_permission'] = 'Attention : vous n’êtes pas autorisé à modifier le module Klarna Checkout!';
+$_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier le module Klarna Checkout!';

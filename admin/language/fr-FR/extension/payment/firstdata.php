@@ -43,8 +43,8 @@ $_['text_transactions'] = 'Transactions';
 $_['text_column_amount'] = 'Montant';
 $_['text_column_type'] = 'Type';
 $_['text_column_date_added'] = 'Créé';
-$_['text_confirm_void'] = 'Êtes-vous certain de vouloir annuler le paiement ?';
-$_['text_confirm_capture'] = 'Êtes-vous certain de vouloir réceptionner le paiement ?';
+$_['text_confirm_void'] = 'Confirmez-vous vouloir annuler le paiement ?';
+$_['text_confirm_capture'] = 'Confirmez-vous vouloir réceptionner le paiement ?';
 // Entry
 $_['entry_merchant_id'] = 'Numéro de boutique';
 $_['entry_secret'] = 'Secret partagé';

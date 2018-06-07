@@ -128,5 +128,5 @@ $_['help_queries_remaining'] = 'Nombre de requêtes restantes dans votre compte,
 $_['help_maxmind_id'] = 'Identifiant unique, utilisé pour référencer les transactions lorsque sont reportées des activités fraululeuses à MaxMind. Ce rapport aidera MaxMind à améliorer son service et à rendre disponible une fonctionnalité plannifiée pour personnaliser la formule du score de fraude en fonction de votre historique de rejet.';
 $_['help_error'] = 'Retourne une chaine d’erreur avec un message d’avertissement ou la raison pour laquelle la requête a échoué.';
 // Error
-$_['error_permission'] = 'Attention : vous n’êtes pas autorisé à modifier MaxMind Antifraude!';
+$_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier MaxMind Antifraude!';
 $_['error_key'] = 'Une clef de licence est requise !';

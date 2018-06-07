@@ -23,4 +23,4 @@ $_['text_edit'] = 'Modifier le module « Boutique »';
 $_['entry_admin'] = 'Administrateurs seulement';
 $_['entry_status'] = 'Statut';
 // Error
-$_['error_permission'] = 'Attention : vous n’êtes pas autorisé à modifier le module « Boutique » !';
+$_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier le module « Boutique » !';

@@ -197,14 +197,14 @@ $_['help_seo_url'] = 'Pour utiliser les URL optimisées (SEO), le module de ré�
 $_['help_file_max_size'] = 'Taille maximum des images que vous pouvez transférer par le biais du gestionnaire. À saisir en byte.';
 $_['help_file_ext_allowed'] = 'Ajouter quelles extensions de fichiers sont autorisées à être transférées. Utilisez une nouvelle ligne pour chaque valeur.';
 $_['help_file_mime_allowed'] = 'Ajouter quels types MIME sont autorisés à être transférés. Utilisez une nouvelle ligne pour chaque valeur.';
-$_['help_maintenance'] = 'Empêche les client de naviguer dans la boutique. Ils verront à la place un message de maintenance. Vous verrez normalement la boutique si vous êtes connecté en tant qu’adminsitrateur.';
+$_['help_maintenance'] = 'Empêche les client de naviguer dans la boutique. Ils verront à la place un message de maintenance. Vous verrez normalement la boutique si vous vous connectez en mode administration.';
 $_['help_password'] = 'Autorise les mots de passe oublié à être utiliser pour l’administration. Cette fonction sera automatiquement désactivée si le système détecte une tentative de piratage.';
 $_['help_encryption'] = 'Veuillez fournir une clef secrète qui sera utilisée pour chffirer les informations privées lors de la saisie de commande.';
 $_['help_compression'] = 'GZIP pour un meilleur taux de transfert lors des requêtes des clients. Le niveau de compression doit être compris entre 0 et 9.';
 $_['help_timezone'] = 'Choisissez une localité dans la liste pour configurer la date et l’heure.';
 // Error
 $_['error_warning'] = 'Attention : veuillez vérifier attentivement les erreurs dans le formulaire !';
-$_['error_permission'] = 'Attention : vous n’avez pas la permission de modifier les paramètres !';
+$_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier les paramètres !';
 $_['error_meta_title'] = 'Le titre doit contenir entre 3 et 32 caractères !';
 $_['error_name'] = 'Le nom de la boutique doit contenir entre 3 et 32 caractères !';
 $_['error_owner'] = 'Le nom du propriétaire de la boutique doit contenir entre 3 et 64 caractères !';

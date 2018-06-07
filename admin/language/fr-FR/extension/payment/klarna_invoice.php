@@ -43,4 +43,4 @@ $_['help_merchant'] = '(identifiant boutique) à utiliser pour le service Klarna
 $_['help_secret'] = 'Mot de passe à utiliser le service Klarna (fourni par Klarna).';
 $_['help_total'] = 'Le montant total que la commande doit atteindre avant que ce module de paiement devienne actif.';
 // Error
-$_['error_permission'] = 'Attention : vous n’êtes pas autorisé à modifier les paramètres du module de paiement Klarna !';
+$_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier les paramètres du module de paiement Klarna !';

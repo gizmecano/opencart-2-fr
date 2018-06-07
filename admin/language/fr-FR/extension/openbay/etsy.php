@@ -26,4 +26,4 @@ $_['text_heading_products'] = 'Liaisons de produit';
 $_['text_heading_listings'] = 'Annonces Etsy';
 // Errors
 $_['error_generic_fail'] = 'Une erreur inconnue est survenue !';
-$_['error_permission'] = 'Vous n’êtes pas autorisé à modifier les paramètres de l’extension Etsy.';
+$_['error_permission'] = 'Vous n’avez pas l’autorisation de modifier les paramètres de l’extension Etsy.';

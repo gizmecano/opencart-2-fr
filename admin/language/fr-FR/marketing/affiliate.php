@@ -76,7 +76,7 @@ $_['help_code'] = 'Le code de suivi qui sera utilisé pour suivre les redirectio
 $_['help_commission'] = 'Pourcentage que reçoit l’affilié sur chaque commande.';
 // Error
 $_['error_warning'] = 'Attention : veuillez vérifier attentivement les erreurs dans le formulaire !';
-$_['error_permission'] = 'Attention : vous n’êtes pas autorisé à modifier les affiliés !';
+$_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier les affiliés !';
 $_['error_exists'] = 'Attention : cette adresse électronique est déjà enregistrée !';
 $_['error_firstname'] = 'Le prénom doit contenir entre 1 à 32 caractères !';
 $_['error_lastname'] = 'Le nom de famille doit contenir entre 1 à 32 caractères !';

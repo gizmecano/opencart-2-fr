@@ -47,7 +47,7 @@ $_['entry_status'] = 'Statut';
 $_['help_code'] = 'Le code que le client doit saisir pour activer le bon d’achat.';
 // Error
 $_['error_selection'] = 'Attention : aucun bon d’achat sélectionné !';
-$_['error_permission'] = 'Attention : vous n’avez pas la permission de modifier les bons d’achat !';
+$_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier les bons d’achat !';
 $_['error_exists'] = 'Attention : ce code de bon d’acaht est déjà utilisé !';
 $_['error_code'] = 'Le code doit contenir entre 3 et 10 caractères !';
 $_['error_to_name'] = 'Le nom du destinataire doit contenir entre 1 et 64 caractères';

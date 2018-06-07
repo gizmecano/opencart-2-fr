@@ -132,7 +132,7 @@ $_['help_order_status_processing'] = 'Le statut de la commande après que la com
 $_['help_cron_url'] = 'Paramétrer une tâche CRON pour appeler cette URL afin que les rapports soient récupérés automatiquement.';
 $_['help_cron_time'] = 'Ceci est la dernière fois que la tâche CRON a été exécutée.';
 // Error
-$_['error_permission'] = 'Attention : vous n’êtes pas autorisé à modifier le module de paiement Lay-buy!';
+$_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier le module de paiement Lay-buy!';
 $_['error_membership_id'] = 'Identifiant de membre Lay-Buys requis !';
 $_['error_token'] = 'Jeton secret Lay-Buy requis!';
 $_['error_min_deposit'] = 'Impossible d’exéder le maximum du montant du premier versement!';

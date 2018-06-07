@@ -23,4 +23,4 @@ $_['text_edit'] = 'Modifier Google Sitemap';
 $_['entry_status'] = 'Statut';
 $_['entry_data_feed'] = 'URL du flux';
 // Error
-$_['error_permission'] = 'Attention : vous n’êtes pas autorisé à modifier l’URL du flux Google Sitemap !';
+$_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier l’URL du flux Google Sitemap !';

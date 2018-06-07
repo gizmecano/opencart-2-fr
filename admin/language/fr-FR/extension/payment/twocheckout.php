@@ -34,6 +34,6 @@ $_['entry_sort_order'] = 'Classement';
 $_['help_secret'] = 'Le mot secret qui permet de confirmer les transactions (doit être le même que celui défini sur la page de configuration du compte marchand).';
 $_['help_total'] = 'Le montant total que la commande doit atteindre avant que ce module de paiement devienne actif.';
 // Error
-$_['error_permission'] = 'Attention : vous n’avez pas la permission de modifier le compte 2Checkout !';
+$_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier le compte 2Checkout !';
 $_['error_account'] = 'Numéro de compte requis';
 $_['error_secret'] = 'Mot secret requis';

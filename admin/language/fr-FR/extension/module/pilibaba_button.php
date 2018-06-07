@@ -22,4 +22,4 @@ $_['text_edit'] = 'Modifier le module de validation Pilibaba';
 // Entry
 $_['entry_status'] = 'Statut';
 // Error
-$_['error_permission'] = 'Attention : vous n’êtes pas autorisé à modifier le module de validation Pilibaba!';
+$_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier le module de validation Pilibaba!';

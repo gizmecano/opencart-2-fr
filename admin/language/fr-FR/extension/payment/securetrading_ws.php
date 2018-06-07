@@ -55,9 +55,9 @@ $_['text_release_ok_order'] = 'Envoi effectué, le statut de la commande a été
 $_['text_rebate_ok'] = 'Remboursement effectué';
 $_['text_rebate_ok_order'] = 'Remboursement effectué, le statut de la commande a été mis à jour';
 $_['text_void_ok'] = 'Annulation effectuée : le statut de la commande a été mis à jour';
-$_['text_confirm_void'] = 'Êtes-vous certain de vouloir inverser l’autorisation';
-$_['text_confirm_release'] = 'Êtes-vous certain de vouloir envoyer le paiement ?';
-$_['text_confirm_rebate'] = 'Êtes-vous certain de vouloir rembourser le paiement ?';
+$_['text_confirm_void'] = 'Confirmez-vous vouloir inverser l’autorisation';
+$_['text_confirm_release'] = 'Confirmez-vous vouloir envoyer le paiement ?';
+$_['text_confirm_rebate'] = 'Confirmez-vous vouloir rembourser le paiement ?';
 // Entry
 $_['entry_site_reference'] = 'Référence du site';
 $_['entry_username'] = 'Nom d’utilisateur';
@@ -99,7 +99,7 @@ $_['column_status'] = 'État';
 $_['column_type'] = 'Type';
 $_['column_payment_type'] = 'Type de paiement';
 // Error
-$_['error_permission'] = 'Vous n’êtes pas autorisé à modifier ce module';
+$_['error_permission'] = 'Vous n’avez pas l’autorisation de modifier ce module';
 $_['error_site_reference'] = 'La référence du site est requise';
 $_['error_cards_accepted'] = 'Les cartes acceptées sont requises';
 $_['error_username'] = 'Le nom d’utilisateur est requis';

@@ -33,5 +33,5 @@ $_['entry_sort_order'] = 'Classement';
 $_['help_display_time'] = 'Souhaitez-vous afficher le délai de livraison? (par exemple, expédié sous 3 à 5 jours)';
 $_['help_weight_class'] = 'Régler en grammes';
 // Error
-$_['error_permission'] = 'Attention : vous n’avez pas la permission de modifier la livraison par Australia Post !';
+$_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier la livraison par Australia Post !';
 $_['error_postcode'] = 'Le code postal doit contenir 4 chiffres !';

@@ -25,6 +25,6 @@ $_['entry_key'] = 'Clef du site';
 $_['entry_secret'] = 'Clef secrète';
 $_['entry_status'] = 'Statut';
 // Error
-$_['error_permission'] = 'Attention : vous n’êtes pas autorisé à modifier Google reCAPTCHA!';
+$_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier Google reCAPTCHA!';
 $_['error_key'] = 'Clef requise !';
 $_['error_secret'] = 'Clef secrète requise !';

@@ -35,7 +35,7 @@ $_['entry_status'] = 'Statut';
 // Help
 $_['help_address_format'] = 'Prénom = {firstname} <br/> Nom = {lastname} <br/> Société = {company} <br/> Adresse 1 = {address_1} <br/> Adresse 2 = {address_2} <br/> Ville = {city} <br/> Code postal = {postcode} <br/> Zone = {zone} <br/> Code zone = {zone_code} <br/> Pays = {country}';
 // Error
-$_['error_permission'] = 'Attention : vous n’êtes pas autorisé à modifier les pays !';
+$_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier les pays !';
 $_['error_name'] = 'Le nom du pays doit contenir entre 3 et 128 caractères !';
 $_['error_default'] = 'Attention : ce pays ne peut être supprimé car il est actuellement défini en tant que pays par défaut !';
 $_['error_store'] = 'Attention : ce pays ne peut être supprimé car il est actuellement attribué à %s boutiques !';

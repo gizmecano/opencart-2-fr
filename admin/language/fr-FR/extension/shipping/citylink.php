@@ -28,4 +28,4 @@ $_['entry_sort_order'] = 'Classement';
 // Help
 $_['help_rate'] = 'Saisir des valeurs jusqu’à 5,2 décimales (12345.67). Par exemple : .1:1,.25:1.27 - Les poids inférieurs ou égaux à 0,1 kg coûteraient £1.00, les poids inférieurs ou égaux à 0,25 kg mais plus grand que 0,1 kg coûteront £1.27. Ne saisissez pas d’unité de mesure (kg) ni de symboles.';
 // Error
-$_['error_permission'] = 'Attention : vous n’avez pas la permission de modifier la livraison Citylink !';
+$_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier la livraison Citylink !';

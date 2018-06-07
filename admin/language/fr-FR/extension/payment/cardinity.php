@@ -24,7 +24,7 @@ $_['text_production'] = 'Mode production';
 $_['text_sandbox'] = 'Mode bac à sable';
 $_['text_payment_info'] = 'Information de remboursement';
 $_['text_no_refund'] = 'Aucun historique de remboursement';
-$_['text_confirm_refund'] = 'Êtes-vous sûr de vouloir rembourser ?';
+$_['text_confirm_refund'] = 'Confirmez-vous vouloir rembourser ?';
 $_['text_na'] = 'Non applicable';
 $_['text_success_action'] = 'Succès';
 $_['text_error_generic'] = 'Erreur : il y a eu une erreur avec votre requête. Veuillez vérifier le journal des erreurs.';
@@ -56,6 +56,6 @@ $_['error_secret'] = 'Mot secret requis !';
 $_['error_composer'] = 'Impossible de charger le SDK Cardinity. Veuillez télécharger un dossier de fournisseur compilé ou exécuter Composer.
 ';
 $_['error_php_version'] = 'Une version de PHP 5.4.0 minimum est requise !';
-$_['error_permission'] = 'Attention : vous n’êtes pas autorisé à modifier le module de paiement Cardinity !';
+$_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier le module de paiement Cardinity !';
 $_['error_connection'] = 'Un problème est survenu lors de l’établissement d’une connexion à l’API Cardinity. Veuillez vérifier votre clef et votre mot secret.';
 $_['error_warning'] = 'Attention : veuillez vérifier attentivement les erreurs dans le formulaire !';

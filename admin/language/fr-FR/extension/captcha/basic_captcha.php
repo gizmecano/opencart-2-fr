@@ -22,4 +22,4 @@ $_['text_edit'] = 'Modifier Basic CAPTCHA';
 // Entry
 $_['entry_status'] = 'Statut';
 // Error
-$_['error_permission'] = 'Attention : vous n’êtes pas autorisé à modifier Basic CAPTCHA !';
+$_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier Basic CAPTCHA !';
