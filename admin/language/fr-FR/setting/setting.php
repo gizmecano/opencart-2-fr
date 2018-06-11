@@ -135,7 +135,6 @@ $_['entry_maintenance'] = 'Mode de maintenance';
 $_['entry_password'] = 'Autoriser les mots de passe perdus';
 $_['entry_encryption'] = 'Clef de chiffrement';
 $_['entry_compression'] = 'Niveau de compression de sortie';
-$_['entry_timezone'] = 'Fuseau horaire';
 $_['entry_error_display'] = 'Afficher les erreurs';
 $_['entry_error_log'] = 'Créer un journal des erreurs';
 $_['entry_error_filename'] = 'Nom du fichier de journal des erreurs';
@@ -201,7 +200,6 @@ $_['help_maintenance'] = 'Empêche les client de naviguer dans la boutique. Ils 
 $_['help_password'] = 'Autorise les mots de passe oublié à être utiliser pour l’administration. Cette fonction sera automatiquement désactivée si le système détecte une tentative de piratage.';
 $_['help_encryption'] = 'Veuillez fournir une clef secrète qui sera utilisée pour chffirer les informations privées lors de la saisie de commande.';
 $_['help_compression'] = 'GZIP pour un meilleur taux de transfert lors des requêtes des clients. Le niveau de compression doit être compris entre 0 et 9.';
-$_['help_timezone'] = 'Choisissez une localité dans la liste pour configurer la date et l’heure.';
 // Error
 $_['error_warning'] = 'Attention : veuillez vérifier attentivement les erreurs dans le formulaire !';
 $_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier les paramètres !';
