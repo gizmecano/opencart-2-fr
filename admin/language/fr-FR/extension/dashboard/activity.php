@@ -41,5 +41,6 @@ $_['text_affiliate_register'] = '<a href="affiliate_id=%d">%s</a> a ouvert un no
 // Entry
 $_['entry_status'] = 'Statut';
 $_['entry_sort_order'] = 'Classement';
+$_['entry_width'] = 'Largeur';
 // Error
 $_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier le tableau de bord de l’activité récente !';

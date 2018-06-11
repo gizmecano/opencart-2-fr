@@ -29,5 +29,6 @@ $_['column_action'] = 'Action';
 // Entry
 $_['entry_status']= 'Statut';
 $_['entry_sort_order'] = 'Classement';
+$_['entry_width'] = 'Largeur';
 // Error
 $_['error_permission'] = 'Attention : vous n’avez pas l’autorisation de modifier le tableau de bord des dernières commandes !';
