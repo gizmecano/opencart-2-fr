@@ -14,6 +14,6 @@
 */ 
 
 // Text
-$_['text_footer'] = '<a href="http://www.opencart.com" target="_blank">OpenCart</a> © 2009-2016 Tous droits réservés.<br />Localisation française <a href="https://github.com/gizmecano/opencart-2-fr/releases/tag/1.6.0-beta">OpenCart-2-fr (version 1.6.0-beta)</a> © 2015-2018';
+$_['text_footer'] = '<a href="http://www.opencart.com" target="_blank">OpenCart</a> © 2009-2016 Tous droits réservés.<br />Localisation française <a href="https://github.com/gizmecano/opencart-2-fr/releases/tag/1.6.1-beta">OpenCart-2-fr (version 1.6.1-beta)</a> © 2015-2018';
 $_['text_version'] = 'Version %s';
 ?>
