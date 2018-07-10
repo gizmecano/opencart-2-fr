@@ -1,10 +1,12 @@
-# OpenCart-2-fr
+![Bannière opencart-2-fr](opencart-2-fr-banner.jpg)
+
+# opencart-2-fr
 
 [English](README.md) | Français
 
 ## Introduction
 
-OpenCart-2-fr est un pack de langue française pour la plateforme de commerce en ligne [OpenCart](http://www.opencart.com/) (version 2.x). Initié dans le cadre du projet (non-officiel) libre et gratuit [OpenCart Translation v.2](https://crowdin.com/project/opencart-translation-v2) (cf. [ce fichier](readme.txt) pour plus d'information), il rassemble des propositions de traduction pour une localisation française complète de l'interface d'administration (_backend_) ainsi que de la boutique en ligne (_frontend_).
+opencart-2-fr est un pack de langue française pour la plateforme de commerce en ligne [OpenCart](http://www.opencart.com/) (version 2.x). Initié dans le cadre du projet (non-officiel) libre et gratuit [OpenCart Translation v.2](https://crowdin.com/project/opencart-translation-v2) (cf. [ce fichier](readme.txt) pour plus d'information), il rassemble des propositions de traduction pour une localisation française complète de l'interface d'administration (_backend_) ainsi que de la boutique en ligne (_frontend_).
 
 ## Installation
 
@@ -32,7 +34,7 @@ Ensuite, il convient d'afficher le panneau de configuration d'OpenCart et de sui
 
 OpenCart version | Language pack version
 ---------------- | ----------------------------
-2.3.0.2          | [1.6.1-beta](https://github.com/gizmecano/opencart-2-fr/releases/tag/1.6.1-beta)
+2.3.0.2          | [1.6.2-beta](https://github.com/gizmecano/opencart-2-fr/releases/tag/1.6.2-beta)
 2.3.0.0 / 2.3.0.1| [1.6.0-beta](https://github.com/gizmecano/opencart-2-fr/releases/tag/1.6.0-beta)
 2.2.0.0          | [1.5.0](https://github.com/gizmecano/opencart-2-fr/releases/tag/1.5.0)
 2.1.0.1 / 2.1.0.2| [1.4.1](https://github.com/gizmecano/opencart-2-fr/releases/tag/1.4.1)
@@ -48,9 +50,13 @@ La réalisation de ce pack doit bien entendu beaucoup aux [travaux des différen
 
 Toutes suggestions ou propositions (traduction, optimisation, etc.) peuvent être considérées en ouvrant [un ticket](https://github.com/gizmecano/opencart-2-fr/issues) dans ce dépôt.
 
+## Credits
+
+Les illustrations ont été réalisées en utilisant une photographie originale de [John Towner](https://unsplash.com/@heytowner), publiée sur [Unsplash](https://unsplash.com/photos/LdYXkt5zeL0) sous [licence Unsplash](https://unsplash.com/license), et la [police de caractères Liberation Sans](https://pagure.io/liberation-fonts), publiée sous [licence SIL](http://scripts.sil.org/OFL).
+
 ## Licence
 
-OpenCart-2-fr : un pack de localisation française libre et ouvert pour la plateforme de commerce en ligne OpenCart (version 2.x)
+opencart-2-fr : un pack de localisation française libre et ouvert pour la plateforme de commerce en ligne OpenCart (version 2.x)
 
 --------------------------------------------------------------------------------
 

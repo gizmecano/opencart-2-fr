@@ -1,10 +1,12 @@
-# OpenCart-2-fr
+![opencart-2-fr banner](opencart-2-fr-banner.jpg)
+
+# opencart-2-fr
 
 English | [Français](README-fr.md)
 
 ## Introduction
 
-OpenCart-2-fr is a French language pack for the ecommerce platform [OpenCart](http://www.opencart.com/) (version 2.x). Started within the context of the (unofficial) open and free project [OpenCart Translation v.2](https://crowdin.com/project/opencart-translation-v2) (cf. [this file](readme.txt) for further details), it brings together translation proposals for a complete French localization of the administration interface (_backend_) as well as the online store (_frontend_).
+opencart-2-fr is a French language pack for the ecommerce platform [OpenCart](http://www.opencart.com/) (version 2.x). Started within the context of the (unofficial) open and free project [OpenCart Translation v.2](https://crowdin.com/project/opencart-translation-v2) (cf. [this file](readme.txt) for further details), it brings together translation proposals for a complete French localization of the administration interface (_backend_) as well as the online store (_frontend_).
 
 ## Installation
 
@@ -32,7 +34,7 @@ After that, open your OpenCart backend and follow these steps:
 
 OpenCart version | Language pack version
 ---------------- | ----------------------------
-2.3.0.2          | [1.6.1-beta](https://github.com/gizmecano/opencart-2-fr/releases/tag/1.6.1-beta)
+2.3.0.2          | [1.6.2-beta](https://github.com/gizmecano/opencart-2-fr/releases/tag/1.6.2-beta)
 2.3.0.0 / 2.3.0.1| [1.6.0-beta](https://github.com/gizmecano/opencart-2-fr/releases/tag/1.6.0-beta)
 2.2.0.0          | [1.5.0](https://github.com/gizmecano/opencart-2-fr/releases/tag/1.5.0)
 2.1.0.1 / 2.1.0.2| [1.4.1](https://github.com/gizmecano/opencart-2-fr/releases/tag/1.4.1)
@@ -48,9 +50,13 @@ The achievement of this pack owes much, of course, to [works made by various con
 
 Any suggestions or submissions (translation, optimisation, etc.) might be considered by opening [an issue](https://github.com/gizmecano/opencart-2-fr/issues) into this repository.
 
+## Credits
+
+Illustrations were composed using an original photo by [John Towner](https://unsplash.com/@heytowner), published on [Unsplash](https://unsplash.com/photos/LdYXkt5zeL0) under [Unsplash license](https://unsplash.com/license), and [Liberation Sans font](https://pagure.io/liberation-fonts), released under [SIL license](http://scripts.sil.org/OFL).
+
 ## Licence
 
-OpenCart-2-fr: a French opensource localization pack for ecommerce platform OpenCart (version 2.x)
+opencart-2-fr: a French opensource localization pack for ecommerce platform OpenCart (version 2.x)
 
 --------------------------------------------------------------------------------
 
