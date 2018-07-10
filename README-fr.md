@@ -34,7 +34,7 @@ Ensuite, il convient d'afficher le panneau de configuration d'OpenCart et de sui
 
 OpenCart version | Language pack version
 ---------------- | ----------------------------
-2.3.0.2          | [1.6.1-beta](https://github.com/gizmecano/opencart-2-fr/releases/tag/1.6.1-beta)
+2.3.0.2          | [1.6.2-beta](https://github.com/gizmecano/opencart-2-fr/releases/tag/1.6.2-beta)
 2.3.0.0 / 2.3.0.1| [1.6.0-beta](https://github.com/gizmecano/opencart-2-fr/releases/tag/1.6.0-beta)
 2.2.0.0          | [1.5.0](https://github.com/gizmecano/opencart-2-fr/releases/tag/1.5.0)
 2.1.0.1 / 2.1.0.2| [1.4.1](https://github.com/gizmecano/opencart-2-fr/releases/tag/1.4.1)
