@@ -1,3 +1,5 @@
+**This project is no longer maintained and can be considered as deprecated. It is superseded by [opencart-3-fr](https://github.com/gizmecano/opencart-3-fr), a completely revamped French language pack (available for OpenCart from version 3.0.2.0).**
+
 ![opencart-2-fr banner](opencart-2-fr-banner.jpg)
 
 # opencart-2-fr
